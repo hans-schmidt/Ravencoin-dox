@@ -1,0 +1,7 @@
+<map id="CWalletDBWrapper::IsDummy" name="CWalletDBWrapper::IsDummy">
+<area shape="rect" id="node2" href="$class_c_d_b.html#ad31ec9da2d902b6486f1f3fba0c11362" title="CDB::CDB" alt="" coords="281,5,369,32"/>
+<area shape="rect" id="node3" href="$class_c_d_b.html#aeb3bc2ee8657b51f1d844b9f8320929d" title="CDB::Rewrite" alt="" coords="273,56,377,83"/>
+<area shape="rect" id="node6" href="$class_c_d_b.html#a6f15db23c7ad577023ca1bb66fd8cc9b" title="CDB::PeriodicFlush" alt="" coords="256,107,395,133"/>
+<area shape="rect" id="node4" href="$class_c_wallet_d_b_wrapper.html#afa0fb423fa37ea30660c0ae3dbd9d40d" title="Rewrite the entire database on disk, with the exception of key pszSkip if non&#45;zero. " alt="" coords="443,27,634,53"/>
+<area shape="rect" id="node5" href="$class_c_wallet_d_b_wrapper.html#ab8036e4ace0d2937a75c02c1f8bf3a06" title="Create DB handle to real database. " alt="" coords="443,78,635,119"/>
+</map>

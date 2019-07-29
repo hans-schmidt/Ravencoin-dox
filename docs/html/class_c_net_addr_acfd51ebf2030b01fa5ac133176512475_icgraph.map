@@ -1,0 +1,42 @@
+<map id="CNetAddr::GetByte" name="CNetAddr::GetByte">
+<area shape="rect" id="node2" href="$class_c_net_addr.html#a6c6d7376d8d0ae4c7cb0893add58069f" title="CNetAddr::IsRFC1918" alt="" coords="189,487,344,513"/>
+<area shape="rect" id="node22" href="$class_c_net_addr.html#acd1138ebc48eb28055a49e5ffe8ebc31" title="CNetAddr::IsRFC2544" alt="" coords="189,537,344,564"/>
+<area shape="rect" id="node23" href="$class_c_net_addr.html#af75408b0ae05d1e7d3931b80b65a70c4" title="CNetAddr::IsRFC3927" alt="" coords="189,81,344,108"/>
+<area shape="rect" id="node24" href="$class_c_net_addr.html#a6a9595f10a7cb4518d9d577075eee57f" title="CNetAddr::IsRFC6598" alt="" coords="189,132,344,159"/>
+<area shape="rect" id="node25" href="$class_c_net_addr.html#a5a3b09eb486dede48cb9427a9a0ed2e2" title="CNetAddr::IsRFC5737" alt="" coords="189,183,344,209"/>
+<area shape="rect" id="node26" href="$class_c_net_addr.html#a7bf8bc283323c0cd9be42f921469c90f" title="CNetAddr::IsRFC3849" alt="" coords="189,335,344,361"/>
+<area shape="rect" id="node27" href="$class_c_net_addr.html#ae0fcf758a607567f06cb966426289cd6" title="CNetAddr::IsRFC3964" alt="" coords="189,385,344,412"/>
+<area shape="rect" id="node28" href="$class_c_net_addr.html#aec91b10228b37eb9bd67dec322730492" title="CNetAddr::IsRFC4380" alt="" coords="189,436,344,463"/>
+<area shape="rect" id="node29" href="$class_c_net_addr.html#ac2eb12a3f11d9f54fa7c5072bf065d1c" title="CNetAddr::IsRFC4193" alt="" coords="189,233,344,260"/>
+<area shape="rect" id="node30" href="$class_c_net_addr.html#af9286890842869ccc5f6fb82ce316ede" title="CNetAddr::IsRFC4843" alt="" coords="189,284,344,311"/>
+<area shape="rect" id="node31" href="$class_c_net_addr.html#a857bfcf95814b7d6ef4db309c84f179d" title="CNetAddr::IsLocal" alt="" coords="201,588,332,615"/>
+<area shape="rect" id="node3" href="$class_c_net_addr.html#a4e3b2fea2a6151c76684b3812df4a5c3" title="CNetAddr::IsRoutable" alt="" coords="392,233,543,260"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="877,613,1000,640"/>
+<area shape="rect" id="node5" href="$net_8h.html#a058b75c6fcc94a0643184c237ad6de93" title="IsPeerAddrLocalGood" alt="" coords="864,157,1013,184"/>
+<area shape="rect" id="node6" href="$net_8h.html#a0cde2b3256757536c42c0bd3037847d1" title="AdvertiseLocal" alt="" coords="1143,183,1251,209"/>
+<area shape="rect" id="node7" href="$net_8h.html#a337d6af198a6b0d75f830e56da9b91e9" title="AddLocal" alt="" coords="658,284,734,311"/>
+<area shape="rect" id="node13" href="$class_c_net_addr.html#ad0162f2629f552a65acf934e1629c1db" title="CNetAddr::GetNetwork" alt="" coords="617,81,775,108"/>
+<area shape="rect" id="node21" href="$class_c_net_addr.html#ac68e7eb7b10cbb18b2b8af027fa4b97a" title="Calculates a metric for how reachable (*this) is from a given partner. " alt="" coords="591,183,801,209"/>
+<area shape="rect" id="node8" href="$net_8h.html#abda4e8f87772f9a9d9d8f52a93791ffc" title="AddLocal" alt="" coords="901,259,977,285"/>
+<area shape="rect" id="node9" href="$class_c_connman.html#a999ec42f1515f77096556c94c29c6538" title="CConnman::WakeMessageHandler" alt="" coords="1367,193,1595,220"/>
+<area shape="rect" id="node12" href="$net_8h.html#a8316da05a5f15022dce5d0c2f82001fc" title="Discover" alt="" coords="901,360,976,387"/>
+<area shape="rect" id="node10" href="$class_c_connman.html#a765597cbfe99c083d8fa3d61bb464e34" title="CConnman::ThreadSocketHandler" alt="" coords="1651,172,1874,199"/>
+<area shape="rect" id="node11" href="$class_c_connman.html#aa4709e5604e0f4369dada0a211493565" title="CConnman::Start" alt="" coords="1931,105,2055,132"/>
+<area shape="rect" id="node14" href="$net_8h.html#a7f5f5a0bf934e49c7137ee4aa6eb8732" title="IsLimited" alt="" coords="901,56,976,83"/>
+<area shape="rect" id="node15" href="$net_8h.html#a0eb7db987ad1a1bf139d0cd46873ed29" title="check whether a given address is in a network we can probably connect to " alt="" coords="891,107,986,133"/>
+<area shape="rect" id="node16" href="$class_c_connman.html#ac810542ffa683d5dde5e5524b5ce2e4e" title="CConnman::ConnectNode" alt="" coords="851,5,1027,32"/>
+<area shape="rect" id="node17" href="$class_c_connman.html#a3bd6aed18096f954c24c80b32c876da5" title="CConnman::OpenNetworkConnection" alt="" coords="1076,56,1319,83"/>
+<area shape="rect" id="node18" href="$class_c_connman.html#a161f1b41271db1a10cec61a825524b5d" title="CConnman::ProcessOneShot" alt="" coords="1383,132,1578,159"/>
+<area shape="rect" id="node19" href="$class_c_connman.html#ac4c8cf5142f88565e789f3b173d89b3e" title="CConnman::ThreadOpenConnections" alt="" coords="1643,105,1883,132"/>
+<area shape="rect" id="node20" href="$class_c_connman.html#a0b787caf95e52a346a2b31a580d60a62" title="CConnman::ThreadOpenAdded\lConnections" alt="" coords="1661,31,1865,73"/>
+<area shape="rect" id="node32" href="$class_c_net_addr.html#a6f8211515f809f6972ce327433d41458" title="CNetAddr::GetGroup" alt="" coords="395,588,539,615"/>
+<area shape="rect" id="node33" href="$class_c_addr_info.html#a11e2712f11c0d92c75976e90f2c5003e" title="Calculate in which &quot;tried&quot; bucket this entry belongs. " alt="" coords="606,487,786,513"/>
+<area shape="rect" id="node39" href="$class_c_addr_info.html#ae4459cd7719834bbcf77874757c6875e" title="Calculate in which &quot;new&quot; bucket this entry belongs, given a certain source. " alt="" coords="607,588,785,615"/>
+<area shape="rect" id="node41" href="$class_c_connman.html#aaddc98400cec25d36460a45bf6fbaabf" title="CConnman::CalculateKeyed\lNetGroup" alt="" coords="602,639,790,681"/>
+<area shape="rect" id="node34" href="$class_c_addr_man.html#a98e8383efb48b7c2932795438f35a10a" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="862,461,1015,488"/>
+<area shape="rect" id="node35" href="$class_c_addr_man.html#a27e51ef4fe86db1ff5a5e45caefc1ef4" title="Select an address to connect to, if newOnly is set to true, only the new table is selected from..." alt="" coords="1129,512,1265,539"/>
+<area shape="rect" id="node36" href="$class_c_addr_info.html#ae14c3a91bb669e5580be1d3767264187" title="CAddrInfo::CAddrInfo" alt="" coords="865,563,1013,589"/>
+<area shape="rect" id="node38" href="$class_c_addr_man.html#a94c76a39ab311deb9e7b810e01b664ce" title="CAddrMan::Unserialize" alt="" coords="860,411,1017,437"/>
+<area shape="rect" id="node37" href="$class_c_addr_man.html#af5d1e15be40f1d6bfa3e614730e46a04" title="find an entry, creating it if necessary. " alt="" coords="1132,563,1263,589"/>
+<area shape="rect" id="node40" href="$class_c_addr_info.html#a04ac79764971242edce1e82aefb2aea0" title="Calculate in which &quot;new&quot; bucket this entry belongs, using its default source. " alt="" coords="849,664,1028,691"/>
+</map>

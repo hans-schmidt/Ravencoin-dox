@@ -1,0 +1,4 @@
+<map id="CDB::Rewrite" name="CDB::Rewrite">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b_wrapper.html#afa0fb423fa37ea30660c0ae3dbd9d40d" title="Rewrite the entire database on disk, with the exception of key pszSkip if non&#45;zero. " alt="" coords="158,5,349,32"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b_wrapper.html#ab8036e4ace0d2937a75c02c1f8bf3a06" title="Create DB handle to real database. " alt="" coords="157,57,349,98"/>
+</map>

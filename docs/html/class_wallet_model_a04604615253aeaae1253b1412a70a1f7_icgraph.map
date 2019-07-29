@@ -1,0 +1,12 @@
+<map id="WalletModel::validateAddress" name="WalletModel::validateAddress">
+<area shape="rect" id="node2" href="$class_address_table_model.html#aa72edd2a093a6e9318639d69d3a23488" title="AddressTableModel::\laddRow" alt="" coords="282,71,427,112"/>
+<area shape="rect" id="node7" href="$class_send_assets_entry.html#aa9294e7c8c528e1971305d86b1c65558" title="SendAssetsEntry::validate" alt="" coords="266,143,443,170"/>
+<area shape="rect" id="node9" href="$class_send_coins_entry.html#ab77df95fe77e9a001190cd4dabe0dfec" title="SendCoinsEntry::validate" alt="" coords="269,194,440,221"/>
+<area shape="rect" id="node11" href="$class_wallet_model.html#aa56ac200db13d7121cedb40ebd43ba2f" title="WalletModel::prepareTransaction" alt="" coords="248,245,461,271"/>
+<area shape="rect" id="node3" href="$class_edit_address_dialog.html#a8494a551799cd1f4c253e557424c206c" title="EditAddressDialog::\lsaveCurrentRow" alt="" coords="537,5,676,47"/>
+<area shape="rect" id="node5" href="$class_receive_coins_dialog.html#a9db8de31f6889288cb22c061aa51e0cd" title="ReceiveCoinsDialog\l::on_receiveButton_clicked" alt="" coords="517,71,696,112"/>
+<area shape="rect" id="node4" href="$class_edit_address_dialog.html#ac52b71129806bccf6533d0e9441393b6" title="EditAddressDialog::\laccept" alt="" coords="753,5,892,47"/>
+<area shape="rect" id="node6" href="$class_receive_coins_dialog.html#abcf17b510c473bf3e94ef12f7f5cfc10" title="ReceiveCoinsDialog\l::keyPressEvent" alt="" coords="752,71,893,112"/>
+<area shape="rect" id="node8" href="$class_assets_dialog.html#a72ea3a7ceb18986cfed5f3654c61eebe" title="AssetsDialog::on_sendButton\l_clicked" alt="" coords="509,136,704,177"/>
+<area shape="rect" id="node10" href="$class_send_coins_dialog.html#a2cab7cf9ea5040b9e2189297f7d3c764" title="SendCoinsDialog::on\l_sendButton_clicked" alt="" coords="534,201,679,243"/>
+</map>

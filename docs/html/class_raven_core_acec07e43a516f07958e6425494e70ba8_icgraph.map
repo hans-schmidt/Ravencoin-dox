@@ -1,0 +1,7 @@
+<map id="RavenCore::runawayException" name="RavenCore::runawayException">
+<area shape="rect" id="node2" href="$class_raven_core.html#aa9e30d6447d40d2b79c77ecea6cef516" title="Pass fatal exception message to UI thread. " alt="" coords="256,89,445,131"/>
+<area shape="rect" id="node3" href="$class_raven_application.html#a6d5f30ca1a974638fe5b91f52f4f101f" title="RavenApplication::getOptions\lModel" alt="" coords="493,5,688,47"/>
+<area shape="rect" id="node4" href="$class_raven_core.html#ad8824da7414b72f26061a1e914d66b59" title="RavenCore::initialize" alt="" coords="519,71,662,98"/>
+<area shape="rect" id="node5" href="$class_raven_core.html#ab35cedbe16324f62d058e964b03cac69" title="RavenCore::restart" alt="" coords="524,122,657,149"/>
+<area shape="rect" id="node6" href="$class_raven_core.html#a0b62b17932fa72d2ac40d4d81b2a432d" title="RavenCore::shutdown" alt="" coords="515,173,667,199"/>
+</map>

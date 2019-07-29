@@ -1,0 +1,51 @@
+<map id="estimatefee" name="estimatefee">
+<area shape="rect" id="node2" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="402,580,509,607"/>
+<area shape="rect" id="node3" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="174,479,290,505"/>
+<area shape="rect" id="node4" href="$server_8cpp.html#a009fe8e9bab18fcd23b9c273157d182f" title="IsDeprecatedRPCEnabled" alt="" coords="144,428,320,455"/>
+<area shape="rect" id="node6" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="621,529,735,556"/>
+<area shape="rect" id="node32" href="$server_8cpp.html#aa0f3db2ba3aceee37d0ab9448e2aabc4" title="Type&#45;check arguments; throws JSONRPCError if wrong type given. " alt="" coords="173,631,291,657"/>
+<area shape="rect" id="node38" href="$class_uni_value.html#af45edc6e67eaa6d1f271ce18e435a376" title="UniValue::get_int" alt="" coords="171,732,293,759"/>
+<area shape="rect" id="node41" href="$class_c_block_policy_estimator.html#afc9f48173aaac7ca0cd2460d4ed348f6" title="DEPRECATED. " alt="" coords="153,809,311,850"/>
+<area shape="rect" id="node46" href="$core__io_8h.html#abc2098ba1668716081af5f153e059569" title="ValueFromAmount" alt="" coords="167,900,297,927"/>
+<area shape="rect" id="node49" href="$class_c_fee_rate.html#ac772be79983433d442d6b871d2fb6e11" title="Return the fee in satoshis for a size of 1000 bytes. " alt="" coords="151,976,313,1003"/>
+<area shape="rect" id="node5" href="$class_args_manager.html#a3e1f493f816858124c942e8ee29e615d" title="Return a vector of strings of the given argument. " alt="" coords="378,428,533,455"/>
+<area shape="rect" id="node7" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="900,461,948,488"/>
+<area shape="rect" id="node31" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="851,529,997,556"/>
+<area shape="rect" id="node8" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="1122,56,1209,83"/>
+<area shape="rect" id="node9" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="1103,107,1228,133"/>
+<area shape="rect" id="node12" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="1086,157,1245,184"/>
+<area shape="rect" id="node13" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="1121,208,1210,235"/>
+<area shape="rect" id="node14" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="1118,259,1213,285"/>
+<area shape="rect" id="node15" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="1083,309,1248,336"/>
+<area shape="rect" id="node16" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="1101,360,1229,387"/>
+<area shape="rect" id="node17" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="1116,411,1215,437"/>
+<area shape="rect" id="node18" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="1094,461,1237,488"/>
+<area shape="rect" id="node19" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="1100,512,1231,539"/>
+<area shape="rect" id="node20" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="1121,563,1209,589"/>
+<area shape="rect" id="node21" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="1099,613,1232,640"/>
+<area shape="rect" id="node22" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="1114,715,1217,741"/>
+<area shape="rect" id="node24" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="1124,664,1207,691"/>
+<area shape="rect" id="node26" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="1115,867,1216,893"/>
+<area shape="rect" id="node28" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="1109,816,1221,843"/>
+<area shape="rect" id="node29" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="1106,765,1225,792"/>
+<area shape="rect" id="node30" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="1115,5,1215,32"/>
+<area shape="rect" id="node10" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1321,132,1453,159"/>
+<area shape="rect" id="node11" href="$namespacetinyformat.html#a37afaa5249c69dacd619269358f06f69" title="Make type&#45;agnostic format list from list of template arguments. " alt="" coords="1296,81,1479,108"/>
+<area shape="rect" id="node23" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="1343,715,1431,741"/>
+<area shape="rect" id="node25" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="1313,664,1461,691"/>
+<area shape="rect" id="node27" href="$namespacefsbridge.html#a19c84cec4ae9accfbc88a83e48f7ee92" title="fsbridge::fopen" alt="" coords="1333,816,1441,843"/>
+<area shape="rect" id="node33" href="$class_uni_value.html#a3661be0f5580daceb23e5338e3a0df22" title="UniValue::isNull" alt="" coords="397,681,513,708"/>
+<area shape="rect" id="node34" href="$server_8cpp.html#a6b4a0edf71c20a4d80f01b3f01924b64" title="Type&#45;check one argument; throws JSONRPCError if wrong type given. " alt="" coords="368,631,543,657"/>
+<area shape="rect" id="node35" href="$class_uni_value.html#a5b33bfd4be1574e610eee5a7cdae77d1" title="UniValue::type" alt="" coords="624,656,732,683"/>
+<area shape="rect" id="node37" href="$univalue_8h.html#aa037153cdbc98dd3683ff1918dc70932" title="uvTypeName" alt="" coords="628,605,728,632"/>
+<area shape="rect" id="node36" href="$class_uni_value.html#a2dbc9c5aa9d209338b0bef650f3d1987" title="UniValue::getType" alt="" coords="859,656,989,683"/>
+<area shape="rect" id="node39" href="$utilstrencodings_8cpp.html#a880a215d9e931432b095084c756a49bb" title="Convert string to signed 32&#45;bit integer with strict parse error feedback. " alt="" coords="413,783,498,809"/>
+<area shape="rect" id="node40" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="387,732,524,759"/>
+<area shape="rect" id="node42" href="$class_c_block_policy_estimator.html#a400d3f4527bfe31a2609ba59470a6140" title="Return a specific fee estimate calculation with a given success threshold and time horizon..." alt="" coords="377,834,534,875"/>
+<area shape="rect" id="node43" href="$class_tx_confirm_stats.html#a34b67526e2ceea1b81d8669e3faf6a42" title="Return the max number of confirms we&#39;re tracking. " alt="" coords="813,900,1035,927"/>
+<area shape="rect" id="node45" href="$class_tx_confirm_stats.html#aace5d830fdfac5626e7769dee5fe6f11" title="Calculate a feerate estimate. " alt="" coords="591,893,765,934"/>
+<area shape="rect" id="node44" href="$class_tx_confirm_stats.html#a8aacab502acae6b278ede7c68c168dc8" title="Write state of estimation data to a file. " alt="" coords="1089,917,1242,944"/>
+<area shape="rect" id="node47" href="$class_uni_value.html#aa554610302e7e028dcdc78dcdf87d410" title="UniValue::UniValue" alt="" coords="387,951,523,977"/>
+<area shape="rect" id="node48" href="$core__write_8cpp.html#adf3de7349a7c8d2c30da429c92e4c881" title="ValueFromAmountString" alt="" coords="373,900,537,927"/>
+<area shape="rect" id="node50" href="$class_c_fee_rate.html#a1173705aceba99303d6485d1c2f3f9a8" title="Return the fee in satoshis for the given size in bytes. " alt="" coords="389,1001,522,1028"/>
+</map>

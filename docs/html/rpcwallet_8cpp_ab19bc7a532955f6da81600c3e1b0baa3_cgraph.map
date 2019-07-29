@@ -1,0 +1,51 @@
+<map id="GetAccountAddress" name="GetAccountAddress">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5f7245634960710d25795021dee8109d" title="CWallet::GetAccountPubkey" alt="" coords="192,132,383,159"/>
+<area shape="rect" id="node9" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="457,208,579,235"/>
+<area shape="rect" id="node21" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="230,715,345,741"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#afa8d9d374072629b360adb49b9bdd584" title="CWalletDB::ReadAccount" alt="" coords="431,56,605,83"/>
+<area shape="rect" id="node6" href="$class_c_pub_key.html#a4fa94293cf8577fd039b9a133f6c7f30" title="CPubKey::IsValid" alt="" coords="455,157,581,184"/>
+<area shape="rect" id="node8" href="$standard_8cpp.html#ae40f28d3b46c21033f6ee1f1200d0321" title="Generate a Raven scriptPubKey for the given CTxDestination. " alt="" coords="437,5,599,32"/>
+<area shape="rect" id="node19" href="$class_c_wallet_d_b.html#afef640a4990f74fd5af7178c99415cf3" title="CWalletDB::WriteAccount" alt="" coords="431,107,605,133"/>
+<area shape="rect" id="node4" href="$class_c_account.html#ac63a4127fd899a21a5916a86588e809a" title="CAccount::SetNull" alt="" coords="671,5,801,32"/>
+<area shape="rect" id="node5" href="$class_c_d_b.html#adfd2c079df629d5f7cac0ca923ffd698" title="CDB::Read" alt="" coords="691,56,781,83"/>
+<area shape="rect" id="node7" href="$classbase__blob.html#a00e7426a5d1ada51c635debf85f5a810" title="base_blob\&lt; 160 \&gt;::size" alt="" coords="657,157,815,184"/>
+<area shape="rect" id="node10" href="$class_c_key_i_d.html#a01dbd3c37820a2ffe89d106c6a7cf53d" title="CKeyID::CKeyID" alt="" coords="674,259,798,285"/>
+<area shape="rect" id="node11" href="$hash_8h.html#a4490f70ddae16e9e48460a0416a48a6b" title="Compute the 160&#45;bit hash an object. " alt="" coords="699,208,773,235"/>
+<area shape="rect" id="node12" href="$class_c_hash160.html#af56cdd9443013eb68b246aa8450217f2" title="CHash160::Write" alt="" coords="897,183,1019,209"/>
+<area shape="rect" id="node15" href="$class_c_hash160.html#a9bb08e1772002ae1a5d85017ba7952ee" title="CHash160::Finalize" alt="" coords="889,259,1027,285"/>
+<area shape="rect" id="node13" href="$class_c_s_h_a256.html#a9d7de520a562655da85349372820c883" title="CSHA256::Write" alt="" coords="1117,183,1237,209"/>
+<area shape="rect" id="node14" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1354,208,1426,235"/>
+<area shape="rect" id="node16" href="$class_c_s_h_a256.html#a4259230be0caefa590bc324fc12b9b90" title="CSHA256::Finalize" alt="" coords="1109,284,1244,311"/>
+<area shape="rect" id="node17" href="$class_c_r_i_p_e_m_d160.html#a221143b9d94af623d07c4f4ba1bf6007" title="CRIPEMD160::Write" alt="" coords="1104,233,1249,260"/>
+<area shape="rect" id="node18" href="$class_c_r_i_p_e_m_d160.html#a2a11566fbf9d1339b819833313fc4e51" title="CRIPEMD160::Finalize" alt="" coords="1097,335,1256,361"/>
+<area shape="rect" id="node20" href="$class_c_wallet_d_b.html#a33ec32231db801e91a98afb26acf3e6a" title="CWalletDB::WriteIC" alt="" coords="665,107,807,133"/>
+<area shape="rect" id="node22" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="494,715,542,741"/>
+<area shape="rect" id="node50" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="445,765,591,792"/>
+<area shape="rect" id="node23" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="693,917,779,944"/>
+<area shape="rect" id="node24" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="673,968,799,995"/>
+<area shape="rect" id="node31" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="657,1019,815,1045"/>
+<area shape="rect" id="node32" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="691,1069,781,1096"/>
+<area shape="rect" id="node33" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="689,1120,783,1147"/>
+<area shape="rect" id="node34" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="653,1171,819,1197"/>
+<area shape="rect" id="node35" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="672,309,800,336"/>
+<area shape="rect" id="node36" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="687,360,785,387"/>
+<area shape="rect" id="node37" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="665,411,807,437"/>
+<area shape="rect" id="node38" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="671,461,801,488"/>
+<area shape="rect" id="node39" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="692,512,780,539"/>
+<area shape="rect" id="node40" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="669,563,803,589"/>
+<area shape="rect" id="node41" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="685,664,787,691"/>
+<area shape="rect" id="node43" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="695,613,777,640"/>
+<area shape="rect" id="node45" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="685,765,787,792"/>
+<area shape="rect" id="node47" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="680,816,792,843"/>
+<area shape="rect" id="node48" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="677,715,795,741"/>
+<area shape="rect" id="node49" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="686,867,786,893"/>
+<area shape="rect" id="node25" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="892,993,1024,1020"/>
+<area shape="rect" id="node30" href="$namespacetinyformat.html#a37afaa5249c69dacd619269358f06f69" title="Make type&#45;agnostic format list from list of template arguments. " alt="" coords="867,943,1049,969"/>
+<area shape="rect" id="node26" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="1117,986,1236,1027"/>
+<area shape="rect" id="node27" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1307,1051,1473,1093"/>
+<area shape="rect" id="node28" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1304,921,1476,962"/>
+<area shape="rect" id="node29" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1322,986,1458,1027"/>
+<area shape="rect" id="node42" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="914,664,1002,691"/>
+<area shape="rect" id="node44" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="884,613,1032,640"/>
+<area shape="rect" id="node46" href="$namespacefsbridge.html#a19c84cec4ae9accfbc88a83e48f7ee92" title="fsbridge::fopen" alt="" coords="904,740,1012,767"/>
+</map>

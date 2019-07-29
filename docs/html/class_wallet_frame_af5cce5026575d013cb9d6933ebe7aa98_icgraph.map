@@ -1,0 +1,5 @@
+<map id="WalletFrame::gotoVerifyMessageTab" name="WalletFrame::gotoVerifyMessageTab">
+<area shape="rect" id="node2" href="$class_raven_g_u_i.html#ae7206842e6ed9672aad4da7dc841f5f1" title="Show help message dialog. " alt="" coords="292,5,495,47"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="543,13,715,39"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="763,13,917,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ScriptNewAsset" name="ScriptNewAsset">
+<area shape="rect" id="node2" href="$script_8h.html#a316c79deed92779e782b4bd7a73b532b" title="AmountFromNewAssetScript" alt="" coords="171,56,363,83"/>
+<area shape="rect" id="node4" href="$class_c_reserve_script.html#a9adba723b91ee92c62d88b120c71e8dd" title="CReserveScript::~CReserve\lScript" alt="" coords="645,49,836,90"/>
+<area shape="rect" id="node3" href="$script_8h.html#a740e5dd842489c18bb405131dfe8f206" title="These are needed because script.h and script.cpp do not have access to asset.h and asset..." alt="" coords="411,5,597,32"/>
+</map>

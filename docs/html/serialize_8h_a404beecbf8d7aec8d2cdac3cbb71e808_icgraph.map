@@ -1,0 +1,11 @@
+<map id="GetSizeOfCompactSize" name="GetSizeOfCompactSize">
+<area shape="rect" id="node2" href="$serialize_8h.html#aff862d80e345fc18ed8a3e0b3a0ce528" title="WriteCompactSize" alt="" coords="216,132,348,159"/>
+<area shape="rect" id="node3" href="$struct_c_ext_key.html#a8dd703c3282bdeb6adbc7fc7e65eddb5" title="CExtKey::Serialize" alt="" coords="407,5,541,32"/>
+<area shape="rect" id="node4" href="$class_c_pub_key.html#a88b755b401263dc7b12d863f7703d56b" title="Implement serialization, as if this was a byte vector. " alt="" coords="406,56,542,83"/>
+<area shape="rect" id="node5" href="$struct_c_ext_pub_key.html#a643b4974e037c2b4154210802d6d0bef" title="CExtPubKey::Serialize" alt="" coords="396,107,552,133"/>
+<area shape="rect" id="node6" href="$class_limited_string.html#a48b15a808820d1fb29759d390414d4b1" title="LimitedString::Serialize" alt="" coords="396,157,552,184"/>
+<area shape="rect" id="node7" href="$serialize_8h.html#aec781a8385ba6989984757a15b45aac5" title="Forward declarations. " alt="" coords="438,208,510,235"/>
+<area shape="rect" id="node8" href="$serialize_8h.html#a5f8f6e82f0b5e6bd182441352f5153cd" title="prevector prevectors of unsigned char are a special case and are intended to be serialized as a singl..." alt="" coords="423,259,525,285"/>
+<area shape="rect" id="node9" href="$serialize_8h.html#a5748d9d17982b234b10a4b9e6f8e9f53" title="WrapVarInt" alt="" coords="600,233,688,260"/>
+<area shape="rect" id="node10" href="$serialize_8h.html#a9d2c702de5faf93aa7b0500c8e14657d" title="Serialize" alt="" coords="608,284,680,311"/>
+</map>

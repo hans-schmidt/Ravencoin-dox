@@ -1,0 +1,6 @@
+<map id="CTxMemPool::removeUnchecked" name="CTxMemPool::removeUnchecked">
+<area shape="rect" id="node2" href="$classindirectmap.html#aa9fab0aa904e60fe8abb4867c7dc3ccd" title="indirectmap::erase" alt="" coords="317,5,446,32"/>
+<area shape="rect" id="node3" href="$class_c_block_policy_estimator.html#a7ee67e2a7b6a0a642526a14f7799c075" title="Remove a transaction from the mempool tracking stats. " alt="" coords="303,57,460,98"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#a347e70ba792d5738158536b513f56aa5" title="CTxMemPool::removeAddress\lIndex" alt="" coords="281,122,482,163"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#af9da5a96517cbc52516da1552f834685" title="CTxMemPool::removeSpentIndex" alt="" coords="272,188,491,215"/>
+</map>

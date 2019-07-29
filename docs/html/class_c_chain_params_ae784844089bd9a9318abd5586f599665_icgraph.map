@@ -1,0 +1,5 @@
+<map id="CChainParams::IssueRestrictedAssetBurnAmount" name="CChainParams::IssueRestrictedAssetBurnAmount">
+<area shape="rect" id="node2" href="$assets_8h.html#a69a6cfe54b552b330459e0e8d4163000" title="GetIssueRestrictedAssetBurn\lAmount" alt="" coords="264,23,460,65"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a7b00531a831520d94381648ee9ff8622" title="GetBurnAmount" alt="" coords="508,5,623,32"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="671,31,877,57"/>
+</map>

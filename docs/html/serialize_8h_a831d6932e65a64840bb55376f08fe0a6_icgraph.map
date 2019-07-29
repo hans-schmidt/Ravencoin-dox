@@ -1,0 +1,20 @@
+<map id="Unserialize" name="Unserialize">
+<area shape="rect" id="node2" href="$struct_c_block_asset_undo.html#a5794d503b48a085170c384cc2ad6953a" title="CBlockAssetUndo::SerializationOp" alt="" coords="140,5,367,32"/>
+<area shape="rect" id="node3" href="$assettypes_8h.html#a859197bdbf37821c24b52f3433e9caa3" title="ReadWriteAssetHash" alt="" coords="179,56,328,83"/>
+<area shape="rect" id="node5" href="$class_c_asset_transfer.html#aec0e05b65f8e975a1b5aa3691419ad8e" title="CAssetTransfer::SerializationOp" alt="" coords="415,107,625,133"/>
+<area shape="rect" id="node7" href="$class_c_message.html#a95ce3a4d8dd77a361145e7dcbac9e61d" title="CMessage::SerializationOp" alt="" coords="163,157,344,184"/>
+<area shape="rect" id="node8" href="$class_c_hash_verifier.html#a8aa7c2e016419a36ef07d6094e72876a" title="CHashVerifier::operator\&gt;\&gt;" alt="" coords="166,208,341,235"/>
+<area shape="rect" id="node9" href="$struct_c_mutable_transaction.html#ac7c9d996b034a789f70309f1c240a64f" title="CMutableTransaction\l::CMutableTransaction" alt="" coords="176,259,331,301"/>
+<area shape="rect" id="node10" href="$serialize_8h.html#a5748d9d17982b234b10a4b9e6f8e9f53" title="WrapVarInt" alt="" coords="209,325,297,352"/>
+<area shape="rect" id="node11" href="$serialize_8h.html#a9dda3397ae27b0586200c5fa9293fa03" title="Unserialize_impl" alt="" coords="194,376,313,403"/>
+<area shape="rect" id="node12" href="$serialize_8h.html#a9899687a6e78dfad6ea1c099053afbd6" title="Unserialize" alt="" coords="210,427,297,453"/>
+<area shape="rect" id="node13" href="$serialize_8h.html#af025c0c8666e67f6b03f773c01a16d39" title="SerReadWrite" alt="" coords="201,477,305,504"/>
+<area shape="rect" id="node14" href="$serialize_8h.html#a1e396f5f5f5572081e36acef029c7fb9" title="UnserializeMany" alt="" coords="194,528,313,555"/>
+<area shape="rect" id="node15" href="$class_override_stream.html#a6a4b843eee33a00d9ae149e8a924f9b7" title="OverrideStream::operator\&gt;\&gt;" alt="" coords="161,579,345,605"/>
+<area shape="rect" id="node16" href="$class_c_data_stream.html#ac80cfc65569416f8c23e328edb4cadae" title="CDataStream::operator\&gt;\&gt;" alt="" coords="167,629,340,656"/>
+<area shape="rect" id="node17" href="$class_c_auto_file.html#ae6826219322626d2ac8229e022c41dd7" title="CAutoFile::operator\&gt;\&gt;" alt="" coords="178,680,329,707"/>
+<area shape="rect" id="node18" href="$class_c_buffered_file.html#ab570d5f1a173a41100e7b42b4aacbbc5" title="CBufferedFile::operator\&gt;\&gt;" alt="" coords="167,731,340,757"/>
+<area shape="rect" id="node19" href="$class_tx_in_undo_deserializer.html#ad98b7c5d0710ed3ef0fb7d62ae412c98" title="TxInUndoDeserializer\l::Unserialize" alt="" coords="179,782,327,823"/>
+<area shape="rect" id="node4" href="$class_c_new_asset.html#a1425451c7a7d9c0fd1e562f4e7770c73" title="CNewAsset::SerializationOp" alt="" coords="425,5,615,32"/>
+<area shape="rect" id="node6" href="$class_c_reissue_asset.html#a7de592e70b300413f2e5bb34488a8715" title="CReissueAsset::SerializationOp" alt="" coords="415,56,625,83"/>
+</map>

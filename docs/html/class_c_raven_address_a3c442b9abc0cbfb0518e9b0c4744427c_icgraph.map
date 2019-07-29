@@ -1,0 +1,51 @@
+<map id="CRavenAddress::IsValid" name="CRavenAddress::IsValid">
+<area shape="rect" id="node2" href="$base58_8h.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="235,1044,367,1071"/>
+<area shape="rect" id="node47" href="$base58_8h.html#a32169f8eb6ebcce6412b675f9d23d878" title="IsValidDestinationString" alt="" coords="220,2120,383,2147"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="456,613,624,640"/>
+<area shape="rect" id="node7" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="765,701,844,728"/>
+<area shape="rect" id="node8" href="$assets_8h.html#ac6674dacd80ef7a86fa9d3b5cdc188a6" title="AssetFromScript" alt="" coords="480,664,600,691"/>
+<area shape="rect" id="node9" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="733,841,877,868"/>
+<area shape="rect" id="node10" href="$assets_8h.html#ad68c15cb9705f979a469cb2f9bca297d" title="MsgChannelAssetFromScript" alt="" coords="443,208,637,235"/>
+<area shape="rect" id="node11" href="$assets_8h.html#a8a351ca76c72c36f9779f6b66ee574d7" title="QualifierAssetFromScript" alt="" coords="456,563,624,589"/>
+<area shape="rect" id="node12" href="$assets_8h.html#a1371a34eb57ee41b4478f4c682506861" title="RestrictedAssetFromScript" alt="" coords="450,816,630,843"/>
+<area shape="rect" id="node13" href="$assets_8h.html#aeb621c6bc4f2815a9c8f0aebdf0a397b" title="OwnerAssetFromScript" alt="" coords="461,867,619,893"/>
+<area shape="rect" id="node14" href="$assets_8h.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="456,968,624,995"/>
+<area shape="rect" id="node15" href="$assets_8h.html#a818c53c297f28619f6d8bfd1dff63748" title="AssetNullDataFromScript" alt="" coords="455,765,625,792"/>
+<area shape="rect" id="node16" href="$assets_8h.html#a7652928e0004b0ac4a096b39c2add5f7" title="Check to make sure the script contains the burn transaction. " alt="" coords="473,512,607,539"/>
+<area shape="rect" id="node17" href="$assets_8h.html#a229bd5fb969a96a86730f960da9acf7a" title="Check to make sure the script contains the reissue burn data. " alt="" coords="465,1019,615,1045"/>
+<area shape="rect" id="node18" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="459,1069,621,1096"/>
+<area shape="rect" id="node19" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="435,2095,645,2121"/>
+<area shape="rect" id="node20" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="435,2044,645,2071"/>
+<area shape="rect" id="node21" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="753,2019,856,2045"/>
+<area shape="rect" id="node22" href="$rpc_2assets_8cpp.html#ab794b426301153b69c4003257372e732" title="CheckRestrictedAssetTransfer\lInputs" alt="" coords="439,1171,641,1213"/>
+<area shape="rect" id="node23" href="$rpc_2assets_8cpp.html#a417cb44a82745ed3dc33e23ca777a44c" title="UpdateAddressTag" alt="" coords="473,1237,607,1264"/>
+<area shape="rect" id="node24" href="$rpc_2assets_8cpp.html#a0334c36dd0b0df30124e3e7b02cc920d" title="UpdateAddressRestriction" alt="" coords="453,1288,627,1315"/>
+<area shape="rect" id="node25" href="$rpc_2assets_8cpp.html#a1235254f4405fcc980887407f35a64fc" title="UpdateGlobalRestrictedAsset" alt="" coords="443,1339,637,1365"/>
+<area shape="rect" id="node26" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="495,1389,585,1416"/>
+<area shape="rect" id="node27" href="$messages_8h.html#ae821d3c2bf631ca5117e60323dc00865" title="ScanForMessageChannels" alt="" coords="451,1440,629,1467"/>
+<area shape="rect" id="node28" href="$class_asset_control_dialog.html#a35356054e1ff12c3cc49e4b7c505be18" title="AssetControlDialog\l::updateView" alt="" coords="737,1298,872,1339"/>
+<area shape="rect" id="node29" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="737,1691,873,1733"/>
+<area shape="rect" id="node30" href="$class_payment_server.html#a19092e1d4d7c6eee3ec9d4390d11a092" title="PaymentServer::processPayment\lRequest" alt="" coords="431,1593,649,1634"/>
+<area shape="rect" id="node31" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="452,1659,628,1685"/>
+<area shape="rect" id="node32" href="$class_transaction_desc.html#a1de402b439b16ee501487b6cadb979ce" title="TransactionDesc::CreateDebug\lString" alt="" coords="437,1710,643,1751"/>
+<area shape="rect" id="node33" href="$class_transaction_record.html#a9f5db4465fa5fdcc3f9af525096bcdb9" title="TransactionRecord::\ldecomposeTransaction" alt="" coords="461,1775,619,1817"/>
+<area shape="rect" id="node34" href="$class_wallet_model.html#ae5ce26bba42701b45de766ef11cc9a47" title="WalletModel::listCoins" alt="" coords="463,1541,617,1568"/>
+<area shape="rect" id="node35" href="$class_wallet_model.html#a5b79617bceafd23fba013dd40957392a" title="RVN START. " alt="" coords="460,1120,620,1147"/>
+<area shape="rect" id="node36" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="494,1892,586,1919"/>
+<area shape="rect" id="node37" href="$rpcwallet_8cpp.html#aeec02dcbb431a01ceb08e46ed4d76d18" title="getnewaddress" alt="" coords="485,1943,595,1969"/>
+<area shape="rect" id="node38" href="$rpcwallet_8cpp.html#a333562390545ba33b4dfd2bb0c76cb0e" title="getaccountaddress" alt="" coords="474,5,606,32"/>
+<area shape="rect" id="node39" href="$rpcwallet_8cpp.html#a3ba9ef66d33d66c86661f062d6e7d421" title="getrawchangeaddress" alt="" coords="465,56,615,83"/>
+<area shape="rect" id="node40" href="$rpcwallet_8cpp.html#a0605330109d5cdd76ff3c20fcd825663" title="getaddressesbyaccount" alt="" coords="460,107,620,133"/>
+<area shape="rect" id="node41" href="$rpcwallet_8cpp.html#a09b34863635404e5c98685d81dd0050a" title="listaddressgroupings" alt="" coords="469,157,611,184"/>
+<area shape="rect" id="node42" href="$rpcwallet_8cpp.html#a35279acfa0bfaf424d5137da424eb8db" title="addmultisigaddress" alt="" coords="473,259,607,285"/>
+<area shape="rect" id="node43" href="$rpcwallet_8cpp.html#aca4103efafec36e5eb69d37823a1f930" title="addwitnessaddress" alt="" coords="473,309,607,336"/>
+<area shape="rect" id="node44" href="$group___actions.html#gac6542da8493cbb958068b7a01c05b631" title="CWallet::DelAddressBook" alt="" coords="453,360,627,387"/>
+<area shape="rect" id="node45" href="$class_c_wallet.html#acbeae89a10e129930e5059d9167697e5" title="Adds a destination data tuple to the store, and saves it to disk. " alt="" coords="462,411,618,437"/>
+<area shape="rect" id="node46" href="$class_c_wallet.html#a9a03cf9972842588178387839f0ded3c" title="Erases a destination data tuple in the store and on disk. " alt="" coords="457,461,623,488"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="699,621,910,662"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="707,490,902,531"/>
+<area shape="rect" id="node6" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="697,555,912,597"/>
+<area shape="rect" id="node48" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="461,2196,619,2223"/>
+<area shape="rect" id="node49" href="$class_raven_address_check_validator.html#aa15104ad7c7f0a91ba02f741d5a533ba" title="RavenAddressCheckValidator\l::validate" alt="" coords="441,2247,639,2289"/>
+<area shape="rect" id="node50" href="$class_wallet_model.html#a04604615253aeaae1253b1412a70a1f7" title="WalletModel::validateAddress" alt="" coords="443,2145,637,2172"/>
+</map>

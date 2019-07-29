@@ -1,0 +1,19 @@
+<map id="src/assets/assetdb.h" name="src/assets/assetdb.h">
+<area shape="rect" id="node2" href="$fs_8h.html" title="fs.h" alt="" coords="2360,237,2404,263"/>
+<area shape="rect" id="node8" href="$serialize_8h.html" title="serialize.h" alt="" coords="436,237,518,263"/>
+<area shape="rect" id="node26" href="$dbwrapper_8h.html" title="dbwrapper.h" alt="" coords="1117,80,1210,107"/>
+<area shape="rect" id="node9" href="$endian_8h.html" title="compat/endian.h" alt="" coords="695,326,814,353"/>
+<area shape="rect" id="node22" href="$prevector_8h.html" title="prevector.h" alt="" coords="340,326,427,353"/>
+<area shape="rect" id="node10" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="928,408,1064,435"/>
+<area shape="rect" id="node27" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="1110,237,1217,263"/>
+<area shape="rect" id="node28" href="$streams_8h.html" title="streams.h" alt="" coords="817,155,897,181"/>
+<area shape="rect" id="node31" href="$util_8h.html" title="util.h" alt="" coords="1668,155,1718,181"/>
+<area shape="rect" id="node47" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1292,237,1416,263"/>
+<area shape="rect" id="node48" href="$version_8h.html" title="version.h" alt="" coords="1742,155,1817,181"/>
+<area shape="rect" id="node29" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="694,229,820,271"/>
+<area shape="rect" id="node30" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="932,326,1057,353"/>
+<area shape="rect" id="node32" href="$compat_8h.html" title="compat.h" alt="" coords="2260,237,2336,263"/>
+<area shape="rect" id="node41" href="$sync_8h.html" title="sync.h" alt="" coords="1793,237,1854,263"/>
+<area shape="rect" id="node42" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="894,237,985,263"/>
+<area shape="rect" id="node43" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="1593,237,1668,263"/>
+</map>

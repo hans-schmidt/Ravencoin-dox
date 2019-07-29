@@ -1,0 +1,51 @@
+<map id="AssetsDialog::removeEntry" name="AssetsDialog::removeEntry">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a5a77479fb5eafe6e3dba71144aff9797" title="AssetsDialog::addEntry" alt="" coords="236,366,396,393"/>
+<area shape="rect" id="node48" href="$class_assets_dialog.html#a4fc31292e7ef30cf6d886b6c24013040" title="AssetsDialog::updateTabs\lAndLabels" alt="" coords="453,570,629,611"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#acf37188835ee43e0362db4462bcb3534" title="GetAllMyAssets" alt="" coords="1532,258,1649,285"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#ab1471d20adbbc7f9367bffdfdbc43490" title="WalletModel::getWallet" alt="" coords="1300,270,1457,297"/>
+<area shape="rect" id="node7" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="1301,93,1457,120"/>
+<area shape="rect" id="node9" href="$class_send_assets_entry.html#a6201ca053ebf69795ee0312472036a2d" title="SendAssetsEntry::setModel" alt="" coords="448,417,633,444"/>
+<area shape="rect" id="node10" href="$class_send_assets_entry.html#a135f2f2eed17b5611e04a9d55a91fe19" title="SendAssetsEntry::clear" alt="" coords="721,438,881,465"/>
+<area shape="rect" id="node11" href="$class_assets_dialog.html#ac99b7ca264654902abc757ec8dbcbfae" title="AssetsDialog::assetControl\lUpdateLabels" alt="" coords="709,519,892,560"/>
+<area shape="rect" id="node42" href="$class_send_assets_entry.html#ae91caa9b134eda6912422aee71c6f423" title="SendAssetsEntry::setFocus\lAssetListBox" alt="" coords="447,118,634,159"/>
+<area shape="rect" id="node43" href="$class_send_assets_entry.html#ad216c4bd9c716152ae485fb81593b75c" title="SendAssetsEntry::IsAsset\lControl" alt="" coords="452,183,629,224"/>
+<area shape="rect" id="node47" href="$class_send_assets_entry.html#a8590645d16b0a94e273141421d1d558b" title="SendAssetsEntry::setCurrent\lIndex" alt="" coords="444,300,637,342"/>
+<area shape="rect" id="node4" href="$group___actions.html#ga162ea1bf42ba17165bd00653852a949b" title="Helper function that calls AvailableCoinsAll, used for transfering assets. " alt="" coords="1710,277,1881,304"/>
+<area shape="rect" id="node5" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="1943,348,2081,374"/>
+<area shape="rect" id="node8" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="1525,93,1656,120"/>
+<area shape="rect" id="node12" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="998,484,1198,510"/>
+<area shape="rect" id="node13" href="$class_assets_dialog.html#ab8586451475fd971e039e47ecf9294c2" title="AssetsDialog::updateAsset\lControlState" alt="" coords="1007,418,1189,459"/>
+<area shape="rect" id="node15" href="$class_send_assets_entry.html#ae123ede2dd7038627d91fc1c7b8d27e1" title="SendAssetsEntry::getValue" alt="" coords="1007,534,1189,561"/>
+<area shape="rect" id="node17" href="$class_asset_control_dialog.html#a92de12c45c6a9be68e3e58d02a7a9b99" title="AssetControlDialog\l::updateLabels" alt="" coords="1031,607,1165,648"/>
+<area shape="rect" id="node14" href="$policy_2fees_8cpp.html#a71cff9731ecdee1cef8bfc2c12dc3842" title="getConfTargetForIndex" alt="" coords="1301,417,1457,444"/>
+<area shape="rect" id="node16" href="$class_payment_request_plus.html#aa3d8c57af7c7bc4ffbc31da32e5a40a6" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="1304,468,1453,510"/>
+<area shape="rect" id="node18" href="$policy_8cpp.html#ab18c1023518f2920e34e05ca324d0ebb" title="IsDust" alt="" coords="1348,804,1409,830"/>
+<area shape="rect" id="node28" href="$class_c_coin_control.html#ac880f024388c29fb5ce5616448698790" title="CCoinControl::ListSelected\lAssets" alt="" coords="1288,738,1469,779"/>
+<area shape="rect" id="node29" href="$class_wallet_model.html#a5237ea4d9724807a05e2944e5ce6f181" title="WalletModel::getOutputs" alt="" coords="1295,585,1462,612"/>
+<area shape="rect" id="node30" href="$class_wallet_model.html#acb24dd4388e6daef526667fb365a57b1" title="WalletModel::isSpent" alt="" coords="1305,636,1452,662"/>
+<area shape="rect" id="node32" href="$class_c_coin_control.html#a9e24b36f8542df7ab1686ae65ac1b032" title="CCoinControl::UnSelectAsset" alt="" coords="1280,686,1477,713"/>
+<area shape="rect" id="node33" href="$assets_2assets_8cpp.html#a682c8333a8fd4337b4b82b5930d37940" title="GetAssetInfoFromScript" alt="" coords="1297,534,1460,561"/>
+<area shape="rect" id="node19" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="1719,702,1872,729"/>
+<area shape="rect" id="node22" href="$policy_8cpp.html#a7b1001b4a41a02d9469e3b6985587300" title="GetDustThreshold" alt="" coords="1527,804,1655,830"/>
+<area shape="rect" id="node20" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1958,753,2066,780"/>
+<area shape="rect" id="node21" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="2137,753,2271,780"/>
+<area shape="rect" id="node23" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="1715,753,1876,780"/>
+<area shape="rect" id="node25" href="$serialize_8h.html#aeb209536f7b746673a9c3fba8651b0e5" title="GetSerializeSize" alt="" coords="1736,804,1855,830"/>
+<area shape="rect" id="node26" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="1704,854,1887,881"/>
+<area shape="rect" id="node24" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1955,626,2069,653"/>
+<area shape="rect" id="node27" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="1935,854,2089,881"/>
+<area shape="rect" id="node31" href="$group__map_wallet.html#ga6adcf1c224ed3c3fe4b0b19f6fca75d8" title="Outpoint is spent if any non&#45;conflicted transaction spends it: " alt="" coords="1529,636,1652,662"/>
+<area shape="rect" id="node34" href="$assets_2assets_8cpp.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="1538,534,1643,561"/>
+<area shape="rect" id="node35" href="$assets_2assets_8cpp.html#a2fbfdd85314963be71beacc69bf7188b" title="AssetFromScript" alt="" coords="1735,601,1855,628"/>
+<area shape="rect" id="node36" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="1729,550,1862,577"/>
+<area shape="rect" id="node37" href="$rpc_2assets_8cpp.html#ad4e434d502a68b796fa86a9ed50c5862" title="transfer" alt="" coords="1762,398,1829,425"/>
+<area shape="rect" id="node38" href="$assets_2assets_8cpp.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="1711,500,1879,526"/>
+<area shape="rect" id="node39" href="$assets_2assets_8cpp.html#aeb621c6bc4f2815a9c8f0aebdf0a397b" title="OwnerAssetFromScript" alt="" coords="1716,652,1875,678"/>
+<area shape="rect" id="node40" href="$rpc_2assets_8cpp.html#ada9eee324855c73e13fbf6d9bd44b77e" title="reissue" alt="" coords="1763,348,1827,374"/>
+<area shape="rect" id="node41" href="$assets_2assets_8cpp.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="1711,449,1879,476"/>
+<area shape="rect" id="node44" href="$class_send_assets_entry.html#a1235585a9ccb51e70fe5f3ac0ecfeec5" title="SendAssetsEntry::CheckOwnerBox" alt="" coords="685,190,916,217"/>
+<area shape="rect" id="node45" href="$class_send_assets_entry.html#a078cf67a1a168840e2c61bb3ab824fdd" title="SendAssetsEntry::switchAdministratorList" alt="" coords="964,190,1232,217"/>
+<area shape="rect" id="node46" href="$assets_2assets_8cpp.html#aa941ab8a31a038f9dc52f4b5820b3523" title="GetAllAdministrativeAssets" alt="" coords="1287,169,1470,196"/>
+<area shape="rect" id="node49" href="$class_assets_dialog.html#a82e7a6e6c132ecf03070c75ad0bf0b8b" title="Set up the tab chain manually, as Qt messes up the tab chain by default in some cases (issue https://..." alt="" coords="703,618,899,645"/>
+<area shape="rect" id="node50" href="$class_send_assets_entry.html#aac16f4ad1c1f47de5f94b17ae4402ccd" title="Set up the tab chain manually, as Qt messes up the tab chain by default in some cases (issue https://..." alt="" coords="1005,672,1191,714"/>
+</map>

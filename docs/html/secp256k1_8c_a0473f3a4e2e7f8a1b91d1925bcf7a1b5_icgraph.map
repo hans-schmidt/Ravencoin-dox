@@ -1,0 +1,7 @@
+<map id="secp256k1_ec_privkey_tweak_add" name="secp256k1_ec_privkey_tweak_add">
+<area shape="rect" id="node2" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="248,35,349,61"/>
+<area shape="rect" id="node6" href="$tests_8c.html#a32498e86a99a258f68cd4b1176f47966" title="run_eckey_edge_case_test" alt="" coords="208,85,389,112"/>
+<area shape="rect" id="node3" href="$class_c_key.html#a96b017433a65335775cf3807d73f85ce" title="Check whether the public key corresponding to this private key is (to be) compressed. " alt="" coords="437,35,585,61"/>
+<area shape="rect" id="node4" href="$class_c_raven_secret.html#a9e28a7dea8650427bb1635a98551685f" title="CRavenSecret::SetKey" alt="" coords="648,5,807,32"/>
+<area shape="rect" id="node5" href="$class_transaction_signature_creator.html#a9cb1b4bd531ab19a1257abd9b639b7c8" title="Create a singular (non&#45;script) signature. " alt="" coords="633,57,821,98"/>
+</map>

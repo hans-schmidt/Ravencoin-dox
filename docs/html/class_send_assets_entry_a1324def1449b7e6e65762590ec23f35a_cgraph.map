@@ -1,0 +1,10 @@
+<map id="SendAssetsEntry::refreshAssetList" name="SendAssetsEntry::refreshAssetList">
+<area shape="rect" id="node2" href="$class_send_assets_entry.html#a078cf67a1a168840e2c61bb3ab824fdd" title="SendAssetsEntry::switchAdministratorList" alt="" coords="225,81,493,108"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#aa941ab8a31a038f9dc52f4b5820b3523" title="GetAllAdministrativeAssets" alt="" coords="541,5,724,32"/>
+<area shape="rect" id="node4" href="$assets_2assets_8cpp.html#acf37188835ee43e0362db4462bcb3534" title="GetAllMyAssets" alt="" coords="779,31,896,57"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#ab1471d20adbbc7f9367bffdfdbc43490" title="WalletModel::getWallet" alt="" coords="554,107,711,133"/>
+<area shape="rect" id="node8" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="555,157,711,184"/>
+<area shape="rect" id="node5" href="$group___actions.html#ga162ea1bf42ba17165bd00653852a949b" title="Helper function that calls AvailableCoinsAll, used for transfering assets. " alt="" coords="951,31,1121,57"/>
+<area shape="rect" id="node6" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="1169,31,1308,57"/>
+<area shape="rect" id="node9" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="772,157,903,184"/>
+</map>

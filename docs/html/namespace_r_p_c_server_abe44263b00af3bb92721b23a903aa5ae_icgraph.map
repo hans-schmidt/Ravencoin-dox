@@ -1,0 +1,7 @@
+<map id="RPCServer::OnStopped" name="RPCServer::OnStopped">
+<area shape="rect" id="node2" href="$init_8cpp.html#a7769d5957df16d51f1164473c8631aa7" title="AppInitServers" alt="" coords="216,31,324,57"/>
+<area shape="rect" id="node3" href="$init_8h.html#a267bb31fa79be7173fe5d2d8ce471145" title="Raven core main initialization. " alt="" coords="372,31,463,57"/>
+<area shape="rect" id="node4" href="$class_raven_core.html#ad8824da7414b72f26061a1e914d66b59" title="RavenCore::initialize" alt="" coords="511,5,653,32"/>
+<area shape="rect" id="node5" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="551,56,613,83"/>
+<area shape="rect" id="node6" href="$ravend_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="701,56,752,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="AssetsDialog::assetControlChangeChecked" name="AssetsDialog::assetControlChangeChecked">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a95ed8d5fe22a17370639734b9fa827dc" title="AssetsDialog::assetControl\lChangeEdited" alt="" coords="236,115,419,156"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a89ed202e2dbc04aaa70d72872b95b351" title="WalletModel::getAddressTable\lModel" alt="" coords="467,5,667,47"/>
+<area shape="rect" id="node4" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="715,118,848,145"/>
+<area shape="rect" id="node11" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="503,122,631,149"/>
+<area shape="rect" id="node12" href="$class_wallet_model.html#a987e456ef99c7c91960c50fd95f4c104" title="WalletModel::IsSpendable" alt="" coords="479,239,654,266"/>
+<area shape="rect" id="node14" href="$class_address_table_model.html#afcdbfc17ac480f5a57382cbcf096ccb3" title="AddressTableModel::\llabelForAddress" alt="" coords="494,173,639,215"/>
+<area shape="rect" id="node5" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="896,118,1043,145"/>
+<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1153,67,1225,94"/>
+<area shape="rect" id="node9" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="1156,118,1223,145"/>
+<area shape="rect" id="node10" href="$class_c_chain_params.html#a103c58eca4a26a71201882b3ed6c4cb4" title="CChainParams::Base58Prefix" alt="" coords="1091,169,1288,195"/>
+<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1336,42,1419,69"/>
+<area shape="rect" id="node8" href="$glibc__compat_8cpp.html#a424ac71631da5ada2976630ff67051d1" title="__chk_fail" alt="" coords="1337,93,1418,119"/>
+<area shape="rect" id="node13" href="$ismine_8cpp.html#a60a6865dd5664b8e9878a5380ca3e359" title="IsMine" alt="" coords="751,239,812,266"/>
+</map>

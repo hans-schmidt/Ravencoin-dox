@@ -1,0 +1,51 @@
+<map id="AreMessagingDeployed" name="AreMessagingDeployed">
+<area shape="rect" id="node2" href="$assets_8h.html#aa2cbb008291be23f6ef30d12b7515496" title="Check the Encoded hash and make sure it is either an IPFS hash or a OIP hash. " alt="" coords="249,303,359,330"/>
+<area shape="rect" id="node4" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="452,106,657,132"/>
+<area shape="rect" id="node6" href="$assets_8h.html#af894efb762726583de09a23045325595" title="ContextualCheckNewAsset" alt="" coords="463,156,647,183"/>
+<area shape="rect" id="node20" href="$class_reissue_asset_dialog.html#aa2f4601a131610b59d3d28fea1edceb2" title="ReissueAssetDialog\l::checkIPFSHash" alt="" coords="484,374,625,416"/>
+<area shape="rect" id="node23" href="$class_send_assets_entry.html#aa9294e7c8c528e1971305d86b1c65558" title="SendAssetsEntry::validate" alt="" coords="466,440,643,467"/>
+<area shape="rect" id="node25" href="$rpc_2assets_8cpp.html#aa1d9773398109bf5e4139ef2855edaae" title="CheckIPFSTxidMessage" alt="" coords="220,491,388,518"/>
+<area shape="rect" id="node26" href="$rpc_2messages_8cpp.html#a9bb7578ed2e00a2a24c22323d0b72bf2" title="MessageActivationWarning" alt="" coords="213,592,395,619"/>
+<area shape="rect" id="node27" href="$rpc_2messages_8cpp.html#a3eab85bfb6184a1aac41de1294d536a0" title="viewallmessages" alt="" coords="493,491,616,518"/>
+<area shape="rect" id="node30" href="$rpc_2messages_8cpp.html#aaa89c11ae8e26884d39dfc0c63c0bd98" title="unsubscribefromchannel" alt="" coords="473,643,636,670"/>
+<area shape="rect" id="node31" href="$rpc_2messages_8cpp.html#ac536a9b709d618462014345f2396e8f2" title="clearmessages" alt="" coords="499,694,610,720"/>
+<area shape="rect" id="node32" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="503,744,606,771"/>
+<area shape="rect" id="node33" href="$wallet_2fees_8h.html#a506203ce29cebfc014fe8a48f5b05606" title="Return the minimum required fee taking into account the floating relay fee and user set minimum trans..." alt="" coords="245,966,363,992"/>
+<area shape="rect" id="node50" href="$validation_8h.html#a2c68e4814ee88a7d1a6e6400682f4955" title="IsMessagingActive" alt="" coords="237,1016,371,1043"/>
+<area shape="rect" id="node3" href="$class_c_asset_transfer.html#a2a36d6fb30224c906196cb3f7b4faa65" title="CAssetTransfer::IsValid" alt="" coords="473,258,636,284"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1263,106,1469,132"/>
+<area shape="rect" id="node10" href="$class_create_asset_dialog.html#a5906e5b70ee2ad507cd8cb4b269423ac" title="CreateAssetDialog::\lcheckIPFSHash" alt="" coords="485,309,625,350"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="753,106,915,132"/>
+<area shape="rect" id="node8" href="$assets_8h.html#a3d93a173bcd387795f14fb76e9c534e6" title="ContextualCheckUniqueAsset" alt="" coords="735,55,933,82"/>
+<area shape="rect" id="node9" href="$assets_8h.html#aed0cb4b141b8e7da4be0c7df228ab73f" title="ContextualCheckUniqueAssetTx" alt="" coords="1001,55,1215,82"/>
+<area shape="rect" id="node11" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="764,366,904,408"/>
+<area shape="rect" id="node18" href="$class_create_asset_dialog.html#af0bc8685461d2aa1ca30a4ba5da4a3dd" title="CreateAssetDialog::\lonIPFSHashChanged" alt="" coords="1033,258,1183,300"/>
+<area shape="rect" id="node12" href="$class_create_asset_dialog.html#ad83e1c6c6ea29e74543f4afd80dce1ea" title="Helper Methods. " alt="" coords="1038,389,1178,430"/>
+<area shape="rect" id="node13" href="$class_create_asset_dialog.html#af95ab6bad7ceb28ec010d3bf90abd1cc" title="CreateAssetDialog::\ltoggleIPFSText" alt="" coords="1038,324,1178,365"/>
+<area shape="rect" id="node16" href="$class_create_asset_dialog.html#a15a1a9145508ae601f890e808df4bd27" title="CreateAssetDialog::\lcheckAvailabilityClicked" alt="" coords="1284,430,1448,472"/>
+<area shape="rect" id="node17" href="$class_create_asset_dialog.html#ac9da60f170acd8f2bdc3f1af18933376" title="CreateAssetDialog::\lonAddressNameChanged" alt="" coords="1281,550,1451,592"/>
+<area shape="rect" id="node19" href="$class_create_asset_dialog.html#a375f356987a8233f519de5ffd97dcf84" title="CreateAssetDialog::\lonChangeAddressChanged" alt="" coords="1017,506,1199,548"/>
+<area shape="rect" id="node14" href="$class_create_asset_dialog.html#ad489dbbb54713a98847998d9721c7101" title="SLOTS. " alt="" coords="1296,337,1436,378"/>
+<area shape="rect" id="node15" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="1517,398,1657,440"/>
+<area shape="rect" id="node21" href="$class_reissue_asset_dialog.html#a8170ce5c542f2d0a33dd5d5ead816671" title="ReissueAssetDialog\l::onIPFSHashChanged" alt="" coords="755,432,913,473"/>
+<area shape="rect" id="node22" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="1033,624,1183,665"/>
+<area shape="rect" id="node24" href="$class_assets_dialog.html#a72ea3a7ceb18986cfed5f3654c61eebe" title="AssetsDialog::on_sendButton\l_clicked" alt="" coords="737,497,931,538"/>
+<area shape="rect" id="node28" href="$rpc_2messages_8cpp.html#a7d5049b7d1981595ad9aa6b5dcbed792" title="viewallmessagechannels" alt="" coords="471,592,638,619"/>
+<area shape="rect" id="node29" href="$rpc_2messages_8cpp.html#ab95837542bcae6da050dd5d184034eaa" title="subscribetochannel" alt="" coords="487,542,622,568"/>
+<area shape="rect" id="node34" href="$class_assets_dialog.html#a05390b1fb84011e59b0a4ba0bbb5841f" title="AssetsDialog::setMinimumFee" alt="" coords="454,1240,655,1267"/>
+<area shape="rect" id="node35" href="$class_assets_dialog.html#a81d9a3769c5c77db2b9e934ed23d47a8" title="AssetsDialog::updateMinFee\lLabel" alt="" coords="459,796,650,837"/>
+<area shape="rect" id="node38" href="$class_create_asset_dialog.html#a98cb42c1c90773ede33bc0e684f7f751" title="CreateAssetDialog::\lsetMinimumFee" alt="" coords="485,861,625,902"/>
+<area shape="rect" id="node39" href="$class_create_asset_dialog.html#ae17f13e18301f11d0e3b43d809e159b6" title="CreateAssetDialog::\lupdateMinFeeLabel" alt="" coords="485,926,625,968"/>
+<area shape="rect" id="node42" href="$class_reissue_asset_dialog.html#a1312106177a47fa856d0b89789509f0c" title="ReissueAssetDialog\l::setMinimumFee" alt="" coords="484,992,625,1033"/>
+<area shape="rect" id="node43" href="$class_reissue_asset_dialog.html#a39c77f4288b4a229e4c4b1219cf358b3" title="ReissueAssetDialog\l::updateMinFeeLabel" alt="" coords="483,1057,626,1098"/>
+<area shape="rect" id="node46" href="$class_send_coins_dialog.html#a72cce0022e59fa024afeb8cc9efa793a" title="SendCoinsDialog::setMinimumFee" alt="" coords="443,1123,667,1150"/>
+<area shape="rect" id="node47" href="$class_send_coins_dialog.html#a2fb31c54501a1599d0d192bfcf78d70b" title="SendCoinsDialog::updateMin\lFeeLabel" alt="" coords="459,1174,650,1216"/>
+<area shape="rect" id="node36" href="$class_assets_dialog.html#a4783cfe81eecd969402459a0aae2f840" title="AssetsDialog::updateDisplayUnit" alt="" coords="727,803,941,830"/>
+<area shape="rect" id="node37" href="$class_assets_dialog.html#a7724156dfba2b1a62c13c1b708e37b0a" title="AssetsDialog::setModel" alt="" coords="1027,803,1189,830"/>
+<area shape="rect" id="node40" href="$class_create_asset_dialog.html#a14c45db711ab138f4c2e52fa81c5f50a" title="CreateAssetDialog::\lupdateDisplayUnit" alt="" coords="764,926,904,968"/>
+<area shape="rect" id="node41" href="$class_create_asset_dialog.html#affceaf7b5ffeeda6f20ecb354ff4e7f8" title="CreateAssetDialog::\lsetModel" alt="" coords="1038,926,1178,968"/>
+<area shape="rect" id="node44" href="$class_reissue_asset_dialog.html#ad6175c9716f2861e9d499033c6759e51" title="ReissueAssetDialog\l::updateDisplayUnit" alt="" coords="763,1057,905,1098"/>
+<area shape="rect" id="node45" href="$class_reissue_asset_dialog.html#aedb26df763c8cda11fea5a0c07ca70a0" title="ReissueAssetDialog\l::setModel" alt="" coords="1037,1057,1179,1098"/>
+<area shape="rect" id="node48" href="$class_send_coins_dialog.html#a74815ad8502b126200b6fd2e59e9f042" title="SendCoinsDialog::updateDisplayUnit" alt="" coords="715,1182,953,1208"/>
+<area shape="rect" id="node49" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="1016,1182,1200,1208"/>
+</map>

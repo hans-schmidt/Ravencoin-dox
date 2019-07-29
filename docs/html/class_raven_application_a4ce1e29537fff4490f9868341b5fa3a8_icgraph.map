@@ -1,0 +1,7 @@
+<map id="RavenApplication::splashFinished" name="RavenApplication::splashFinished">
+<area shape="rect" id="node2" href="$class_raven_application.html#a9b6de26e18ecffa3837ee6edf66fd56d" title="Create splash screen. " alt="" coords="229,5,397,47"/>
+<area shape="rect" id="node3" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="224,71,403,112"/>
+<area shape="rect" id="node4" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="451,78,649,105"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="697,37,872,79"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="697,103,872,144"/>
+</map>

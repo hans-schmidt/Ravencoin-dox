@@ -1,0 +1,5 @@
+<map id="CKey::IsCompressed" name="CKey::IsCompressed">
+<area shape="rect" id="node2" href="$class_c_raven_secret.html#a9e28a7dea8650427bb1635a98551685f" title="CRavenSecret::SetKey" alt="" coords="216,5,375,32"/>
+<area shape="rect" id="node3" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="245,56,346,83"/>
+<area shape="rect" id="node4" href="$class_transaction_signature_creator.html#a9cb1b4bd531ab19a1257abd9b639b7c8" title="Create a singular (non&#45;script) signature. " alt="" coords="201,107,389,149"/>
+</map>

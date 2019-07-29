@@ -1,0 +1,10 @@
+<map id="CWallet::AccountMove" name="CWallet::AccountMove">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#afc8c5c734f2a8c80d4d00623b391bf66" title="Begin a new transaction. " alt="" coords="217,12,368,39"/>
+<area shape="rect" id="node5" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="231,69,354,96"/>
+<area shape="rect" id="node8" href="$class_c_wallet_d_b.html#a8f275f4d9a438c8626b63428ffcf1857" title="Commit current transaction. " alt="" coords="211,132,375,159"/>
+<area shape="rect" id="node3" href="$class_c_d_b.html#a6f817da7947e1498e44034b7a1c8ac10" title="CDB::TxnBegin" alt="" coords="429,5,543,32"/>
+<area shape="rect" id="node4" href="$class_c_d_b_env.html#a5f1daab338b2098ea693efad6edefb9b" title="CDBEnv::TxnBegin" alt="" coords="597,5,735,32"/>
+<area shape="rect" id="node6" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="450,56,522,83"/>
+<area shape="rect" id="node7" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="&quot;Never go to sea with two chronometers; take one or three.&quot; Our three time sources are: ..." alt="" coords="432,107,540,133"/>
+<area shape="rect" id="node9" href="$class_c_d_b.html#a45061b3e71251dc74ddd868afb760590" title="CDB::TxnCommit" alt="" coords="423,157,549,184"/>
+</map>

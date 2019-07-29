@@ -1,0 +1,10 @@
+<map id="CRestrictedDB::ReadRestrictedAddress" name="CRestrictedDB::ReadRestrictedAddress">
+<area shape="rect" id="node2" href="$class_c_assets_cache.html#a47bf79cae996da8e22ae785cddb09288" title="Return true if the address is marked as frozen. " alt="" coords="264,84,488,126"/>
+<area shape="rect" id="node3" href="$assets_8h.html#ab487a9a2455b3225043421563ecca00e" title="VerifyRestrictedAddressChange" alt="" coords="536,33,745,60"/>
+<area shape="rect" id="node8" href="$rpc_2assets_8cpp.html#ab794b426301153b69c4003257372e732" title="CheckRestrictedAssetTransfer\lInputs" alt="" coords="539,84,742,126"/>
+<area shape="rect" id="node9" href="$rpc_2assets_8cpp.html#a1e38f61ecfbb6601ba922d194fd298e6" title="checkaddressrestriction" alt="" coords="561,150,721,177"/>
+<area shape="rect" id="node4" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="793,92,1004,118"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1052,33,1259,60"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a142e1804ee596170853e243eb37828f1" title="ContextualCheckNullAsset\lTxOut" alt="" coords="809,26,989,67"/>
+<area shape="rect" id="node6" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="1104,92,1207,118"/>
+</map>

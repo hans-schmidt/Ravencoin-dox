@@ -1,0 +1,6 @@
+<map id="CCoinsViewCache::HaveInputs" name="CCoinsViewCache::HaveInputs">
+<area shape="rect" id="node2" href="$namespace_consensus.html#a71d434a6ed8cd5fe5cd096c2eea58a07" title="Check whether all inputs of this transaction are valid (no double spends and amounts) This does not m..." alt="" coords="264,5,449,32"/>
+<area shape="rect" id="node3" href="$namespace_consensus.html#a3a65a6b28f9d889e647b6f52b335df05" title="RVN START. " alt="" coords="261,56,452,83"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#ad140b39a0be43b4c0ca1872ba7323351" title="Called when a block is connected. " alt="" coords="500,56,705,83"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="753,56,959,83"/>
+</map>

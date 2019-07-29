@@ -1,0 +1,51 @@
+<map id="WalletView::processNewTransaction" name="WalletView::processNewTransaction">
+<area shape="rect" id="node2" href="$class_client_model.html#af9798c364463ada09be477b15daf0fbe" title="Return true if core is doing initial block download. " alt="" coords="311,289,484,330"/>
+<area shape="rect" id="node9" href="$class_wallet_model.html#afe9f7d149f1e8335033c69dab1dc277d" title="WalletModel::getTransaction\lTableModel" alt="" coords="303,543,491,585"/>
+<area shape="rect" id="node10" href="$class_transaction_table_model.html#a8472b35c7d5356121027e151d1fbfb2e" title="TransactionTableModel\l::processingQueuedTransactions" alt="" coords="291,609,504,650"/>
+<area shape="rect" id="node11" href="$class_transaction_table_model.html#af3a9a49314f80268a77a704f7f028905" title="TransactionTableModel\l::index" alt="" coords="319,726,476,767"/>
+<area shape="rect" id="node12" href="$class_transaction_table_model.html#a02173c31b6014bff182e320217e30e10" title="TransactionTableModel\l::data" alt="" coords="585,543,743,585"/>
+<area shape="rect" id="node26" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="1141,792,1341,819"/>
+<area shape="rect" id="node27" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="1143,843,1339,869"/>
+<area shape="rect" id="node36" href="$class_overview_page.html#a11e2786bcf2d11b233e0558b69c4a2c5" title="OverviewPage::showAssets" alt="" coords="304,913,491,940"/>
+<area shape="rect" id="node38" href="$class_transaction_view.html#a6ff28a416efbd31d2120184a8ccdf952" title="TransactionView::showAssets" alt="" coords="298,985,497,1012"/>
+<area shape="rect" id="node42" href="$class_assets_dialog.html#a25978706f64c01f605000eba95660dfd" title="AssetsDialog::processNew\lTransaction" alt="" coords="307,1094,488,1135"/>
+<area shape="rect" id="node48" href="$class_create_asset_dialog.html#af0cb10e9c013ad0bde150c945c1e6704" title="CreateAssetDialog::\lupdateAssetList" alt="" coords="888,1186,1028,1227"/>
+<area shape="rect" id="node49" href="$class_reissue_asset_dialog.html#a4788d7b1d821f48a4777babecd5672e8" title="ReissueAssetDialog\l::updateAssetsList" alt="" coords="887,1251,1029,1293"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#a5edcd96316574fd4a7f3ae0922a5cfd6" title="Check whether we are doing an initial block download (synchronizing from disk or network) ..." alt="" coords="587,132,741,159"/>
+<area shape="rect" id="node4" href="$validation_8cpp.html#a30436c6f8e34f6f70217dafd009f1815" title="fImporting" alt="" coords="918,107,998,133"/>
+<area shape="rect" id="node5" href="$validation_8cpp.html#a96ebd8ae8166b2e0890ea557c95d378a" title="fReindex" alt="" coords="921,157,995,184"/>
+<area shape="rect" id="node6" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="912,208,1004,235"/>
+<area shape="rect" id="node7" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="864,5,1052,32"/>
+<area shape="rect" id="node8" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="922,56,994,83"/>
+<area shape="rect" id="node30" href="$class_transaction_table_priv.html#ac692aa6aa7820e80accc971c70e0fae5" title="TransactionTablePriv\l::index" alt="" coords="591,894,737,935"/>
+<area shape="rect" id="node13" href="$class_transaction_table_model.html#a11c11972847aeec2069953eda7abc3b2" title="TransactionTableModel\l::txStatusDecoration" alt="" coords="879,478,1037,519"/>
+<area shape="rect" id="node14" href="$class_transaction_table_model.html#a8be4fd0880420a6b45fd0ea4e41454c0" title="TransactionTableModel\l::txWatchonlyDecoration" alt="" coords="875,543,1041,585"/>
+<area shape="rect" id="node15" href="$class_transaction_table_model.html#af14920c007e307f892902da061e46072" title="TransactionTableModel\l::txAddressDecoration" alt="" coords="879,609,1037,650"/>
+<area shape="rect" id="node16" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="863,675,1053,701"/>
+<area shape="rect" id="node18" href="$class_transaction_table_model.html#af91bbd6b2a712af32988d147e3f311ea" title="TransactionTableModel\l::formatTxDate" alt="" coords="1163,438,1320,479"/>
+<area shape="rect" id="node20" href="$class_transaction_table_model.html#aefcd45e8b170a459548ddbd308b1ad64" title="TransactionTableModel\l::formatTxType" alt="" coords="1163,373,1320,414"/>
+<area shape="rect" id="node21" href="$class_transaction_table_model.html#ada92bead83848f3ec231833e5964c27f" title="TransactionTableModel\l::formatTxToAddress" alt="" coords="1163,242,1320,283"/>
+<area shape="rect" id="node23" href="$class_transaction_table_model.html#ae2950fae820547adb84a5ed420429d02" title="TransactionTableModel\l::formatTxAmount" alt="" coords="879,726,1037,767"/>
+<area shape="rect" id="node28" href="$class_transaction_table_model.html#a535a0f50a4404a73194e02c3c09e13c0" title="TransactionTableModel\l::formatTooltip" alt="" coords="879,310,1037,351"/>
+<area shape="rect" id="node17" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="1158,640,1325,667"/>
+<area shape="rect" id="node19" href="$namespace_g_u_i_util.html#aae732a04fea25190081120bf0cc773e8" title="GUIUtil::dateTimeStr" alt="" coords="1397,380,1542,407"/>
+<area shape="rect" id="node22" href="$class_transaction_table_model.html#af13204a63b9901c0d9aeb9f43f915001" title="TransactionTableModel\l::lookupAddress" alt="" coords="1391,242,1548,283"/>
+<area shape="rect" id="node24" href="$core__io_8h.html#adf3de7349a7c8d2c30da429c92e4c881" title="ValueFromAmountString" alt="" coords="1159,691,1323,717"/>
+<area shape="rect" id="node25" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="1173,741,1309,768"/>
+<area shape="rect" id="node29" href="$class_transaction_table_model.html#a93d4d3f64ccd25cd409bb4811a9102e5" title="TransactionTableModel\l::formatTxStatus" alt="" coords="1163,307,1320,349"/>
+<area shape="rect" id="node31" href="$class_transaction_record.html#a5dd21151d6182f96c0bf42e874a62338" title="Return whether a status update is needed. " alt="" coords="885,894,1031,935"/>
+<area shape="rect" id="node33" href="$class_transaction_record.html#a9b643dd885a790ae511705a1446556be" title="Update status from core wallet tx. " alt="" coords="888,959,1028,1001"/>
+<area shape="rect" id="node32" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="1185,905,1297,932"/>
+<area shape="rect" id="node34" href="$class_c_merkle_tx.html#a5e7ef444cc0c2b875fba9c729ce83b10" title="CMerkleTx::IsCoinBase" alt="" coords="1160,963,1323,989"/>
+<area shape="rect" id="node35" href="$group__map_wallet.html#ga71efb0d5b5def8ae00a1d74b8741bfcb" title="CWalletTx::IsTrusted" alt="" coords="1168,1013,1315,1040"/>
+<area shape="rect" id="node37" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="595,960,733,987"/>
+<area shape="rect" id="node39" href="$class_transaction_filter_proxy.html#aaacec79a6362b13ee4cfab7f770e33b5" title="TransactionFilterProxy\l::TYPE" alt="" coords="587,1062,741,1103"/>
+<area shape="rect" id="node40" href="$class_transaction_view.html#af4b19d9c7a562361f95d2d7897d38a19" title="TransactionView::copyAssetName" alt="" coords="552,1011,776,1037"/>
+<area shape="rect" id="node41" href="$namespace_g_u_i_util.html#ae231227ad96528c828e1c846f253f642" title="Copy a field of the currently selected entry of a view to the clipboard. " alt="" coords="877,1025,1039,1052"/>
+<area shape="rect" id="node43" href="$class_send_assets_entry.html#a1324def1449b7e6e65762590ec23f35a" title="SendAssetsEntry::refresh\lAssetList" alt="" coords="578,1127,750,1169"/>
+<area shape="rect" id="node44" href="$class_send_assets_entry.html#a078cf67a1a168840e2c61bb3ab824fdd" title="SendAssetsEntry::switchAdministratorList" alt="" coords="824,1135,1092,1161"/>
+<area shape="rect" id="node45" href="$assets_2assets_8cpp.html#aa941ab8a31a038f9dc52f4b5820b3523" title="GetAllAdministrativeAssets" alt="" coords="1150,1217,1333,1244"/>
+<area shape="rect" id="node46" href="$assets_2assets_8cpp.html#acf37188835ee43e0362db4462bcb3534" title="GetAllMyAssets" alt="" coords="1411,1167,1528,1193"/>
+<area shape="rect" id="node47" href="$class_wallet_model.html#ab1471d20adbbc7f9367bffdfdbc43490" title="WalletModel::getWallet" alt="" coords="1163,1167,1320,1193"/>
+<area shape="rect" id="node50" href="$class_c_assets_cache.html#a68c7297f843acfed8ec6b8c20dd1c10a" title="Returns true if an asset with the name exists, and it was able to get the asset metadata from databas..." alt="" coords="1140,1269,1343,1310"/>
+</map>

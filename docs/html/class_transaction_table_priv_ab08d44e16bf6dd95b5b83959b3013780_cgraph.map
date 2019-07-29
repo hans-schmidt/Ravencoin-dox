@@ -1,0 +1,51 @@
+<map id="TransactionTablePriv::describe" name="TransactionTablePriv::describe">
+<area shape="rect" id="node2" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="199,775,375,801"/>
+<area shape="rect" id="node3" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="426,528,637,555"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#gab94368cf0553687d8f1fec5d2aaa1457" title="CWalletTx::GetTxTime" alt="" coords="717,5,874,32"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#ga176e9ecbafbee27d604acbab9804885d" title="CWalletTx::GetCredit" alt="" coords="721,56,869,83"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga7757c17a323e5f6f75c92acb398d3568" title="filter decides which addresses will count towards the debit " alt="" coords="723,107,867,133"/>
+<area shape="rect" id="node10" href="$class_transaction_desc.html#afcd4db6bf3a341cafe06a57ec31b7531" title="TransactionDesc::FormatTx\lStatus" alt="" coords="703,158,888,199"/>
+<area shape="rect" id="node12" href="$group__map_wallet.html#gafd3ca5b54d33038a06189f3f27a97910" title="CWalletTx::GetRequestCount" alt="" coords="697,224,894,251"/>
+<area shape="rect" id="node13" href="$namespace_g_u_i_util.html#aae732a04fea25190081120bf0cc773e8" title="GUIUtil::dateTimeStr" alt="" coords="723,275,868,301"/>
+<area shape="rect" id="node14" href="$namespace_g_u_i_util.html#a2d4b7f2c11ebc4b97af10bc20d19b1b2" title="GUIUtil::HtmlEscape" alt="" coords="722,325,869,352"/>
+<area shape="rect" id="node15" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="729,376,862,403"/>
+<area shape="rect" id="node17" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="731,579,859,605"/>
+<area shape="rect" id="node18" href="$ismine_8cpp.html#a60a6865dd5664b8e9878a5380ca3e359" title="IsMine" alt="" coords="765,1068,826,1095"/>
+<area shape="rect" id="node22" href="$class_raven_units.html#a0f39bde6d3acbb9d92bf4589ba06048e" title="Format as HTML string (with unit) " alt="" coords="688,629,903,656"/>
+<area shape="rect" id="node24" href="$class_transaction_record.html#a838d881f68f967b751e7f7707bccfffa" title="Return the unique identifier for this transaction (part) " alt="" coords="725,681,865,722"/>
+<area shape="rect" id="node26" href="$class_transaction_record.html#a51d9d52d92a57448ab9b237e968c5ff6" title="Return the output index of the subtransaction. " alt="" coords="725,746,865,787"/>
+<area shape="rect" id="node27" href="$class_payment_request_plus.html#aaa495c136209bac976cc195705a6c509" title="PaymentRequestPlus\l::parse" alt="" coords="721,811,870,853"/>
+<area shape="rect" id="node28" href="$class_payment_request_plus.html#a3d13d13cf6a552695971cc257a33ca81" title="PaymentRequestPlus\l::getMerchant" alt="" coords="721,877,870,918"/>
+<area shape="rect" id="node32" href="$class_payment_server.html#ac3b7495238d833e76beb2fe11c0f6055" title="PaymentServer::getCertStore" alt="" coords="698,943,893,969"/>
+<area shape="rect" id="node33" href="$class_c_merkle_tx.html#a5e7ef444cc0c2b875fba9c729ce83b10" title="CMerkleTx::IsCoinBase" alt="" coords="714,993,877,1020"/>
+<area shape="rect" id="node34" href="$group__map_wallet.html#gaa60b69c7d4ea6063ed83b13d7c6fe695" title="CWallet::GetCredit" alt="" coords="465,1104,598,1131"/>
+<area shape="rect" id="node36" href="$class_c_merkle_tx.html#ad4b3623fabf1924dba2a7694e3418e1e" title="CMerkleTx::IsInMainChain" alt="" coords="442,1155,621,1181"/>
+<area shape="rect" id="node38" href="$class_c_merkle_tx.html#a69ebd437f7b44169659c3527fe73b6ab" title="CMerkleTx::GetBlocksToMaturity" alt="" coords="423,1205,640,1232"/>
+<area shape="rect" id="node39" href="$group__map_wallet.html#ga4eada57edc1c443564b8cc9b853d955c" title="CWallet::IsMine" alt="" coords="473,1053,589,1080"/>
+<area shape="rect" id="node40" href="$standard_8cpp.html#a951f7e601746ae076afdf3169ecca2fc" title="Parse a standard scriptPubKey for the destination address. " alt="" coords="466,1271,597,1297"/>
+<area shape="rect" id="node46" href="$base58_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="465,1321,597,1348"/>
+<area shape="rect" id="node49" href="$group__map_wallet.html#ga714fe72284e4cc436d84f751a9a7aa60" title="CWalletTx::GetChange" alt="" coords="452,1372,611,1399"/>
+<area shape="rect" id="node50" href="$group__map_wallet.html#ga5ab4855aac6f4b335421944403e44d6d" title="Returns amount of debit if the input matches the filter, otherwise returns 0. " alt="" coords="467,1423,596,1449"/>
+<area shape="rect" id="node4" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="716,477,875,504"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="717,528,873,555"/>
+<area shape="rect" id="node19" href="$class_raven_units.html#a0b719abad5fd65f20afe8835b2109cb0" title="Format as string (with custom name) " alt="" coords="951,452,1195,479"/>
+<area shape="rect" id="node6" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="1007,528,1138,555"/>
+<area shape="rect" id="node11" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="1021,165,1124,192"/>
+<area shape="rect" id="node16" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="999,376,1146,403"/>
+<area shape="rect" id="node20" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="1243,503,1379,529"/>
+<area shape="rect" id="node21" href="$class_raven_units.html#aea6fad621ac4f75381406d5ca415f78e" title="Number of Satoshis (1e&#45;8) per unit for assets. " alt="" coords="1427,477,1593,504"/>
+<area shape="rect" id="node23" href="$class_raven_units.html#ad61d958c9c19db002368eec18bf1527c" title="Format as string (with unit) " alt="" coords="979,604,1166,631"/>
+<area shape="rect" id="node25" href="$classbase__blob.html#a7a0d25782830d8b087c4da839f3ccdeb" title="base_blob::ToString" alt="" coords="1003,688,1142,715"/>
+<area shape="rect" id="node29" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="1049,825,1097,852"/>
+<area shape="rect" id="node30" href="$class_s_s_l_verify_error.html#a3183bdade1e32616a651654ed921baba" title="SSLVerifyError::SSLVerify\lError" alt="" coords="985,877,1161,918"/>
+<area shape="rect" id="node31" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="985,943,1160,969"/>
+<area shape="rect" id="node35" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="746,1119,845,1145"/>
+<area shape="rect" id="node37" href="$validation_8cpp.html#a9a88e9131d75562055e3ff8d233959ab" title="(try to) add transaction to memory pool plTxnReplaced will be appended to with all transactions repla..." alt="" coords="720,1169,871,1196"/>
+<area shape="rect" id="node41" href="$standard_8cpp.html#a81899059ee66f695aaf96a07d5e2ebdc" title="Parse a scriptPubKey and identify script type for standard scripts. " alt="" coords="766,1321,825,1348"/>
+<area shape="rect" id="node42" href="$classuint160.html#a66918f25b891415f2a9bbbb1dfdbedbd" title="uint160::uint160" alt="" coords="1015,1347,1130,1373"/>
+<area shape="rect" id="node43" href="$class_c_pub_key.html#a4fa94293cf8577fd039b9a133f6c7f30" title="CPubKey::IsValid" alt="" coords="732,1423,859,1449"/>
+<area shape="rect" id="node44" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="735,1220,856,1247"/>
+<area shape="rect" id="node45" href="$class_c_script_i_d.html#a116da5a7e94e2abb66011c33705d58e7" title="CScriptID::CScriptID" alt="" coords="722,1271,869,1297"/>
+<area shape="rect" id="node47" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="712,1524,879,1551"/>
+<area shape="rect" id="node48" href="$class_c_base58_data.html#a7dc91af403ca02694b3247b15604e220" title="CBase58Data::ToString" alt="" coords="715,1473,876,1500"/>
+</map>

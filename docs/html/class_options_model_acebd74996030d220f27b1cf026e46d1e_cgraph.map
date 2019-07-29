@@ -1,0 +1,6 @@
+<map id="OptionsModel::OptionsModel" name="OptionsModel::OptionsModel">
+<area shape="rect" id="node2" href="$class_options_model.html#a1fee36c382abefc0fb165bed99df7413" title="OptionsModel::Init" alt="" coords="244,56,372,83"/>
+<area shape="rect" id="node3" href="$class_options_model.html#ab952b1946cf3a4c76706ec796a3e629b" title="OptionsModel::Reset" alt="" coords="453,5,598,32"/>
+<area shape="rect" id="node4" href="$class_options_model.html#ad62c2c0e76000a2a899f051078a31de8" title="OptionsModel::checkAndMigrate" alt="" coords="420,56,631,83"/>
+<area shape="rect" id="node5" href="$class_options_model.html#af25171526a18c4746132ff199e0b1d71" title="OptionsModel::setRestart\lRequired" alt="" coords="440,107,611,149"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CDB::VerifyEnvironment" name="CDB::VerifyEnvironment">
+<area shape="rect" id="node2" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="257,56,296,83"/>
+<area shape="rect" id="node5" href="$class_c_d_b_env.html#a7bf81c4e6a41d70e042b22ec9932b9ca" title="CDBEnv::Open" alt="" coords="220,107,333,133"/>
+<area shape="rect" id="node8" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="241,157,313,184"/>
+<area shape="rect" id="node9" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="233,208,321,235"/>
+<area shape="rect" id="node3" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="404,5,533,32"/>
+<area shape="rect" id="node4" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="407,56,530,83"/>
+<area shape="rect" id="node6" href="$util_8cpp.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="397,107,540,133"/>
+<area shape="rect" id="node7" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="381,157,556,184"/>
+</map>

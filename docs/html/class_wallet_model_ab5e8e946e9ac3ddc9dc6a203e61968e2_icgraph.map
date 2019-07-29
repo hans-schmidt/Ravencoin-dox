@@ -1,0 +1,15 @@
+<map id="WalletModel::haveWatchOnly" name="WalletModel::haveWatchOnly">
+<area shape="rect" id="node2" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="249,17,454,43"/>
+<area shape="rect" id="node10" href="$class_transaction_view.html#a4920c2cd57d72eb50248948fa160c83c" title="TransactionView::setModel" alt="" coords="261,67,441,94"/>
+<area shape="rect" id="node11" href="$class_transaction_view.html#a5983022ff1e5395f87de3c5728eff8da" title="TransactionView::exportClicked" alt="" coords="248,118,455,145"/>
+<area shape="rect" id="node12" href="$class_wallet_model.html#adcc4eb8cd71cb4de223621866bb7fb7d" title="WalletModel::checkBalance\lChanged" alt="" coords="259,169,443,211"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="503,42,689,69"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="743,42,906,69"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="960,42,1139,69"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1660,5,1835,47"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1187,64,1365,105"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1413,71,1612,98"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1660,71,1835,112"/>
+<area shape="rect" id="node13" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="511,169,681,211"/>
+<area shape="rect" id="node14" href="$class_wallet_model.html#a36282857c97bcaad796a2b5c7398245c" title="WalletModel::WalletModel" alt="" coords="737,177,912,203"/>
+</map>

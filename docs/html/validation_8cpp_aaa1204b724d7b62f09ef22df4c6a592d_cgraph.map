@@ -1,0 +1,51 @@
+<map id="UpdateMempoolForReorg" name="UpdateMempoolForReorg">
+<area shape="rect" id="node2" href="$validation_8cpp.html#a9a88e9131d75562055e3ff8d233959ab" title="(try to) add transaction to memory pool plTxnReplaced will be appended to with all transactions repla..." alt="" coords="262,232,413,259"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#a1bdc49203ca7654d8508c356bcbca47e" title="CTxMemPool::removeRecursive" alt="" coords="231,344,443,371"/>
+<area shape="rect" id="node11" href="$class_c_tx_mem_pool.html#a8b7a13b5289ab839d4460f41a7da9789" title="CTxMemPool::exists" alt="" coords="265,416,410,443"/>
+<area shape="rect" id="node12" href="$class_c_tx_mem_pool.html#a0cdc801826e5b27d3d41ac9084711682" title="When adding transactions from a disconnected block back to the mempool, new mempool entries may have ..." alt="" coords="224,467,451,509"/>
+<area shape="rect" id="node14" href="$class_c_tx_mem_pool.html#acf12e024f4d6d5c0437227bc419c28fb" title="CTxMemPool::removeForReorg" alt="" coords="234,627,441,653"/>
+<area shape="rect" id="node19" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="861,728,953,755"/>
+<area shape="rect" id="node3" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="587,171,653,197"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a7efd1379de830341417c0bfa23a149aa" title="CTransaction::GetHash" alt="" coords="540,424,700,451"/>
+<area shape="rect" id="node6" href="$classindirectmap.html#a75843c1fb116ef691d369b6a53b52c19" title="indirectmap::find" alt="" coords="561,221,679,248"/>
+<area shape="rect" id="node7" href="$classindirectmap.html#acd46b7ca9e1569854a40327744dde108" title="indirectmap::end" alt="" coords="561,272,679,299"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#aea6c845956f051442dac0a13975b2192" title="Populate setDescendants with all in&#45;mempool descendants of hash. " alt="" coords="499,323,741,349"/>
+<area shape="rect" id="node10" href="$class_c_tx_mem_pool.html#ac9a9fc881945bbcec1b174f5dd62df08" title="Remove a set of transactions from the mempool. " alt="" coords="520,373,720,400"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool.html#a0f163f91b8590b86acd43b26438d7ee1" title="CTxMemPool::GetMemPoolChildren" alt="" coords="789,316,1024,343"/>
+<area shape="rect" id="node13" href="$reverse__iterator_8h.html#a5c42501cbdd92bec9f5a7886c4e9cfd5" title="reverse_iterate" alt="" coords="566,475,674,501"/>
+<area shape="rect" id="node15" href="$validation_8cpp.html#a2b1fec98f6318f76274f831b0d894ca2" title="Test whether the LockPoints height and time are still valid on the current chain. ..." alt="" coords="545,576,695,603"/>
+<area shape="rect" id="node17" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="569,829,671,856"/>
+<area shape="rect" id="node26" href="$validation_8cpp.html#ad6a438d8b190d5742cc471452da5d709" title="Check if transaction will be BIP 68 final in the next block to be created. " alt="" coords="543,627,697,653"/>
+<area shape="rect" id="node46" href="$class_c_coins_view_cache.html#afd0144ded5ce891084aabff29141f8b2" title="Return a reference to Coin in the cache, or a pruned one if not found. " alt="" coords="514,931,726,957"/>
+<area shape="rect" id="node48" href="$class_coin.html#ad900ffd083fd31e3b52adf3dc4092953" title="Coin::IsSpent" alt="" coords="569,525,671,552"/>
+<area shape="rect" id="node50" href="$class_coin.html#a2da55fc574a7346d11447133832f23e0" title="Coin::IsCoinBase" alt="" coords="557,677,683,704"/>
+<area shape="rect" id="node16" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="843,417,970,444"/>
+<area shape="rect" id="node18" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="851,905,963,932"/>
+<area shape="rect" id="node20" href="$class_c_block_index.html#aa9bd0ab02cf8b9c866618cee3a5a0583" title="CBlockIndex::GetMedianTimePast" alt="" coords="795,956,1019,983"/>
+<area shape="rect" id="node22" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="845,804,968,831"/>
+<area shape="rect" id="node25" href="$tx__verify_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="Check if transaction is final and can be included in a block with the specified height and time..." alt="" coords="869,855,945,881"/>
+<area shape="rect" id="node21" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="1072,968,1260,995"/>
+<area shape="rect" id="node23" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="1130,867,1202,893"/>
+<area shape="rect" id="node24" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="&quot;Never go to sea with two chronometers; take one or three.&quot; Our three time sources are: ..." alt="" coords="1112,917,1220,944"/>
+<area shape="rect" id="node27" href="$class_c_coins_view_mem_pool.html#a32f25cd311440908e7b53d95d7b0ba68" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="827,641,986,682"/>
+<area shape="rect" id="node29" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="883,468,931,495"/>
+<area shape="rect" id="node28" href="$class_c_tx_mem_pool.html#a4d4e4f6e476e22655033782e34a3064f" title="CTxMemPool::get" alt="" coords="1102,816,1230,843"/>
+<area shape="rect" id="node30" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="1123,208,1209,235"/>
+<area shape="rect" id="node31" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="1103,259,1229,285"/>
+<area shape="rect" id="node32" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="1087,309,1245,336"/>
+<area shape="rect" id="node33" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="1121,360,1211,387"/>
+<area shape="rect" id="node34" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="1119,411,1213,437"/>
+<area shape="rect" id="node35" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="1083,461,1249,488"/>
+<area shape="rect" id="node36" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="1102,512,1230,539"/>
+<area shape="rect" id="node37" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="1117,563,1215,589"/>
+<area shape="rect" id="node38" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="1095,613,1237,640"/>
+<area shape="rect" id="node39" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="1101,664,1231,691"/>
+<area shape="rect" id="node40" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="1122,715,1210,741"/>
+<area shape="rect" id="node41" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="1099,765,1233,792"/>
+<area shape="rect" id="node42" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="1115,5,1217,32"/>
+<area shape="rect" id="node43" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="1125,56,1207,83"/>
+<area shape="rect" id="node44" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="1115,107,1217,133"/>
+<area shape="rect" id="node45" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="1110,157,1222,184"/>
+<area shape="rect" id="node47" href="$class_c_coins_view_cache.html#aad44dd0b312871702e46ddfb449cecba" title="CCoinsViewCache::FetchCoin" alt="" coords="806,1007,1007,1033"/>
+<area shape="rect" id="node49" href="$class_c_tx_out.html#ab92a3c4c95c643f7b3ffd3ffa7cd7055" title="CTxOut::IsNull" alt="" coords="851,367,962,393"/>
+</map>

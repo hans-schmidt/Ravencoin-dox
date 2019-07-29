@@ -1,0 +1,4 @@
+<map id="GetTxnOutputType" name="GetTxnOutputType">
+<area shape="rect" id="node2" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="187,5,331,32"/>
+<area shape="rect" id="node3" href="$rawtransaction_8cpp.html#ac7e0210645b016dfbaec68de41c11dba" title="decodescript" alt="" coords="379,5,475,32"/>
+</map>

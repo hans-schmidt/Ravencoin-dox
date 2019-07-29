@@ -1,0 +1,5 @@
+<map id="CAddressUnspentKey::Serialize" name="CAddressUnspentKey::Serialize">
+<area shape="rect" id="node2" href="$struct_c_address_index_key.html#a4f734ba54187683fbb5290cc8d948c50" title="CAddressIndexKey::Serialize" alt="" coords="205,5,399,32"/>
+<area shape="rect" id="node3" href="$struct_c_address_index_iterator_asset_key.html#a78357617b1b8a1b977560694985b0ac6" title="CAddressIndexIteratorAsset\lKey::Serialize" alt="" coords="209,57,395,98"/>
+<area shape="rect" id="node4" href="$struct_c_address_index_iterator_height_key.html#aa81fe1a741bd4abc19033318fd71183e" title="CAddressIndexIteratorHeight\lKey::Serialize" alt="" coords="207,122,397,163"/>
+</map>

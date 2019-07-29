@@ -1,0 +1,3 @@
+<map id="indirectmap::erase" name="indirectmap::erase">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#a495e42ea8141b3cf2c5087e6eac5d001" title="Before calling removeUnchecked for a given transaction, UpdateForRemoveFromMempool must be called on ..." alt="" coords="183,5,401,32"/>
+</map>

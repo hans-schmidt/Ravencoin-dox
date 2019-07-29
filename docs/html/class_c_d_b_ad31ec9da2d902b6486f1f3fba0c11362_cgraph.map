@@ -1,0 +1,10 @@
+<map id="CDB::CDB" name="CDB::CDB">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b_wrapper.html#a8c7be1a860bee6ed0c5f00c3710ea015" title="Return whether this database handle is a dummy for testing. " alt="" coords="141,5,344,32"/>
+<area shape="rect" id="node3" href="$class_c_d_b_env.html#a7bf81c4e6a41d70e042b22ec9932b9ca" title="CDBEnv::Open" alt="" coords="186,56,299,83"/>
+<area shape="rect" id="node6" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="199,107,287,133"/>
+<area shape="rect" id="node7" href="$class_c_d_b_env.html#a5d5d0321d2ffae8a5079a1627609b0f0" title="CDBEnv::IsMock" alt="" coords="180,157,305,184"/>
+<area shape="rect" id="node8" href="$class_c_d_b.html#a5f7d7854dcbcec1b1f85bc6a0008563e" title="CDB::Exists" alt="" coords="195,208,291,235"/>
+<area shape="rect" id="node9" href="$class_c_d_b.html#aa3e63c0921af4c6fc92def1ba14500f1" title="CDB::WriteVersion" alt="" coords="175,259,310,285"/>
+<area shape="rect" id="node4" href="$util_8cpp.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="408,31,551,57"/>
+<area shape="rect" id="node5" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="392,81,567,108"/>
+</map>

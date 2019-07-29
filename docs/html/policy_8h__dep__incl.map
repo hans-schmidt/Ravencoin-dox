@@ -1,0 +1,30 @@
+<map id="src/policy/policy.h" name="src/policy/policy.h">
+<area shape="rect" id="node2" href="$ccoins__caching_8cpp.html" title="src/bench/ccoins_caching.cpp" alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node3" href="$mempool__eviction_8cpp.html" title="src/bench/mempool_eviction.cpp" alt="" coords="229,80,442,107"/>
+<area shape="rect" id="node4" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="467,80,553,107"/>
+<area shape="rect" id="node5" href="$miner_8cpp.html" title="src/miner.cpp" alt="" coords="578,80,679,107"/>
+<area shape="rect" id="node6" href="$net__processing_8cpp.html" title="src/net_processing.cpp" alt="" coords="703,80,861,107"/>
+<area shape="rect" id="node7" href="$policy_2fees_8cpp.html" title="src/policy/fees.cpp" alt="" coords="885,80,1017,107"/>
+<area shape="rect" id="node8" href="$policy_8cpp.html" title="src/policy/policy.cpp" alt="" coords="1042,80,1183,107"/>
+<area shape="rect" id="node9" href="$assetcontroldialog_8cpp.html" title="src/qt/assetcontroldialog.cpp" alt="" coords="1207,80,1397,107"/>
+<area shape="rect" id="node10" href="$assetsdialog_8cpp.html" title="src/qt/assetsdialog.cpp" alt="" coords="1421,80,1578,107"/>
+<area shape="rect" id="node11" href="$coincontroldialog_8cpp.html" title="src/qt/coincontroldialog.cpp" alt="" coords="1602,80,1783,107"/>
+<area shape="rect" id="node12" href="$createassetdialog_8cpp.html" title="src/qt/createassetdialog.cpp" alt="" coords="1807,80,1994,107"/>
+<area shape="rect" id="node13" href="$guiutil_8cpp.html" title="src/qt/guiutil.cpp" alt="" coords="2019,80,2137,107"/>
+<area shape="rect" id="node14" href="$paymentserver_8cpp.html" title="src/qt/paymentserver.cpp" alt="" coords="2162,80,2333,107"/>
+<area shape="rect" id="node15" href="$reissueassetdialog_8cpp.html" title="src/qt/reissueassetdialog.cpp" alt="" coords="2357,80,2549,107"/>
+<area shape="rect" id="node16" href="$walletmodeltransaction_8cpp.html" title="src/qt/walletmodeltransaction.cpp" alt="" coords="2573,80,2791,107"/>
+<area shape="rect" id="node17" href="$raven-tx_8cpp.html" title="src/raven&#45;tx.cpp" alt="" coords="2815,80,2931,107"/>
+<area shape="rect" id="node18" href="$rpc_2assets_8cpp.html" title="src/rpc/assets.cpp" alt="" coords="2955,80,3086,107"/>
+<area shape="rect" id="node19" href="$blockchain_8cpp.html" title="src/rpc/blockchain.cpp" alt="" coords="3111,80,3264,107"/>
+<area shape="rect" id="node20" href="$rpc_2messages_8cpp.html" title="src/rpc/messages.cpp" alt="" coords="3288,80,3439,107"/>
+<area shape="rect" id="node21" href="$rpc_2net_8cpp.html" title="src/rpc/net.cpp" alt="" coords="3463,80,3573,107"/>
+<area shape="rect" id="node22" href="$rawtransaction_8cpp.html" title="src/rpc/rawtransaction.cpp" alt="" coords="3597,80,3773,107"/>
+<area shape="rect" id="node23" href="$sign_8cpp.html" title="src/script/sign.cpp" alt="" coords="3797,80,3927,107"/>
+<area shape="rect" id="node24" href="$txmempool_8cpp.html" title="src/txmempool.cpp" alt="" coords="3951,80,4085,107"/>
+<area shape="rect" id="node25" href="$validation_8cpp.html" title="src/validation.cpp" alt="" coords="4109,80,4233,107"/>
+<area shape="rect" id="node26" href="$feebumper_8cpp.html" title="src/wallet/feebumper.cpp" alt="" coords="4258,80,4426,107"/>
+<area shape="rect" id="node27" href="$wallet_2fees_8cpp.html" title="src/wallet/fees.cpp" alt="" coords="4451,80,4583,107"/>
+<area shape="rect" id="node28" href="$rpcwallet_8cpp.html" title="src/wallet/rpcwallet.cpp" alt="" coords="4607,80,4765,107"/>
+<area shape="rect" id="node29" href="$wallet_8cpp.html" title="src/wallet/wallet.cpp" alt="" coords="4790,80,4931,107"/>
+</map>

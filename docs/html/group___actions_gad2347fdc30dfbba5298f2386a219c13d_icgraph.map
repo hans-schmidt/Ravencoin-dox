@@ -1,0 +1,16 @@
+<map id="CReserveKey::GetReservedKey" name="CReserveKey::GetReservedKey">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#a3ba9ef66d33d66c86661f062d6e7d421" title="getrawchangeaddress" alt="" coords="285,48,434,75"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga35154f4813aaef32ab0f740111f68fb0" title="RVN START. " alt="" coords="265,99,453,141"/>
+<area shape="rect" id="node4" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="525,5,688,32"/>
+<area shape="rect" id="node5" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="501,56,712,83"/>
+<area shape="rect" id="node7" href="$rpc_2assets_8cpp.html#a417cb44a82745ed3dc33e23ca777a44c" title="UpdateAddressTag" alt="" coords="539,107,674,133"/>
+<area shape="rect" id="node10" href="$rpc_2assets_8cpp.html#a0334c36dd0b0df30124e3e7b02cc920d" title="UpdateAddressRestriction" alt="" coords="519,157,694,184"/>
+<area shape="rect" id="node13" href="$rpc_2assets_8cpp.html#a1235254f4405fcc980887407f35a64fc" title="UpdateGlobalRestrictedAsset" alt="" coords="509,259,704,285"/>
+<area shape="rect" id="node6" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="760,5,967,32"/>
+<area shape="rect" id="node8" href="$rpc_2assets_8cpp.html#a553a935e183cc0fe5562e3fb81e8a170" title="addtagtoaddress" alt="" coords="804,56,923,83"/>
+<area shape="rect" id="node9" href="$rpc_2assets_8cpp.html#a635dc8e538f29cd5fe67772906fa1e3c" title="removetagfromaddress" alt="" coords="786,107,941,133"/>
+<area shape="rect" id="node11" href="$rpc_2assets_8cpp.html#ae1f7aa4158eccd96f5cf9a9793f48b9d" title="freezeaddress" alt="" coords="811,157,915,184"/>
+<area shape="rect" id="node12" href="$rpc_2assets_8cpp.html#a700bc2c9d6789eb3a3d5749b84f2e57a" title="unfreezeaddress" alt="" coords="804,208,923,235"/>
+<area shape="rect" id="node14" href="$rpc_2assets_8cpp.html#a6f3bba0f102428438dc41c8bb116abc1" title="freezerestrictedasset" alt="" coords="791,259,935,285"/>
+<area shape="rect" id="node15" href="$rpc_2assets_8cpp.html#afca9ae59ab69e049736e4e2c1e8b61da" title="unfreezerestrictedasset" alt="" coords="784,309,943,336"/>
+</map>

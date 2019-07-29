@@ -1,0 +1,4 @@
+<map id="ReissueAssetDialog::minimizeFeeSection" name="ReissueAssetDialog::minimizeFeeSection">
+<area shape="rect" id="node2" href="$class_reissue_asset_dialog.html#ac4d18d78e839b43251ded284e8d84599" title="ReissueAssetDialog\l::on_buttonChooseFee\l_clicked" alt="" coords="205,5,359,61"/>
+<area shape="rect" id="node3" href="$class_reissue_asset_dialog.html#a6c8d56beaf10d22d7b9f71940905da63" title="ReissueAssetDialog\l::on_buttonMinimizeFee\l_clicked" alt="" coords="201,85,363,141"/>
+</map>

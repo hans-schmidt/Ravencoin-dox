@@ -1,0 +1,5 @@
+<map id="CWallet::GetDestValues" name="CWallet::GetDestValues">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a0ec10fbe74317b1949ac4ae63451d115" title="WalletModel::loadReceive\lRequests" alt="" coords="231,5,406,47"/>
+<area shape="rect" id="node4" href="$wallet__tests_8cpp.html#a18ed955c89f8485295fa1de364b826c8" title="BOOST_AUTO_TEST_CASE" alt="" coords="220,71,417,98"/>
+<area shape="rect" id="node3" href="$class_recent_requests_table_model.html#ab3ef691b8c34e6d6e5ae0bdf7953a360" title="RecentRequestsTableModel\l::RecentRequestsTableModel" alt="" coords="465,5,660,47"/>
+</map>

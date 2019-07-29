@@ -1,0 +1,51 @@
+<map id="tinyformat::makeFormatList" name="tinyformat::makeFormatList">
+<area shape="rect" id="node2" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="236,2357,361,2384"/>
+<area shape="rect" id="node50" href="$namespacetinyformat.html#a3621ecff051629bf09d87813104568eb" title="tinyformat::printfln" alt="" coords="643,2433,770,2460"/>
+<area shape="rect" id="node3" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="448,1241,496,1268"/>
+<area shape="rect" id="node48" href="$namespacetinyformat.html#aa2768ebf94f6989dfcea052b3d3f9b9f" title="Format list of arguments according to the given format string and return the result as a string..." alt="" coords="409,2357,535,2384"/>
+<area shape="rect" id="node49" href="$namespacetinyformat.html#a72cec9a050602495fc65c8f321e43478" title="Format list of arguments to std::cout, according to the given format string. " alt="" coords="413,2408,531,2435"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a78e4b3b650fd78ff8261cbf079155045" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="605,187,808,213"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="609,238,804,279"/>
+<area shape="rect" id="node6" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="599,303,814,345"/>
+<area shape="rect" id="node7" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="592,369,821,410"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="605,435,808,461"/>
+<area shape="rect" id="node9" href="$class_c_coins_view_cache.html#ad9ccb571fa3a311828efcee46c13bd65" title="Spend a coin. " alt="" coords="879,460,1084,487"/>
+<area shape="rect" id="node10" href="$class_c_assets_cache.html#a0c43a3a5962805c6358b90dda2abda4e" title="CAssetsCache::UndoAssetCoin" alt="" coords="601,536,812,563"/>
+<area shape="rect" id="node11" href="$class_c_assets_cache.html#a226cec2d3134721b3fea8127bbd1549e" title="Changes Memory Only. " alt="" coords="607,587,806,613"/>
+<area shape="rect" id="node12" href="$class_c_assets_cache.html#a68da2d53f80143a0644e98a87b60efd2" title="Cache only undo functions. " alt="" coords="592,637,821,664"/>
+<area shape="rect" id="node13" href="$class_c_assets_cache.html#a7c55e7e3c3609e08e6b2ac088eea3f10" title="Cache only add asset functions. " alt="" coords="605,739,808,765"/>
+<area shape="rect" id="node14" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="942,739,1021,765"/>
+<area shape="rect" id="node15" href="$class_c_assets_cache.html#a9c3d2c9475d31549b37460a3f438fc20" title="Changes Memory Only. " alt="" coords="611,790,802,831"/>
+<area shape="rect" id="node16" href="$class_c_assets_cache.html#a8ac4066b8f63246f7b447642bf14b797" title="Changes Memory Only. " alt="" coords="599,855,815,897"/>
+<area shape="rect" id="node17" href="$class_c_assets_cache.html#afcc1e5da7958b8ccd58a837924b2109a" title="Changes Memory Only. " alt="" coords="599,921,815,948"/>
+<area shape="rect" id="node18" href="$class_c_assets_cache.html#ae7fae54a79efd6fa5f48bf3e559f11e7" title="Write asset cache data to database. " alt="" coords="603,973,810,1014"/>
+<area shape="rect" id="node19" href="$class_c_assets_cache.html#a944260f72095bae895284480f96067c5" title="Flush all new cache entries into the passets global cache. " alt="" coords="631,1039,782,1065"/>
+<area shape="rect" id="node20" href="$assets_8h.html#ac04b8a7fff37f9c7ff2c8f8682961ce6" title="CheckVerifierString" alt="" coords="639,1191,774,1217"/>
+<area shape="rect" id="node21" href="$assets_8h.html#a92ccc0f4b0b9b6cf54306673d504fad4" title="ContextualCheckVerifierString" alt="" coords="882,1140,1081,1167"/>
+<area shape="rect" id="node22" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1132,1165,1339,1192"/>
+<area shape="rect" id="node23" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="879,1241,1084,1268"/>
+<area shape="rect" id="node24" href="$rpc_2assets_8cpp.html#a417cb44a82745ed3dc33e23ca777a44c" title="UpdateAddressTag" alt="" coords="914,1304,1049,1331"/>
+<area shape="rect" id="node25" href="$rpc_2assets_8cpp.html#a0334c36dd0b0df30124e3e7b02cc920d" title="UpdateAddressRestriction" alt="" coords="894,1380,1069,1407"/>
+<area shape="rect" id="node26" href="$rpc_2assets_8cpp.html#a1235254f4405fcc980887407f35a64fc" title="UpdateGlobalRestrictedAsset" alt="" coords="884,1437,1079,1464"/>
+<area shape="rect" id="node27" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="936,1492,1027,1519"/>
+<area shape="rect" id="node28" href="$class_c_message_d_b.html#a648aa6b7059d9db2bfffe760f0bd9d85" title="CMessageDB::Flush" alt="" coords="635,1596,779,1623"/>
+<area shape="rect" id="node29" href="$class_c_message_channel_d_b.html#aa035b7e674df725a4134880b3c4f1bdc" title="CMessageChannelDB::\lFlush" alt="" coords="627,1647,787,1689"/>
+<area shape="rect" id="node30" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="930,1544,1033,1571"/>
+<area shape="rect" id="node31" href="$class_c_script_check.html#a1340496c37e521c253606b5957173afd" title="CScriptCheck::GetScriptError" alt="" coords="884,1739,1079,1765"/>
+<area shape="rect" id="node32" href="$class_c_node.html#a331888bc15bb49775451d951735e4b6a" title="May not be called more than once. " alt="" coords="632,1815,781,1841"/>
+<area shape="rect" id="node33" href="$class_c_node.html#a0a55cea2748b1837610b2caed8069a90" title="CNode::SetSendVersion" alt="" coords="624,1865,789,1892"/>
+<area shape="rect" id="node34" href="$class_c_node.html#a253ceac237f69cc1155bfb71acd0c48f" title="CNode::GetSendVersion" alt="" coords="623,1916,790,1943"/>
+<area shape="rect" id="node35" href="$class_c_connman.html#a999ec42f1515f77096556c94c29c6538" title="CConnman::WakeMessageHandler" alt="" coords="593,1967,821,1993"/>
+<area shape="rect" id="node36" href="$netbase_8h.html#ac4d702700b01312baccffa6f36703800" title="ConnectSocketDirectly" alt="" coords="628,2017,785,2044"/>
+<area shape="rect" id="node37" href="$rpc_2protocol_8h.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="649,1393,764,1420"/>
+<area shape="rect" id="node38" href="$class_create_asset_dialog.html#a5906e5b70ee2ad507cd8cb4b269423ac" title="CreateAssetDialog::\lcheckIPFSHash" alt="" coords="637,2069,777,2110"/>
+<area shape="rect" id="node39" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="911,2098,1051,2139"/>
+<area shape="rect" id="node40" href="$class_create_asset_dialog.html#afe8c4424e900a322a391a036185052cc" title="CreateAssetDialog::\lonNameChanged" alt="" coords="637,2186,777,2227"/>
+<area shape="rect" id="node41" href="$class_payment_request_plus.html#a3d13d13cf6a552695971cc257a33ca81" title="PaymentRequestPlus\l::getMerchant" alt="" coords="632,2251,781,2293"/>
+<area shape="rect" id="node42" href="$class_reissue_asset_dialog.html#aa2f4601a131610b59d3d28fea1edceb2" title="ReissueAssetDialog\l::checkIPFSHash" alt="" coords="636,2317,777,2358"/>
+<area shape="rect" id="node43" href="$class_send_assets_entry.html#aa9294e7c8c528e1971305d86b1c65558" title="SendAssetsEntry::validate" alt="" coords="618,2383,795,2409"/>
+<area shape="rect" id="node44" href="$class_wallet_model.html#a1c12ea47660aeb523c9f3a414b0d0ce9" title="WalletModel::sendAssets" alt="" coords="621,5,792,32"/>
+<area shape="rect" id="node45" href="$class_mutable_transaction_signature_checker.html#a69407a42e0c79a3eaab03a2a2c5051be" title="MutableTransactionSignature\lChecker::MutableTransactionSignature\lChecker" alt="" coords="583,56,831,112"/>
+<area shape="rect" id="node46" href="$validation_8h.html#a6a5f8bb0345ec6edd56c7ff2ee6665db" title="Check if transaction will be BIP 68 final in the next block to be created. " alt="" coords="630,136,783,163"/>
+<area shape="rect" id="node47" href="$validation_8h.html#a4c6cdf4538a494d1394a44398bb2feea" title="GetTimestampIndex" alt="" coords="637,1713,777,1740"/>
+</map>

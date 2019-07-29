@@ -1,0 +1,18 @@
+<map id="CTxMemPoolEntry::GetTxSize" name="CTxMemPoolEntry::GetTxSize">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#af34606ec5f6af217e23b47b8c3b2e361" title="Process a transaction accepted to the mempool. " alt="" coords="309,5,466,47"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#ad510f436f380764056491d458adde906" title="CTxMemPool::addUnchecked" alt="" coords="583,17,780,43"/>
+<area shape="rect" id="node4" href="$class_c_block_policy_estimator.html#adac45c8dba3d152590fc65b0ac831bda" title="Process a transaction confirmed in a block. " alt="" coords="309,123,466,164"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#a8ae043194110fec37d5d8c810be7c9ec" title="Try to calculate all in&#45;mempool ancestors of entry. " alt="" coords="290,188,485,229"/>
+<area shape="rect" id="node15" href="$class_compare_tx_mem_pool_entry_by_descendant_score.html#a93a2240e6e7f89a40b3bc4069caca8aa" title="CompareTxMemPoolEntryByDescendant\lScore::operator()" alt="" coords="256,253,519,295"/>
+<area shape="rect" id="node16" href="$class_compare_tx_mem_pool_entry_by_descendant_score.html#a989520d6e471d07bcfb951a63d55683d" title="CompareTxMemPoolEntryByDescendant\lScore::UseDescendantScore" alt="" coords="256,319,519,360"/>
+<area shape="rect" id="node17" href="$class_compare_tx_mem_pool_entry_by_score.html#afb1f8bc8ea1b3734007c61c1171aca63" title="CompareTxMemPoolEntryByScore\l::operator()" alt="" coords="274,384,501,425"/>
+<area shape="rect" id="node5" href="$class_c_block_policy_estimator.html#a65e487a203acb59995c667ab91b87444" title="Process all the transactions that have been included in a block. " alt="" coords="603,75,760,116"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#ad140b39a0be43b4c0ca1872ba7323351" title="Called when a block is connected. " alt="" coords="844,82,1049,109"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="1097,82,1303,109"/>
+<area shape="rect" id="node9" href="$class_block_assembler.html#ae70b1a66271f21fd4bc9dd0e72b3091d" title="Add transactions based on feerate including unconfirmed ancestors Increments nPackagesSelected / nDes..." alt="" coords="572,141,791,167"/>
+<area shape="rect" id="node10" href="$rbf_8h.html#a880b888b68f505a3fb00e099eb66006d" title="IsRBFOptIn" alt="" coords="635,191,727,218"/>
+<area shape="rect" id="node11" href="$blockchain_8cpp.html#a0dbc687da2b478fac18d9776272961d5" title="getmempoolancestors" alt="" coords="606,242,757,269"/>
+<area shape="rect" id="node12" href="$class_c_tx_mem_pool.html#ab30fadfa811829e79accca41da6a8328" title="If sanity&#45;checking is turned on, check makes sure the pool is consistent (does not contain two transa..." alt="" coords="609,293,754,319"/>
+<area shape="rect" id="node13" href="$class_c_tx_mem_pool.html#a076041ea11b38722d1419c1640bf6ac4" title="Affect CreateNewBlock prioritisation of transactions. " alt="" coords="567,343,796,370"/>
+<area shape="rect" id="node14" href="$mining_8cpp.html#a617a6a3bdefa5ef27a13d8e138e8c292" title="prioritisetransaction" alt="" coords="879,343,1014,370"/>
+</map>

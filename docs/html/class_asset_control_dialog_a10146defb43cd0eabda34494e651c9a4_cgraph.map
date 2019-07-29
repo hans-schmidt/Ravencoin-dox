@@ -1,0 +1,6 @@
+<map id="AssetControlDialog::showMenu" name="AssetControlDialog::showMenu">
+<area shape="rect" id="node2" href="$class_wallet_model.html#abeea7ae42ec38ace2786b2e3d340f5a2" title="RVN END. " alt="" coords="188,5,369,32"/>
+<area shape="rect" id="node4" href="$uint256_8h.html#a52e679560cc1ebf68f878ed69e38f259" title="uint256S" alt="" coords="242,56,315,83"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga58abc6e61537f10bfb9429587ed29074" title="CWallet::IsLockedCoin" alt="" coords="417,5,575,32"/>
+<area shape="rect" id="node5" href="$classbase__blob.html#a5ec1f681a2830f4e180fe664c0eb4dd0" title="base_blob::SetHex" alt="" coords="429,56,563,83"/>
+</map>

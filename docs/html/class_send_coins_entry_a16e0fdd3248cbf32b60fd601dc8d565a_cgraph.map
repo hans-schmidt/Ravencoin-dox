@@ -1,0 +1,11 @@
+<map id="SendCoinsEntry::updateLabel" name="SendCoinsEntry::updateLabel">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a89ed202e2dbc04aaa70d72872b95b351" title="WalletModel::getAddressTable\lModel" alt="" coords="248,9,448,50"/>
+<area shape="rect" id="node3" href="$class_address_table_model.html#afcdbfc17ac480f5a57382cbcf096ccb3" title="AddressTableModel::\llabelForAddress" alt="" coords="275,74,421,115"/>
+<area shape="rect" id="node4" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="496,81,629,108"/>
+<area shape="rect" id="node5" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="677,81,824,108"/>
+<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="935,31,1007,57"/>
+<area shape="rect" id="node9" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="937,81,1004,108"/>
+<area shape="rect" id="node10" href="$class_c_chain_params.html#a103c58eca4a26a71201882b3ed6c4cb4" title="CChainParams::Base58Prefix" alt="" coords="872,132,1069,159"/>
+<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1117,5,1200,32"/>
+<area shape="rect" id="node8" href="$glibc__compat_8cpp.html#a424ac71631da5ada2976630ff67051d1" title="__chk_fail" alt="" coords="1118,56,1199,83"/>
+</map>

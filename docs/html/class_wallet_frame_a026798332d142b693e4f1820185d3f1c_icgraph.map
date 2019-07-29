@@ -1,0 +1,15 @@
+<map id="WalletFrame::currentWalletView" name="WalletFrame::currentWalletView">
+<area shape="rect" id="node2" href="$class_wallet_frame.html#aa8c5b10f2240df164795619ca41c619c" title="WalletFrame::handlePayment\lRequest" alt="" coords="286,5,481,47"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#a386b4f2e20af7d13a688662cd3f9e1fc" title="Show Sign/Verify Message dialog and switch to sign message tab. " alt="" coords="268,71,499,98"/>
+<area shape="rect" id="node8" href="$class_wallet_frame.html#af5cce5026575d013cb9d6933ebe7aa98" title="Show Sign/Verify Message dialog and switch to verify message tab. " alt="" coords="264,122,503,149"/>
+<area shape="rect" id="node9" href="$class_wallet_frame.html#a8a9a419ba3e249f29fe321f2d789b761" title="Encrypt the wallet. " alt="" coords="291,173,475,199"/>
+<area shape="rect" id="node10" href="$class_wallet_frame.html#a76aa3543635fedea052661a4cd44b81d" title="Backup the wallet. " alt="" coords="292,223,475,250"/>
+<area shape="rect" id="node11" href="$class_wallet_frame.html#a0a4026a734acdc0f5fbd5f775c167443" title="Change encrypted wallet passphrase. " alt="" coords="276,274,491,301"/>
+<area shape="rect" id="node12" href="$class_wallet_frame.html#a31b6e87c87b383ef53225b6c2b37f057" title="Ask for passphrase to unlock wallet temporarily. " alt="" coords="294,325,473,351"/>
+<area shape="rect" id="node13" href="$class_wallet_frame.html#a7f697d220e7ea40d6e4d6e6c5e9ef3b4" title="Show used sending addresses. " alt="" coords="294,376,473,417"/>
+<area shape="rect" id="node14" href="$class_wallet_frame.html#a9273a0b98cf7ec9fc344658c38a4a0a3" title="Show used receiving addresses. " alt="" coords="288,441,479,483"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#a6d7d2d398b230d83e37ea8b22acd4d9a" title="RavenGUI::eventFilter" alt="" coords="575,13,729,39"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#ae7206842e6ed9672aad4da7dc841f5f1" title="Show help message dialog. " alt="" coords="551,89,753,131"/>
+<area shape="rect" id="node6" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="801,97,973,123"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="1021,97,1176,123"/>
+</map>

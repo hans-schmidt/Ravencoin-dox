@@ -1,0 +1,14 @@
+<map id="GetParentName" name="GetParentName">
+<area shape="rect" id="node2" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="179,5,389,47"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="187,71,381,112"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="177,136,391,177"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="169,201,399,243"/>
+<area shape="rect" id="node6" href="$class_c_assets_cache.html#aec715d565a4e21dede13bbbfe5d3ce03" title="Changes Memory Only, this only called when adding a block to the chain. " alt="" coords="189,267,379,308"/>
+<area shape="rect" id="node7" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="447,303,525,330"/>
+<area shape="rect" id="node11" href="$class_c_assets_cache.html#a16242b963ad8a7f868e11a54fda7c989" title="Changes Memory Only, this is only called when undoing a block from the chain. " alt="" coords="176,384,392,425"/>
+<area shape="rect" id="node12" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="203,450,365,477"/>
+<area shape="rect" id="node13" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="181,501,387,527"/>
+<area shape="rect" id="node8" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="573,278,753,305"/>
+<area shape="rect" id="node9" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="614,329,713,355"/>
+<area shape="rect" id="node10" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="801,329,900,355"/>
+</map>

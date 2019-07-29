@@ -1,0 +1,7 @@
+<map id="CWalletDBWrapper::CWalletDBWrapper" name="CWalletDBWrapper::CWalletDBWrapper">
+<area shape="rect" id="node2" href="$class_c_d_b.html#aeb3bc2ee8657b51f1d844b9f8320929d" title="CDB::Rewrite" alt="" coords="245,81,349,108"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b_wrapper.html#a8c7be1a860bee6ed0c5f00c3710ea015" title="Return whether this database handle is a dummy for testing. " alt="" coords="397,5,600,32"/>
+<area shape="rect" id="node4" href="$class_c_d_b_env.html#ac53fd53afdd1e0881b8ffbb11a89b556" title="CDBEnv::CloseDb" alt="" coords="432,56,565,83"/>
+<area shape="rect" id="node5" href="$class_c_d_b_env.html#aa4e0fe52dfc0da22fe9bf59eeda57fba" title="CDBEnv::CheckpointLSN" alt="" coords="411,107,586,133"/>
+<area shape="rect" id="node6" href="$class_c_d_b.html#a5ea1cb8e2f2e9ad357d5e37619eabed2" title="CDB::GetCursor" alt="" coords="439,157,558,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SignVerifyMessageDialog::setAddress_VM" name="SignVerifyMessageDialog::setAddress_VM">
+<area shape="rect" id="node2" href="$class_sign_verify_message_dialog.html#a90ceb00084c68da5e9c481ba0841d976" title="SignVerifyMessageDialog\l::on_addressBookButton\l_VM_clicked" alt="" coords="255,5,427,61"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a23aaaf87d3aec5ae8b1b8320d66796" title="Show Sign/Verify Message dialog and switch to verify message tab. " alt="" coords="225,85,456,112"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#af5cce5026575d013cb9d6933ebe7aa98" title="Show Sign/Verify Message dialog and switch to verify message tab. " alt="" coords="504,85,743,112"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#ae7206842e6ed9672aad4da7dc841f5f1" title="Show help message dialog. " alt="" coords="791,78,993,119"/>
+<area shape="rect" id="node6" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="1041,85,1213,112"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="1261,85,1416,112"/>
+</map>

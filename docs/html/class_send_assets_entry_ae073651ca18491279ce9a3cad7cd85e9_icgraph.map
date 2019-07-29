@@ -1,0 +1,5 @@
+<map id="SendAssetsEntry::isClear" name="SendAssetsEntry::isClear">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a0a9c3ab2bc735b9ff5146b7615ebe9d9" title="AssetsDialog::setAddress" alt="" coords="227,5,401,32"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="229,56,399,83"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#a6ef27cbd6256b7af509e3f10a2e2e89c" title="AssetsDialog::handlePayment\lRequest" alt="" coords="449,49,648,90"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CWalletDB::WriteMasterKey" name="CWalletDB::WriteMasterKey">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="244,31,472,57"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a67ebff3f267b5c9973c0465184c085a4" title="WalletModel::changePassphrase" alt="" coords="520,5,733,32"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#acc41d3c00924c9805c9ff98816f1ea80" title="walletpassphrasechange" alt="" coords="544,56,709,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="base_uint::getdouble" name="base_uint::getdouble">
+<area shape="rect" id="node2" href="$classbase__uint.html#afe1eacc0b592cf184ac8ee0446997fbe" title="Returns the position of the highest bit set plus one, or zero if the value is zero. " alt="" coords="196,5,348,32"/>
+<area shape="rect" id="node3" href="$mining_8cpp.html#a5f6e044d7c2d84b3beb3a356b02e025b" title="Return average network hashes per second based on the last &#39;lookup&#39; blocks, or from the last difficul..." alt="" coords="201,56,343,83"/>
+<area shape="rect" id="node4" href="$mining_8cpp.html#a6f67f7971af006b31c86a032b63812a4" title="getnetworkhashps" alt="" coords="396,56,524,83"/>
+</map>

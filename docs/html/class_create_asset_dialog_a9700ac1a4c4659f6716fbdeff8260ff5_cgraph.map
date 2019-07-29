@@ -1,0 +1,51 @@
+<map id="CreateAssetDialog::CreateAssetDialog" name="CreateAssetDialog::CreateAssetDialog">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#ad489dbbb54713a98847998d9721c7101" title="SLOTS. " alt="" coords="227,293,367,335"/>
+<area shape="rect" id="node16" href="$class_create_asset_dialog.html#a15a1a9145508ae601f890e808df4bd27" title="CreateAssetDialog::\lcheckAvailabilityClicked" alt="" coords="459,420,623,461"/>
+<area shape="rect" id="node18" href="$class_create_asset_dialog.html#afe8c4424e900a322a391a036185052cc" title="CreateAssetDialog::\lonNameChanged" alt="" coords="697,868,837,909"/>
+<area shape="rect" id="node22" href="$class_create_asset_dialog.html#ac9da60f170acd8f2bdc3f1af18933376" title="CreateAssetDialog::\lonAddressNameChanged" alt="" coords="455,224,626,265"/>
+<area shape="rect" id="node23" href="$class_create_asset_dialog.html#af0bc8685461d2aa1ca30a4ba5da4a3dd" title="CreateAssetDialog::\lonIPFSHashChanged" alt="" coords="466,159,615,200"/>
+<area shape="rect" id="node24" href="$class_create_asset_dialog.html#a5bf0d8099ee87ee2667633bfaca2a6fb" title="CreateAssetDialog::\lonCreateAssetClicked" alt="" coords="220,464,373,505"/>
+<area shape="rect" id="node25" href="$class_create_asset_dialog.html#a9ba15623e2c6566d997b0ec8e2a51763" title="CreateAssetDialog::\lonUnitChanged" alt="" coords="227,529,367,571"/>
+<area shape="rect" id="node26" href="$class_create_asset_dialog.html#a0798fb7d7daa16c4d49001170c4a4d37" title="CreateAssetDialog::\lonAssetTypeActivated" alt="" coords="689,1367,844,1408"/>
+<area shape="rect" id="node31" href="$class_create_asset_dialog.html#a5c1bf9f08f3530f062f225ad5c06fee1" title="CreateAssetDialog::\lonAssetListActivated" alt="" coords="693,1184,840,1225"/>
+<area shape="rect" id="node32" href="$class_create_asset_dialog.html#a0b95e3f6dd2fd1ed869b3db1bf7937f4" title="CreateAssetDialog::\lonClearButtonClicked" alt="" coords="466,355,615,396"/>
+<area shape="rect" id="node34" href="$namespace_g_u_i_util.html#aeb3b902c0536bdb9c2def3d3e465aeba" title="GUIUtil::setupAddressWidget" alt="" coords="199,773,394,799"/>
+<area shape="rect" id="node38" href="$class_create_asset_dialog.html#a48181a6ef7b33bc3cbe27313f7e2a16a" title="CreateAssetDialog::\lcoinControlButtonClicked" alt="" coords="455,965,626,1007"/>
+<area shape="rect" id="node41" href="$class_create_asset_dialog.html#aff1dd8df4763907b0d5f3d3af0285ff7" title="CreateAssetDialog::\lcoinControlChangeChecked" alt="" coords="448,576,633,617"/>
+<area shape="rect" id="node42" href="$class_create_asset_dialog.html#aef3a1821b31b37c6494227e1550b2235" title="CreateAssetDialog::\lcoinControlChangeEdited" alt="" coords="681,575,852,616"/>
+<area shape="rect" id="node44" href="$class_create_asset_dialog.html#ade4015416efee12fc614f84b92b6e105" title="CreateAssetDialog::\lcoinControlClipboardQuantity" alt="" coords="201,976,393,1017"/>
+<area shape="rect" id="node45" href="$class_create_asset_dialog.html#aaea4283ae107244b5020bfa7c2226d9f" title="CreateAssetDialog::\lcoinControlClipboardAmount" alt="" coords="203,1041,391,1083"/>
+<area shape="rect" id="node46" href="$class_create_asset_dialog.html#ac2833f324058eaa688820753e9246a80" title="CreateAssetDialog::\lcoinControlClipboardFee" alt="" coords="214,1107,379,1148"/>
+<area shape="rect" id="node47" href="$class_create_asset_dialog.html#a801780e65264d81dd5e51f6a6cfba1a1" title="CreateAssetDialog::\lcoinControlClipboardAfterFee" alt="" coords="200,1172,393,1213"/>
+<area shape="rect" id="node48" href="$class_create_asset_dialog.html#a50f9b5d08af5824643061e6283c54652" title="CreateAssetDialog::\lcoinControlClipboardBytes" alt="" coords="208,1237,385,1279"/>
+<area shape="rect" id="node49" href="$class_create_asset_dialog.html#afd93f5f6a8b79c24b9afb4653900e399" title="CreateAssetDialog::\lcoinControlClipboardLowOutput" alt="" coords="193,1303,400,1344"/>
+<area shape="rect" id="node50" href="$class_create_asset_dialog.html#acb956f4fe8d8c7b589a9a5edef759a5e" title="CreateAssetDialog::\lcoinControlClipboardChange" alt="" coords="203,1368,391,1409"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#af95ab6bad7ceb28ec010d3bf90abd1cc" title="CreateAssetDialog::\ltoggleIPFSText" alt="" coords="471,289,611,331"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="697,237,837,279"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#ac86e59d06648856407d3dff4922c9086" title="CreateAssetDialog::\ldisableCreateButton" alt="" coords="1148,427,1288,468"/>
+<area shape="rect" id="node6" href="$class_create_asset_dialog.html#a0a9efcbea039147ee3d5a13f205f3636" title="CreateAssetDialog::\lhideMessage" alt="" coords="1148,267,1288,308"/>
+<area shape="rect" id="node7" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="933,346,1067,373"/>
+<area shape="rect" id="node8" href="$class_create_asset_dialog.html#a5f1cb5ddd6d4f4628e55be71a02c608d" title="CreateAssetDialog::\lGetAssetName" alt="" coords="930,515,1070,556"/>
+<area shape="rect" id="node9" href="$assettypes_8cpp.html#a4e30ad1d1a0e7f52fc2f8f1bf11e0f22" title="IntFromAssetType" alt="" coords="1153,1093,1283,1119"/>
+<area shape="rect" id="node10" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="1194,26,1242,53"/>
+<area shape="rect" id="node11" href="$assets_2assets_8cpp.html#a825ae021aa75698b44ac054638bc1033" title="Given a type, and an asset name, return if that name is valid based on the type. " alt="" coords="918,631,1082,658"/>
+<area shape="rect" id="node12" href="$assettypes_8cpp.html#a466a3d882e7ea5bf23e7ecee445b2d3d" title="AssetTypeFromInt" alt="" coords="935,682,1065,709"/>
+<area shape="rect" id="node13" href="$class_create_asset_dialog.html#a1d58463ebfa5875e617cd3faedf862ac" title="CreateAssetDialog::\lshowMessage" alt="" coords="1148,77,1288,119"/>
+<area shape="rect" id="node14" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="936,295,1064,322"/>
+<area shape="rect" id="node15" href="$class_create_asset_dialog.html#a5906e5b70ee2ad507cd8cb4b269423ac" title="CreateAssetDialog::\lcheckIPFSHash" alt="" coords="930,77,1070,119"/>
+<area shape="rect" id="node17" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="687,413,846,439"/>
+<area shape="rect" id="node19" href="$class_create_asset_dialog.html#ab607ea97aea03efa76daf3dc2c098df2" title="CreateAssetDialog::\lUpdateAssetNameToUpper" alt="" coords="909,1053,1091,1095"/>
+<area shape="rect" id="node20" href="$class_create_asset_dialog.html#a1ce91f290c34d88a5006e93d1e8e8025" title="CreateAssetDialog::\lGetSpecialCharacter" alt="" coords="929,1119,1071,1160"/>
+<area shape="rect" id="node21" href="$class_create_asset_dialog.html#a2c1fc0441715acb09a9793c55b5ff971" title="CreateAssetDialog::\lupdatePresentedAssetName" alt="" coords="905,1184,1095,1225"/>
+<area shape="rect" id="node27" href="$class_create_asset_dialog.html#a516d7768de431bf4ede1aec037dfe87a" title="CreateAssetDialog::\lsetUniqueSelected" alt="" coords="930,1535,1070,1576"/>
+<area shape="rect" id="node28" href="$class_create_asset_dialog.html#a723ea3c0a73dd5719b078d4046ef1ea0" title="CreateAssetDialog::\lclearSelected" alt="" coords="930,1600,1070,1641"/>
+<area shape="rect" id="node29" href="$class_create_asset_dialog.html#aeca06f7c83a8d4e300fbf4ca5c423c72" title="CreateAssetDialog::\lUpdateAssetNameMaxSize" alt="" coords="908,1301,1092,1343"/>
+<area shape="rect" id="node30" href="$class_create_asset_dialog.html#a0395a5dd6501b9332c904c89d0356531" title="CreateAssetDialog::\lcoinControlUpdateLabels" alt="" coords="916,1367,1084,1408"/>
+<area shape="rect" id="node33" href="$class_create_asset_dialog.html#a55115517d1a8dbc8c33a4ac9798ed762" title="CreateAssetDialog::\lclear" alt="" coords="930,397,1070,439"/>
+<area shape="rect" id="node35" href="$namespace_g_u_i_util.html#a8be38945b1ea26b68f766eabac8c4a2a" title="GUIUtil::getSubLabelFont" alt="" coords="455,746,627,773"/>
+<area shape="rect" id="node36" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="507,797,574,823"/>
+<area shape="rect" id="node37" href="$class_q_validated_line_edit.html#af365be1760e17fd1ea6b430fa6005bd2" title="QValidatedLineEdit\l::setCheckValidator" alt="" coords="472,848,609,889"/>
+<area shape="rect" id="node39" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="699,768,835,809"/>
+<area shape="rect" id="node40" href="$class_wallet_model.html#a89ed202e2dbc04aaa70d72872b95b351" title="WalletModel::getAddressTable\lModel" alt="" coords="900,733,1100,775"/>
+<area shape="rect" id="node43" href="$class_wallet_model.html#a987e456ef99c7c91960c50fd95f4c104" title="WalletModel::IsSpendable" alt="" coords="913,581,1087,607"/>
+</map>

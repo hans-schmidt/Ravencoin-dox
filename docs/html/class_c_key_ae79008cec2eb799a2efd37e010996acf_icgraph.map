@@ -1,0 +1,5 @@
+<map id="CKey::Derive" name="CKey::Derive">
+<area shape="rect" id="node2" href="$class_c_key.html#a96b017433a65335775cf3807d73f85ce" title="Check whether the public key corresponding to this private key is (to be) compressed. " alt="" coords="155,35,303,61"/>
+<area shape="rect" id="node3" href="$class_c_raven_secret.html#a9e28a7dea8650427bb1635a98551685f" title="CRavenSecret::SetKey" alt="" coords="365,5,524,32"/>
+<area shape="rect" id="node4" href="$class_transaction_signature_creator.html#a9cb1b4bd531ab19a1257abd9b639b7c8" title="Create a singular (non&#45;script) signature. " alt="" coords="351,57,539,98"/>
+</map>

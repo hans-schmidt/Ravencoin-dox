@@ -1,0 +1,6 @@
+<map id="CWalletDB" name="CWalletDB">
+<area shape="rect" id="node2" href="$class_c_d_b.html" title="RAII class that provides access to a Berkeley database. " alt="" coords="5,351,56,377"/>
+<area shape="rect" id="node3" href="$class_c_d_b_env.html" title="CDBEnv" alt="" coords="52,261,127,288"/>
+<area shape="rect" id="node7" href="$class_c_wallet_d_b_wrapper.html" title="An instance of this class represents one database. " alt="" coords="81,351,218,377"/>
+<area shape="rect" id="node4" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="31,172,148,199"/>
+</map>

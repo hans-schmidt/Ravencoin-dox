@@ -1,0 +1,6 @@
+<map id="ReadWriteAssetHash" name="ReadWriteAssetHash">
+<area shape="rect" id="node2" href="$serialize_8h.html#a831d6932e65a64840bb55376f08fe0a6" title="Unserialize" alt="" coords="203,5,289,32"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#a4d807cadf9c9de8c09c7f87412daf808" title="Serialize" alt="" coords="210,56,282,83"/>
+<area shape="rect" id="node3" href="$serialize_8h.html#a1d1f53d2d72386236484546b49409188" title="ser_readdata8" alt="" coords="339,5,443,32"/>
+<area shape="rect" id="node5" href="$serialize_8h.html#ab121fe5d3f3371e3c57b45235a8d7802" title="ser_writedata8" alt="" coords="337,56,444,83"/>
+</map>

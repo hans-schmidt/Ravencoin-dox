@@ -1,0 +1,10 @@
+<map id="LoadChainTip" name="LoadChainTip">
+<area shape="rect" id="node2" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="205,5,297,32"/>
+<area shape="rect" id="node3" href="$class_c_block_index.html#a98490a2788c65cdd6ae9002b004dd74c" title="CBlockIndex::GetBlockHash" alt="" coords="156,56,347,83"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_cache.html#a943a3d13f2ba6936002d7a87b969edba" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="157,158,346,199"/>
+<area shape="rect" id="node5" href="$classbase__blob.html#aba89c6722866a5850882a509d27d7bbd" title="base_blob::IsNull" alt="" coords="425,111,548,137"/>
+<area shape="rect" id="node7" href="$validation_8cpp.html#a8cfbc84b7aa211f3368d4d3813be276c" title="Make the best chain active, in multiple steps. " alt="" coords="186,224,317,251"/>
+<area shape="rect" id="node9" href="$class_c_chain.html#aeb563751f7362d4308c7c2cb35b834a5" title="Set/initialize a chain with a given tip. " alt="" coords="195,275,307,301"/>
+<area shape="rect" id="node6" href="$class_c_coins_view.html#af81f2907d360a2548d59a61388e5e5cb" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="395,165,579,192"/>
+<area shape="rect" id="node8" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="413,224,561,251"/>
+</map>

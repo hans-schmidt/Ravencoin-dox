@@ -1,0 +1,9 @@
+<map id="WalletModel::setWalletEncrypted" name="WalletModel::setWalletEncrypted">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="269,81,428,108"/>
+<area shape="rect" id="node3" href="$random_8cpp.html#ad3431dd191f6ae9977f482c150da3d6f" title="Function to gather random data from multiple sources, failing whenever any of those source fail to pr..." alt="" coords="515,5,662,32"/>
+<area shape="rect" id="node4" href="$utiltime_8cpp.html#a139d0fe6387b9e230a9b8bb12d9b43b9" title="GetTimeMillis" alt="" coords="537,56,640,83"/>
+<area shape="rect" id="node5" href="$class_c_crypter.html#a5368279e4a1549d3c1d15d8aa2179708" title="CCrypter::SetKeyFromPassphrase" alt="" coords="476,107,701,133"/>
+<area shape="rect" id="node8" href="$class_c_crypter.html#a0d86aa5dcc5b52200359948fed9f599e" title="CCrypter::Encrypt" alt="" coords="525,157,653,184"/>
+<area shape="rect" id="node6" href="$class_c_crypter.html#a55ab8ab7270b5e4df07bacf4fb630632" title="CCrypter::BytesToKeySHA512AES" alt="" coords="749,81,980,108"/>
+<area shape="rect" id="node7" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="804,132,925,159"/>
+</map>

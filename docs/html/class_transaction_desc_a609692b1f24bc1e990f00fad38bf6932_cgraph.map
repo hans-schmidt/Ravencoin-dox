@@ -1,0 +1,12 @@
+<map id="TransactionDesc::TransactionDesc" name="TransactionDesc::TransactionDesc">
+<area shape="rect" id="node2" href="$class_transaction_desc.html#afcd4db6bf3a341cafe06a57ec31b7531" title="TransactionDesc::FormatTx\lStatus" alt="" coords="281,99,467,141"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="515,107,617,133"/>
+<area shape="rect" id="node4" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="721,5,833,32"/>
+<area shape="rect" id="node5" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="731,56,823,83"/>
+<area shape="rect" id="node6" href="$class_c_block_index.html#aa9bd0ab02cf8b9c866618cee3a5a0583" title="CBlockIndex::GetMedianTimePast" alt="" coords="665,107,889,133"/>
+<area shape="rect" id="node8" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="716,157,839,184"/>
+<area shape="rect" id="node11" href="$tx__verify_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="Check if transaction is final and can be included in a block with the specified height and time..." alt="" coords="739,208,815,235"/>
+<area shape="rect" id="node7" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="937,107,1125,133"/>
+<area shape="rect" id="node9" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="995,157,1067,184"/>
+<area shape="rect" id="node10" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="&quot;Never go to sea with two chronometers; take one or three.&quot; Our three time sources are: ..." alt="" coords="977,208,1085,235"/>
+</map>

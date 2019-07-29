@@ -1,0 +1,8 @@
+<map id="src/assets/messages.h" name="src/assets/messages.h">
+<area shape="rect" id="node2" href="$uint256_8h.html" title="uint256.h" alt="" coords="285,80,360,107"/>
+<area shape="rect" id="node13" href="$serialize_8h.html" title="serialize.h" alt="" coords="802,80,883,107"/>
+<area shape="rect" id="node9" href="$common_8h.html" title="crypto/common.h" alt="" coords="212,155,335,181"/>
+<area shape="rect" id="node11" href="$endian_8h.html" title="compat/endian.h" alt="" coords="373,229,491,256"/>
+<area shape="rect" id="node12" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="431,304,567,331"/>
+<area shape="rect" id="node21" href="$prevector_8h.html" title="prevector.h" alt="" coords="1322,155,1409,181"/>
+</map>

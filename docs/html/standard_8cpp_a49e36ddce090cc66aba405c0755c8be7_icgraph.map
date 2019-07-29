@@ -1,0 +1,8 @@
+<map id="ExtractDestinations" name="ExtractDestinations">
+<area shape="rect" id="node2" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="193,5,337,32"/>
+<area shape="rect" id="node4" href="$class_c_affected_keys_visitor.html#a749859ce2a826e2d60c8fe31685efae3" title="CAffectedKeysVisitor\l::Process" alt="" coords="191,57,339,98"/>
+<area shape="rect" id="node3" href="$rawtransaction_8cpp.html#ac7e0210645b016dfbaec68de41c11dba" title="decodescript" alt="" coords="454,5,550,32"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#gaaff18c86fed4579e64d5431a402d4a40" title="Add a transaction to the wallet, or update it. " alt="" coords="387,60,617,87"/>
+<area shape="rect" id="node6" href="$class_c_wallet.html#ac6523d1c43d6b4424090c1a7710c9760" title="CWallet::GetKeyBirthTimes" alt="" coords="410,111,594,137"/>
+<area shape="rect" id="node7" href="$wallet__tests_8cpp.html#a73ce3a42e0b56b2e4516e55871d8590e" title="dumpwallet" alt="" coords="665,111,753,137"/>
+</map>

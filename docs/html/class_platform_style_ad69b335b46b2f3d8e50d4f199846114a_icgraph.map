@@ -1,0 +1,8 @@
+<map id="PlatformStyle::SingleColorIconOnOff" name="PlatformStyle::SingleColorIconOnOff">
+<area shape="rect" id="node2" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="229,84,412,125"/>
+<area shape="rect" id="node6" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="235,162,407,189"/>
+<area shape="rect" id="node3" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="471,5,673,47"/>
+<area shape="rect" id="node4" href="$class_send_coins_entry.html#a6eae20cd564011773931fc724f4d787c" title="SendCoinsEntry::SendCoins\lEntry" alt="" coords="477,71,667,112"/>
+<area shape="rect" id="node5" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="460,137,684,163"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="495,187,649,214"/>
+</map>

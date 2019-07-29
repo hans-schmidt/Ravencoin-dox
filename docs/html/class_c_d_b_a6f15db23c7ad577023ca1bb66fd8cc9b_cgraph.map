@@ -1,0 +1,6 @@
+<map id="CDB::PeriodicFlush" name="CDB::PeriodicFlush">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b_wrapper.html#a8c7be1a860bee6ed0c5f00c3710ea015" title="Return whether this database handle is a dummy for testing. " alt="" coords="192,5,395,32"/>
+<area shape="rect" id="node3" href="$utiltime_8cpp.html#a139d0fe6387b9e230a9b8bb12d9b43b9" title="GetTimeMillis" alt="" coords="242,56,345,83"/>
+<area shape="rect" id="node4" href="$class_c_d_b_env.html#ac53fd53afdd1e0881b8ffbb11a89b556" title="CDBEnv::CloseDb" alt="" coords="227,107,360,133"/>
+<area shape="rect" id="node5" href="$class_c_d_b_env.html#aa4e0fe52dfc0da22fe9bf59eeda57fba" title="CDBEnv::CheckpointLSN" alt="" coords="206,157,381,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RavenGUI::changeEvent" name="RavenGUI::changeEvent">
+<area shape="rect" id="node2" href="$class_client_model.html#ae8da1e2eabfbbcc49a7eed821908bdb6" title="ClientModel::getOptionsModel" alt="" coords="221,5,419,32"/>
+<area shape="rect" id="node3" href="$class_options_model.html#a9e2dec8879a02346dd78de5d338838d9" title="OptionsModel::getMinimize\lToTray" alt="" coords="230,57,410,98"/>
+</map>

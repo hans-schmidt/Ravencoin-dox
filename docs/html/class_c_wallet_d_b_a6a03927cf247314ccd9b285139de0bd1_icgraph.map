@@ -1,0 +1,4 @@
+<map id="CWalletDB::ReadPool" name="CWalletDB::ReadPool">
+<area shape="rect" id="node2" href="$group___actions.html#gaf65c79efda979300a5badfd46176252d" title="CWallet::ReserveKeyFromKeyPool" alt="" coords="207,5,435,32"/>
+<area shape="rect" id="node3" href="$group___actions.html#gac322faf0be1465f541e4607c9189d592" title="Marks all keys in the keypool up to and including reserve_key as used. " alt="" coords="228,57,413,98"/>
+</map>

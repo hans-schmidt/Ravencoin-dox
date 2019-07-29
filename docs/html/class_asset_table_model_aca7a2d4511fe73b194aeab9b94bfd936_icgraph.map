@@ -1,0 +1,8 @@
+<map id="AssetTableModel::formatAssetName" name="AssetTableModel::formatAssetName">
+<area shape="rect" id="node2" href="$class_asset_table_model.html#aa8feb62df9c6d5207bdb9bded4d6261f" title="AssetTableModel::formatTooltip" alt="" coords="291,13,497,39"/>
+<area shape="rect" id="node3" href="$class_asset_table_model.html#a621ceb15d7b6b5e58bde0a48d84773de" title="AssetTableModel::data" alt="" coords="545,13,701,39"/>
+<area shape="rect" id="node4" href="$class_asset_table_model.html#a0ec1917b6388d10629b123d7e0dcf021" title="AssetTableModel::index" alt="" coords="749,13,912,39"/>
+<area shape="rect" id="node5" href="$class_asset_table_model.html#a5b3e5bc2d8312e6ac6f62e84a8b5e404" title="AssetTableModel::checkBalance\lChanged" alt="" coords="960,5,1173,47"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="1221,5,1391,47"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#a36282857c97bcaad796a2b5c7398245c" title="WalletModel::WalletModel" alt="" coords="1439,13,1613,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CChainParams::IssueUniqueAssetBurnAddress" name="CChainParams::IssueUniqueAssetBurnAddress">
+<area shape="rect" id="node2" href="$assets_8h.html#a40b0579846255b204489d91fecfee1eb" title="Functions to be used to get access to the burn address for a given asset type issuance. " alt="" coords="245,13,364,39"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="412,13,619,39"/>
+</map>

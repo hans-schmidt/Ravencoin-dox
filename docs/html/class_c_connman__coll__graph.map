@@ -1,0 +1,12 @@
+<map id="CConnman" name="CConnman">
+<area shape="rect" id="node2" href="$class_c_addr_man.html" title="Stochastical (IP) address manager. " alt="" coords="741,45,825,72"/>
+<area shape="rect" id="node3" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="479,5,543,32"/>
+<area shape="rect" id="node4" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="228,5,355,32"/>
+<area shape="rect" id="node5" href="$class_fast_random_context.html" title="Fast randomness source. " alt="" coords="440,56,583,83"/>
+<area shape="rect" id="node6" href="$class_cha_cha20.html" title="A PRNG class for ChaCha20. " alt="" coords="249,56,333,83"/>
+<area shape="rect" id="node7" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="453,141,570,168"/>
+<area shape="rect" id="node10" href="$class_c_semaphore.html" title="CSemaphore" alt="" coords="734,232,833,259"/>
+<area shape="rect" id="node11" href="$class_c_client_u_i_interface.html" title="Signals for UI communication. " alt="" coords="718,283,849,309"/>
+<area shape="rect" id="node12" href="$class_net_events_interface.html" title="Interface for message handling. " alt="" coords="716,333,851,360"/>
+<area shape="rect" id="node13" href="$class_c_thread_interrupt.html" title="CThreadInterrupt" alt="" coords="723,384,843,411"/>
+</map>

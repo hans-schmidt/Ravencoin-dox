@@ -1,0 +1,9 @@
+<map id="PaymentRequestPlus::parse" name="PaymentRequestPlus::parse">
+<area shape="rect" id="node2" href="$class_payment_request_plus.html#ae8186db42936c0f87377205806f3497c" title="PaymentRequestPlus\l::PaymentRequestPlus" alt="" coords="229,5,387,47"/>
+<area shape="rect" id="node3" href="$class_payment_server.html#a5fbb46e6092e961e743363be7b398da7" title="PaymentServer::readPayment\lRequestFromFile" alt="" coords="209,71,407,112"/>
+<area shape="rect" id="node4" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="461,162,637,189"/>
+<area shape="rect" id="node6" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="203,187,413,214"/>
+<area shape="rect" id="node7" href="$class_send_coins_recipient.html#a66b92f367cf64813ca90423d4f3f871d" title="SendCoinsRecipient\l::SerializationOp" alt="" coords="237,239,379,280"/>
+<area shape="rect" id="node8" href="$class_send_assets_recipient.html#ae1558c734b376be31628ed32e6fee7c4" title="SendAssetsRecipient\l::SerializationOp" alt="" coords="234,304,382,345"/>
+<area shape="rect" id="node5" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="685,155,831,196"/>
+</map>

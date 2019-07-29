@@ -1,0 +1,30 @@
+<map id="RavenUnits::maxMoney" name="RavenUnits::maxMoney">
+<area shape="rect" id="node2" href="$class_amount_spin_box.html#a055616d98771e6fcef3ee225d7b09ee9" title="AmountSpinBox::stepBy" alt="" coords="1223,5,1388,32"/>
+<area shape="rect" id="node3" href="$class_amount_spin_box.html#a40ee094061b19892825e7b30d3825ded" title="AmountSpinBox::minimumSizeHint" alt="" coords="216,475,443,501"/>
+<area shape="rect" id="node4" href="$class_amount_spin_box.html#a487085fe9dc6d6aaa1d2e2a55852f587" title="Parse a string into a number of base monetary units and return validity. " alt="" coords="714,124,870,151"/>
+<area shape="rect" id="node15" href="$class_amount_spin_box.html#aab6a98db725aa53d43f7863c831d6d7f" title="AmountSpinBox::stepEnabled" alt="" coords="1207,332,1403,359"/>
+<area shape="rect" id="node18" href="$class_raven_units.html#a21db9aa82ae32bd1a7155d30d8840307" title="RavenUnits::removeSpaces" alt="" coords="236,271,423,297"/>
+<area shape="rect" id="node5" href="$class_amount_spin_box.html#afebc9df8aca245c93d460a48675586e1" title="AmountSpinBox::validate" alt="" coords="955,157,1125,184"/>
+<area shape="rect" id="node6" href="$class_amount_spin_box.html#a082bac9de36ad4bb0c0f2d5d42f0acc6" title="AmountSpinBox::fixup" alt="" coords="964,56,1116,83"/>
+<area shape="rect" id="node7" href="$class_amount_spin_box.html#ab7e522a441231ceaeeb0682ec62a06a9" title="AmountSpinBox::value" alt="" coords="963,107,1117,133"/>
+<area shape="rect" id="node8" href="$class_amount_spin_box.html#aef946e84b685f35c02782b50f4cce842" title="AmountSpinBox::setDisplayUnit" alt="" coords="1200,157,1411,184"/>
+<area shape="rect" id="node11" href="$class_amount_spin_box.html#a79bd0b44f07469dd24b59f1dcbadd3ad" title="AmountSpinBox::setAssetUnit" alt="" coords="1205,208,1405,235"/>
+<area shape="rect" id="node16" href="$class_raven_amount_field.html#ad7082ed6a20ddc7c1c59c7ff28d8934a" title="RavenAmountField::value" alt="" coords="1219,56,1391,83"/>
+<area shape="rect" id="node17" href="$class_asset_amount_field.html#a40bb0a983bed07593ae81fd2127b4d8a" title="AssetAmountField::value" alt="" coords="1221,107,1389,133"/>
+<area shape="rect" id="node9" href="$class_raven_amount_field.html#aaa87098dad2031b7418e72b28402c83a" title="RavenAmountField::unitChanged" alt="" coords="1459,156,1673,183"/>
+<area shape="rect" id="node10" href="$class_raven_amount_field.html#a6573319bda9d888779c8d90e79e2b2a7" title="RavenAmountField::RavenAmount\lField" alt="" coords="1721,145,1945,186"/>
+<area shape="rect" id="node12" href="$class_asset_amount_field.html#af8940195a7d6c59d7bef3fe421dd60d1" title="AssetAmountField::setUnit" alt="" coords="1477,211,1655,237"/>
+<area shape="rect" id="node13" href="$class_asset_amount_field.html#ac79a10d7a2f53d99f87039e2388f1598" title="AssetAmountField::AssetAmount\lField" alt="" coords="1725,262,1941,303"/>
+<area shape="rect" id="node14" href="$class_asset_amount_field.html#a99b846d6be542259e5403a2ca44cbc10" title="Make field empty and ready for new input. " alt="" coords="1751,211,1916,237"/>
+<area shape="rect" id="node19" href="$class_asset_control_dialog.html#abd01571bb6e4fa85be82e778199c6e6a" title="AssetControlDialog\l::copyAmount" alt="" coords="506,293,641,334"/>
+<area shape="rect" id="node21" href="$class_coin_control_dialog.html#a0d153803be26b0e81585a7d6ab6995bc" title="CoinControlDialog::\lcopyAmount" alt="" coords="505,358,641,399"/>
+<area shape="rect" id="node23" href="$class_raven_units.html#affaad322be327986fd98a14404c7d81e" title="Parse string to coin amount. " alt="" coords="508,240,639,267"/>
+<area shape="rect" id="node29" href="$class_raven_units.html#af5e74a09a2c73d1dc08b571ee312f631" title="RavenUnits::assetParse" alt="" coords="491,187,656,213"/>
+<area shape="rect" id="node20" href="$class_asset_control_dialog.html#acaafd2a83fa87e3cf4b6748e25a1346a" title="AssetControlDialog\l::AssetControlDialog" alt="" coords="721,293,863,334"/>
+<area shape="rect" id="node22" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="724,358,860,399"/>
+<area shape="rect" id="node24" href="$namespace_g_u_i_util.html#a80ec9b464c28356231274c07af8cc9e4" title="GUIUtil::parseRavenURI" alt="" coords="708,241,876,268"/>
+<area shape="rect" id="node27" href="$class_transaction_view.html#ab4b25a73703d7ce5da47af1e60e7e3cf" title="TransactionView::changed\lAmount" alt="" coords="704,175,880,217"/>
+<area shape="rect" id="node25" href="$namespace_g_u_i_util.html#a62c5849ffd735b22e57c8a492d75c77a" title="GUIUtil::parseRavenURI" alt="" coords="956,309,1124,336"/>
+<area shape="rect" id="node26" href="$class_open_u_r_i_dialog.html#a3c0c5b376623e9570cc17e23778c239c" title="OpenURIDialog::accept" alt="" coords="959,259,1121,285"/>
+<area shape="rect" id="node28" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="928,208,1152,235"/>
+</map>

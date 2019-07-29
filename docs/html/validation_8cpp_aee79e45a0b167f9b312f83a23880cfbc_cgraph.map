@@ -1,0 +1,51 @@
+<map id="ReadBlockFromDisk" name="ReadBlockFromDisk">
+<area shape="rect" id="node2" href="$validation_8cpp.html#a578c1df234b05798180f0235d469a5ba" title="Functions for disk access for blocks. " alt="" coords="220,259,363,285"/>
+<area shape="rect" id="node6" href="$class_c_block_index.html#ad0d95bf8524a1e94bc6cfb92adea0c63" title="CBlockIndex::GetBlockPos" alt="" coords="200,791,383,817"/>
+<area shape="rect" id="node7" href="$class_c_block_header.html#af0239f86a13f622a826e9eea66b2d7f3" title="CBlockHeader::GetHash" alt="" coords="208,841,375,868"/>
+<area shape="rect" id="node28" href="$class_c_block_index.html#a98490a2788c65cdd6ae9002b004dd74c" title="CBlockIndex::GetBlockHash" alt="" coords="196,892,387,919"/>
+<area shape="rect" id="node29" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="267,943,315,969"/>
+<area shape="rect" id="node48" href="$class_c_block_index.html#a18258e956a4bc77dcccdb0db8f91effe" title="CBlockIndex::ToString" alt="" coords="214,993,369,1020"/>
+<area shape="rect" id="node50" href="$struct_c_disk_block_pos.html#aec119689268c0dc9c2f1e3b25fd859ad" title="CDiskBlockPos::ToString" alt="" coords="205,1044,377,1071"/>
+<area shape="rect" id="node3" href="$class_c_block.html#a0410d7ba8d60679c4cf364b82ffffea5" title="CBlock::SetNull" alt="" coords="459,107,575,133"/>
+<area shape="rect" id="node5" href="$validation_8cpp.html#a0d81388930a4ccb6a69b9abdd1ef5097" title="Open a block file (blk?????.dat) " alt="" coords="464,259,571,285"/>
+<area shape="rect" id="node4" href="$class_c_block_header.html#ae39c04a4357417d98954a51f53beb78a" title="CBlockHeader::SetNull" alt="" coords="651,5,810,32"/>
+<area shape="rect" id="node8" href="$hash_8h.html#ae235360a54ec41155191de749170ab61" title="HashX16R" alt="" coords="474,487,561,513"/>
+<area shape="rect" id="node9" href="$hash_8h.html#a11b13e0d71722496589d1bdc9970b5b5" title="GetHashSelection" alt="" coords="667,56,795,83"/>
+<area shape="rect" id="node10" href="$groestl_8c.html#aae8e752e52ba49c4b4d3201138db4e21" title="Initialize a Groestl&#45;512 context. " alt="" coords="663,107,798,133"/>
+<area shape="rect" id="node11" href="$groestl_8c.html#a6234cab162aecb29f261f0131f1aaf0b" title="Process some data bytes. " alt="" coords="675,157,786,184"/>
+<area shape="rect" id="node12" href="$groestl_8c.html#a4e6cdfd9e3ceefe1421d858aba818106" title="Terminate the current Groestl&#45;512 computation and output the result into the provided buffer..." alt="" coords="657,208,805,235"/>
+<area shape="rect" id="node13" href="$jh_8c.html#a88105066d99c97dcf65545f5c1d4bfe3" title="Initialize a JH&#45;512 context. " alt="" coords="678,259,783,285"/>
+<area shape="rect" id="node14" href="$jh_8c.html#a13f33e8600ec764f8b1f34c73da667c9" title="Process some data bytes. " alt="" coords="690,309,771,336"/>
+<area shape="rect" id="node15" href="$jh_8c.html#ad2d77c0326724c0a85719348bec9a672" title="Terminate the current JH&#45;512 computation and output the result into the provided buffer. " alt="" coords="671,360,790,387"/>
+<area shape="rect" id="node16" href="$keccak_8c.html#a84f1e9fe46fe6ce80c6b8dced5892c9a" title="Initialize a Keccak&#45;512 context. " alt="" coords="662,411,799,437"/>
+<area shape="rect" id="node17" href="$keccak_8c.html#a008a64465822dbd2900686f161feb31b" title="Process some data bytes. " alt="" coords="674,461,787,488"/>
+<area shape="rect" id="node18" href="$keccak_8c.html#abb8c404657c19eec855f28750b70a3c0" title="Terminate the current Keccak&#45;512 computation and output the result into the provided buffer..." alt="" coords="655,512,806,539"/>
+<area shape="rect" id="node19" href="$luffa_8c.html#ac3dafb6e61b453015ce1d8aeedad99bc" title="Initialize a Luffa&#45;512 context. " alt="" coords="671,563,791,589"/>
+<area shape="rect" id="node20" href="$luffa_8c.html#a283df58d0ff588f049437ba196d55baf" title="Process some data bytes. " alt="" coords="683,613,779,640"/>
+<area shape="rect" id="node21" href="$luffa_8c.html#a8f6bedbac9188807f44a00ae283ded14" title="Terminate the current Luffa&#45;512 computation and output the result into the provided buffer..." alt="" coords="663,664,798,691"/>
+<area shape="rect" id="node22" href="$cubehash_8c.html#a5f59b7878edb26c01da43141f158b6eb" title="Initialize a CubeHash&#45;512 context. " alt="" coords="655,715,806,741"/>
+<area shape="rect" id="node23" href="$cubehash_8c.html#ad63e5eeb1d5d272d84be5272d281e44e" title="Process some data bytes. " alt="" coords="667,765,794,792"/>
+<area shape="rect" id="node24" href="$cubehash_8c.html#a8450930057421f35b61795e8101e44d1" title="Terminate the current CubeHash&#45;512 computation and output the result into the provided buffer..." alt="" coords="648,816,813,843"/>
+<area shape="rect" id="node25" href="$shavite_8c.html#aa2c7b79f7fda3cde0d0086b13304645b" title="Initialize a SHAvite&#45;512 context. " alt="" coords="662,867,799,893"/>
+<area shape="rect" id="node26" href="$shavite_8c.html#a17ebbdb9a0c3d75d0ff0440f05129b7e" title="Process some data bytes. " alt="" coords="674,917,787,944"/>
+<area shape="rect" id="node27" href="$shavite_8c.html#ade0688e75cf0cf367af9b510d8618a75" title="Terminate the current SHAvite&#45;512 computation and output the result into the provided buffer..." alt="" coords="655,968,806,995"/>
+<area shape="rect" id="node30" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="474,537,561,564"/>
+<area shape="rect" id="node31" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="455,588,580,615"/>
+<area shape="rect" id="node32" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="438,639,597,665"/>
+<area shape="rect" id="node33" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="473,689,562,716"/>
+<area shape="rect" id="node34" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="470,740,565,767"/>
+<area shape="rect" id="node35" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="435,791,600,817"/>
+<area shape="rect" id="node36" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="453,841,581,868"/>
+<area shape="rect" id="node37" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="468,892,567,919"/>
+<area shape="rect" id="node38" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="446,943,589,969"/>
+<area shape="rect" id="node39" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="452,993,583,1020"/>
+<area shape="rect" id="node40" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="473,1044,561,1071"/>
+<area shape="rect" id="node41" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="451,1095,584,1121"/>
+<area shape="rect" id="node42" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="466,1145,569,1172"/>
+<area shape="rect" id="node43" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="476,1196,559,1223"/>
+<area shape="rect" id="node44" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="467,1247,568,1273"/>
+<area shape="rect" id="node45" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="461,1297,573,1324"/>
+<area shape="rect" id="node46" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="458,1348,577,1375"/>
+<area shape="rect" id="node47" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="467,1399,567,1425"/>
+<area shape="rect" id="node49" href="$classbase__blob.html#a7a0d25782830d8b087c4da839f3ccdeb" title="base_blob::ToString" alt="" coords="448,1449,587,1476"/>
+</map>

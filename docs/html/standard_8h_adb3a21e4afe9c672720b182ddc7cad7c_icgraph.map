@@ -1,0 +1,51 @@
+<map id="IsValidDestination" name="IsValidDestination">
+<area shape="rect" id="node2" href="$assets_8h.html#a7652928e0004b0ac4a096b39c2add5f7" title="Check to make sure the script contains the burn transaction. " alt="" coords="219,101,354,127"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a229bd5fb969a96a86730f960da9acf7a" title="Check to make sure the script contains the reissue burn data. " alt="" coords="211,151,362,178"/>
+<area shape="rect" id="node8" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="205,202,368,229"/>
+<area shape="rect" id="node9" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="181,253,392,279"/>
+<area shape="rect" id="node10" href="$rpc_2assets_8cpp.html#a417cb44a82745ed3dc33e23ca777a44c" title="UpdateAddressTag" alt="" coords="219,303,354,330"/>
+<area shape="rect" id="node11" href="$rpc_2assets_8cpp.html#a0334c36dd0b0df30124e3e7b02cc920d" title="UpdateAddressRestriction" alt="" coords="199,354,374,381"/>
+<area shape="rect" id="node12" href="$rpc_2assets_8cpp.html#a1235254f4405fcc980887407f35a64fc" title="UpdateGlobalRestrictedAsset" alt="" coords="189,405,384,431"/>
+<area shape="rect" id="node13" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="241,455,332,482"/>
+<area shape="rect" id="node14" href="$rpc_2assets_8cpp.html#a271698719ffcdd7dc76231b9f07354f4" title="listassetbalancesbyaddress" alt="" coords="195,506,378,533"/>
+<area shape="rect" id="node15" href="$rpc_2assets_8cpp.html#ada46b27ad209c9612f99f41ca69d2645" title="transferfromaddresses" alt="" coords="211,557,363,583"/>
+<area shape="rect" id="node16" href="$rpc_2assets_8cpp.html#aa06d4ab628195fde717fd7f32f695952" title="transferfromaddress" alt="" coords="217,607,356,634"/>
+<area shape="rect" id="node17" href="$rpc_2assets_8cpp.html#a2892e5a0d72f4d968f5e9179a520a6fe" title="listtagsforaddress" alt="" coords="224,658,349,685"/>
+<area shape="rect" id="node18" href="$rpc_2assets_8cpp.html#a9c8cc2dd439186ff4104385c6cea1dca" title="listaddressrestrictions" alt="" coords="212,709,361,735"/>
+<area shape="rect" id="node19" href="$rpc_2assets_8cpp.html#ada2e59c757a6a8f7acffad783b4f1e1a" title="checkaddresstag" alt="" coords="226,759,347,786"/>
+<area shape="rect" id="node20" href="$rpc_2assets_8cpp.html#a1e38f61ecfbb6601ba922d194fd298e6" title="checkaddressrestriction" alt="" coords="207,810,367,837"/>
+<area shape="rect" id="node21" href="$class_assets_dialog.html#a95ed8d5fe22a17370639734b9fa827dc" title="AssetsDialog::assetControl\lChangeEdited" alt="" coords="195,861,378,903"/>
+<area shape="rect" id="node22" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="217,927,357,968"/>
+<area shape="rect" id="node23" href="$class_create_asset_dialog.html#aef3a1821b31b37c6494227e1550b2235" title="CreateAssetDialog::\lcoinControlChangeEdited" alt="" coords="201,992,372,1033"/>
+<area shape="rect" id="node24" href="$class_reissue_asset_dialog.html#aa065ab07d6b3a10cca44ce96febfff94" title="ReissueAssetDialog\l::onAddressNameChanged" alt="" coords="197,1057,376,1099"/>
+<area shape="rect" id="node25" href="$class_reissue_asset_dialog.html#a8be50271ce7047cf2dc58d03e59c65db" title="ReissueAssetDialog\l::coinControlChangeEdited" alt="" coords="197,1123,376,1164"/>
+<area shape="rect" id="node26" href="$class_send_coins_dialog.html#a1f419f2381bce2ae9b4a7bd140f25a4e" title="SendCoinsDialog::coinControl\lChangeEdited" alt="" coords="188,1188,385,1229"/>
+<area shape="rect" id="node27" href="$class_sign_verify_message_dialog.html#a2ef91b4ace68d63ab1c1d3cc6c13b5f9" title="SignVerifyMessageDialog\l::on_signMessageButton\l_SM_clicked" alt="" coords="201,1254,373,1310"/>
+<area shape="rect" id="node28" href="$class_sign_verify_message_dialog.html#ae37dec200b27f23c409221511447ae1e" title="SignVerifyMessageDialog\l::on_verifyMessageButton\l_VM_clicked" alt="" coords="199,1334,374,1390"/>
+<area shape="rect" id="node29" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="459,1439,635,1466"/>
+<area shape="rect" id="node30" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="181,1465,392,1491"/>
+<area shape="rect" id="node31" href="$mining_8cpp.html#a16cf276c50111f451fdbd5dfbe3c8a6b" title="generatetoaddress" alt="" coords="222,1515,351,1542"/>
+<area shape="rect" id="node32" href="$misc_8cpp.html#a16e3c661b34f8ecdccf6a140bed07ee3" title="validateaddress" alt="" coords="230,1566,343,1593"/>
+<area shape="rect" id="node33" href="$rpcwallet_8cpp.html#a1690e528ea9f2db9375e34d0eb55e1b5" title="Used by addmultisigaddress / createmultisig: " alt="" coords="189,1617,384,1643"/>
+<area shape="rect" id="node34" href="$misc_8cpp.html#a0b6a5eab4e4ad2898bdc4dfb0be1da73" title="verifymessage" alt="" coords="233,1667,340,1694"/>
+<area shape="rect" id="node35" href="$rawtransaction_8cpp.html#ab02feb76c01de90cbcc78c56499217a2" title="createrawtransaction" alt="" coords="215,1718,358,1745"/>
+<area shape="rect" id="node36" href="$rpcdump_8cpp.html#a8a2b851d3a0b2951b027e64cf5856e03" title="ImportAddress" alt="" coords="233,1769,340,1795"/>
+<area shape="rect" id="node37" href="$rpcwallet_8cpp.html#aba44e0021b6111a1f0a8c54bbff34130" title="importaddress" alt="" coords="495,1794,599,1821"/>
+<area shape="rect" id="node38" href="$rpcwallet_8cpp.html#ab3f51d8e8fe414dbf91c37485e481ae3" title="dumpprivkey" alt="" coords="239,1870,335,1897"/>
+<area shape="rect" id="node39" href="$rpcdump_8cpp.html#a0ccf80d09e7c16fb3035c4b81bf4a4d8" title="ProcessImport" alt="" coords="233,1921,340,1947"/>
+<area shape="rect" id="node40" href="$rpcwallet_8cpp.html#afac2373870d7a69caeec7f1d0abd5a06" title="setaccount" alt="" coords="243,1971,330,1998"/>
+<area shape="rect" id="node41" href="$rpcwallet_8cpp.html#a5e2982d735173633808109e15cc5d9a0" title="getaccount" alt="" coords="243,2022,330,2049"/>
+<area shape="rect" id="node42" href="$rpcwallet_8cpp.html#aa76896a5e8cb52001eabe4857738aa6a" title="sendtoaddress" alt="" coords="233,2073,340,2099"/>
+<area shape="rect" id="node43" href="$rpcwallet_8cpp.html#a8b18eac056b0261feaa2381f30b3e9d8" title="signmessage" alt="" coords="237,2123,336,2150"/>
+<area shape="rect" id="node44" href="$rpcwallet_8cpp.html#a797ec5ebe2780073014606ef9f78cd4b" title="getreceivedbyaddress" alt="" coords="212,2174,361,2201"/>
+<area shape="rect" id="node45" href="$rpcwallet_8cpp.html#ab477fa79fd9b008f1e23b85827bf2aa0" title="sendfrom" alt="" coords="249,2225,325,2251"/>
+<area shape="rect" id="node46" href="$rpcwallet_8cpp.html#aa4b8de6450478126d6c82d06a8df097c" title="sendmany" alt="" coords="245,2275,328,2302"/>
+<area shape="rect" id="node47" href="$rpcwallet_8cpp.html#aca4103efafec36e5eb69d37823a1f930" title="addwitnessaddress" alt="" coords="219,2326,354,2353"/>
+<area shape="rect" id="node48" href="$rpcwallet_8cpp.html#aed7407e5f2cafe50b500b799e8adf10e" title="listunspent" alt="" coords="244,2377,329,2403"/>
+<area shape="rect" id="node49" href="$rpcwallet_8cpp.html#a668cb8e0a50148f57d5cd6095fa8a735" title="fundrawtransaction" alt="" coords="221,2427,353,2454"/>
+<area shape="rect" id="node50" href="$group___actions.html#gabb894f8914f0bf49d43a41daacb518ef" title="CWallet::CreateTransactionAll" alt="" coords="187,2478,386,2505"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="442,5,653,47"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a78e4b3b650fd78ff8261cbf079155045" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="446,71,649,98"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="450,123,645,164"/>
+<area shape="rect" id="node6" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="440,188,655,229"/>
+</map>

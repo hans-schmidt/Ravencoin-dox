@@ -1,0 +1,8 @@
+<map id="CMerkleTx::hashUnset" name="CMerkleTx::hashUnset">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga71c829a50abbcd74c1884b1f86527755" title="CWallet::AddToWallet" alt="" coords="232,5,384,32"/>
+<area shape="rect" id="node4" href="$group__map_wallet.html#ga4cb5cb9d90e060a7ddf8fb8070591c87" title="CWallet::LoadToWallet" alt="" coords="229,56,387,83"/>
+<area shape="rect" id="node7" href="$class_c_wallet.html#aa004d53bb2aab03d6993f58518b9b903" title="Compute smart timestamp for a transaction being added to the wallet. " alt="" coords="211,107,405,133"/>
+<area shape="rect" id="node3" href="$accounting__tests_8cpp.html#a9af55b97a47e85b4a02b7a5c5dcbf2b9" title="BOOST_AUTO_TEST_CASE" alt="" coords="453,5,651,32"/>
+<area shape="rect" id="node5" href="$walletdb_8cpp.html#aebac4c34dd06c6ce4249ed71914401fb" title="ReadKeyValue" alt="" coords="497,56,607,83"/>
+<area shape="rect" id="node6" href="$class_c_wallet_d_b.html#a5b0ec9c8643c62d62ebffd55cf5b09c8" title="CWalletDB::RecoverKeysOnly\lFilter" alt="" coords="699,49,901,90"/>
+</map>

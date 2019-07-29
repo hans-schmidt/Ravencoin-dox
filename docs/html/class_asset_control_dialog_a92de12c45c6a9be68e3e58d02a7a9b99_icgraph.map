@@ -1,0 +1,31 @@
+<map id="AssetControlDialog::updateLabels" name="AssetControlDialog::updateLabels">
+<area shape="rect" id="node2" href="$class_asset_control_dialog.html#a4a1447fea96b2bbc38758ea998cf4085" title="AssetControlDialog\l::setModel" alt="" coords="663,5,797,47"/>
+<area shape="rect" id="node5" href="$class_asset_control_dialog.html#a2be8cae81e2851c32815a6a52856f637" title="AssetControlDialog\l::buttonSelectAllClicked" alt="" coords="198,329,361,371"/>
+<area shape="rect" id="node7" href="$class_asset_control_dialog.html#ace89a75ef30c5dbb1784a706169a424d" title="AssetControlDialog\l::viewItemChanged" alt="" coords="212,395,347,436"/>
+<area shape="rect" id="node8" href="$class_asset_control_dialog.html#a30bbfa2cb3fb3a09b968bb3a5e9e0eec" title="AssetControlDialog\l::viewAdministratorClicked" alt="" coords="190,460,369,501"/>
+<area shape="rect" id="node9" href="$class_asset_control_dialog.html#ae2b4162c5cfe2f0fe907bc007597feef" title="AssetControlDialog\l::onAssetSelected" alt="" coords="212,525,347,567"/>
+<area shape="rect" id="node10" href="$class_assets_dialog.html#ac99b7ca264654902abc757ec8dbcbfae" title="AssetsDialog::assetControl\lUpdateLabels" alt="" coords="188,264,371,305"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a316ed7dfcd069b3f9f3f255e78f79d4e" title="AssetsDialog::assetControl\lButtonClicked" alt="" coords="1340,93,1523,135"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="1571,223,1757,250"/>
+<area shape="rect" id="node6" href="$class_asset_control_dialog.html#acaafd2a83fa87e3cf4b6748e25a1346a" title="AssetControlDialog\l::AssetControlDialog" alt="" coords="439,453,581,495"/>
+<area shape="rect" id="node11" href="$class_assets_dialog.html#a7724156dfba2b1a62c13c1b708e37b0a" title="AssetsDialog::setModel" alt="" coords="649,393,811,419"/>
+<area shape="rect" id="node19" href="$class_assets_dialog.html#a5a77479fb5eafe6e3dba71144aff9797" title="AssetsDialog::addEntry" alt="" coords="650,223,810,250"/>
+<area shape="rect" id="node29" href="$class_assets_dialog.html#a4fc31292e7ef30cf6d886b6c24013040" title="AssetsDialog::updateTabs\lAndLabels" alt="" coords="422,268,598,309"/>
+<area shape="rect" id="node30" href="$class_assets_dialog.html#a5995462309ec839a5b2938c86fca04f1" title="AssetsDialog::assetControl\lFeatureChanged" alt="" coords="419,385,601,427"/>
+<area shape="rect" id="node12" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="859,485,1045,511"/>
+<area shape="rect" id="node13" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1111,543,1274,570"/>
+<area shape="rect" id="node14" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1342,543,1521,570"/>
+<area shape="rect" id="node15" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="2052,507,2227,548"/>
+<area shape="rect" id="node16" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1575,565,1753,607"/>
+<area shape="rect" id="node17" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1805,573,2004,599"/>
+<area shape="rect" id="node18" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="2052,572,2227,613"/>
+<area shape="rect" id="node20" href="$class_assets_dialog.html#acee3707f7fffab047f300be52e137cdc" title="AssetsDialog::clear" alt="" coords="884,325,1020,351"/>
+<area shape="rect" id="node24" href="$class_assets_dialog.html#a825711b83beb942f517d7c2e354d250a" title="AssetsDialog::removeEntry" alt="" coords="861,122,1043,149"/>
+<area shape="rect" id="node25" href="$class_assets_dialog.html#ae0538aa7e5abe73ae5d696af5f3f6738" title="RVN START. " alt="" coords="1101,123,1284,164"/>
+<area shape="rect" id="node26" href="$class_assets_dialog.html#a0a9c3ab2bc735b9ff5146b7615ebe9d9" title="AssetsDialog::setAddress" alt="" coords="865,274,1039,301"/>
+<area shape="rect" id="node27" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="867,375,1037,402"/>
+<area shape="rect" id="node21" href="$class_assets_dialog.html#a1070909809e60004a8ae7230f519f0b1" title="AssetsDialog::reject" alt="" coords="1123,325,1263,351"/>
+<area shape="rect" id="node22" href="$class_assets_dialog.html#a3f19feda56586655269f8e7a2b5d9470" title="AssetsDialog::accept" alt="" coords="1119,375,1266,402"/>
+<area shape="rect" id="node23" href="$class_assets_dialog.html#a22d1a45433ed5eac4c5ee523c8ceb00b" title="AssetsDialog::focusAsset" alt="" coords="1105,426,1280,453"/>
+<area shape="rect" id="node28" href="$class_assets_dialog.html#a6ef27cbd6256b7af509e3f10a2e2e89c" title="AssetsDialog::handlePayment\lRequest" alt="" coords="1093,477,1292,519"/>
+</map>

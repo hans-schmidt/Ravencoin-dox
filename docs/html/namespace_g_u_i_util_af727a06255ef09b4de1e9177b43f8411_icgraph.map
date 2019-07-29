@@ -1,0 +1,5 @@
+<map id="GUIUtil::getSubLabelFontBolded" name="GUIUtil::getSubLabelFontBolded">
+<area shape="rect" id="node2" href="$class_receive_coins_dialog.html#a18f1efd7d70771bdce4eb3c0ff985541" title="ReceiveCoinsDialog\l::setupRequestFrame" alt="" coords="247,5,395,47"/>
+<area shape="rect" id="node4" href="$class_send_coins_dialog.html#aa8a4e6102dc5d31c4a61dbcb7d3dcdf0" title="SendCoinsDialog::setupCoin\lControl" alt="" coords="225,71,416,112"/>
+<area shape="rect" id="node3" href="$class_receive_coins_dialog.html#af6363e303b255dae972e71b7f730bac1" title="ReceiveCoinsDialog\l::ReceiveCoinsDialog" alt="" coords="464,5,613,47"/>
+</map>

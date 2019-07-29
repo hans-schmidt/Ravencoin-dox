@@ -1,0 +1,34 @@
+<map id="CWalletTx::GetTxTime" name="CWalletTx::GetTxTime">
+<area shape="rect" id="node2" href="$class_asset_control_dialog.html#a35356054e1ff12c3cc49e4b7c505be18" title="AssetControlDialog\l::updateView" alt="" coords="249,156,383,197"/>
+<area shape="rect" id="node12" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="248,411,384,452"/>
+<area shape="rect" id="node23" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="469,554,645,581"/>
+<area shape="rect" id="node25" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="211,503,421,530"/>
+<area shape="rect" id="node26" href="$class_transaction_record.html#a9f5db4465fa5fdcc3f9af525096bcdb9" title="TransactionRecord::\ldecomposeTransaction" alt="" coords="237,639,395,680"/>
+<area shape="rect" id="node3" href="$class_asset_control_dialog.html#a4a1447fea96b2bbc38758ea998cf4085" title="AssetControlDialog\l::setModel" alt="" coords="725,247,859,288"/>
+<area shape="rect" id="node6" href="$class_asset_control_dialog.html#a95edb752c6942fd6ccb2012b85cee862" title="AssetControlDialog\l::radioTreeMode" alt="" coords="725,64,859,105"/>
+<area shape="rect" id="node8" href="$class_asset_control_dialog.html#a3e83a2121791ed9747e9f2871f3b27fe" title="AssetControlDialog\l::radioListMode" alt="" coords="490,123,625,164"/>
+<area shape="rect" id="node9" href="$class_asset_control_dialog.html#a23d6eb759e1dbe885b3b2c48e72c65bd" title="AssetControlDialog\l::updateAssetList" alt="" coords="490,188,625,229"/>
+<area shape="rect" id="node11" href="$class_asset_control_dialog.html#ae2b4162c5cfe2f0fe907bc007597feef" title="AssetControlDialog\l::onAssetSelected" alt="" coords="490,5,625,47"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#a316ed7dfcd069b3f9f3f255e78f79d4e" title="AssetsDialog::assetControl\lButtonClicked" alt="" coords="945,247,1127,288"/>
+<area shape="rect" id="node5" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="1200,254,1387,281"/>
+<area shape="rect" id="node7" href="$class_asset_control_dialog.html#acaafd2a83fa87e3cf4b6748e25a1346a" title="AssetControlDialog\l::AssetControlDialog" alt="" coords="965,93,1107,135"/>
+<area shape="rect" id="node10" href="$class_asset_control_dialog.html#a30bbfa2cb3fb3a09b968bb3a5e9e0eec" title="AssetControlDialog\l::viewAdministratorClicked" alt="" coords="703,181,881,223"/>
+<area shape="rect" id="node13" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="489,443,625,484"/>
+<area shape="rect" id="node20" href="$class_coin_control_dialog.html#a1990d478f3ffba666c358a4f1bd395ec" title="CoinControlDialog::\lradioTreeMode" alt="" coords="489,377,625,419"/>
+<area shape="rect" id="node22" href="$class_coin_control_dialog.html#a775c6d290cb63667a434b09072094533" title="CoinControlDialog::\lradioListMode" alt="" coords="489,312,625,353"/>
+<area shape="rect" id="node14" href="$class_create_asset_dialog.html#a48181a6ef7b33bc3cbe27313f7e2a16a" title="CreateAssetDialog::\lcoinControlButtonClicked" alt="" coords="707,508,877,549"/>
+<area shape="rect" id="node16" href="$class_reissue_asset_dialog.html#aa6ab6d2f84e4c3c305da572e856a1462" title="ReissueAssetDialog\l::coinControlButtonClicked" alt="" coords="703,377,881,419"/>
+<area shape="rect" id="node18" href="$class_send_coins_dialog.html#a59d757d9e4bea5b380eb480fd79cfb49" title="SendCoinsDialog::coinControl\lButtonClicked" alt="" coords="693,443,891,484"/>
+<area shape="rect" id="node15" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="966,508,1106,549"/>
+<area shape="rect" id="node17" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="961,377,1111,419"/>
+<area shape="rect" id="node19" href="$class_send_coins_dialog.html#affacd36b4df87a68e2fe706ef388c0a6" title="SendCoinsDialog::SendCoins\lDialog" alt="" coords="939,443,1133,484"/>
+<area shape="rect" id="node21" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="724,312,860,353"/>
+<area shape="rect" id="node24" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="719,573,865,615"/>
+<area shape="rect" id="node27" href="$class_transaction_table_priv.html#a1f81da5d7cfb2aac03a5e18e6bc91792" title="TransactionTablePriv\l::refreshWallet" alt="" coords="485,704,630,745"/>
+<area shape="rect" id="node29" href="$class_transaction_table_priv.html#a5a8454ce91251c4d9eb927bf2850745c" title="TransactionTablePriv\l::updateWallet" alt="" coords="485,639,630,680"/>
+<area shape="rect" id="node28" href="$class_transaction_table_model.html#ac5cc82df37f09b4aed2d20628a77e756" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="709,704,875,745"/>
+<area shape="rect" id="node30" href="$class_transaction_table_model.html#a8de43b3c7ba0612304906eb5a2f51a06" title="TransactionTableModel\l::updateTransaction" alt="" coords="713,639,871,680"/>
+<area shape="rect" id="node31" href="$class_transaction_view.html#a8dc3e9fc910cec4f6764d84c21941180" title="TransactionView::abandonTx" alt="" coords="941,671,1131,698"/>
+<area shape="rect" id="node33" href="$class_transaction_view.html#a6cf5d062668e5e29c6203b6e0dc3836b" title="TransactionView::bumpFee" alt="" coords="945,621,1127,647"/>
+<area shape="rect" id="node32" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="1181,671,1405,698"/>
+</map>

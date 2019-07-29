@@ -1,0 +1,5 @@
+<map id="CAssetsCache::TrySpendCoin" name="CAssetsCache::TrySpendCoin">
+<area shape="rect" id="node2" href="$class_c_coins_view_cache.html#ad9ccb571fa3a311828efcee46c13bd65" title="Spend a coin. " alt="" coords="256,5,461,32"/>
+<area shape="rect" id="node3" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="509,5,608,32"/>
+<area shape="rect" id="node4" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="656,5,755,32"/>
+</map>

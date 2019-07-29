@@ -1,0 +1,16 @@
+<map id="src/assets/assets.h" name="src/assets/assets.h">
+<area shape="rect" id="node2" href="$amount_8h.html" title="amount.h" alt="" coords="1483,453,1559,480"/>
+<area shape="rect" id="node4" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="232,80,323,107"/>
+<area shape="rect" id="node10" href="$assettypes_8h.html" title="assettypes.h" alt="" coords="1154,80,1251,107"/>
+<area shape="rect" id="node14" href="$standard_8h.html" title="script/standard.h" alt="" coords="570,155,689,181"/>
+<area shape="rect" id="node17" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="925,304,1083,331"/>
+<area shape="rect" id="node15" href="$interpreter_8h.html" title="script/interpreter.h" alt="" coords="566,229,693,256"/>
+<area shape="rect" id="node37" href="$uint256_8h.html" title="uint256.h" alt="" coords="551,379,625,405"/>
+<area shape="rect" id="node16" href="$script__error_8h.html" title="script_error.h" alt="" coords="700,304,799,331"/>
+<area shape="rect" id="node18" href="$script_8h.html" title="script/script.h" alt="" coords="1041,379,1143,405"/>
+<area shape="rect" id="node28" href="$serialize_8h.html" title="serialize.h" alt="" coords="1038,453,1119,480"/>
+<area shape="rect" id="node19" href="$common_8h.html" title="crypto/common.h" alt="" coords="739,453,861,480"/>
+<area shape="rect" id="node23" href="$prevector_8h.html" title="prevector.h" alt="" coords="1483,528,1570,555"/>
+<area shape="rect" id="node21" href="$endian_8h.html" title="compat/endian.h" alt="" coords="539,528,658,555"/>
+<area shape="rect" id="node22" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="589,603,725,629"/>
+</map>

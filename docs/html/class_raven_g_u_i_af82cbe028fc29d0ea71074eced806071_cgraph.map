@@ -1,0 +1,51 @@
+<map id="RavenGUI::RavenGUI" name="RavenGUI::RavenGUI">
+<area shape="rect" id="node2" href="$class_wallet_model.html#af6b4f24cc4b4cf1633cf63754b4647c3" title="WalletModel::isWalletEnabled" alt="" coords="217,35,413,62"/>
+<area shape="rect" id="node4" href="$class_network_style.html#a12eab0110656b06afe8ef5dc4cf1f810" title="NetworkStyle::getTitleAddText" alt="" coords="473,151,675,178"/>
+<area shape="rect" id="node6" href="$class_network_style.html#af5283ee841d921ddca3e54667828cb7a" title="NetworkStyle::getTrayAnd\lWindowIcon" alt="" coords="486,203,662,244"/>
+<area shape="rect" id="node7" href="$class_mac_dock_icon_handler.html#afd3ef7126d0b6ef02eaf85e5455fe6f4" title="MacDockIconHandler\l::instance" alt="" coords="241,88,389,129"/>
+<area shape="rect" id="node12" href="$class_mac_dock_icon_handler.html#a537f8eb3c9752089e3e2e0e30011a65b" title="MacDockIconHandler\l::setIcon" alt="" coords="241,444,389,485"/>
+<area shape="rect" id="node13" href="$class_network_style.html#ad91c8a6d8f33741cdbe0ebbd716a36bb" title="NetworkStyle::getAppIcon" alt="" coords="227,510,402,537"/>
+<area shape="rect" id="node14" href="$class_raven_g_u_i.html#a65babeb4c0de20683b83549b4d8293a2" title="Load the custome open sans fonts into the font database. " alt="" coords="240,561,389,587"/>
+<area shape="rect" id="node15" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="229,662,401,689"/>
+<area shape="rect" id="node18" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="759,898,926,925"/>
+<area shape="rect" id="node30" href="$class_raven_g_u_i.html#afee4213958453f1e88b53a1f9dfac576" title="Create the menu bar and sub&#45;menus. " alt="" coords="225,974,405,1001"/>
+<area shape="rect" id="node32" href="$class_raven_g_u_i.html#a4bc013871d7f7d6639b4493a3292b258" title="Create the toolbars. " alt="" coords="225,1181,405,1207"/>
+<area shape="rect" id="node39" href="$class_platform_style.html#a4cca136480c9a1c5e4163d20b007e7c7" title="PlatformStyle::TopWidget\lBackGroundColor" alt="" coords="488,1505,660,1547"/>
+<area shape="rect" id="node42" href="$class_raven_g_u_i.html#afe849d62e3ce05a0d60323f633e6a949" title="Create system tray icon and notification. " alt="" coords="225,210,404,237"/>
+<area shape="rect" id="node43" href="$class_raven_g_u_i.html#adbcee2d387adeac3006131f0ce643450" title="Enable or disable all wallet&#45;related actions. " alt="" coords="219,1283,410,1324"/>
+<area shape="rect" id="node44" href="$class_raven_g_u_i.html#a32af7d2a5cb5727e432e9fb9febde41d" title="Connect core signals to GUI client. " alt="" coords="219,1348,410,1389"/>
+<area shape="rect" id="node45" href="$class_raven_g_u_i.html#aab12f19da99f8df63d65a9c4ca669eed" title="Toggle networking. " alt="" coords="208,1571,421,1598"/>
+<area shape="rect" id="node48" href="$class_raven_g_u_i.html#a2c8ce02f31b360ce8a6b249fa358e82c" title="RavenGUI::showModalOverlay" alt="" coords="213,1673,416,1699"/>
+<area shape="rect" id="node3" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="487,34,661,61"/>
+<area shape="rect" id="node5" href="$class_network_style.html#af3f5958b01b990d074a749f022bc391e" title="NetworkStyle::NetworkStyle" alt="" coords="749,173,937,199"/>
+<area shape="rect" id="node8" href="$class_mac_dock_icon_handler.html#ab44913b8dabec96186b74bc6f6896c46" title="MacDockIconHandler\l::MacDockIconHandler" alt="" coords="496,85,652,127"/>
+<area shape="rect" id="node9" href="$macdockiconhandler_8mm.html#a9aec1ea4fb1121c1b089c5cb11445732" title="setupDockClickHandler" alt="" coords="763,122,923,149"/>
+<area shape="rect" id="node10" href="$class_mac_dock_icon_handler.html#a4d2d18c7d56286ea745e349497941293" title="MacDockIconHandler\l::setMainWindow" alt="" coords="769,5,917,47"/>
+<area shape="rect" id="node11" href="$macdockiconhandler_8mm.html#a97dcb4b8c1bda1b1e4a29fd1c36b6c47" title="qt_mac_set_dock_menu" alt="" coords="761,71,925,98"/>
+<area shape="rect" id="node16" href="$class_platform_style.html#ad69b335b46b2f3d8e50d4f199846114a" title="Set icon with two states on and off. " alt="" coords="486,655,662,696"/>
+<area shape="rect" id="node17" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="479,873,669,899"/>
+<area shape="rect" id="node19" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="473,771,675,798"/>
+<area shape="rect" id="node21" href="$class_raven_g_u_i.html#af33662f5a5604298177f56a15160cae3" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="727,662,959,689"/>
+<area shape="rect" id="node22" href="$class_raven_g_u_i.html#af516a00949b2606ef29f0e6f2a7c2404" title="Show about dialog. " alt="" coords="490,822,658,849"/>
+<area shape="rect" id="node23" href="$class_raven_g_u_i.html#a18e94f625f9327f3718c02f3a2d4d21c" title="Show configuration dialog. " alt="" coords="485,269,663,295"/>
+<area shape="rect" id="node24" href="$class_raven_g_u_i.html#af2d98960f72ef6a38c95e12b91f3e970" title="Simply calls showNormalIfMinimized(true) for use in SLOT() macro. " alt="" coords="490,603,658,630"/>
+<area shape="rect" id="node25" href="$class_raven_g_u_i.html#ae7206842e6ed9672aad4da7dc841f5f1" title="Show help message dialog. " alt="" coords="473,385,675,427"/>
+<area shape="rect" id="node26" href="$class_raven_g_u_i.html#aa0af55f9858339e2c34cec6e832624a9" title="Show debug window. " alt="" coords="739,451,947,478"/>
+<area shape="rect" id="node27" href="$class_raven_g_u_i.html#a25c1bfd7b105a3b12c5ca6f977fdb895" title="Show debug window and set focus to the wallet repair tab. " alt="" coords="475,502,673,529"/>
+<area shape="rect" id="node28" href="$class_raven_g_u_i.html#aee6029ecc46cd969e016af6cbe8f02c9" title="Get restart command&#45;line parameters and request restart. " alt="" coords="487,553,661,579"/>
+<area shape="rect" id="node29" href="$class_raven_g_u_i.html#a29f511a021f3fca1940d3c559b686c9f" title="Show debug window and set focus to the console. " alt="" coords="470,320,678,361"/>
+<area shape="rect" id="node20" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="755,771,931,798"/>
+<area shape="rect" id="node31" href="$server_8cpp.html#ac2592c3f87216377b10947aa07a0c9c5" title="help" alt="" coords="551,974,597,1001"/>
+<area shape="rect" id="node33" href="$class_platform_style.html#a3afe6673b3d60f89ca34d1c23690af6c" title="PlatformStyle::LightBlue\lColor" alt="" coords="493,1440,655,1481"/>
+<area shape="rect" id="node34" href="$class_platform_style.html#a14c98e08414b0b1565bfd7c9e24c0dab" title="PlatformStyle::DarkBlueColor" alt="" coords="477,1025,671,1051"/>
+<area shape="rect" id="node35" href="$class_platform_style.html#a25cc5c8609d092f6111cadb5efc12444" title="PlatformStyle::ToolBarNot\lSelectedTextColor" alt="" coords="487,1076,661,1117"/>
+<area shape="rect" id="node36" href="$class_platform_style.html#aa8b4699f877a3c061332cd82a99e727a" title="PlatformStyle::ToolBarSelected\lTextColor" alt="" coords="471,1141,677,1183"/>
+<area shape="rect" id="node37" href="$class_platform_style.html#a7dc4348099a7576c8376a60a437401d0" title="PlatformStyle::DarkOrange\lColor" alt="" coords="485,1207,663,1248"/>
+<area shape="rect" id="node38" href="$class_platform_style.html#a56c6f30a712f908bf5e68094a4bcd018" title="PlatformStyle::MainBackGround\lColor" alt="" coords="469,1272,679,1313"/>
+<area shape="rect" id="node40" href="$namespace_g_u_i_util.html#ae5e1dcf10da1e70457dbfd0634bad52a" title="GUIUtil::getShadowEffect" alt="" coords="487,1338,661,1365"/>
+<area shape="rect" id="node41" href="$class_raven_g_u_i.html#a42943e5c0191640ec9b7a2b150c02c9c" title="RavenGUI::getPriceInfo" alt="" coords="493,1389,655,1415"/>
+<area shape="rect" id="node46" href="$class_client_model.html#a0cc703b3856000cdfb42c73cc98110ad" title="Toggle network activity state in core. " alt="" coords="473,1622,675,1649"/>
+<area shape="rect" id="node47" href="$class_client_model.html#aa8f8839642703f13b476d09b7a616bd7" title="Return true if network activity in core is enabled. " alt="" coords="473,1571,675,1598"/>
+<area shape="rect" id="node49" href="$class_modal_overlay.html#a98ae2c2df14fa371e5f444099f6ad75e" title="ModalOverlay::isLayerVisible" alt="" coords="479,1723,669,1750"/>
+<area shape="rect" id="node50" href="$class_modal_overlay.html#a417f7a13143484ec7813f23a81691a0c" title="ModalOverlay::toggleVisibility" alt="" coords="477,1673,671,1699"/>
+</map>

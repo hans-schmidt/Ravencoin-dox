@@ -1,0 +1,36 @@
+<map id="src/coins.h" name="src/coins.h">
+<area shape="rect" id="node2" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="771,229,928,256"/>
+<area shape="rect" id="node9" href="$serialize_8h.html" title="serialize.h" alt="" coords="721,379,802,405"/>
+<area shape="rect" id="node19" href="$uint256_8h.html" title="uint256.h" alt="" coords="979,379,1053,405"/>
+<area shape="rect" id="node20" href="$compressor_8h.html" title="compressor.h" alt="" coords="720,155,821,181"/>
+<area shape="rect" id="node21" href="$core__memusage_8h.html" title="core_memusage.h" alt="" coords="942,80,1071,107"/>
+<area shape="rect" id="node23" href="$memusage_8h.html" title="memusage.h" alt="" coords="4285,379,4382,405"/>
+<area shape="rect" id="node27" href="$hash_8h.html" title="hash.h" alt="" coords="2552,304,2613,331"/>
+<area shape="rect" id="node49" href="$assets_8h.html" title="assets/assets.h" alt="" coords="1128,379,1243,405"/>
+<area shape="rect" id="node50" href="$assetdb_8h.html" title="assets/assetdb.h" alt="" coords="1104,304,1227,331"/>
+<area shape="rect" id="node4" href="$amount_8h.html" title="amount.h" alt="" coords="145,453,221,480"/>
+<area shape="rect" id="node5" href="$script_8h.html" title="script/script.h" alt="" coords="544,304,645,331"/>
+<area shape="rect" id="node6" href="$prevector_8h.html" title="prevector.h" alt="" coords="823,453,910,480"/>
+<area shape="rect" id="node10" href="$endian_8h.html" title="compat/endian.h" alt="" coords="425,453,543,480"/>
+<area shape="rect" id="node22" href="$block_8h.html" title="primitives/block.h" alt="" coords="947,155,1071,181"/>
+<area shape="rect" id="node24" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="4041,453,4141,480"/>
+<area shape="rect" id="node30" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="4352,453,4485,480"/>
+<area shape="rect" id="node31" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="1317,379,1432,405"/>
+<area shape="rect" id="node32" href="$version_8h.html" title="version.h" alt="" coords="3104,379,3179,405"/>
+<area shape="rect" id="node33" href="$sph__blake_8h.html" title="BLAKE interface. " alt="" coords="3203,379,3335,405"/>
+<area shape="rect" id="node34" href="$sph__bmw_8h.html" title="BMW interface. " alt="" coords="3359,379,3489,405"/>
+<area shape="rect" id="node35" href="$sph__groestl_8h.html" title="Groestl interface. " alt="" coords="3513,379,3653,405"/>
+<area shape="rect" id="node36" href="$sph__jh_8h.html" title="JH interface. " alt="" coords="3677,379,3787,405"/>
+<area shape="rect" id="node37" href="$sph__keccak_8h.html" title="Keccak interface. " alt="" coords="3811,379,3954,405"/>
+<area shape="rect" id="node38" href="$sph__skein_8h.html" title="Skein interface. " alt="" coords="3978,379,4110,405"/>
+<area shape="rect" id="node39" href="$sph__luffa_8h.html" title="Luffa interface. " alt="" coords="4134,379,4261,405"/>
+<area shape="rect" id="node40" href="$sph__cubehash_8h.html" title="CubeHash interface. " alt="" coords="1456,379,1613,405"/>
+<area shape="rect" id="node41" href="$sph__shavite_8h.html" title="SHAvite&#45;3 interface. " alt="" coords="1638,379,1781,405"/>
+<area shape="rect" id="node42" href="$sph__simd_8h.html" title="SIMD interface. " alt="" coords="1805,379,1934,405"/>
+<area shape="rect" id="node43" href="$sph__echo_8h.html" title="ECHO interface. " alt="" coords="1958,379,2087,405"/>
+<area shape="rect" id="node44" href="$sph__hamsi_8h.html" title="Hamsi interface. " alt="" coords="2112,379,2248,405"/>
+<area shape="rect" id="node45" href="$sph__fugue_8h.html" title="crypto/sph_fugue.h" alt="" coords="2272,379,2405,405"/>
+<area shape="rect" id="node46" href="$sph__shabal_8h.html" title="Shabal interface. " alt="" coords="2429,379,2568,405"/>
+<area shape="rect" id="node47" href="$sph__whirlpool_8h.html" title="WHIRLPOOL interface. " alt="" coords="2592,379,2744,405"/>
+<area shape="rect" id="node48" href="$sph__sha2_8h.html" title="SHA&#45;224, SHA&#45;256, SHA&#45;384 and SHA&#45;512 interface. " alt="" coords="2769,379,2898,405"/>
+</map>

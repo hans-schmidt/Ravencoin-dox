@@ -1,0 +1,9 @@
+<map id="IsAssetNameASubQualifier" name="IsAssetNameASubQualifier">
+<area shape="rect" id="node2" href="$class_c_assets_cache.html#aec715d565a4e21dede13bbbfe5d3ce03" title="Changes Memory Only, this only called when adding a block to the chain. " alt="" coords="249,23,439,65"/>
+<area shape="rect" id="node7" href="$class_c_assets_cache.html#a16242b963ad8a7f868e11a54fda7c989" title="Changes Memory Only, this is only called when undoing a block from the chain. " alt="" coords="236,89,452,130"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="241,155,447,181"/>
+<area shape="rect" id="node3" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="500,31,579,57"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="627,5,807,32"/>
+<area shape="rect" id="node5" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="667,56,766,83"/>
+<area shape="rect" id="node6" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="855,56,953,83"/>
+</map>

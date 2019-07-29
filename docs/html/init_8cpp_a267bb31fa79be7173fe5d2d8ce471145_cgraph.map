@@ -1,0 +1,42 @@
+<map id="AppInitMain" name="AppInitMain">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="225,5,292,32"/>
+<area shape="rect" id="node3" href="$util_8cpp.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="208,56,309,83"/>
+<area shape="rect" id="node5" href="$util_8cpp.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="217,259,300,285"/>
+<area shape="rect" id="node6" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="435,436,583,463"/>
+<area shape="rect" id="node7" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="465,183,553,209"/>
+<area shape="rect" id="node8" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="421,883,596,909"/>
+<area shape="rect" id="node9" href="$util_8cpp.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="199,107,318,133"/>
+<area shape="rect" id="node10" href="$util_8cpp.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="203,360,315,387"/>
+<area shape="rect" id="node11" href="$utiltime_8cpp.html#a749bc6776c8ec72d7c5e4dea56aee415" title="DateTimeStrFormat" alt="" coords="190,411,327,437"/>
+<area shape="rect" id="node12" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="223,461,295,488"/>
+<area shape="rect" id="node13" href="$util_8cpp.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="193,512,324,539"/>
+<area shape="rect" id="node14" href="$util_8cpp.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="207,157,310,184"/>
+<area shape="rect" id="node15" href="$sigcache_8cpp.html#a952f0d73e4ef3926bfad4d428185ca91" title="InitSignatureCache" alt="" coords="192,309,325,336"/>
+<area shape="rect" id="node16" href="$validation_8cpp.html#a8404f26b97eec49682f6c6b64a3c8930" title="Initializes the script&#45;execution cache. " alt="" coords="173,613,344,640"/>
+<area shape="rect" id="node17" href="$validation_8cpp.html#a8b6fddfd4e56e9c3e73c5dc0cf4de80c" title="Run an instance of the script checking thread. " alt="" coords="191,664,326,691"/>
+<area shape="rect" id="node21" href="$class_c_scheduler.html#a14d2800815da93577858ea078aed1fba" title="CScheduler::serviceQueue" alt="" coords="169,715,348,741"/>
+<area shape="rect" id="node24" href="$validationinterface_8cpp.html#a0aaad62c8654cb1868295e0682b05866" title="GetMainSignals" alt="" coords="201,832,316,859"/>
+<area shape="rect" id="node25" href="$class_c_main_signals.html#ac30bf85e338b993d57bdbf9b82a343e0" title="Register a CScheduler to give callbacks which should run in the background (may only be called once) ..." alt="" coords="144,766,373,807"/>
+<area shape="rect" id="node27" href="$server_8cpp.html#aeff535d4f2cca2e52debc19711ca4406" title="Set the RPC warmup status. " alt="" coords="179,933,338,960"/>
+<area shape="rect" id="node28" href="$init_8cpp.html#a7769d5957df16d51f1164473c8631aa7" title="AppInitServers" alt="" coords="205,1085,313,1112"/>
+<area shape="rect" id="node37" href="$ui__interface_8cpp.html#a36f8e669221ac80facf023671576ee82" title="Show error message. " alt="" coords="225,1035,293,1061"/>
+<area shape="rect" id="node38" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="239,1288,278,1315"/>
+<area shape="rect" id="node41" href="$wallet_2init_8cpp.html#a1c456da7086ae4c96a9b67ece83bda8e" title="Responsible for reading and validating the &#45;wallet arguments and verifying the wallet database..." alt="" coords="209,883,309,909"/>
+<area shape="rect" id="node4" href="$namespacefsbridge.html#a19c84cec4ae9accfbc88a83e48f7ee92" title="fsbridge::fopen" alt="" coords="455,81,563,108"/>
+<area shape="rect" id="node18" href="$util_8cpp.html#a85fc1244e0bd3c91ee7a1c05ed10ebbb" title="RenameThread" alt="" coords="453,613,564,640"/>
+<area shape="rect" id="node19" href="$class_c_check_queue.html#ad3602cd305b07612e634363b31c1d46c" title="Worker thread. " alt="" coords="431,664,587,691"/>
+<area shape="rect" id="node20" href="$class_c_check_queue.html#a20cdd097d93da6deeca6e5721a758165" title="Internal function that does bulk of the verification work. " alt="" coords="654,664,798,691"/>
+<area shape="rect" id="node22" href="$class_c_scheduler.html#a6cfb216a04f275d9dfff5a4b1b5c21da" title="CScheduler::shouldStop" alt="" coords="427,715,590,741"/>
+<area shape="rect" id="node23" href="$random_8cpp.html#ac625a0557cc78c5412aaefc4afee852a" title="Add a little bit of randomness to the output of GetStrongRangBytes. " alt="" coords="439,765,578,792"/>
+<area shape="rect" id="node26" href="$struct_main_signals_instance.html#ac6f408c83252a8685f1deae7e6b3cc39" title="MainSignalsInstance\l::MainSignalsInstance" alt="" coords="433,817,584,858"/>
+<area shape="rect" id="node29" href="$namespace_r_p_c_server.html#ab38f9a4ad5abfb7a1ade85fae6fa75d2" title="RPCServer::OnStarted" alt="" coords="431,1035,587,1061"/>
+<area shape="rect" id="node30" href="$init_8cpp.html#aaf46bb0b868e28f75fa0299f7386d6a4" title="OnRPCStarted" alt="" coords="453,1085,564,1112"/>
+<area shape="rect" id="node32" href="$namespace_r_p_c_server.html#abe44263b00af3bb92721b23a903aa5ae" title="RPCServer::OnStopped" alt="" coords="427,1136,590,1163"/>
+<area shape="rect" id="node33" href="$init_8cpp.html#adb67159734f47c352636ca7a9f812125" title="OnRPCStopped" alt="" coords="451,1187,567,1213"/>
+<area shape="rect" id="node34" href="$httpserver_8cpp.html#a6808b08438e29d81ba310ebded4ba648" title="Initialize HTTP server. " alt="" coords="452,1237,565,1264"/>
+<area shape="rect" id="node35" href="$server_8cpp.html#adf899cb7aaf397daa8390b1b92efc4a9" title="StartRPC" alt="" coords="469,933,548,960"/>
+<area shape="rect" id="node36" href="$httprpc_8cpp.html#a7d820e9f4f9a27793dd7648813b802f6" title="Start HTTP RPC subsystem. " alt="" coords="451,984,566,1011"/>
+<area shape="rect" id="node31" href="$blockchain_8cpp.html#a7f3d9c36d5032b8227eb8ec0102405ab" title="Callback for when block tip changed. " alt="" coords="644,1136,808,1163"/>
+<area shape="rect" id="node39" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="444,1288,573,1315"/>
+<area shape="rect" id="node40" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="447,1339,570,1365"/>
+</map>

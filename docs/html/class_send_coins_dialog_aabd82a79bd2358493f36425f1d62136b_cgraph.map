@@ -1,0 +1,38 @@
+<map id="SendCoinsDialog::removeEntry" name="SendCoinsDialog::removeEntry">
+<area shape="rect" id="node2" href="$class_send_coins_dialog.html#a3d680a76b967641115c6ff2fa83fb62a" title="SendCoinsDialog::addEntry" alt="" coords="259,132,441,159"/>
+<area shape="rect" id="node35" href="$class_send_coins_dialog.html#a3b834c739f7d02d8086a2bf58525c5f0" title="SendCoinsDialog::updateTabs\lAndLabels" alt="" coords="489,209,688,250"/>
+<area shape="rect" id="node3" href="$class_send_coins_entry.html#a831f8f9a63acd77b7d66d5393e12310b" title="SendCoinsEntry::setModel" alt="" coords="499,56,678,83"/>
+<area shape="rect" id="node7" href="$class_send_coins_entry.html#abff66fcd456c82144e7a2c410f5082ac" title="SendCoinsEntry::clear" alt="" coords="758,5,911,32"/>
+<area shape="rect" id="node8" href="$class_send_coins_dialog.html#ae4f429aabcaf309aa314b90049be2a74" title="SendCoinsDialog::coinControl\lUpdateLabels" alt="" coords="736,206,933,247"/>
+<area shape="rect" id="node34" href="$class_send_coins_entry.html#a0dcb8720f234165b37f8b45b035320cc" title="SendCoinsEntry::setFocus" alt="" coords="499,107,678,133"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="1261,105,1461,132"/>
+<area shape="rect" id="node5" href="$class_send_coins_entry.html#a6ff4bd5b370545bcfd6214e866ee33f3" title="SendCoinsEntry::updateDisplayUnit" alt="" coords="981,55,1213,81"/>
+<area shape="rect" id="node6" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="1263,55,1459,81"/>
+<area shape="rect" id="node9" href="$class_send_coins_dialog.html#a91c32dd9656813960ca6d076adedd1e0" title="SendCoinsDialog::updateCoin\lControlState" alt="" coords="999,331,1196,373"/>
+<area shape="rect" id="node11" href="$class_send_coins_entry.html#af36fb0ed9e2e07079c1a982b31e793c8" title="SendCoinsEntry::getValue" alt="" coords="1009,211,1185,237"/>
+<area shape="rect" id="node13" href="$class_coin_control_dialog.html#a4fc60e89b097952ff22dc0f9c58c87d9" title="CoinControlDialog::\lupdateLabels" alt="" coords="1029,266,1165,307"/>
+<area shape="rect" id="node10" href="$policy_2fees_8cpp.html#a71cff9731ecdee1cef8bfc2c12dc3842" title="getConfTargetForIndex" alt="" coords="1283,476,1439,503"/>
+<area shape="rect" id="node12" href="$class_payment_request_plus.html#aa3d8c57af7c7bc4ffbc31da32e5a40a6" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="1287,157,1436,198"/>
+<area shape="rect" id="node14" href="$policy_8cpp.html#ab18c1023518f2920e34e05ca324d0ebb" title="IsDust" alt="" coords="1331,324,1392,351"/>
+<area shape="rect" id="node29" href="$class_c_coin_control.html#ad2022117a10ff787973af3d7aa62df6f" title="CCoinControl::ListSelected" alt="" coords="1271,375,1452,401"/>
+<area shape="rect" id="node30" href="$class_wallet_model.html#a5237ea4d9724807a05e2944e5ce6f181" title="WalletModel::getOutputs" alt="" coords="1278,425,1445,452"/>
+<area shape="rect" id="node31" href="$class_wallet_model.html#acb24dd4388e6daef526667fb365a57b1" title="WalletModel::isSpent" alt="" coords="1288,223,1435,249"/>
+<area shape="rect" id="node33" href="$class_c_coin_control.html#a7f9b8135840df5907bc49a4c5cb19ba4" title="CCoinControl::UnSelect" alt="" coords="1280,273,1443,300"/>
+<area shape="rect" id="node15" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="1509,299,1663,325"/>
+<area shape="rect" id="node18" href="$policy_8cpp.html#a7b1001b4a41a02d9469e3b6985587300" title="GetDustThreshold" alt="" coords="1522,361,1650,388"/>
+<area shape="rect" id="node16" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="2155,375,2263,401"/>
+<area shape="rect" id="node17" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="2330,396,2463,423"/>
+<area shape="rect" id="node19" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="1721,336,1883,363"/>
+<area shape="rect" id="node25" href="$serialize_8h.html#aeb209536f7b746673a9c3fba8651b0e5" title="GetSerializeSize" alt="" coords="1743,387,1861,413"/>
+<area shape="rect" id="node26" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="1711,437,1893,464"/>
+<area shape="rect" id="node20" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1961,488,2076,515"/>
+<area shape="rect" id="node21" href="$classprevector_1_1iterator.html#ae9dd2b5e8d96f866e4b05d6b7535f285" title="prevector::iterator\l::iterator" alt="" coords="2147,426,2271,467"/>
+<area shape="rect" id="node22" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="2144,492,2275,519"/>
+<area shape="rect" id="node23" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="2327,467,2466,493"/>
+<area shape="rect" id="node24" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="2323,517,2471,544"/>
+<area shape="rect" id="node27" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="1941,539,2096,565"/>
+<area shape="rect" id="node28" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1966,437,2071,464"/>
+<area shape="rect" id="node32" href="$group__map_wallet.html#ga6adcf1c224ed3c3fe4b0b19f6fca75d8" title="Outpoint is spent if any non&#45;conflicted transaction spends it: " alt="" coords="1525,223,1647,249"/>
+<area shape="rect" id="node36" href="$class_send_coins_dialog.html#a689658987f2af0896f25bf37bb945d91" title="Set up the tab chain manually, as Qt messes up the tab chain by default in some cases (issue https://..." alt="" coords="742,334,927,375"/>
+<area shape="rect" id="node37" href="$class_send_coins_entry.html#aa431a0bf53174b3a012fe224e472bc13" title="Set up the tab chain manually, as Qt messes up the tab chain by default in some cases (issue https://..." alt="" coords="1008,397,1187,438"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="OverviewPage::updateAlerts" name="OverviewPage::updateAlerts">
+<area shape="rect" id="node2" href="$class_overview_page.html#a5d2610ab2b9c58e3b5f67c05f984e097" title="OverviewPage::setClientModel" alt="" coords="241,42,444,69"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a46d9a8d93adfdcc29cae9ff0d44c313e" title="Set the client model. " alt="" coords="492,42,675,69"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="723,42,885,69"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="933,42,1112,69"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1633,5,1808,47"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1160,64,1339,105"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1387,71,1585,98"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1633,71,1808,112"/>
+</map>

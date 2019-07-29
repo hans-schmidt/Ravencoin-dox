@@ -1,0 +1,5 @@
+<map id="WalletParameterInteraction" name="WalletParameterInteraction">
+<area shape="rect" id="node2" href="$class_args_manager.html#a6e981332a3b40b91f2299f5f72152c51" title="Set an argument if it doesn&#39;t already have a value. " alt="" coords="235,5,406,32"/>
+<area shape="rect" id="node3" href="$class_args_manager.html#a3e1f493f816858124c942e8ee29e615d" title="Return a vector of strings of the given argument. " alt="" coords="243,56,398,83"/>
+<area shape="rect" id="node4" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="233,107,408,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CheckNewAsset" name="CheckNewAsset">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="379,5,509,32"/>
+<area shape="rect" id="node3" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="233,93,272,120"/>
+<area shape="rect" id="node6" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="175,43,331,69"/>
+<area shape="rect" id="node4" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="379,68,509,95"/>
+<area shape="rect" id="node5" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="383,119,505,145"/>
+</map>

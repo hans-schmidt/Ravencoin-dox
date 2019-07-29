@@ -1,0 +1,12 @@
+<map id="ReceiveCoinsDialog::copyURI" name="ReceiveCoinsDialog::copyURI">
+<area shape="rect" id="node2" href="$class_receive_coins_dialog.html#adb21771a4488b706bb523ff60ef0c625" title="ReceiveCoinsDialog\l::selectedRow" alt="" coords="217,5,359,47"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#ab13ca64220a1652d63e1e042d3be578f" title="WalletModel::getRecentRequests\lTableModel" alt="" coords="429,31,648,72"/>
+<area shape="rect" id="node4" href="$namespace_g_u_i_util.html#a516c89e2e347c7fd513a3af5ba13578a" title="GUIUtil::formatRavenURI" alt="" coords="201,122,375,149"/>
+<area shape="rect" id="node10" href="$class_recent_requests_table_model.html#a6d0dead09080f7f8201a3feff0c30bb7" title="RecentRequestsTableModel\l::entry" alt="" coords="195,173,381,215"/>
+<area shape="rect" id="node11" href="$namespace_g_u_i_util.html#aef655b19f129179ca32f11a4d0da1a07" title="GUIUtil::setClipboard" alt="" coords="215,239,361,266"/>
+<area shape="rect" id="node5" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="471,122,607,149"/>
+<area shape="rect" id="node6" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="716,46,843,73"/>
+<area shape="rect" id="node7" href="$class_raven_units.html#aea6fad621ac4f75381406d5ca415f78e" title="Number of Satoshis (1e&#45;8) per unit for assets. " alt="" coords="696,97,863,123"/>
+<area shape="rect" id="node8" href="$class_raven_units.html#a56c9ff217422454061562a0612bf61ec" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="713,147,845,174"/>
+<area shape="rect" id="node9" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="704,198,855,225"/>
+</map>

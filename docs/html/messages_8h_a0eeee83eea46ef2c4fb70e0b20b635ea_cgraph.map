@@ -1,0 +1,7 @@
+<map id="OrphanMessage" name="OrphanMessage">
+<area shape="rect" id="node2" href="$assets_2messages_8cpp.html#a5171637e3f89e086642cd12c49030dcd" title="GetMessage" alt="" coords="336,31,432,57"/>
+<area shape="rect" id="node6" href="$assets_2messages_8cpp.html#a0eeee83eea46ef2c4fb70e0b20b635ea" title="OrphanMessage" alt="" coords="171,68,288,95"/>
+<area shape="rect" id="node3" href="$class_c_out_point.html#ad7137376da4e1771c4c1067997dd1322" title="COutPoint::ToSerializedString" alt="" coords="480,5,677,32"/>
+<area shape="rect" id="node4" href="$class_c_message_d_b.html#a78c75180edc4285ec8c67516522612e3" title="CMessageDB::ReadMessage" alt="" coords="481,56,677,83"/>
+<area shape="rect" id="node5" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="725,56,864,83"/>
+</map>

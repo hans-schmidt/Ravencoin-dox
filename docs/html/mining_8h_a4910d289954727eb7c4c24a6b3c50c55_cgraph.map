@@ -1,0 +1,51 @@
+<map id="generateBlocks" name="generateBlocks">
+<area shape="rect" id="node2" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="193,917,305,944"/>
+<area shape="rect" id="node3" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="215,968,282,995"/>
+<area shape="rect" id="node4" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="191,1019,306,1045"/>
+<area shape="rect" id="node24" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="410,1044,557,1071"/>
+<area shape="rect" id="node25" href="$miner_8cpp.html#a4873920d6e6dc589a2062dd3f17e2e52" title="Modify the extranonce in a block. " alt="" coords="174,1120,323,1147"/>
+<area shape="rect" id="node26" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="203,1171,295,1197"/>
+<area shape="rect" id="node27" href="$pow_8cpp.html#a4e1129d7ab72643eb7e830f7f72953d7" title="Check whether a block hash satisfies the proof&#45;of&#45;work requirement specified by nBits. " alt="" coords="181,1221,317,1248"/>
+<area shape="rect" id="node30" href="$class_c_block_header.html#af0239f86a13f622a826e9eea66b2d7f3" title="CBlockHeader::GetHash" alt="" coords="165,1272,332,1299"/>
+<area shape="rect" id="node48" href="$class_c_chain_params.html#aa366d4f63c8d16d625336dca61ca65e5" title="CChainParams::GetConsensus" alt="" coords="380,1323,587,1349"/>
+<area shape="rect" id="node49" href="$validation_8cpp.html#a290fce59049c0951b8eb73f0129bf6f0" title="Process an incoming block. " alt="" coords="183,1373,314,1400"/>
+<area shape="rect" id="node5" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="459,461,507,488"/>
+<area shape="rect" id="node6" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="674,5,761,32"/>
+<area shape="rect" id="node7" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="655,56,780,83"/>
+<area shape="rect" id="node8" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="638,107,797,133"/>
+<area shape="rect" id="node9" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="673,157,762,184"/>
+<area shape="rect" id="node10" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="670,208,765,235"/>
+<area shape="rect" id="node11" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="635,259,800,285"/>
+<area shape="rect" id="node12" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="653,309,781,336"/>
+<area shape="rect" id="node13" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="668,360,767,387"/>
+<area shape="rect" id="node14" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="646,411,789,437"/>
+<area shape="rect" id="node15" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="652,461,783,488"/>
+<area shape="rect" id="node16" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="673,512,761,539"/>
+<area shape="rect" id="node17" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="651,563,784,589"/>
+<area shape="rect" id="node18" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="666,613,769,640"/>
+<area shape="rect" id="node19" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="676,664,759,691"/>
+<area shape="rect" id="node20" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="667,715,768,741"/>
+<area shape="rect" id="node21" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="661,765,773,792"/>
+<area shape="rect" id="node22" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="658,816,777,843"/>
+<area shape="rect" id="node23" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="667,867,767,893"/>
+<area shape="rect" id="node28" href="$classarith__uint256.html#a06c0f1937edece69b8d33f88e8d35bc8" title="The &quot;compact&quot; format is a representation of a whole number N using an unsigned 32bit number similar t..." alt="" coords="395,1171,572,1197"/>
+<area shape="rect" id="node29" href="$arith__uint256_8cpp.html#a6a6e0e2e41ba7e31c4a741eb2426a516" title="UintToArith256" alt="" coords="429,1221,538,1248"/>
+<area shape="rect" id="node31" href="$hash_8h.html#ae235360a54ec41155191de749170ab61" title="HashX16R" alt="" coords="440,1272,527,1299"/>
+<area shape="rect" id="node32" href="$hash_8h.html#a11b13e0d71722496589d1bdc9970b5b5" title="GetHashSelection" alt="" coords="653,917,781,944"/>
+<area shape="rect" id="node33" href="$groestl_8c.html#aae8e752e52ba49c4b4d3201138db4e21" title="Initialize a Groestl&#45;512 context. " alt="" coords="650,968,785,995"/>
+<area shape="rect" id="node34" href="$groestl_8c.html#a6234cab162aecb29f261f0131f1aaf0b" title="Process some data bytes. " alt="" coords="662,1019,773,1045"/>
+<area shape="rect" id="node35" href="$groestl_8c.html#a4e6cdfd9e3ceefe1421d858aba818106" title="Terminate the current Groestl&#45;512 computation and output the result into the provided buffer..." alt="" coords="643,1069,791,1096"/>
+<area shape="rect" id="node36" href="$jh_8c.html#a88105066d99c97dcf65545f5c1d4bfe3" title="Initialize a JH&#45;512 context. " alt="" coords="665,1120,770,1147"/>
+<area shape="rect" id="node37" href="$jh_8c.html#a13f33e8600ec764f8b1f34c73da667c9" title="Process some data bytes. " alt="" coords="677,1171,758,1197"/>
+<area shape="rect" id="node38" href="$jh_8c.html#ad2d77c0326724c0a85719348bec9a672" title="Terminate the current JH&#45;512 computation and output the result into the provided buffer. " alt="" coords="658,1221,777,1248"/>
+<area shape="rect" id="node39" href="$keccak_8c.html#a84f1e9fe46fe6ce80c6b8dced5892c9a" title="Initialize a Keccak&#45;512 context. " alt="" coords="649,1272,786,1299"/>
+<area shape="rect" id="node40" href="$keccak_8c.html#a008a64465822dbd2900686f161feb31b" title="Process some data bytes. " alt="" coords="661,1323,774,1349"/>
+<area shape="rect" id="node41" href="$keccak_8c.html#abb8c404657c19eec855f28750b70a3c0" title="Terminate the current Keccak&#45;512 computation and output the result into the provided buffer..." alt="" coords="642,1373,793,1400"/>
+<area shape="rect" id="node42" href="$luffa_8c.html#ac3dafb6e61b453015ce1d8aeedad99bc" title="Initialize a Luffa&#45;512 context. " alt="" coords="657,1424,777,1451"/>
+<area shape="rect" id="node43" href="$luffa_8c.html#a283df58d0ff588f049437ba196d55baf" title="Process some data bytes. " alt="" coords="669,1475,765,1501"/>
+<area shape="rect" id="node44" href="$luffa_8c.html#a8f6bedbac9188807f44a00ae283ded14" title="Terminate the current Luffa&#45;512 computation and output the result into the provided buffer..." alt="" coords="650,1525,785,1552"/>
+<area shape="rect" id="node45" href="$cubehash_8c.html#a5f59b7878edb26c01da43141f158b6eb" title="Initialize a CubeHash&#45;512 context. " alt="" coords="642,1576,793,1603"/>
+<area shape="rect" id="node46" href="$cubehash_8c.html#ad63e5eeb1d5d272d84be5272d281e44e" title="Process some data bytes. " alt="" coords="654,1627,781,1653"/>
+<area shape="rect" id="node47" href="$cubehash_8c.html#a8450930057421f35b61795e8101e44d1" title="Terminate the current CubeHash&#45;512 computation and output the result into the provided buffer..." alt="" coords="635,1677,800,1704"/>
+<area shape="rect" id="node50" href="$validation_8cpp.html#abc9c65975a473d224b3b97b89d571942" title="Functions for validating blocks and updating the block tree. " alt="" coords="437,1373,530,1400"/>
+</map>

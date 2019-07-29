@@ -1,0 +1,39 @@
+<map id="WalletView::setClientModel" name="WalletView::setClientModel">
+<area shape="rect" id="node2" href="$class_overview_page.html#a5d2610ab2b9c58e3b5f67c05f984e097" title="OverviewPage::setClientModel" alt="" coords="236,200,439,227"/>
+<area shape="rect" id="node10" href="$class_send_coins_dialog.html#a360a23c02bd0e581b78603ccb863eb79" title="SendCoinsDialog::setClient\lModel" alt="" coords="246,251,429,293"/>
+<area shape="rect" id="node3" href="$class_overview_page.html#a3f92603780b678f506929dc736e7cd1d" title="OverviewPage::updateAlerts" alt="" coords="495,200,683,227"/>
+<area shape="rect" id="node4" href="$class_client_model.html#a16718fa6c90ac5bce0ce1dcbfb3ec95c" title="Return warnings to be displayed in status bar. " alt="" coords="502,90,677,131"/>
+<area shape="rect" id="node5" href="$warnings_8cpp.html#a6918ffd0d632afc0c0495696bc99aa00" title="Format a string that describes several potential problems detected by the core. " alt="" coords="789,52,888,79"/>
+<area shape="rect" id="node6" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="1066,56,1105,83"/>
+<area shape="rect" id="node9" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="998,5,1173,32"/>
+<area shape="rect" id="node7" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="1258,81,1387,108"/>
+<area shape="rect" id="node8" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="1261,31,1384,57"/>
+<area shape="rect" id="node11" href="$class_send_coins_dialog.html#ac42a9db733fbb2e06882660400c49517" title="SendCoinsDialog::updateSmart\lFeeLabel" alt="" coords="487,339,692,381"/>
+<area shape="rect" id="node12" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="985,489,1185,516"/>
+<area shape="rect" id="node13" href="$class_send_coins_dialog.html#a91c32dd9656813960ca6d076adedd1e0" title="SendCoinsDialog::updateCoin\lControlState" alt="" coords="740,103,937,145"/>
+<area shape="rect" id="node15" href="$wallet_2fees_8cpp.html#a6530b4650c4167b2365741b937bd09af" title="Estimate the minimum fee considering user set parameters and the required fee. " alt="" coords="779,321,898,348"/>
+<area shape="rect" id="node28" href="$class_c_fee_rate.html#ac772be79983433d442d6b871d2fb6e11" title="Return the fee in satoshis for a size of 1000 bytes. " alt="" coords="1241,169,1404,196"/>
+<area shape="rect" id="node30" href="$class_raven_units.html#ad61d958c9c19db002368eec18bf1527c" title="Format as string (with unit) " alt="" coords="992,555,1179,581"/>
+<area shape="rect" id="node37" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="987,439,1183,465"/>
+<area shape="rect" id="node38" href="$class_send_coins_dialog.html#a454df839e09d247a1df5d7994ba3208e" title="SendCoinsDialog::updateFee\lMinimizedLabel" alt="" coords="743,474,935,515"/>
+<area shape="rect" id="node14" href="$policy_2fees_8cpp.html#a71cff9731ecdee1cef8bfc2c12dc3842" title="getConfTargetForIndex" alt="" coords="1007,111,1163,137"/>
+<area shape="rect" id="node16" href="$class_c_fee_rate.html#a1173705aceba99303d6485d1c2f3f9a8" title="Return the fee in satoshis for the given size in bytes. " alt="" coords="1481,168,1614,195"/>
+<area shape="rect" id="node17" href="$class_c_block_policy_estimator.html#af766877edc815e15192134ff3401658c" title="Estimate feerate needed to get be included in a block within confTarget blocks. " alt="" coords="1007,373,1164,414"/>
+<area shape="rect" id="node26" href="$class_c_tx_mem_pool.html#a232651541c3393c81153ffc289e7b71d" title="The minimum fee to get into the mempool, which may itself not be enough for larger&#45;sized transactions..." alt="" coords="998,220,1173,247"/>
+<area shape="rect" id="node29" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="1011,321,1159,348"/>
+<area shape="rect" id="node18" href="$class_tx_confirm_stats.html#a34b67526e2ceea1b81d8669e3faf6a42" title="Return the max number of confirms we&#39;re tracking. " alt="" coords="1683,431,1904,457"/>
+<area shape="rect" id="node20" href="$class_c_block_policy_estimator.html#ae6b52f035c5946e6f29af903400c4972" title="Calculation of highest target that reasonable estimate can be provided for. " alt="" coords="1244,322,1401,363"/>
+<area shape="rect" id="node23" href="$class_c_block_policy_estimator.html#ad6be71975c32281e23234c14068e009f" title="Helper for estimateSmartFee. " alt="" coords="1242,387,1403,429"/>
+<area shape="rect" id="node25" href="$class_c_block_policy_estimator.html#ac5707c649c1c5989a314a4e0be0e72ac" title="Helper for estimateSmartFee. " alt="" coords="1233,453,1412,494"/>
+<area shape="rect" id="node19" href="$class_tx_confirm_stats.html#a8aacab502acae6b278ede7c68c168dc8" title="Write state of estimation data to a file. " alt="" coords="1952,431,2105,457"/>
+<area shape="rect" id="node21" href="$class_c_block_policy_estimator.html#ad870b8402333d44c86c35ce1f40e21d7" title="Number of blocks of data recorded while fee estimates have been running. " alt="" coords="1469,219,1626,261"/>
+<area shape="rect" id="node22" href="$class_c_block_policy_estimator.html#a12176ac3e097524b3e7e24a7515d7ea3" title="Number of blocks of recorded fee estimate data represented in saved data file. " alt="" coords="1469,285,1626,326"/>
+<area shape="rect" id="node24" href="$class_tx_confirm_stats.html#aace5d830fdfac5626e7769dee5fe6f11" title="Calculate a feerate estimate. " alt="" coords="1460,453,1635,494"/>
+<area shape="rect" id="node27" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="1287,220,1359,247"/>
+<area shape="rect" id="node31" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="1255,620,1391,647"/>
+<area shape="rect" id="node36" href="$class_raven_units.html#a357d3a6cb01154a8da132d435c7fd436" title="Short name. " alt="" coords="1257,569,1388,596"/>
+<area shape="rect" id="node32" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="1484,721,1611,748"/>
+<area shape="rect" id="node33" href="$class_raven_units.html#aea6fad621ac4f75381406d5ca415f78e" title="Number of Satoshis (1e&#45;8) per unit for assets. " alt="" coords="1464,569,1631,596"/>
+<area shape="rect" id="node34" href="$class_raven_units.html#a56c9ff217422454061562a0612bf61ec" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="1481,620,1613,647"/>
+<area shape="rect" id="node35" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="1472,671,1623,697"/>
+</map>

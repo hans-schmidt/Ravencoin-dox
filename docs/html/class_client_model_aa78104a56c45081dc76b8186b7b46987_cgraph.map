@@ -1,0 +1,6 @@
+<map id="ClientModel::getVerificationProgress" name="ClientModel::getVerificationProgress">
+<area shape="rect" id="node2" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="279,5,371,32"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#ae466f595b8c57bd7a80777c8d34dfdc2" title="Guess how far we are in the verification process at the given block index. " alt="" coords="236,56,413,83"/>
+<area shape="rect" id="node5" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="291,107,358,133"/>
+<area shape="rect" id="node4" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="461,56,649,83"/>
+</map>

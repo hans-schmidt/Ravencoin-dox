@@ -1,0 +1,14 @@
+<map id="fReindex" name="fReindex">
+<area shape="rect" id="node2" href="$validation_8h.html#a5edcd96316574fd4a7f3ae0922a5cfd6" title="Check whether we are doing an initial block download (synchronizing from disk or network) ..." alt="" coords="128,42,283,69"/>
+<area shape="rect" id="node12" href="$validation_8h.html#ac4e7aee872d6580218c7f65371e384b9" title="IsInitialSyncSpeedUp" alt="" coords="131,93,279,119"/>
+<area shape="rect" id="node13" href="$validation_8h.html#ac199fda2eb2ecbe7dfa224eb2a0af8e1" title="Load the block tree and coins database from disk, initializing state if we&#39;re running with &#45;reindex..." alt="" coords="148,143,263,170"/>
+<area shape="rect" id="node3" href="$class_client_model.html#af9798c364463ada09be477b15daf0fbe" title="Return true if core is doing initial block download. " alt="" coords="331,35,504,76"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#aed3fc203d310243887be68bc58d741ec" title="Show incoming transaction notification for new transactions. " alt="" coords="552,42,789,69"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="837,42,1024,69"/>
+<area shape="rect" id="node6" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1072,42,1235,69"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1283,42,1461,69"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1983,5,2157,47"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1509,64,1688,105"/>
+<area shape="rect" id="node10" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1736,71,1935,98"/>
+<area shape="rect" id="node11" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1983,71,2157,112"/>
+</map>

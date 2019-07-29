@@ -1,0 +1,4 @@
+<map id="Consensus::CheckTxAssets" name="Consensus::CheckTxAssets">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#ad140b39a0be43b4c0ca1872ba7323351" title="Called when a block is connected. " alt="" coords="244,5,449,32"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="497,5,703,32"/>
+</map>

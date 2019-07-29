@@ -1,0 +1,10 @@
+<map id="ListCoinsTestingSetup::ListCoinsTestingSetup" name="ListCoinsTestingSetup::ListCoinsTestingSetup">
+<area shape="rect" id="node2" href="$standard_8cpp.html#aa376c6e2bc4848cfd4f777f8dd239469" title="Generate a P2PK script for the given pubkey. " alt="" coords="216,31,385,57"/>
+<area shape="rect" id="node6" href="$class_c_d_b_env.html#ab352b9f28a8329037fd942f9912797e3" title="CDBEnv::MakeMock" alt="" coords="227,81,374,108"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga5d7b244b8ed0cbe24233ee0b6ca3cae0" title="CWallet::LoadWallet" alt="" coords="229,132,372,159"/>
+<area shape="rect" id="node3" href="$class_c_pub_key.html#a859ab9909d68092d6d4fc739237ab358" title="CPubKey::begin" alt="" coords="455,5,573,32"/>
+<area shape="rect" id="node4" href="$class_c_pub_key.html#a1d6fb1ec2b45fb229f549215d6a23dbc" title="CPubKey::end" alt="" coords="461,56,567,83"/>
+<area shape="rect" id="node5" href="$classbase__blob.html#a00e7426a5d1ada51c635debf85f5a810" title="base_blob\&lt; 160 \&gt;::size" alt="" coords="643,56,801,83"/>
+<area shape="rect" id="node8" href="$class_c_wallet_d_b.html#a14f26e53502d1a60dd2b034f830acf03" title="CWalletDB::LoadWallet" alt="" coords="433,132,595,159"/>
+<area shape="rect" id="node9" href="$class_c_d_b.html#adfd2c079df629d5f7cac0ca923ffd698" title="CDB::Read" alt="" coords="677,132,767,159"/>
+</map>

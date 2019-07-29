@@ -1,0 +1,11 @@
+<map id="QValidatedLineEdit::setCheckValidator" name="QValidatedLineEdit::setCheckValidator">
+<area shape="rect" id="node2" href="$namespace_g_u_i_util.html#aeb3b902c0536bdb9c2def3d3e465aeba" title="GUIUtil::setupAddressWidget" alt="" coords="191,228,385,255"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="441,5,628,32"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="465,57,605,98"/>
+<area shape="rect" id="node5" href="$class_edit_address_dialog.html#a625792e82d332070d6009898febc3afa" title="EditAddressDialog::\lEditAddressDialog" alt="" coords="465,122,604,163"/>
+<area shape="rect" id="node6" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="460,187,609,229"/>
+<area shape="rect" id="node7" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="433,253,636,294"/>
+<area shape="rect" id="node8" href="$class_send_coins_dialog.html#affacd36b4df87a68e2fe706ef388c0a6" title="SendCoinsDialog::SendCoins\lDialog" alt="" coords="437,318,632,359"/>
+<area shape="rect" id="node9" href="$class_send_coins_entry.html#a6eae20cd564011773931fc724f4d787c" title="SendCoinsEntry::SendCoins\lEntry" alt="" coords="440,383,629,425"/>
+<area shape="rect" id="node10" href="$class_sign_verify_message_dialog.html#a83ae6a360e2c8779d0d2895117bfb833" title="SignVerifyMessageDialog\l::SignVerifyMessageDialog" alt="" coords="445,449,625,490"/>
+</map>

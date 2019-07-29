@@ -1,0 +1,8 @@
+<map id="ClientModel::updateAlert" name="ClientModel::updateAlert">
+<area shape="rect" id="node2" href="$class_client_model.html#a16718fa6c90ac5bce0ce1dcbfb3ec95c" title="Return warnings to be displayed in status bar. " alt="" coords="219,49,393,90"/>
+<area shape="rect" id="node3" href="$warnings_8cpp.html#a6918ffd0d632afc0c0495696bc99aa00" title="Format a string that describes several potential problems detected by the core. " alt="" coords="441,56,540,83"/>
+<area shape="rect" id="node4" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="656,31,695,57"/>
+<area shape="rect" id="node7" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="588,81,763,108"/>
+<area shape="rect" id="node5" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="811,5,940,32"/>
+<area shape="rect" id="node6" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="814,56,937,83"/>
+</map>

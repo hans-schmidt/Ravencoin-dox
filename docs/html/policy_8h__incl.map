@@ -1,0 +1,16 @@
+<map id="src/policy/policy.h" name="src/policy/policy.h">
+<area shape="rect" id="node2" href="$consensus_8h.html" title="consensus/consensus.h" alt="" coords="5,453,168,480"/>
+<area shape="rect" id="node5" href="$feerate_8h.html" title="feerate.h" alt="" coords="727,304,801,331"/>
+<area shape="rect" id="node24" href="$interpreter_8h.html" title="script/interpreter.h" alt="" coords="1373,155,1499,181"/>
+<area shape="rect" id="node33" href="$standard_8h.html" title="script/standard.h" alt="" coords="1550,80,1669,107"/>
+<area shape="rect" id="node6" href="$amount_8h.html" title="amount.h" alt="" coords="1219,379,1295,405"/>
+<area shape="rect" id="node7" href="$serialize_8h.html" title="serialize.h" alt="" coords="723,379,805,405"/>
+<area shape="rect" id="node8" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1477,453,1595,480"/>
+<area shape="rect" id="node21" href="$prevector_8h.html" title="prevector.h" alt="" coords="893,453,979,480"/>
+<area shape="rect" id="node9" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1409,528,1545,555"/>
+<area shape="rect" id="node25" href="$script__error_8h.html" title="script_error.h" alt="" coords="1473,229,1572,256"/>
+<area shape="rect" id="node26" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1068,229,1225,256"/>
+<area shape="rect" id="node27" href="$script_8h.html" title="script/script.h" alt="" coords="1029,304,1131,331"/>
+<area shape="rect" id="node31" href="$uint256_8h.html" title="uint256.h" alt="" coords="1500,304,1575,331"/>
+<area shape="rect" id="node28" href="$common_8h.html" title="crypto/common.h" alt="" coords="1575,379,1697,405"/>
+</map>

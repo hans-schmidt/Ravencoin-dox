@@ -1,0 +1,12 @@
+<map id="src/consensus/merkle.h" name="src/consensus/merkle.h">
+<area shape="rect" id="node4" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="636,155,793,181"/>
+<area shape="rect" id="node27" href="$uint256_8h.html" title="uint256.h" alt="" coords="1347,229,1421,256"/>
+<area shape="rect" id="node29" href="$block_8h.html" title="primitives/block.h" alt="" coords="769,80,893,107"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="94,304,170,331"/>
+<area shape="rect" id="node6" href="$script_8h.html" title="script/script.h" alt="" coords="868,229,969,256"/>
+<area shape="rect" id="node16" href="$serialize_8h.html" title="serialize.h" alt="" coords="674,304,755,331"/>
+<area shape="rect" id="node7" href="$common_8h.html" title="crypto/common.h" alt="" coords="1273,304,1396,331"/>
+<area shape="rect" id="node11" href="$prevector_8h.html" title="prevector.h" alt="" coords="945,379,1031,405"/>
+<area shape="rect" id="node9" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1254,379,1373,405"/>
+<area shape="rect" id="node10" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1260,453,1396,480"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="CNetAddr::IsValid" name="CNetAddr::IsValid">
+<area shape="rect" id="node2" href="$class_c_connman.html#ac810542ffa683d5dde5e5524b5ce2e4e" title="CConnman::ConnectNode" alt="" coords="694,514,870,540"/>
+<area shape="rect" id="node8" href="$class_c_connman.html#ad86a46ddbc6c99900d58ab89b65eaece" title="CConnman::GetAddedNodeInfo" alt="" coords="939,7,1146,34"/>
+<area shape="rect" id="node9" href="$rpc_2net_8cpp.html#a11539def027cdd45ee718684c2e00ca6" title="setban" alt="" coords="252,336,313,363"/>
+<area shape="rect" id="node10" href="$class_c_node.html#a1f39037c55bed93b832bcbef00597ca5" title="CNode::PushAddress" alt="" coords="208,210,357,236"/>
+<area shape="rect" id="node12" href="$class_c_net_addr.html#a4e3b2fea2a6151c76684b3812df4a5c3" title="CNetAddr::IsRoutable" alt="" coords="207,387,358,414"/>
+<area shape="rect" id="node24" href="$class_c_sub_net.html#af84fa02ebca222739c55e9d2cd7d38a3" title="CSubNet::Match" alt="" coords="223,738,343,764"/>
+<area shape="rect" id="node27" href="$classproxy_type.html#a3f3c9c016b103c8ff5e61d115c188b36" title="proxyType::IsValid" alt="" coords="217,650,348,676"/>
+<area shape="rect" id="node34" href="$class_tor_controller.html#a98c6b822f4a60da7847a974607b95963" title="TorController::~TorController" alt="" coords="189,788,377,815"/>
+<area shape="rect" id="node35" href="$class_tor_controller.html#a81392f33f0c7e069762668ec3a757075" title="Callback after connection lost or failed connection attempt. " alt="" coords="181,915,384,942"/>
+<area shape="rect" id="node3" href="$class_c_connman.html#a3bd6aed18096f954c24c80b32c876da5" title="CConnman::OpenNetworkConnection" alt="" coords="921,412,1164,439"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#a161f1b41271db1a10cec61a825524b5d" title="CConnman::ProcessOneShot" alt="" coords="1229,362,1423,388"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#ac4c8cf5142f88565e789f3b173d89b3e" title="CConnman::ThreadOpenConnections" alt="" coords="1488,362,1728,388"/>
+<area shape="rect" id="node7" href="$class_c_connman.html#a0b787caf95e52a346a2b31a580d60a62" title="CConnman::ThreadOpenAdded\lConnections" alt="" coords="1224,273,1428,314"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#aa4709e5604e0f4369dada0a211493565" title="CConnman::Start" alt="" coords="1776,280,1900,307"/>
+<area shape="rect" id="node11" href="$net_8h.html#a0cde2b3256757536c42c0bd3037847d1" title="AdvertiseLocal" alt="" coords="989,260,1097,287"/>
+<area shape="rect" id="node13" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="476,463,599,490"/>
+<area shape="rect" id="node14" href="$net_8h.html#a058b75c6fcc94a0643184c237ad6de93" title="IsPeerAddrLocalGood" alt="" coords="707,260,857,287"/>
+<area shape="rect" id="node15" href="$net_8h.html#a337d6af198a6b0d75f830e56da9b91e9" title="AddLocal" alt="" coords="499,184,575,211"/>
+<area shape="rect" id="node20" href="$class_c_net_addr.html#ad0162f2629f552a65acf934e1629c1db" title="CNetAddr::GetNetwork" alt="" coords="458,311,617,338"/>
+<area shape="rect" id="node23" href="$class_c_net_addr.html#ac68e7eb7b10cbb18b2b8af027fa4b97a" title="Calculates a metric for how reachable (*this) is from a given partner. " alt="" coords="432,362,643,388"/>
+<area shape="rect" id="node16" href="$net_8h.html#abda4e8f87772f9a9d9d8f52a93791ffc" title="AddLocal" alt="" coords="744,159,820,186"/>
+<area shape="rect" id="node17" href="$class_c_connman.html#a999ec42f1515f77096556c94c29c6538" title="CConnman::WakeMessageHandler" alt="" coords="1212,120,1440,147"/>
+<area shape="rect" id="node19" href="$net_8h.html#a8316da05a5f15022dce5d0c2f82001fc" title="Discover" alt="" coords="745,210,819,236"/>
+<area shape="rect" id="node18" href="$class_c_connman.html#a765597cbfe99c083d8fa3d61bb464e34" title="CConnman::ThreadSocketHandler" alt="" coords="1497,183,1719,210"/>
+<area shape="rect" id="node21" href="$net_8h.html#a7f5f5a0bf934e49c7137ee4aa6eb8732" title="IsLimited" alt="" coords="745,362,819,388"/>
+<area shape="rect" id="node22" href="$net_8h.html#a0eb7db987ad1a1bf139d0cd46873ed29" title="check whether a given address is in a network we can probably connect to " alt="" coords="735,311,829,338"/>
+<area shape="rect" id="node25" href="$class_c_connman.html#afe1269cf57a859dfc0869c8b5f417ea9" title="CConnman::FindNode" alt="" coords="461,884,613,911"/>
+<area shape="rect" id="node26" href="$class_c_connman.html#aa014a4c7bbfc843aa4fff786a2aa8c96" title="CConnman::IsBanned" alt="" coords="707,834,857,860"/>
+<area shape="rect" id="node28" href="$netbase_8h.html#afb67b4c7e1edb97af6f3edf4014491e9" title="SetProxy" alt="" coords="499,783,575,810"/>
+<area shape="rect" id="node30" href="$netbase_8h.html#acf4f8d5df07397cbef864275baf1fed4" title="SetNameProxy" alt="" coords="482,682,593,708"/>
+<area shape="rect" id="node31" href="$netbase_8h.html#a10e73828b43b41650862672c4911051e" title="GetNameProxy" alt="" coords="481,732,593,759"/>
+<area shape="rect" id="node32" href="$netbase_8h.html#a4a0df7ebe15572508e61c38406e49732" title="HaveNameProxy" alt="" coords="476,631,599,658"/>
+<area shape="rect" id="node33" href="$class_proxy_address_validator.html#a8d97c3857f7dfcd118fb1b1634b38369" title="ProxyAddressValidator\l::validate" alt="" coords="460,565,615,606"/>
+<area shape="rect" id="node29" href="$class_tor_controller.html#ae36bc33cb3088384517c68f71e9944ce" title="Callback for AUTHENTICATE result. " alt="" coords="707,783,857,810"/>
+<area shape="rect" id="node36" href="$class_tor_controller.html#ae5d4304836fce79574ec540c5ada8269" title="Reconnect, after getting disconnected. " alt="" coords="453,935,621,962"/>
+<area shape="rect" id="node37" href="$class_tor_controller.html#a2fa9614b4fa0e24c57f443b3c56f835c" title="Callback for reconnect timer. " alt="" coords="691,935,873,962"/>
+</map>

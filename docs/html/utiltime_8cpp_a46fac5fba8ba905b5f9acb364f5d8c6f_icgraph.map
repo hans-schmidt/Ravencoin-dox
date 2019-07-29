@@ -1,0 +1,51 @@
+<map id="GetTime" name="GetTime">
+<area shape="rect" id="node2" href="$init_8h.html#a267bb31fa79be7173fe5d2d8ce471145" title="Raven core main initialization. " alt="" coords="199,56,290,83"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#aa014a4c7bbfc843aa4fff786a2aa8c96" title="CConnman::IsBanned" alt="" coords="446,227,597,253"/>
+<area shape="rect" id="node7" href="$class_c_connman.html#ac4c8cf5142f88565e789f3b173d89b3e" title="CConnman::ThreadOpenConnections" alt="" coords="969,157,1209,184"/>
+<area shape="rect" id="node9" href="$class_c_connman.html#ace6d92a39c2ba3062e52b16735c65df7" title="CConnman::Ban" alt="" coords="185,208,304,235"/>
+<area shape="rect" id="node10" href="$class_c_connman.html#a0695d37447e19cfde25be7e9b7f13f67" title="clean unused entries (if bantime has expired) " alt="" coords="431,107,611,133"/>
+<area shape="rect" id="node13" href="$class_c_connman.html#a494218531e4289a5c0b9c373890454c4" title="CConnman::RecordBytesSent" alt="" coords="422,932,621,959"/>
+<area shape="rect" id="node15" href="$class_c_connman.html#ab1cf2be67b3e98527c87e6d5261d267e" title="response the time in second left in the current max outbound cycle " alt="" coords="145,310,344,351"/>
+<area shape="rect" id="node17" href="$class_c_connman.html#a4628ea4ab0119c4a396cdae10bc7d06e" title="set the timeframe for the max outbound target " alt="" coords="146,427,343,469"/>
+<area shape="rect" id="node18" href="$class_peer_logic_validation.html#a90c3cb8c05c52b0c8639d51c87ce7017" title="PeerLogicValidation\l::InitializeNode" alt="" coords="176,493,313,534"/>
+<area shape="rect" id="node19" href="$net__processing_8cpp.html#a8ba236d72126857f35e106fb4ebde610" title="LimitOrphanTxSize" alt="" coords="178,559,311,585"/>
+<area shape="rect" id="node20" href="$class_peer_logic_validation.html#ad9ba8b8657346c1ce86e061d5fdaeb53" title="PeerLogicValidation\l::CheckForStaleTipAndEvict\lPeers" alt="" coords="151,609,339,665"/>
+<area shape="rect" id="node21" href="$class_payment_server.html#a30e543bb181bb74366741459599d2118" title="PaymentServer::verifyExpired" alt="" coords="147,376,343,403"/>
+<area shape="rect" id="node24" href="$class_raven_g_u_i.html#a82dbe2584a847b32b314c075c1be6074" title="RavenGUI::updateHeadersSync\lProgressLabel" alt="" coords="139,741,350,782"/>
+<area shape="rect" id="node25" href="$server_8cpp.html#a804f6e33301cccd3f416637cbf4dd070" title="uptime" alt="" coords="214,807,275,833"/>
+<area shape="rect" id="node26" href="$timedata_8h.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="183,689,306,716"/>
+<area shape="rect" id="node36" href="$class_c_tx_mem_pool.html#ad140b39a0be43b4c0ca1872ba7323351" title="Called when a block is connected. " alt="" coords="142,908,347,935"/>
+<area shape="rect" id="node37" href="$class_c_tx_mem_pool.html#a2d04be1a3e144d466d45a5f1ec48f62c" title="CTxMemPool::_clear" alt="" coords="172,959,317,985"/>
+<area shape="rect" id="node38" href="$class_c_tx_mem_pool.html#a232651541c3393c81153ffc289e7b71d" title="The minimum fee to get into the mempool, which may itself not be enough for larger&#45;sized transactions..." alt="" coords="157,1009,332,1036"/>
+<area shape="rect" id="node39" href="$validation_8h.html#a5edcd96316574fd4a7f3ae0922a5cfd6" title="Check whether we are doing an initial block download (synchronizing from disk or network) ..." alt="" coords="167,1060,322,1087"/>
+<area shape="rect" id="node40" href="$validation_8h.html#ac4e7aee872d6580218c7f65371e384b9" title="IsInitialSyncSpeedUp" alt="" coords="171,1111,319,1137"/>
+<area shape="rect" id="node41" href="$class_c_d_b.html#adaf61592305effb05fdfd23a5b7008ca" title="CDB::Recover" alt="" coords="191,1161,299,1188"/>
+<area shape="rect" id="node42" href="$class_c_d_b.html#aa5a0775b1bcb7fe902cb9776cd89252e" title="CDB::VerifyEnvironment" alt="" coords="161,1212,328,1239"/>
+<area shape="rect" id="node43" href="$rpcwallet_8cpp.html#ae33fa4da0b9b5726e4cf0f29b3e7663b" title="walletpassphrase" alt="" coords="183,1263,306,1289"/>
+<area shape="rect" id="node44" href="$rpcwallet_8cpp.html#a97fa26e107f9d641d0af46cba7e3c1b5" title="resendwallettransactions" alt="" coords="161,1313,328,1340"/>
+<area shape="rect" id="node45" href="$group__map_wallet.html#gac0cc4cfc56a39f38926fb3d0f5bb3773" title="keystore implementation Generate a new key " alt="" coords="155,1364,335,1391"/>
+<area shape="rect" id="node46" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="159,1415,331,1441"/>
+<area shape="rect" id="node47" href="$group__map_wallet.html#ga8b8262f8c44f49d1c6291ac39f0459ab" title="Scan the block chain (starting in pindexStart) for transactions from or to us. " alt="" coords="125,1465,364,1492"/>
+<area shape="rect" id="node48" href="$group__map_wallet.html#gabbfe3c26937aaa829c8cc95565ff812e" title="Tells listeners to broadcast their data. " alt="" coords="127,1516,362,1543"/>
+<area shape="rect" id="node49" href="$class_c_key_pool.html#ab1f33489faff7a7e1edbd61a5a18f604" title="CKeyPool::CKeyPool" alt="" coords="171,1567,319,1593"/>
+<area shape="rect" id="node50" href="$class_c_wallet_key.html#aa2603825b543b1d5153f31482139a6b2" title="todo: add something to note what created it (user, getnewaddress, change) maybe should have a map&lt;str..." alt="" coords="159,1617,330,1644"/>
+<area shape="rect" id="node3" href="$class_raven_core.html#ad8824da7414b72f26061a1e914d66b59" title="RavenCore::initialize" alt="" coords="450,5,593,32"/>
+<area shape="rect" id="node4" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="490,56,553,83"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#a3bd6aed18096f954c24c80b32c876da5" title="CConnman::OpenNetworkConnection" alt="" coords="679,227,921,253"/>
+<area shape="rect" id="node8" href="$class_c_connman.html#aa4709e5604e0f4369dada0a211493565" title="CConnman::Start" alt="" coords="1257,132,1381,159"/>
+<area shape="rect" id="node11" href="$class_c_connman.html#a6e729a956380ac422ab78d842e158df1" title="CConnman::DumpBanlist" alt="" coords="1004,107,1175,133"/>
+<area shape="rect" id="node12" href="$class_c_connman.html#a72472ae8962210960eea780bf0e733f6" title="CConnman::GetBanned" alt="" coords="719,107,881,133"/>
+<area shape="rect" id="node14" href="$class_c_connman.html#a765597cbfe99c083d8fa3d61bb464e34" title="CConnman::ThreadSocketHandler" alt="" coords="689,604,911,631"/>
+<area shape="rect" id="node16" href="$class_c_connman.html#aa12d154df14eef07418a36362d1cb8d7" title="check if the outbound target is reached " alt="" coords="427,278,616,319"/>
+<area shape="rect" id="node22" href="$class_payment_server.html#a19092e1d4d7c6eee3ec9d4390d11a092" title="PaymentServer::processPayment\lRequest" alt="" coords="412,343,631,385"/>
+<area shape="rect" id="node23" href="$class_wallet_model.html#a53443aca544c824550f21e5f87e4ec39" title="WalletModel::sendCoins" alt="" coords="439,409,603,436"/>
+<area shape="rect" id="node27" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="460,511,583,537"/>
+<area shape="rect" id="node28" href="$class_c_addr_info.html#a04ac79764971242edce1e82aefb2aea0" title="Calculate in which &quot;new&quot; bucket this entry belongs, using its default source. " alt="" coords="432,561,611,588"/>
+<area shape="rect" id="node29" href="$miner_8h.html#a9c09903c7d6401b5405db02af064179c" title="UpdateTime" alt="" coords="475,612,568,639"/>
+<area shape="rect" id="node30" href="$class_block_assembler.html#a24b566785f9f88bc72d744095b89c607" title="Construct a new block template with coinbase to scriptPubKeyIn. " alt="" coords="426,663,617,705"/>
+<area shape="rect" id="node31" href="$net_8h.html#a01304c8caa7997b48da307d19d1d284a" title="GetLocalAddress" alt="" coords="460,729,583,756"/>
+<area shape="rect" id="node32" href="$class_c_connman.html#ac810542ffa683d5dde5e5524b5ce2e4e" title="CConnman::ConnectNode" alt="" coords="433,460,609,487"/>
+<area shape="rect" id="node33" href="$class_c_median_filter.html#a2ec3e6107c12dc2564f0323d39ecca1e" title="CMedianFilter::sorted" alt="" coords="448,780,595,807"/>
+<area shape="rect" id="node34" href="$validation_8h.html#a6cb9692522ea533161204264849df858" title="Transaction validation functions. " alt="" coords="470,831,573,857"/>
+<area shape="rect" id="node35" href="$group__map_wallet.html#gaa3408e97801cc83c6b49542157777d19" title="CWallet::AccountMove" alt="" coords="443,881,600,908"/>
+</map>

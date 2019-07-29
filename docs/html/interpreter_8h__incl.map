@@ -1,0 +1,12 @@
+<map id="src/script/interpreter.h" name="src/script/interpreter.h">
+<area shape="rect" id="node2" href="$script__error_8h.html" title="script_error.h" alt="" coords="768,80,867,107"/>
+<area shape="rect" id="node3" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="891,80,1048,107"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="43,229,119,256"/>
+<area shape="rect" id="node6" href="$script_8h.html" title="script/script.h" alt="" coords="831,155,932,181"/>
+<area shape="rect" id="node16" href="$serialize_8h.html" title="serialize.h" alt="" coords="885,229,966,256"/>
+<area shape="rect" id="node28" href="$uint256_8h.html" title="uint256.h" alt="" coords="1383,155,1457,181"/>
+<area shape="rect" id="node7" href="$common_8h.html" title="crypto/common.h" alt="" coords="195,229,317,256"/>
+<area shape="rect" id="node11" href="$prevector_8h.html" title="prevector.h" alt="" coords="493,304,579,331"/>
+<area shape="rect" id="node9" href="$endian_8h.html" title="compat/endian.h" alt="" coords="350,304,469,331"/>
+<area shape="rect" id="node10" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="363,379,499,405"/>
+</map>

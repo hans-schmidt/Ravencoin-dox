@@ -1,0 +1,15 @@
+<map id="WalletModel::getWatchBalance" name="WalletModel::getWatchBalance">
+<area shape="rect" id="node2" href="$group___actions.html#ga92a58ebac7d7d398597657600db56611" title="CWallet::GetWatchOnlyBalance" alt="" coords="259,136,469,163"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga71efb0d5b5def8ae00a1d74b8741bfcb" title="CWalletTx::IsTrusted" alt="" coords="546,107,693,133"/>
+<area shape="rect" id="node13" href="$group__map_wallet.html#gac78c4da3c420b2b28370cba7044dd68d" title="CWalletTx::GetAvailableWatch\lOnlyCredit" alt="" coords="517,158,721,199"/>
+<area shape="rect" id="node4" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="769,107,872,133"/>
+<area shape="rect" id="node5" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="976,5,1088,32"/>
+<area shape="rect" id="node6" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="986,56,1078,83"/>
+<area shape="rect" id="node7" href="$class_c_block_index.html#aa9bd0ab02cf8b9c866618cee3a5a0583" title="CBlockIndex::GetMedianTimePast" alt="" coords="920,107,1144,133"/>
+<area shape="rect" id="node9" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="971,157,1093,184"/>
+<area shape="rect" id="node12" href="$tx__verify_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="Check if transaction is final and can be included in a block with the specified height and time..." alt="" coords="994,208,1070,235"/>
+<area shape="rect" id="node8" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="1192,107,1380,133"/>
+<area shape="rect" id="node10" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="1250,157,1322,184"/>
+<area shape="rect" id="node11" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="&quot;Never go to sea with two chronometers; take one or three.&quot; Our three time sources are: ..." alt="" coords="1232,208,1340,235"/>
+<area shape="rect" id="node14" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="771,165,870,192"/>
+</map>

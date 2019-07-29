@@ -1,0 +1,6 @@
+<map id="AssetTablePriv::refreshWallet" name="AssetTablePriv::refreshWallet">
+<area shape="rect" id="node2" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="252,5,411,32"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#af050fab95c8830e8aae2d3bac3ce3258" title="sets balances with the total quantity of each owned asset " alt="" coords="249,56,413,83"/>
+<area shape="rect" id="node4" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="253,107,409,133"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="461,107,592,133"/>
+</map>

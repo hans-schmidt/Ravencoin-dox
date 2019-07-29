@@ -1,0 +1,51 @@
+<map id="CheckRestrictedAssetTransferInputs" name="CheckRestrictedAssetTransferInputs">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a8345aae77354cd57e0790b10ef1e8dff" title="Check if an asset is a restricted asset. " alt="" coords="279,5,457,32"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_cache.html#afd0144ded5ce891084aabff29141f8b2" title="Return a reference to Coin in the cache, or a pruned one if not found. " alt="" coords="262,1137,474,1164"/>
+<area shape="rect" id="node7" href="$class_coin.html#aa62f9ac75d6869505b957f0098578942" title="Coin::IsAsset" alt="" coords="317,1049,419,1076"/>
+<area shape="rect" id="node10" href="$assets_2assets_8cpp.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="315,953,421,980"/>
+<area shape="rect" id="node14" href="$base58_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="829,865,961,892"/>
+<area shape="rect" id="node28" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="1075,208,1190,235"/>
+<area shape="rect" id="node44" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="349,1207,387,1233"/>
+<area shape="rect" id="node47" href="$class_c_assets_cache.html#a47bf79cae996da8e22ae785cddb09288" title="Return true if the address is marked as frozen. " alt="" coords="256,1341,480,1382"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="1067,5,1198,32"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_cache.html#aad44dd0b312871702e46ddfb449cecba" title="CCoinsViewCache::FetchCoin" alt="" coords="533,1156,735,1183"/>
+<area shape="rect" id="node6" href="$class_c_coins_view.html#a435080be262889508365787dcc75cf95" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="819,1343,970,1369"/>
+<area shape="rect" id="node8" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="557,1105,711,1132"/>
+<area shape="rect" id="node9" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1079,1192,1187,1219"/>
+<area shape="rect" id="node11" href="$assets_2assets_8cpp.html#a2fbfdd85314963be71beacc69bf7188b" title="AssetFromScript" alt="" coords="574,953,694,980"/>
+<area shape="rect" id="node19" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="567,764,701,791"/>
+<area shape="rect" id="node21" href="$rpc_2assets_8cpp.html#ad4e434d502a68b796fa86a9ed50c5862" title="transfer" alt="" coords="601,360,667,387"/>
+<area shape="rect" id="node36" href="$assets_2assets_8cpp.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="550,1004,718,1031"/>
+<area shape="rect" id="node38" href="$assets_2assets_8cpp.html#aeb621c6bc4f2815a9c8f0aebdf0a397b" title="OwnerAssetFromScript" alt="" coords="555,1055,713,1081"/>
+<area shape="rect" id="node40" href="$rpc_2assets_8cpp.html#ada9eee324855c73e13fbf6d9bd44b77e" title="reissue" alt="" coords="602,487,666,513"/>
+<area shape="rect" id="node42" href="$assets_2assets_8cpp.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="550,903,718,929"/>
+<area shape="rect" id="node12" href="$assets_2assets_8cpp.html#ac84c0956bcb6810989cbf6a37a345548" title="Check script and see if it matches the asset issuance template. " alt="" coords="831,940,959,967"/>
+<area shape="rect" id="node13" href="$standard_8cpp.html#a951f7e601746ae076afdf3169ecca2fc" title="Parse a standard scriptPubKey for the destination address. " alt="" coords="829,991,960,1017"/>
+<area shape="rect" id="node17" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="837,1041,952,1068"/>
+<area shape="rect" id="node18" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="842,1092,947,1119"/>
+<area shape="rect" id="node15" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="1049,840,1216,867"/>
+<area shape="rect" id="node16" href="$class_c_base58_data.html#a7dc91af403ca02694b3247b15604e220" title="CBase58Data::ToString" alt="" coords="1052,891,1213,917"/>
+<area shape="rect" id="node20" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="821,740,968,767"/>
+<area shape="rect" id="node22" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="1063,537,1202,564"/>
+<area shape="rect" id="node23" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="841,233,948,260"/>
+<area shape="rect" id="node24" href="$rpc_2assets_8cpp.html#a41e81a808809b12fd795b404d39ac60a" title="AssetActivationWarning" alt="" coords="813,537,976,564"/>
+<area shape="rect" id="node25" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="837,487,953,513"/>
+<area shape="rect" id="node26" href="$rpcwallet_8cpp.html#a1de07aa72f31cf1b1a3ea94307b7b566" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="788,385,1001,412"/>
+<area shape="rect" id="node27" href="$rpcwallet_8cpp.html#ae44c9e4546fdf6e182276fada0126649" title="EnsureWalletIsAvailable" alt="" coords="813,284,977,311"/>
+<area shape="rect" id="node32" href="$safemode_8cpp.html#aa7985a8405eaf7b4b8e269dc39be5e30" title="ObserveSafeMode" alt="" coords="829,436,960,463"/>
+<area shape="rect" id="node33" href="$rpcwallet_8cpp.html#a4eb48c19268ebfbfc0e9b6d7904e877f" title="EnsureWalletIsUnlocked" alt="" coords="811,335,978,361"/>
+<area shape="rect" id="node34" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="833,588,956,615"/>
+<area shape="rect" id="node35" href="$assets_2assets_8cpp.html#a48456563eb2897bdd74fc743f7fef2cf" title="Check if an asset is a qualifier asset or sub qualifier. " alt="" coords="815,31,974,57"/>
+<area shape="rect" id="node29" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="1313,183,1361,209"/>
+<area shape="rect" id="node31" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="1264,233,1411,260"/>
+<area shape="rect" id="node30" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="1459,183,1545,209"/>
+<area shape="rect" id="node37" href="$assets_2assets_8cpp.html#a21dcedb000e18885658ab383e0a1d3aa" title="Check script and see if it matches the transfer asset template. " alt="" coords="820,1167,969,1193"/>
+<area shape="rect" id="node39" href="$assets_2assets_8cpp.html#a948242fe5cf1a7fc2b5c74c2eff8a671" title="Check script and see if it matches the owner issuance template. " alt="" coords="825,1241,964,1268"/>
+<area shape="rect" id="node41" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="833,689,957,716"/>
+<area shape="rect" id="node43" href="$assets_2assets_8cpp.html#a22e1bac353a45a714a1a063bbd061677" title="Check script and see if it matches the reissue template. " alt="" coords="820,815,969,841"/>
+<area shape="rect" id="node45" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="569,1257,699,1284"/>
+<area shape="rect" id="node46" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="573,1207,695,1233"/>
+<area shape="rect" id="node48" href="$struct_c_asset_cache_restricted_address.html#a2262710323cfeca3eb84254f4124bade" title="CAssetCacheRestrictedAddress\l::GetHash" alt="" coords="528,1374,740,1415"/>
+<area shape="rect" id="node49" href="$classbase__blob.html#ad7263503f949fb3c6c520ebb1f28e378" title="base_blob::GetHex" alt="" coords="567,1440,701,1467"/>
+<area shape="rect" id="node50" href="$class_c_restricted_d_b.html#ae34dd38eefab6aebc5b3c0c5abedbebb" title="CRestrictedDB::ReadRestricted\lAddress" alt="" coords="529,1309,739,1350"/>
+</map>

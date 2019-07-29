@@ -1,0 +1,4 @@
+<map id="RavenApplication::RavenApplication" name="RavenApplication::RavenApplication">
+<area shape="rect" id="node2" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="299,5,447,32"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#ab55b9c4d135bfddc4494f6eaac26becf" title="Get style associated with provided platform name, or 0 if not known. " alt="" coords="288,56,457,83"/>
+</map>

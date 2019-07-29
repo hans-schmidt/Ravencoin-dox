@@ -1,0 +1,7 @@
+<map id="AmountSpinBox::setValue" name="AmountSpinBox::setValue">
+<area shape="rect" id="node2" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="228,81,364,108"/>
+<area shape="rect" id="node3" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="432,5,559,32"/>
+<area shape="rect" id="node4" href="$class_raven_units.html#aea6fad621ac4f75381406d5ca415f78e" title="Number of Satoshis (1e&#45;8) per unit for assets. " alt="" coords="412,56,579,83"/>
+<area shape="rect" id="node5" href="$class_raven_units.html#a56c9ff217422454061562a0612bf61ec" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="429,107,561,133"/>
+<area shape="rect" id="node6" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="420,157,571,184"/>
+</map>

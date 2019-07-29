@@ -1,0 +1,8 @@
+<map id="UpdateTransaction" name="UpdateTransaction">
+<area shape="rect" id="node2" href="$sign_8h.html#a831677aaa27f4b63770ed92f09a493fe" title="Produce a script signature for a transaction. " alt="" coords="219,5,322,32"/>
+<area shape="rect" id="node4" href="$struct_signature_data.html#aee920d76f133d8d46195452fee5c1fa2" title="SignatureData::SignatureData" alt="" coords="405,56,601,83"/>
+<area shape="rect" id="node5" href="$group___actions.html#ga21ff2b0ff060e9cb3280a0c35b4b03d9" title="RVN END. " alt="" coords="185,107,356,133"/>
+<area shape="rect" id="node7" href="$class_c_wallet.html#a839950ab45648151dfc7f4a66ae694c7" title="CWallet::DummySignTx" alt="" coords="189,157,353,184"/>
+<area shape="rect" id="node3" href="$sign_8h.html#a7d397fef39a9b6931c55bfdc207c332e" title="SignSignature" alt="" coords="452,5,555,32"/>
+<area shape="rect" id="node6" href="$class_c_fee_bumper.html#aa8e923e67944cf4a989e7de1d749a1db" title="CFeeBumper::signTransaction" alt="" coords="404,107,603,133"/>
+</map>

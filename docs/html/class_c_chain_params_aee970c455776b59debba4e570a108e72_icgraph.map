@@ -1,0 +1,5 @@
+<map id="CChainParams::IssueMsgChannelAssetBurnAmount" name="CChainParams::IssueMsgChannelAssetBurnAmount">
+<area shape="rect" id="node2" href="$assets_8h.html#a6701acca42f6ae236752d90ad5ed8b80" title="GetIssueMsgChannelAssetBurn\lAmount" alt="" coords="277,23,487,65"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a7b00531a831520d94381648ee9ff8622" title="GetBurnAmount" alt="" coords="535,5,649,32"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="697,31,904,57"/>
+</map>

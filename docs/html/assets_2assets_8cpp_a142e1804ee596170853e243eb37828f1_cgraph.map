@@ -1,0 +1,51 @@
+<map id="ContextualCheckNullAssetTxOut" name="ContextualCheckNullAssetTxOut">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a818c53c297f28619f6d8bfd1dff63748" title="AssetNullDataFromScript" alt="" coords="253,806,423,833"/>
+<area shape="rect" id="node35" href="$assets_2assets_8cpp.html#a48456563eb2897bdd74fc743f7fef2cf" title="Check if an asset is a qualifier asset or sub qualifier. " alt="" coords="259,1002,417,1029"/>
+<area shape="rect" id="node37" href="$assets_2assets_8cpp.html#a6325029052b91b04adf8166f20a9a19c" title="VerifyQualifierChange" alt="" coords="263,1053,413,1079"/>
+<area shape="rect" id="node46" href="$assets_2assets_8cpp.html#a8345aae77354cd57e0790b10ef1e8dff" title="Check if an asset is a restricted asset. " alt="" coords="249,951,427,978"/>
+<area shape="rect" id="node47" href="$assets_2assets_8cpp.html#ab487a9a2455b3225043421563ecca00e" title="VerifyRestrictedAddressChange" alt="" coords="233,1107,443,1134"/>
+<area shape="rect" id="node3" href="$class_c_script.html#aac24b30ab15732057cbb98378324c061" title="CScript::IsNullAssetTxData\lScript" alt="" coords="1284,5,1469,47"/>
+<area shape="rect" id="node6" href="$standard_8cpp.html#a951f7e601746ae076afdf3169ecca2fc" title="Parse a standard scriptPubKey for the destination address. " alt="" coords="537,603,668,630"/>
+<area shape="rect" id="node9" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1319,481,1434,507"/>
+<area shape="rect" id="node17" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1324,426,1429,453"/>
+<area shape="rect" id="node29" href="$base58_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="537,882,669,909"/>
+<area shape="rect" id="node4" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1530,223,1638,250"/>
+<area shape="rect" id="node5" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="1705,314,1838,341"/>
+<area shape="rect" id="node7" href="$standard_8cpp.html#a81899059ee66f695aaf96a07d5e2ebdc" title="Parse a scriptPubKey and identify script type for standard scripts. " alt="" coords="845,375,904,402"/>
+<area shape="rect" id="node22" href="$classuint160.html#a66918f25b891415f2a9bbbb1dfdbedbd" title="uint160::uint160" alt="" coords="1077,578,1192,605"/>
+<area shape="rect" id="node23" href="$class_c_pub_key.html#a4fa94293cf8577fd039b9a133f6c7f30" title="CPubKey::IsValid" alt="" coords="811,629,938,655"/>
+<area shape="rect" id="node25" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="814,679,935,706"/>
+<area shape="rect" id="node28" href="$class_c_script_i_d.html#a116da5a7e94e2abb66011c33705d58e7" title="CScriptID::CScriptID" alt="" coords="801,325,948,351"/>
+<area shape="rect" id="node8" href="$class_c_script.html#a0c3729c606d318923dc06f95d85a0971" title="CScript::IsPayToScriptHash" alt="" coords="1283,173,1471,199"/>
+<area shape="rect" id="node14" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="1300,223,1453,250"/>
+<area shape="rect" id="node15" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="1043,426,1226,453"/>
+<area shape="rect" id="node16" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="1299,325,1454,351"/>
+<area shape="rect" id="node18" href="$class_c_script.html#a090905f875fa5a40e616b319de8e973f" title="Called by IsStandardTx and P2SH/BIP62 VerifyScript (which makes it consensus&#45;critical). " alt="" coords="1063,375,1206,402"/>
+<area shape="rect" id="node19" href="$class_c_script.html#a94635ed93d8d244ec3acfa83f9ecfe5f" title="CScript::GetOp" alt="" coords="1321,274,1433,301"/>
+<area shape="rect" id="node20" href="$class_c_script.html#a7b2baf842621f07c4939408acf63377c" title="CScript::clear" alt="" coords="1083,71,1186,98"/>
+<area shape="rect" id="node10" href="$classprevector_1_1iterator.html#ae9dd2b5e8d96f866e4b05d6b7535f285" title="prevector::iterator\l::iterator" alt="" coords="1522,415,1646,456"/>
+<area shape="rect" id="node11" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="1519,481,1649,507"/>
+<area shape="rect" id="node12" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="1702,506,1841,533"/>
+<area shape="rect" id="node13" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="1697,455,1845,482"/>
+<area shape="rect" id="node21" href="$classprevector.html#a412f07b8bf5485dabe2fe9d6d5dfe763" title="prevector::clear" alt="" coords="1321,71,1433,98"/>
+<area shape="rect" id="node24" href="$classbase__blob.html#a00e7426a5d1ada51c635debf85f5a810" title="base_blob\&lt; 160 \&gt;::size" alt="" coords="1055,629,1214,655"/>
+<area shape="rect" id="node26" href="$class_c_key_i_d.html#a01dbd3c37820a2ffe89d106c6a7cf53d" title="CKeyID::CKeyID" alt="" coords="1073,730,1197,757"/>
+<area shape="rect" id="node27" href="$hash_8h.html#a4490f70ddae16e9e48460a0416a48a6b" title="Compute the 160&#45;bit hash an object. " alt="" coords="1097,679,1172,706"/>
+<area shape="rect" id="node30" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="791,882,958,909"/>
+<area shape="rect" id="node32" href="$class_c_base58_data.html#a7dc91af403ca02694b3247b15604e220" title="CBase58Data::ToString" alt="" coords="794,933,955,959"/>
+<area shape="rect" id="node31" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="1101,882,1168,909"/>
+<area shape="rect" id="node33" href="$base58_8cpp.html#ace9a5807ee51604f33044339f073ec76" title="Encode a byte vector into a base58&#45;encoded string, including checksum. " alt="" coords="1061,933,1209,959"/>
+<area shape="rect" id="node34" href="$hash_8h.html#ab3f6c437460137530d86e09c2c102e99" title="Compute the 256&#45;bit hash of an object. " alt="" coords="1350,991,1403,1018"/>
+<area shape="rect" id="node36" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="537,970,668,997"/>
+<area shape="rect" id="node38" href="$assets_2assets_8cpp.html#a0498ed6d847d649575a15182c5522fd4" title="Helper methods that validate changes to null asset data transaction databases. " alt="" coords="519,1107,686,1134"/>
+<area shape="rect" id="node39" href="$class_c_assets_cache.html#aca574b6303dcc473b92373f54d4798ff" title="Return true if the address has the given qualifier assigned to it. " alt="" coords="491,1041,715,1083"/>
+<area shape="rect" id="node40" href="$struct_c_asset_cache_qualifier_address.html#a42a04e8d4b29f97d31230e9dbaa1640f" title="CAssetCacheQualifierAddress\l::GetHash" alt="" coords="1035,984,1235,1025"/>
+<area shape="rect" id="node41" href="$classbase__blob.html#ad7263503f949fb3c6c520ebb1f28e378" title="base_blob::GetHex" alt="" coords="807,1170,942,1197"/>
+<area shape="rect" id="node42" href="$class_c_restricted_d_b.html#aca09f2ef6ba1579f32d7a8291aa7c74d" title="CRestrictedDB::ReadAddress\lQualifier" alt="" coords="775,1104,974,1145"/>
+<area shape="rect" id="node44" href="$class_c_restricted_d_b.html#aabcebcdaf59b6b4dfd9c84124350145c" title="CRestrictedDB::CheckForAddress\lRootQualifier" alt="" coords="763,1039,987,1080"/>
+<area shape="rect" id="node43" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="1065,1170,1204,1197"/>
+<area shape="rect" id="node45" href="$class_c_d_b_wrapper.html#a086e9b6d6756642cb5d60778ea948c8f" title="CDBWrapper::NewIterator" alt="" coords="1047,1050,1223,1077"/>
+<area shape="rect" id="node48" href="$class_c_assets_cache.html#a47bf79cae996da8e22ae785cddb09288" title="Return true if the address is marked as frozen. " alt="" coords="491,1192,715,1233"/>
+<area shape="rect" id="node49" href="$struct_c_asset_cache_restricted_address.html#a2262710323cfeca3eb84254f4124bade" title="CAssetCacheRestrictedAddress\l::GetHash" alt="" coords="769,1287,981,1328"/>
+<area shape="rect" id="node50" href="$class_c_restricted_d_b.html#ae34dd38eefab6aebc5b3c0c5abedbebb" title="CRestrictedDB::ReadRestricted\lAddress" alt="" coords="769,1221,980,1263"/>
+</map>

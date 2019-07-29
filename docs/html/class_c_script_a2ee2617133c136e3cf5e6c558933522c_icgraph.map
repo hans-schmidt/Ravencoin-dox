@@ -1,0 +1,20 @@
+<map id="CScript::IsNullGlobalRestrictionAssetTxDataScript" name="CScript::IsNullGlobalRestrictionAssetTxDataScript">
+<area shape="rect" id="node2" href="$assets_8h.html#a4a357145c18abde9a5ade7e7686c01a0" title="GlobalAssetNullDataFromScript" alt="" coords="261,122,469,149"/>
+<area shape="rect" id="node5" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="575,173,654,199"/>
+<area shape="rect" id="node11" href="$class_transaction_record.html#a9f5db4465fa5fdcc3f9af525096bcdb9" title="TransactionRecord::\ldecomposeTransaction" alt="" coords="287,275,444,316"/>
+<area shape="rect" id="node19" href="$class_c_script.html#a9acd6acffdeb24610da43cfee4dd914c" title="CScript::IsNullAsset" alt="" coords="294,223,437,250"/>
+<area shape="rect" id="node3" href="$assets_8h.html#aa756cd59cad4d90437d27cf9c3c56407" title="ContextualCheckGlobalAsset\lTxOut" alt="" coords="517,5,712,47"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="760,42,967,69"/>
+<area shape="rect" id="node9" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="543,122,687,149"/>
+<area shape="rect" id="node6" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="773,223,953,250"/>
+<area shape="rect" id="node7" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="814,173,913,199"/>
+<area shape="rect" id="node8" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="1061,173,1159,199"/>
+<area shape="rect" id="node10" href="$rawtransaction_8cpp.html#ac7e0210645b016dfbaec68de41c11dba" title="decodescript" alt="" coords="815,122,911,149"/>
+<area shape="rect" id="node12" href="$class_transaction_table_priv.html#a1f81da5d7cfb2aac03a5e18e6bc91792" title="TransactionTablePriv\l::refreshWallet" alt="" coords="542,275,687,316"/>
+<area shape="rect" id="node14" href="$class_transaction_table_priv.html#a5a8454ce91251c4d9eb927bf2850745c" title="TransactionTablePriv\l::updateWallet" alt="" coords="542,340,687,381"/>
+<area shape="rect" id="node13" href="$class_transaction_table_model.html#ac5cc82df37f09b4aed2d20628a77e756" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="781,275,946,316"/>
+<area shape="rect" id="node15" href="$class_transaction_table_model.html#a8de43b3c7ba0612304906eb5a2f51a06" title="TransactionTableModel\l::updateTransaction" alt="" coords="785,340,942,381"/>
+<area shape="rect" id="node16" href="$class_transaction_view.html#a8dc3e9fc910cec4f6764d84c21941180" title="TransactionView::abandonTx" alt="" coords="1015,373,1205,399"/>
+<area shape="rect" id="node18" href="$class_transaction_view.html#a6cf5d062668e5e29c6203b6e0dc3836b" title="TransactionView::bumpFee" alt="" coords="1019,322,1201,349"/>
+<area shape="rect" id="node17" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="1253,373,1477,399"/>
+</map>

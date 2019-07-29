@@ -1,0 +1,15 @@
+<map id="RavenGUI::createTrayIconMenu" name="RavenGUI::createTrayIconMenu">
+<area shape="rect" id="node2" href="$class_raven_g_u_i.html#a70bd0387232a672e0b54db9d23ef9597" title="Handle tray icon clicked. " alt="" coords="264,40,459,67"/>
+<area shape="rect" id="node7" href="$class_mac_dock_icon_handler.html#afd3ef7126d0b6ef02eaf85e5455fe6f4" title="MacDockIconHandler\l::instance" alt="" coords="287,102,435,143"/>
+<area shape="rect" id="node12" href="$class_mac_dock_icon_handler.html#a4d2d18c7d56286ea745e349497941293" title="MacDockIconHandler\l::setMainWindow" alt="" coords="765,161,913,202"/>
+<area shape="rect" id="node14" href="$class_mac_dock_icon_handler.html#a8aff3dc6410687e432f8d9314eba0ab9" title="MacDockIconHandler\l::dockMenu" alt="" coords="287,219,435,261"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#af2d98960f72ef6a38c95e12b91f3e970" title="Simply calls showNormalIfMinimized(true) for use in SLOT() macro. " alt="" coords="507,29,675,56"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#af33662f5a5604298177f56a15160cae3" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="723,8,955,35"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#a0b7266e2b8e7de5f5fd1c7ddb9e5b637" title="GUIUtil::isObscured" alt="" coords="1003,8,1143,35"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#ab2e7ef0aa9a1ad3f86d67a3f596b6fc4" title="GUIUtil::checkPoint" alt="" coords="1215,5,1354,32"/>
+<area shape="rect" id="node8" href="$class_mac_dock_icon_handler.html#ab44913b8dabec96186b74bc6f6896c46" title="MacDockIconHandler\l::MacDockIconHandler" alt="" coords="513,102,669,143"/>
+<area shape="rect" id="node9" href="$macdockiconhandler_8mm.html#a9aec1ea4fb1121c1b089c5cb11445732" title="setupDockClickHandler" alt="" coords="759,59,919,85"/>
+<area shape="rect" id="node13" href="$macdockiconhandler_8mm.html#a97dcb4b8c1bda1b1e4a29fd1c36b6c47" title="qt_mac_set_dock_menu" alt="" coords="757,109,921,136"/>
+<area shape="rect" id="node10" href="$macdockiconhandler_8mm.html#ab33de6d790611e30eb1985cca6ef2679" title="dockClickHandler" alt="" coords="1010,60,1135,87"/>
+<area shape="rect" id="node11" href="$class_mac_dock_icon_handler.html#a38f422d9dde7df4ccfdda97b08467e0a" title="MacDockIconHandler\l::handleDockIconClickEvent" alt="" coords="1191,57,1379,98"/>
+</map>

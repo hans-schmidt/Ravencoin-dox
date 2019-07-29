@@ -1,0 +1,12 @@
+<map id="CreateAssetDialog::GetAssetName" name="CreateAssetDialog::GetAssetName">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="193,157,333,199"/>
+<area shape="rect" id="node7" href="$class_create_asset_dialog.html#a15a1a9145508ae601f890e808df4bd27" title="CreateAssetDialog::\lcheckAvailabilityClicked" alt="" coords="390,5,554,47"/>
+<area shape="rect" id="node11" href="$class_create_asset_dialog.html#afe8c4424e900a322a391a036185052cc" title="CreateAssetDialog::\lonNameChanged" alt="" coords="193,277,333,319"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#ad83e1c6c6ea29e74543f4afd80dce1ea" title="Helper Methods. " alt="" coords="402,123,542,164"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#af95ab6bad7ceb28ec010d3bf90abd1cc" title="CreateAssetDialog::\ltoggleIPFSText" alt="" coords="402,188,542,229"/>
+<area shape="rect" id="node8" href="$class_create_asset_dialog.html#ac9da60f170acd8f2bdc3f1af18933376" title="CreateAssetDialog::\lonAddressNameChanged" alt="" coords="611,279,781,320"/>
+<area shape="rect" id="node9" href="$class_create_asset_dialog.html#af0bc8685461d2aa1ca30a4ba5da4a3dd" title="CreateAssetDialog::\lonIPFSHashChanged" alt="" coords="621,93,771,135"/>
+<area shape="rect" id="node10" href="$class_create_asset_dialog.html#a375f356987a8233f519de5ffd97dcf84" title="CreateAssetDialog::\lonChangeAddressChanged" alt="" coords="381,253,563,295"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#ad489dbbb54713a98847998d9721c7101" title="SLOTS. " alt="" coords="626,188,766,229"/>
+<area shape="rect" id="node6" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="829,188,969,229"/>
+</map>

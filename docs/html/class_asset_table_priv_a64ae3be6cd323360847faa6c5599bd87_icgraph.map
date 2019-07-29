@@ -1,0 +1,6 @@
+<map id="AssetTablePriv::size" name="AssetTablePriv::size">
+<area shape="rect" id="node2" href="$class_asset_table_model.html#a5b3e5bc2d8312e6ac6f62e84a8b5e404" title="AssetTableModel::checkBalance\lChanged" alt="" coords="196,5,409,47"/>
+<area shape="rect" id="node5" href="$class_asset_table_model.html#ae9f3685efa3917e022796656669d26db" title="AssetTableModel::rowCount" alt="" coords="209,71,396,98"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="457,5,627,47"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#a36282857c97bcaad796a2b5c7398245c" title="WalletModel::WalletModel" alt="" coords="675,13,849,39"/>
+</map>

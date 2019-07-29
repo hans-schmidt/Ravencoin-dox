@@ -1,0 +1,6 @@
+<map id="CWalletDB::EraseDestData" name="CWalletDB::EraseDestData">
+<area shape="rect" id="node2" href="$group___actions.html#gac6542da8493cbb958068b7a01c05b631" title="CWallet::DelAddressBook" alt="" coords="240,17,415,43"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html#a9a03cf9972842588178387839f0ded3c" title="Erases a destination data tuple in the store and on disk. " alt="" coords="244,71,411,98"/>
+<area shape="rect" id="node3" href="$class_address_table_model.html#a5c6bd467fd1fc499d126fe2b7380ce5c" title="AddressTableModel::\lsetData" alt="" coords="479,5,625,47"/>
+<area shape="rect" id="node5" href="$class_wallet_model.html#a88d44bc0994c1701386f63b1f266637f" title="WalletModel::saveReceive\lRequest" alt="" coords="463,71,641,112"/>
+</map>

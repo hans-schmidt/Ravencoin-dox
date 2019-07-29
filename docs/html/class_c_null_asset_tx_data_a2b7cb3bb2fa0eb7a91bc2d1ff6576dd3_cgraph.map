@@ -1,0 +1,9 @@
+<map id="CNullAssetTxData::IsValid" name="CNullAssetTxData::IsValid">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="267,5,398,32"/>
+<area shape="rect" id="node3" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="313,56,352,83"/>
+<area shape="rect" id="node6" href="$class_c_assets_cache.html#a14f851cfa27dac74476f86c99c1b03f2" title="Returns true if an asset with this name already exists. " alt="" coords="233,107,432,149"/>
+<area shape="rect" id="node4" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="512,9,641,36"/>
+<area shape="rect" id="node5" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="515,60,638,87"/>
+<area shape="rect" id="node7" href="$class_c_assets_d_b.html#a38162c2ca81726b81e20778d4129074c" title="CAssetsDB::ReadAssetData" alt="" coords="480,115,673,141"/>
+<area shape="rect" id="node8" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="721,115,860,141"/>
+</map>

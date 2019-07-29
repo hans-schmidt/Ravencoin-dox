@@ -1,0 +1,51 @@
+<map id="RavenGUI::eventFilter" name="RavenGUI::eventFilter">
+<area shape="rect" id="node2" href="$class_wallet_frame.html#aa8c5b10f2240df164795619ca41c619c" title="WalletFrame::handlePayment\lRequest" alt="" coords="225,99,420,141"/>
+<area shape="rect" id="node46" href="$class_raven_g_u_i.html#af33662f5a5604298177f56a15160cae3" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="207,165,439,192"/>
+<area shape="rect" id="node49" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="222,216,423,243"/>
+<area shape="rect" id="node3" href="$class_wallet_frame.html#a026798332d142b693e4f1820185d3f1c" title="WalletFrame::currentWalletView" alt="" coords="487,48,697,75"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a0ae21d91a9d7755026ce2a6846cef68d" title="WalletView::handlePayment\lRequest" alt="" coords="499,99,685,141"/>
+<area shape="rect" id="node5" href="$class_send_coins_dialog.html#a82ed6a3badadaa523415e1924ebd292a" title="SendCoinsDialog::handlePayment\lRequest" alt="" coords="745,99,967,141"/>
+<area shape="rect" id="node6" href="$class_send_coins_dialog.html#a4440d15ced5d217baaad33a17d56b409" title="SendCoinsDialog::pasteEntry" alt="" coords="1015,107,1209,133"/>
+<area shape="rect" id="node7" href="$class_send_coins_entry.html#a1dcce9480364868dfd0bb8782e039e57" title="Return whether the entry is still empty and unedited. " alt="" coords="1265,5,1432,32"/>
+<area shape="rect" id="node8" href="$class_send_coins_dialog.html#a3d680a76b967641115c6ff2fa83fb62a" title="SendCoinsDialog::addEntry" alt="" coords="1257,183,1440,209"/>
+<area shape="rect" id="node15" href="$class_send_coins_dialog.html#a3b834c739f7d02d8086a2bf58525c5f0" title="SendCoinsDialog::updateTabs\lAndLabels" alt="" coords="1741,99,1940,141"/>
+<area shape="rect" id="node45" href="$class_send_coins_entry.html#a513dd22231d0d7c2550c5533e9518cf5" title="SendCoinsEntry::setValue" alt="" coords="1753,411,1929,437"/>
+<area shape="rect" id="node9" href="$class_send_coins_entry.html#a831f8f9a63acd77b7d66d5393e12310b" title="SendCoinsEntry::setModel" alt="" coords="1501,309,1680,336"/>
+<area shape="rect" id="node13" href="$class_send_coins_entry.html#abff66fcd456c82144e7a2c410f5082ac" title="SendCoinsEntry::clear" alt="" coords="1764,360,1917,387"/>
+<area shape="rect" id="node14" href="$class_send_coins_dialog.html#aabd82a79bd2358493f36425f1d62136b" title="SendCoinsDialog::removeEntry" alt="" coords="1488,107,1693,133"/>
+<area shape="rect" id="node18" href="$class_send_coins_dialog.html#ae4f429aabcaf309aa314b90049be2a74" title="SendCoinsDialog::coinControl\lUpdateLabels" alt="" coords="2005,193,2203,234"/>
+<area shape="rect" id="node44" href="$class_send_coins_entry.html#a0dcb8720f234165b37f8b45b035320cc" title="SendCoinsEntry::setFocus" alt="" coords="1501,259,1680,285"/>
+<area shape="rect" id="node10" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="2268,309,2468,336"/>
+<area shape="rect" id="node11" href="$class_send_coins_entry.html#a6ff4bd5b370545bcfd6214e866ee33f3" title="SendCoinsEntry::updateDisplayUnit" alt="" coords="1988,335,2220,361"/>
+<area shape="rect" id="node12" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="2270,360,2466,387"/>
+<area shape="rect" id="node16" href="$class_send_coins_dialog.html#a689658987f2af0896f25bf37bb945d91" title="Set up the tab chain manually, as Qt messes up the tab chain by default in some cases (issue https://..." alt="" coords="2011,81,2197,122"/>
+<area shape="rect" id="node17" href="$class_send_coins_entry.html#aa431a0bf53174b3a012fe224e472bc13" title="Set up the tab chain manually, as Qt messes up the tab chain by default in some cases (issue https://..." alt="" coords="2279,62,2457,103"/>
+<area shape="rect" id="node19" href="$class_send_coins_dialog.html#a91c32dd9656813960ca6d076adedd1e0" title="SendCoinsDialog::updateCoin\lControlState" alt="" coords="2269,127,2467,169"/>
+<area shape="rect" id="node21" href="$class_send_coins_entry.html#af36fb0ed9e2e07079c1a982b31e793c8" title="SendCoinsEntry::getValue" alt="" coords="2280,259,2456,285"/>
+<area shape="rect" id="node23" href="$class_coin_control_dialog.html#a4fc60e89b097952ff22dc0f9c58c87d9" title="CoinControlDialog::\lupdateLabels" alt="" coords="2300,193,2436,234"/>
+<area shape="rect" id="node20" href="$policy_2fees_8cpp.html#a71cff9731ecdee1cef8bfc2c12dc3842" title="getConfTargetForIndex" alt="" coords="2529,61,2685,88"/>
+<area shape="rect" id="node22" href="$class_payment_request_plus.html#aa3d8c57af7c7bc4ffbc31da32e5a40a6" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="2532,378,2681,419"/>
+<area shape="rect" id="node24" href="$policy_8cpp.html#ab18c1023518f2920e34e05ca324d0ebb" title="IsDust" alt="" coords="2576,213,2637,240"/>
+<area shape="rect" id="node39" href="$class_c_coin_control.html#ad2022117a10ff787973af3d7aa62df6f" title="CCoinControl::ListSelected" alt="" coords="2516,264,2697,291"/>
+<area shape="rect" id="node40" href="$class_wallet_model.html#a5237ea4d9724807a05e2944e5ce6f181" title="WalletModel::getOutputs" alt="" coords="2523,315,2690,341"/>
+<area shape="rect" id="node41" href="$class_wallet_model.html#acb24dd4388e6daef526667fb365a57b1" title="WalletModel::isSpent" alt="" coords="2533,112,2680,139"/>
+<area shape="rect" id="node43" href="$class_c_coin_control.html#a7f9b8135840df5907bc49a4c5cb19ba4" title="CCoinControl::UnSelect" alt="" coords="2525,163,2688,189"/>
+<area shape="rect" id="node25" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="2745,188,2899,215"/>
+<area shape="rect" id="node28" href="$policy_8cpp.html#a7b1001b4a41a02d9469e3b6985587300" title="GetDustThreshold" alt="" coords="2758,251,2886,277"/>
+<area shape="rect" id="node26" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="3391,264,3499,291"/>
+<area shape="rect" id="node27" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="3566,285,3699,312"/>
+<area shape="rect" id="node29" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="2957,276,3119,303"/>
+<area shape="rect" id="node35" href="$serialize_8h.html#aeb209536f7b746673a9c3fba8651b0e5" title="GetSerializeSize" alt="" coords="2979,225,3097,252"/>
+<area shape="rect" id="node36" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="2947,327,3129,353"/>
+<area shape="rect" id="node30" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="3197,377,3312,404"/>
+<area shape="rect" id="node31" href="$classprevector_1_1iterator.html#ae9dd2b5e8d96f866e4b05d6b7535f285" title="prevector::iterator\l::iterator" alt="" coords="3383,315,3507,357"/>
+<area shape="rect" id="node32" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="3380,381,3511,408"/>
+<area shape="rect" id="node33" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="3563,407,3702,433"/>
+<area shape="rect" id="node34" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="3559,356,3707,383"/>
+<area shape="rect" id="node37" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="3177,428,3332,455"/>
+<area shape="rect" id="node38" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="3202,327,3307,353"/>
+<area shape="rect" id="node42" href="$group__map_wallet.html#ga6adcf1c224ed3c3fe4b0b19f6fca75d8" title="Outpoint is spent if any non&#45;conflicted transaction spends it: " alt="" coords="2761,112,2883,139"/>
+<area shape="rect" id="node47" href="$namespace_g_u_i_util.html#a0b7266e2b8e7de5f5fd1c7ddb9e5b637" title="GUIUtil::isObscured" alt="" coords="522,165,662,192"/>
+<area shape="rect" id="node48" href="$namespace_g_u_i_util.html#ab2e7ef0aa9a1ad3f86d67a3f596b6fc4" title="GUIUtil::checkPoint" alt="" coords="787,165,925,192"/>
+<area shape="rect" id="node50" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="504,216,680,243"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CTransaction::IsNewRestrictedAsset" name="CTransaction::IsNewRestrictedAsset">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a43c3b1ec45d04f238c64199742ef2260" title="issue asset scripts to make sure script meets the standards " alt="" coords="287,29,421,56"/>
+<area shape="rect" id="node4" href="$assets_2assets_8cpp.html#ae57e5c2b41269a2abba633538f8c927d" title="Check script and see if it matches the restricted issueance template. " alt="" coords="260,104,448,131"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#ac84c0956bcb6810989cbf6a37a345548" title="Check script and see if it matches the asset issuance template. " alt="" coords="496,29,624,56"/>
+</map>

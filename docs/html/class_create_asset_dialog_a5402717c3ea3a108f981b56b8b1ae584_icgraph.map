@@ -1,0 +1,4 @@
+<map id="CreateAssetDialog::minimizeFeeSection" name="CreateAssetDialog::minimizeFeeSection">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#a8befa56cb2c2fb8202b025d1a08b8b71" title="CreateAssetDialog::\lon_buttonChooseFee_clicked" alt="" coords="193,5,388,47"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#a78b2a25900602e7b4de483e766ea9545" title="CreateAssetDialog::\lon_buttonMinimizeFee\l_clicked" alt="" coords="214,71,367,127"/>
+</map>

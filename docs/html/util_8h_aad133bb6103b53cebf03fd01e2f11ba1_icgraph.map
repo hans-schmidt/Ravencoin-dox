@@ -1,0 +1,51 @@
+<map id="_" name="_">
+<area shape="rect" id="node2" href="$class_c_asset_transfer.html#a4521bc6493a97fb673728357c6adc248" title="CAssetTransfer::Contextual\lCheckAgainstVerifyString" alt="" coords="610,444,795,486"/>
+<area shape="rect" id="node5" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="597,510,808,537"/>
+<area shape="rect" id="node7" href="$assets_8h.html#aa2cbb008291be23f6ef30d12b7515496" title="Check the Encoded hash and make sure it is either an IPFS hash or a OIP hash. " alt="" coords="391,250,502,277"/>
+<area shape="rect" id="node9" href="$assets_8h.html#af894efb762726583de09a23045325595" title="ContextualCheckNewAsset" alt="" coords="611,58,795,85"/>
+<area shape="rect" id="node15" href="$class_c_null_asset_tx_data.html#a2b7cb3bb2fa0eb7a91bc2d1ff6576dd3" title="CNullAssetTxData::IsValid" alt="" coords="104,460,284,486"/>
+<area shape="rect" id="node16" href="$assets_8h.html#ac04b8a7fff37f9c7ff2c8f8682961ce6" title="CheckVerifierString" alt="" coords="127,612,261,638"/>
+<area shape="rect" id="node20" href="$rpc_2assets_8cpp.html#a119170068bd1d77d5fae7f22910ccc17" title="isvalidverifierstring" alt="" coords="637,561,768,588"/>
+<area shape="rect" id="node21" href="$assets_8h.html#a502421abc8868b5f7ec7437b366d572e" title="CheckNewAsset" alt="" coords="386,58,507,85"/>
+<area shape="rect" id="node22" href="$assets_8h.html#a4ad4f27609f77293bff602da8bccb0d8" title="ContextualCheckReissueAsset" alt="" coords="344,880,549,906"/>
+<area shape="rect" id="node23" href="$rpc_2assets_8cpp.html#ab794b426301153b69c4003257372e732" title="CheckRestrictedAssetTransfer\lInputs" alt="" coords="93,714,295,755"/>
+<area shape="rect" id="node24" href="$rpc_2assets_8cpp.html#adaad4e580eaa0bf4584c8d0fbe4fc36c" title="getverifierstring" alt="" coords="139,780,249,806"/>
+<area shape="rect" id="node25" href="$chainparamsbase_8h.html#a827f245f5065b89a1d649151d6cac1fc" title="Append the help messages for the chainparams options to the parameter string. " alt="" coords="95,881,293,908"/>
+<area shape="rect" id="node26" href="$raven-cli_8cpp.html#a1132a90be0b486a0c670ea50e2bf4c17" title="HelpMessageCli" alt="" coords="387,965,506,992"/>
+<area shape="rect" id="node27" href="$class_c_coins_view_error_catcher.html#a5af1b828a7e6ea7530f58b8632e20d9d" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="109,932,279,974"/>
+<area shape="rect" id="node28" href="$init_8h.html#a514083d1b88bf8cf314f27ee3dc966c1" title="Help for options shared between UI and daemon (for &#45;help) " alt="" coords="395,1176,498,1202"/>
+<area shape="rect" id="node30" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="671,1277,734,1304"/>
+<area shape="rect" id="node32" href="$init_8h.html#ac9e2081343d328ca68b7c4c4793442d2" title="Returns licensing information (for &#45;version) " alt="" coords="402,1074,491,1101"/>
+<area shape="rect" id="node33" href="$init_8h.html#a267bb31fa79be7173fe5d2d8ce471145" title="Raven core main initialization. " alt="" coords="149,1758,239,1785"/>
+<area shape="rect" id="node35" href="$wallet_2init_8h.html#a79ba0b12979a69a60d6027d7dbe17979" title="Return the wallets help message. " alt="" coords="123,1201,265,1228"/>
+<area shape="rect" id="node36" href="$class_c_connman.html#aa4709e5604e0f4369dada0a211493565" title="CConnman::Start" alt="" coords="132,1252,256,1278"/>
+<area shape="rect" id="node37" href="$ui__interface_8h.html#a697caa9b5aa32f8841b223659cb4b9bd" title="AmountHighWarn" alt="" coords="131,1302,257,1329"/>
+<area shape="rect" id="node38" href="$ui__interface_8h.html#a1a6a75fac961c253508d8ddf6aee426e" title="AmountErrMsg" alt="" coords="139,1353,249,1380"/>
+<area shape="rect" id="node39" href="$util_8h.html#a37261527315b7039a9b6d9916d1a6003" title="CopyrightHolders" alt="" coords="133,1100,255,1126"/>
+<area shape="rect" id="node41" href="$class_c_verify_d_b.html#ab33a26982ba391fc71614f8eee9dbaa0" title="CVerifyDB::CVerifyDB" alt="" coords="116,1454,272,1481"/>
+<area shape="rect" id="node42" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="121,1505,267,1532"/>
+<area shape="rect" id="node43" href="$validation_8h.html#ad16a624dfed17bddcd0901c6d32212ab" title="Replay blocks that aren&#39;t fully applied to the database. " alt="" coords="143,1556,245,1582"/>
+<area shape="rect" id="node44" href="$class_c_d_b.html#aa5a0775b1bcb7fe902cb9776cd89252e" title="CDB::VerifyEnvironment" alt="" coords="111,1606,277,1633"/>
+<area shape="rect" id="node45" href="$class_c_d_b.html#a1da3c667d020cb4a022edb3f81d4e994" title="CDB::VerifyDatabaseFile" alt="" coords="109,1657,279,1684"/>
+<area shape="rect" id="node46" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="148,1708,240,1734"/>
+<area shape="rect" id="node47" href="$group___actions.html#ga35154f4813aaef32ab0f740111f68fb0" title="RVN START. " alt="" coords="353,814,541,855"/>
+<area shape="rect" id="node48" href="$group___actions.html#gabb894f8914f0bf49d43a41daacb518ef" title="CWallet::CreateTransactionAll" alt="" coords="95,1809,293,1836"/>
+<area shape="rect" id="node49" href="$class_c_wallet.html#a7f16b3133c87937edcf29b467568d8ad" title="CWallet::CreateWalletFromFile" alt="" coords="92,1860,296,1886"/>
+<area shape="rect" id="node50" href="$warnings_8h.html#a6918ffd0d632afc0c0495696bc99aa00" title="Format a string that describes several potential problems detected by the core. " alt="" coords="145,1910,243,1937"/>
+<area shape="rect" id="node3" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="856,409,1061,436"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1109,561,1316,588"/>
+<area shape="rect" id="node6" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="907,510,1010,537"/>
+<area shape="rect" id="node8" href="$class_c_asset_transfer.html#a2a36d6fb30224c906196cb3f7b4faa65" title="CAssetTransfer::IsValid" alt="" coords="621,160,784,186"/>
+<area shape="rect" id="node12" href="$class_create_asset_dialog.html#a5906e5b70ee2ad507cd8cb4b269423ac" title="CreateAssetDialog::\lcheckIPFSHash" alt="" coords="633,211,773,252"/>
+<area shape="rect" id="node13" href="$class_reissue_asset_dialog.html#aa2f4601a131610b59d3d28fea1edceb2" title="ReissueAssetDialog\l::checkIPFSHash" alt="" coords="632,276,773,318"/>
+<area shape="rect" id="node14" href="$class_send_assets_entry.html#aa9294e7c8c528e1971305d86b1c65558" title="SendAssetsEntry::validate" alt="" coords="614,109,791,136"/>
+<area shape="rect" id="node10" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="877,460,1040,486"/>
+<area shape="rect" id="node11" href="$assets_8h.html#a3d93a173bcd387795f14fb76e9c534e6" title="ContextualCheckUniqueAsset" alt="" coords="859,104,1058,130"/>
+<area shape="rect" id="node17" href="$assets_8h.html#a84ff5c249e98ada99e2a800ff733f8bd" title="CheckVerifierAssetTxOut" alt="" coords="873,764,1044,790"/>
+<area shape="rect" id="node18" href="$assets_8h.html#a92ccc0f4b0b9b6cf54306673d504fad4" title="ContextualCheckVerifierString" alt="" coords="347,612,546,638"/>
+<area shape="rect" id="node19" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="597,820,808,846"/>
+<area shape="rect" id="node29" href="$class_help_message_dialog.html#a776ac4235e2a407223c7729d7d4af6a9" title="&quot;Help message&quot; or &quot;About&quot; dialog box " alt="" coords="629,1118,776,1159"/>
+<area shape="rect" id="node31" href="$ravend_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="933,1277,984,1304"/>
+<area shape="rect" id="node34" href="$class_raven_core.html#ad8824da7414b72f26061a1e914d66b59" title="RavenCore::initialize" alt="" coords="375,1708,518,1734"/>
+<area shape="rect" id="node40" href="$class_splash_screen.html#aa6f816612e26f1fec23e428b0f290c2d" title="SplashScreen::SplashScreen" alt="" coords="351,1125,543,1152"/>
+</map>

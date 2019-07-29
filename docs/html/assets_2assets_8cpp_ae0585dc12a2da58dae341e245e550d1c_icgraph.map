@@ -1,0 +1,8 @@
+<map id="OwnerFromTransaction" name="OwnerFromTransaction">
+<area shape="rect" id="node2" href="$assets_8h.html#a98273b6a8cc26bdce717969b985c0c92" title="IsNewOwnerTxValid" alt="" coords="212,5,355,32"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="403,19,609,45"/>
+<area shape="rect" id="node4" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="244,107,323,133"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="416,81,596,108"/>
+<area shape="rect" id="node6" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="457,132,555,159"/>
+<area shape="rect" id="node7" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="657,132,756,159"/>
+</map>

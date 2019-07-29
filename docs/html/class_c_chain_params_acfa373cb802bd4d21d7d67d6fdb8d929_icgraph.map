@@ -1,0 +1,5 @@
+<map id="CChainParams::IssueUniqueAssetBurnAmount" name="CChainParams::IssueUniqueAssetBurnAmount">
+<area shape="rect" id="node2" href="$assets_8h.html#a6afa2b779430376e01544bedfa56403d" title="GetIssueUniqueAssetBurnAmount" alt="" coords="245,31,468,57"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a7b00531a831520d94381648ee9ff8622" title="GetBurnAmount" alt="" coords="516,5,631,32"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="679,31,885,57"/>
+</map>

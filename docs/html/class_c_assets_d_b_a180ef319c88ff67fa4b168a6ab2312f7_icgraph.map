@@ -1,0 +1,15 @@
+<map id="CAssetsDB::ReadAssetAddressQuantity" name="CAssetsDB::ReadAssetAddressQuantity">
+<area shape="rect" id="node2" href="$assets_8h.html#a0def7c4c8ea4d94f1e54d32d2a6d4456" title="This will get the amount that an address for a certain asset contains from the database if they cache..." alt="" coords="267,189,464,215"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#ae5b756875c6582ada18c2488b6748a47" title="CAssetsCache::AddToAsset\lBalance" alt="" coords="525,5,715,47"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="519,71,721,98"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#a47feee324d07313932b68b51943daea6" title="Changes Memory Only. " alt="" coords="517,123,723,164"/>
+<area shape="rect" id="node9" href="$class_c_assets_cache.html#a226cec2d3134721b3fea8127bbd1549e" title="Changes Memory Only. " alt="" coords="521,189,719,215"/>
+<area shape="rect" id="node10" href="$class_c_assets_cache.html#a9c3d2c9475d31549b37460a3f438fc20" title="Changes Memory Only. " alt="" coords="525,240,715,281"/>
+<area shape="rect" id="node13" href="$class_c_assets_cache.html#a8ac4066b8f63246f7b447642bf14b797" title="Changes Memory Only. " alt="" coords="512,305,728,347"/>
+<area shape="rect" id="node14" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="517,371,723,398"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_cache.html#ad9ccb571fa3a311828efcee46c13bd65" title="Spend a coin. " alt="" coords="776,87,981,114"/>
+<area shape="rect" id="node6" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="1070,103,1169,130"/>
+<area shape="rect" id="node7" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="1257,103,1356,130"/>
+<area shape="rect" id="node11" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="839,185,918,211"/>
+<area shape="rect" id="node12" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="1029,185,1209,211"/>
+</map>

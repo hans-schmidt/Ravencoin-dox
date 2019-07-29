@@ -1,0 +1,6 @@
+<map id="ActivateBestChain" name="ActivateBestChain">
+<area shape="rect" id="node2" href="$init_8cpp.html#a2dd42c68a25e6632cdb9c7b03aed8503" title="ThreadImport" alt="" coords="191,5,290,32"/>
+<area shape="rect" id="node3" href="$blockchain_8cpp.html#aa4622532451c45880d5e6262c2c0b327" title="invalidateblock" alt="" coords="187,56,295,83"/>
+<area shape="rect" id="node4" href="$blockchain_8cpp.html#a90a8558b8d0d36013e3dfeef6f201081" title="reconsiderblock" alt="" coords="184,107,297,133"/>
+<area shape="rect" id="node5" href="$validation_8h.html#aa597978e5628b461b272c75aa28eb531" title="Update the chain tip based on database information. " alt="" coords="189,157,292,184"/>
+</map>

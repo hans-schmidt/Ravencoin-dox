@@ -1,0 +1,51 @@
+<map id="addtagtoaddress" name="addtagtoaddress">
+<area shape="rect" id="node2" href="$validation_8cpp.html#ad82587b49fc0765c8c7255c3bad6bd16" title="AreRestrictedAssetsDeployed" alt="" coords="415,183,614,209"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="461,233,568,260"/>
+<area shape="rect" id="node4" href="$rpc_2assets_8cpp.html#ad466b6c98e6b988560e602c272c101f7" title="RestrictedActivationWarning" alt="" coords="172,272,360,299"/>
+<area shape="rect" id="node5" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="208,537,324,564"/>
+<area shape="rect" id="node6" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="204,588,328,615"/>
+<area shape="rect" id="node7" href="$rpc_2assets_8cpp.html#a417cb44a82745ed3dc33e23ca777a44c" title="UpdateAddressTag" alt="" coords="199,487,333,513"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a1de07aa72f31cf1b1a3ea94307b7b566" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="408,385,621,412"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#ae44c9e4546fdf6e182276fada0126649" title="EnsureWalletIsAvailable" alt="" coords="433,537,597,564"/>
+<area shape="rect" id="node10" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="718,487,833,513"/>
+<area shape="rect" id="node11" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="993,436,1041,463"/>
+<area shape="rect" id="node31" href="$safemode_8cpp.html#aa7985a8405eaf7b4b8e269dc39be5e30" title="ObserveSafeMode" alt="" coords="449,639,580,665"/>
+<area shape="rect" id="node35" href="$rpcwallet_8cpp.html#a4eb48c19268ebfbfc0e9b6d7904e877f" title="EnsureWalletIsUnlocked" alt="" coords="431,588,598,615"/>
+<area shape="rect" id="node37" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="453,756,576,783"/>
+<area shape="rect" id="node39" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="449,807,580,833"/>
+<area shape="rect" id="node40" href="$rpc_2assets_8cpp.html#a995ee210b9bd0bae4242e06e4469c70f" title="AssetTypeToString" alt="" coords="447,857,582,884"/>
+<area shape="rect" id="node41" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="448,908,581,935"/>
+<area shape="rect" id="node44" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="451,284,579,311"/>
+<area shape="rect" id="node45" href="$group___actions.html#ga35154f4813aaef32ab0f740111f68fb0" title="RVN START. " alt="" coords="421,690,609,731"/>
+<area shape="rect" id="node48" href="$base58_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="449,335,581,361"/>
+<area shape="rect" id="node30" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="943,487,1090,513"/>
+<area shape="rect" id="node12" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="1191,5,1278,32"/>
+<area shape="rect" id="node13" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="1172,56,1297,83"/>
+<area shape="rect" id="node14" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="1155,107,1314,133"/>
+<area shape="rect" id="node15" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="1190,157,1279,184"/>
+<area shape="rect" id="node16" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="1187,208,1282,235"/>
+<area shape="rect" id="node17" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="1152,259,1317,285"/>
+<area shape="rect" id="node18" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="1171,309,1299,336"/>
+<area shape="rect" id="node19" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="1185,360,1284,387"/>
+<area shape="rect" id="node20" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="1163,411,1306,437"/>
+<area shape="rect" id="node21" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="1169,461,1300,488"/>
+<area shape="rect" id="node22" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="1191,512,1279,539"/>
+<area shape="rect" id="node23" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="1168,563,1301,589"/>
+<area shape="rect" id="node24" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="1183,613,1286,640"/>
+<area shape="rect" id="node25" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="1193,664,1276,691"/>
+<area shape="rect" id="node26" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="1184,715,1285,741"/>
+<area shape="rect" id="node27" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="1179,765,1291,792"/>
+<area shape="rect" id="node28" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="1175,816,1294,843"/>
+<area shape="rect" id="node29" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="1185,867,1285,893"/>
+<area shape="rect" id="node32" href="$warnings_8cpp.html#a6918ffd0d632afc0c0495696bc99aa00" title="Format a string that describes several potential problems detected by the core. " alt="" coords="726,639,825,665"/>
+<area shape="rect" id="node34" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="929,613,1104,640"/>
+<area shape="rect" id="node33" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="997,677,1036,704"/>
+<area shape="rect" id="node36" href="$class_c_crypto_key_store.html#a52919fa284a3aa10f1b4bd6018b6dbee" title="CCryptoKeyStore::IsLocked" alt="" coords="682,537,869,564"/>
+<area shape="rect" id="node38" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="707,841,844,868"/>
+<area shape="rect" id="node42" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="702,908,849,935"/>
+<area shape="rect" id="node43" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="981,908,1053,935"/>
+<area shape="rect" id="node46" href="$group___actions.html#gad2347fdc30dfbba5298f2386a219c13d" title="CReserveKey::GetReservedKey" alt="" coords="669,791,881,817"/>
+<area shape="rect" id="node47" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="715,740,836,767"/>
+<area shape="rect" id="node49" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="692,309,859,336"/>
+<area shape="rect" id="node50" href="$class_c_base58_data.html#a7dc91af403ca02694b3247b15604e220" title="CBase58Data::ToString" alt="" coords="695,360,856,387"/>
+</map>

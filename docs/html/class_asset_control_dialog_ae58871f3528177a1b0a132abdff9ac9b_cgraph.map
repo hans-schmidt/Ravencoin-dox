@@ -1,0 +1,4 @@
+<map id="AssetControlDialog::updateLabelLocked" name="AssetControlDialog::updateLabelLocked">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a367977352d1ef183ec2cb6b508a85bc2" title="WalletModel::listLockedCoins" alt="" coords="196,13,391,39"/>
+<area shape="rect" id="node3" href="$group___actions.html#gabac00de35ce680659ef9943a1a916531" title="CWallet::ListLockedCoins" alt="" coords="439,13,613,39"/>
+</map>

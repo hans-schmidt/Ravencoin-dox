@@ -1,0 +1,51 @@
+<map id="prevector::item_ptr" name="prevector::item_ptr">
+<area shape="rect" id="node2" href="$classprevector.html#aecbf4de43de23c1b01a2e39bf974f14e" title="prevector::assign" alt="" coords="196,816,319,843"/>
+<area shape="rect" id="node3" href="$classprevector.html#a044c7d0d417476bb08cc8c9b33755cac" title="prevector::prevector" alt="" coords="188,867,327,893"/>
+<area shape="rect" id="node4" href="$classprevector.html#a325af27672f21e7f2a01d8cdae7abba8" title="prevector::operator=" alt="" coords="648,2200,787,2227"/>
+<area shape="rect" id="node5" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="200,968,315,995"/>
+<area shape="rect" id="node23" href="$classprevector.html#ad4f368a9aa3f0f650e1b2a0894dafe51" title="prevector::insert" alt="" coords="426,5,542,32"/>
+<area shape="rect" id="node41" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="205,1415,310,1441"/>
+<area shape="rect" id="node42" href="$classprevector.html#ad2d97a45e0d2872260e868a540d31860" title="prevector::resize" alt="" coords="425,2200,543,2227"/>
+<area shape="rect" id="node44" href="$classprevector.html#ada5a19cb7dfa0271119cfd17e2bf51e1" title="prevector::rbegin" alt="" coords="198,1921,317,1948"/>
+<area shape="rect" id="node45" href="$classprevector.html#a6653d7df565bf668685a418714e3d712" title="prevector::rend" alt="" coords="203,1972,312,1999"/>
+<area shape="rect" id="node46" href="$classprevector.html#a06c929a30caa5842da7828e113030791" title="prevector::operator[]" alt="" coords="188,2023,327,2049"/>
+<area shape="rect" id="node47" href="$classprevector.html#af34b1eea43f461465aa29fe7ca67449d" title="prevector::push_back" alt="" coords="184,2073,331,2100"/>
+<area shape="rect" id="node48" href="$classprevector.html#acb71926f63896b2bd6f4da4ffe515d19" title="prevector::front" alt="" coords="202,2124,313,2151"/>
+<area shape="rect" id="node49" href="$classprevector.html#a9ff352b7b4f87eb70f0e79547d6f5314" title="prevector::back" alt="" coords="201,2175,313,2201"/>
+<area shape="rect" id="node50" href="$classprevector.html#a9fbdc01ee822a8e4fc6a83e7899975f4" title="prevector::data" alt="" coords="203,2225,312,2252"/>
+<area shape="rect" id="node6" href="$assets_8h.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="400,968,568,995"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a5eada513d55a69bac5fd3a1fe2b862d5" title="Helper method for extracting address bytes, asset name and amount from an asset script. " alt="" coords="655,601,779,628"/>
+<area shape="rect" id="node8" href="$assets_8h.html#ac6674dacd80ef7a86fa9d3b5cdc188a6" title="AssetFromScript" alt="" coords="424,461,544,488"/>
+<area shape="rect" id="node9" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="858,681,1002,708"/>
+<area shape="rect" id="node10" href="$assets_8h.html#ad68c15cb9705f979a469cb2f9bca297d" title="MsgChannelAssetFromScript" alt="" coords="387,715,581,741"/>
+<area shape="rect" id="node11" href="$assets_8h.html#a8a351ca76c72c36f9779f6b66ee574d7" title="QualifierAssetFromScript" alt="" coords="400,765,568,792"/>
+<area shape="rect" id="node12" href="$assets_8h.html#a1371a34eb57ee41b4478f4c682506861" title="RestrictedAssetFromScript" alt="" coords="394,816,574,843"/>
+<area shape="rect" id="node13" href="$assets_8h.html#aeb621c6bc4f2815a9c8f0aebdf0a397b" title="OwnerAssetFromScript" alt="" coords="405,1019,563,1045"/>
+<area shape="rect" id="node14" href="$assets_8h.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="400,512,568,539"/>
+<area shape="rect" id="node15" href="$assets_8h.html#a818c53c297f28619f6d8bfd1dff63748" title="AssetNullDataFromScript" alt="" coords="399,1069,569,1096"/>
+<area shape="rect" id="node16" href="$assets_8h.html#a4a357145c18abde9a5ade7e7686c01a0" title="GlobalAssetNullDataFromScript" alt="" coords="380,1120,588,1147"/>
+<area shape="rect" id="node17" href="$assets_8h.html#a9c01f18ec919e70a8604a2759d55df5c" title="AssetNullVerifierDataFrom\lScript" alt="" coords="395,1171,573,1213"/>
+<area shape="rect" id="node18" href="$class_c_bloom_filter.html#aec420a9b66ab133090c2b4b8ed286f79" title="Also adds any outputs which match the filter to the filter (to match their spending txes) ..." alt="" coords="845,1990,1015,2031"/>
+<area shape="rect" id="node19" href="$core__write_8cpp.html#a3baef73fdbf49896ad4c68bc27fbd2b0" title="FormatScript" alt="" coords="435,1541,533,1568"/>
+<area shape="rect" id="node20" href="$core__write_8cpp.html#accaf6e3c14d2f3045f85984aa9cec2c8" title="Create the assembly string representation of a CScript object. " alt="" coords="660,385,775,412"/>
+<area shape="rect" id="node21" href="$hash_8h.html#a0219e6058a104e8f9c26fb539302bbec" title="Compute the 160&#45;bit hash of a vector. " alt="" coords="447,1592,521,1619"/>
+<area shape="rect" id="node22" href="$classprevector.html#abab195dce86a4b44bab7a5e9809a522c" title="prevector::prevector" alt="" coords="415,1643,553,1669"/>
+<area shape="rect" id="node24" href="$class_c_script.html#aad6e9f84fe8aa2d27a979f1bc2732463" title="CScript::FindAndDelete" alt="" coords="637,56,797,83"/>
+<area shape="rect" id="node25" href="$classprevector.html#a6de6f6aff0a0ca527754020dbb26f7ab" title="prevector::operator==" alt="" coords="411,1693,557,1720"/>
+<area shape="rect" id="node26" href="$classprevector.html#aa599ca1a3ab1fef2736b831ffed19d04" title="prevector::operator\&lt;" alt="" coords="415,1744,553,1771"/>
+<area shape="rect" id="node27" href="$interpreter_8h.html#acea38d31b2cc35a1ecfad02eaed0f85e" title="EvalScript" alt="" coords="443,1795,525,1821"/>
+<area shape="rect" id="node28" href="$class_c_script.html#a957f92ddf3efcd76b66e514c05f27dde" title="Pre&#45;version&#45;0.6, Raven always counted CHECKMULTISIGs as 20 sigops. " alt="" coords="401,664,567,691"/>
+<area shape="rect" id="node29" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="393,1237,575,1264"/>
+<area shape="rect" id="node30" href="$standard_8h.html#a81899059ee66f695aaf96a07d5e2ebdc" title="Parse a scriptPubKey and identify script type for standard scripts. " alt="" coords="688,1997,747,2024"/>
+<area shape="rect" id="node31" href="$class_c_script.html#a804771eeafb1039672515eabbc823274" title="CScript::IsPushOnly" alt="" coords="413,107,555,133"/>
+<area shape="rect" id="node32" href="$class_c_script.html#a9e3a82350bd93a61ee967232004cd0c7" title="Check if the script contains valid OP_CODES. " alt="" coords="409,867,559,893"/>
+<area shape="rect" id="node33" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="403,360,565,387"/>
+<area shape="rect" id="node34" href="$script_8h.html#a316c79deed92779e782b4bd7a73b532b" title="AmountFromNewAssetScript" alt="" coords="388,917,580,944"/>
+<area shape="rect" id="node35" href="$script_8h.html#a62f45666d54d6ea391884f3eb53419d6" title="AmountFromTransferScript" alt="" coords="395,1288,573,1315"/>
+<area shape="rect" id="node36" href="$script_8h.html#aac0ad4d0ab10eb025c65426587ace362" title="AmountFromReissueScript" alt="" coords="395,1339,573,1365"/>
+<area shape="rect" id="node37" href="$class_c_script.html#af5c72a9c725a2c4f1432cc214d54cfd7" title="CScript::operator+=" alt="" coords="415,1389,553,1416"/>
+<area shape="rect" id="node38" href="$serialize_8h.html#a6724f283710e869aa8caabba08bfd2af" title="Serialize_impl" alt="" coords="433,1440,535,1467"/>
+<area shape="rect" id="node39" href="$class_c_tx_mem_pool.html#a16884a575b85f500781477a487a9b1dd" title="CTxMemPool::addAddressIndex" alt="" coords="379,208,589,235"/>
+<area shape="rect" id="node40" href="$class_c_tx_mem_pool.html#a2c4f1513000ff34c3fe341e6674b2bd9" title="CTxMemPool::addSpentIndex" alt="" coords="385,1491,583,1517"/>
+<area shape="rect" id="node43" href="$classprevector.html#a1bcffc1a855e24c2ac67b11f55d80d5f" title="prevector::erase" alt="" coords="426,2048,542,2075"/>
+</map>

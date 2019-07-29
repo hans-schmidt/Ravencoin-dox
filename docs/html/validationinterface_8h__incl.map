@@ -1,0 +1,11 @@
+<map id="src/validationinterface.h" name="src/validationinterface.h">
+<area shape="rect" id="node3" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="496,80,653,107"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="150,229,226,256"/>
+<area shape="rect" id="node6" href="$script_8h.html" title="script/script.h" alt="" coords="656,155,757,181"/>
+<area shape="rect" id="node16" href="$serialize_8h.html" title="serialize.h" alt="" coords="818,229,899,256"/>
+<area shape="rect" id="node27" href="$uint256_8h.html" title="uint256.h" alt="" coords="1380,155,1455,181"/>
+<area shape="rect" id="node7" href="$common_8h.html" title="crypto/common.h" alt="" coords="301,229,424,256"/>
+<area shape="rect" id="node11" href="$prevector_8h.html" title="prevector.h" alt="" coords="582,304,669,331"/>
+<area shape="rect" id="node9" href="$endian_8h.html" title="compat/endian.h" alt="" coords="439,304,558,331"/>
+<area shape="rect" id="node10" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="455,379,591,405"/>
+</map>

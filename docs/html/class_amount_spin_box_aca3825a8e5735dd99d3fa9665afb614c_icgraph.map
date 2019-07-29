@@ -1,0 +1,12 @@
+<map id="AmountSpinBox::setValue" name="AmountSpinBox::setValue">
+<area shape="rect" id="node2" href="$class_amount_spin_box.html#a055616d98771e6fcef3ee225d7b09ee9" title="AmountSpinBox::stepBy" alt="" coords="251,5,416,32"/>
+<area shape="rect" id="node3" href="$class_amount_spin_box.html#aef946e84b685f35c02782b50f4cce842" title="AmountSpinBox::setDisplayUnit" alt="" coords="228,56,439,83"/>
+<area shape="rect" id="node6" href="$class_amount_spin_box.html#a79bd0b44f07469dd24b59f1dcbadd3ad" title="AmountSpinBox::setAssetUnit" alt="" coords="233,107,433,133"/>
+<area shape="rect" id="node10" href="$class_raven_amount_field.html#add2bd08f939a6695d1e269efd4a89eee" title="RavenAmountField::setValue" alt="" coords="237,157,429,184"/>
+<area shape="rect" id="node11" href="$class_asset_amount_field.html#a1f214a7b736c568735ce228844e9c916" title="AssetAmountField::setValue" alt="" coords="239,208,427,235"/>
+<area shape="rect" id="node4" href="$class_raven_amount_field.html#aaa87098dad2031b7418e72b28402c83a" title="RavenAmountField::unitChanged" alt="" coords="487,53,701,80"/>
+<area shape="rect" id="node5" href="$class_raven_amount_field.html#a6573319bda9d888779c8d90e79e2b2a7" title="RavenAmountField::RavenAmount\lField" alt="" coords="749,38,973,79"/>
+<area shape="rect" id="node7" href="$class_asset_amount_field.html#af8940195a7d6c59d7bef3fe421dd60d1" title="AssetAmountField::setUnit" alt="" coords="505,111,683,137"/>
+<area shape="rect" id="node8" href="$class_asset_amount_field.html#ac79a10d7a2f53d99f87039e2388f1598" title="AssetAmountField::AssetAmount\lField" alt="" coords="753,103,969,145"/>
+<area shape="rect" id="node9" href="$class_asset_amount_field.html#a99b846d6be542259e5403a2ca44cbc10" title="Make field empty and ready for new input. " alt="" coords="779,169,944,196"/>
+</map>

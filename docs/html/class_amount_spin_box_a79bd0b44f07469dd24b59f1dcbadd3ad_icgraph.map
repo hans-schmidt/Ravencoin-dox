@@ -1,0 +1,5 @@
+<map id="AmountSpinBox::setAssetUnit" name="AmountSpinBox::setAssetUnit">
+<area shape="rect" id="node2" href="$class_asset_amount_field.html#af8940195a7d6c59d7bef3fe421dd60d1" title="AssetAmountField::setUnit" alt="" coords="253,42,432,69"/>
+<area shape="rect" id="node3" href="$class_asset_amount_field.html#ac79a10d7a2f53d99f87039e2388f1598" title="AssetAmountField::AssetAmount\lField" alt="" coords="480,5,696,47"/>
+<area shape="rect" id="node4" href="$class_asset_amount_field.html#a99b846d6be542259e5403a2ca44cbc10" title="Make field empty and ready for new input. " alt="" coords="505,71,671,98"/>
+</map>

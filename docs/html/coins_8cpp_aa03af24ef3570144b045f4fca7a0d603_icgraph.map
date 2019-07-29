@@ -1,0 +1,5 @@
+<map id="AccessByTxid" name="AccessByTxid">
+<area shape="rect" id="node2" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="160,5,340,32"/>
+<area shape="rect" id="node3" href="$rawtransaction_8cpp.html#ac8f41750e8ba0b272a35eef9bd8c33c0" title="gettxoutproof" alt="" coords="201,56,299,83"/>
+<area shape="rect" id="node4" href="$validation_8cpp.html#a4eb74c7b0135bd677315175c4056f890" title="Restore the UTXO in a Coin at a given COutPoint. " alt="" coords="194,107,306,133"/>
+</map>

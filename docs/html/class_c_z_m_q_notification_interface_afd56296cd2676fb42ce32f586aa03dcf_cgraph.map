@@ -1,0 +1,4 @@
+<map id="CZMQNotificationInterface::NewAssetMessage" name="CZMQNotificationInterface::NewAssetMessage">
+<area shape="rect" id="node2" href="$class_c_z_m_q_abstract_notifier.html#a16c09d126c9b5cad62f4d92a348eb006" title="CZMQAbstractNotifier\l::NotifyMessage" alt="" coords="232,5,384,47"/>
+<area shape="rect" id="node3" href="$class_c_z_m_q_abstract_notifier.html#a08713a9b91625eb86b400523fef3b2c6" title="CZMQAbstractNotifier\l::Shutdown" alt="" coords="232,71,384,112"/>
+</map>

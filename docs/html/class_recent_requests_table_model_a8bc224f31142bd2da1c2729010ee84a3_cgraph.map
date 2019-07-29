@@ -1,0 +1,6 @@
+<map id="RecentRequestsTableModel::updateAmountColumnTitle" name="RecentRequestsTableModel::updateAmountColumnTitle">
+<area shape="rect" id="node2" href="$class_recent_requests_table_model.html#ab0116f41ff8773ec18e68205b2917301" title="Gets title for amount column including current display unit if optionsModel reference available..." alt="" coords="240,49,427,90"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="475,5,675,32"/>
+<area shape="rect" id="node4" href="$class_raven_units.html#a357d3a6cb01154a8da132d435c7fd436" title="Short name. " alt="" coords="509,56,640,83"/>
+<area shape="rect" id="node5" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="477,107,673,133"/>
+</map>

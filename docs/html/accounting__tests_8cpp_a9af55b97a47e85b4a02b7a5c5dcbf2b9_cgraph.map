@@ -1,0 +1,17 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$group___actions.html#gacf627cfb290d5b45d4c1f091e42301ac" title="CWallet::AddAccountingEntry" alt="" coords="251,208,447,235"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga71c829a50abbcd74c1884b1f86527755" title="CWallet::AddToWallet" alt="" coords="273,259,425,285"/>
+<area shape="rect" id="node4" href="$class_c_merkle_tx.html#a20142f81e7ff0242db646e63e0a973b3" title="CMerkleTx::GetHash" alt="" coords="712,461,859,488"/>
+<area shape="rect" id="node5" href="$class_c_wallet_tx.html#ab0ee7347584bff886dc24b9f63ff023c" title="CWalletTx::BindWallet" alt="" coords="502,107,657,133"/>
+<area shape="rect" id="node6" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="518,56,641,83"/>
+<area shape="rect" id="node9" href="$class_c_merkle_tx.html#aff66148b06d22c7ee555b79058211493" title="CMerkleTx::hashUnset" alt="" coords="501,208,658,235"/>
+<area shape="rect" id="node10" href="$classbase__blob.html#aba89c6722866a5850882a509d27d7bbd" title="base_blob::IsNull" alt="" coords="724,183,847,209"/>
+<area shape="rect" id="node11" href="$class_c_merkle_tx.html#a0a2c5cd56d31bbe9b5b870ef6ebb441d" title="CMerkleTx::isAbandoned" alt="" coords="495,309,664,336"/>
+<area shape="rect" id="node12" href="$class_c_merkle_tx.html#a3ee9b7ddcfb935d8c61f83cfa4cda519" title="CMerkleTx::SetTx" alt="" coords="515,360,644,387"/>
+<area shape="rect" id="node13" href="$classbase__blob.html#a7a0d25782830d8b087c4da839f3ccdeb" title="base_blob::ToString" alt="" coords="510,411,649,437"/>
+<area shape="rect" id="node14" href="$class_c_wallet_d_b.html#a5204fbec65f5394d7174318f4dc4f483" title="CWalletDB::WriteTx" alt="" coords="508,259,651,285"/>
+<area shape="rect" id="node16" href="$class_c_wallet_tx.html#ac8a376bcb955e437489504dc596b43cf" title="make sure balances are recalculated " alt="" coords="505,5,654,32"/>
+<area shape="rect" id="node7" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="749,81,821,108"/>
+<area shape="rect" id="node8" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="&quot;Never go to sea with two chronometers; take one or three.&quot; Our three time sources are: ..." alt="" coords="731,31,839,57"/>
+<area shape="rect" id="node15" href="$class_c_wallet_d_b.html#a33ec32231db801e91a98afb26acf3e6a" title="CWalletDB::WriteIC" alt="" coords="715,259,856,285"/>
+</map>

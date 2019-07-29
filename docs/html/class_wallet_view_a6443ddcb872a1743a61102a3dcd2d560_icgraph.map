@@ -1,0 +1,6 @@
+<map id="WalletView::gotoSignMessageTab" name="WalletView::gotoSignMessageTab">
+<area shape="rect" id="node2" href="$class_wallet_frame.html#a386b4f2e20af7d13a688662cd3f9e1fc" title="Show Sign/Verify Message dialog and switch to sign message tab. " alt="" coords="276,13,507,39"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#ae7206842e6ed9672aad4da7dc841f5f1" title="Show help message dialog. " alt="" coords="555,5,757,47"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="805,13,977,39"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="1025,13,1180,39"/>
+</map>

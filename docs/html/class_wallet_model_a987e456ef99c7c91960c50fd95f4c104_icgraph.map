@@ -1,0 +1,14 @@
+<map id="WalletModel::IsSpendable" name="WalletModel::IsSpendable">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a95ed8d5fe22a17370639734b9fa827dc" title="AssetsDialog::assetControl\lChangeEdited" alt="" coords="235,27,418,69"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#aef3a1821b31b37c6494227e1550b2235" title="CreateAssetDialog::\lcoinControlChangeEdited" alt="" coords="241,142,412,183"/>
+<area shape="rect" id="node8" href="$class_reissue_asset_dialog.html#a8be50271ce7047cf2dc58d03e59c65db" title="ReissueAssetDialog\l::coinControlChangeEdited" alt="" coords="237,207,416,249"/>
+<area shape="rect" id="node11" href="$class_send_coins_dialog.html#a1f419f2381bce2ae9b4a7bd140f25a4e" title="SendCoinsDialog::coinControl\lChangeEdited" alt="" coords="228,321,425,362"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="723,5,909,32"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#af193d40b1092e460aae15d34b4ce6a6d" title="AssetsDialog::assetControl\lChangeChecked" alt="" coords="481,27,663,69"/>
+<area shape="rect" id="node6" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="746,115,886,157"/>
+<area shape="rect" id="node7" href="$class_create_asset_dialog.html#aff1dd8df4763907b0d5f3d3af0285ff7" title="CreateAssetDialog::\lcoinControlChangeChecked" alt="" coords="479,145,665,186"/>
+<area shape="rect" id="node9" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="741,246,891,287"/>
+<area shape="rect" id="node10" href="$class_reissue_asset_dialog.html#ab6d47ea9939e06fe32b97c4427c666be" title="ReissueAssetDialog\l::coinControlChangeChecked" alt="" coords="475,262,669,303"/>
+<area shape="rect" id="node12" href="$class_send_coins_dialog.html#affacd36b4df87a68e2fe706ef388c0a6" title="SendCoinsDialog::SendCoins\lDialog" alt="" coords="719,337,913,378"/>
+<area shape="rect" id="node13" href="$class_send_coins_dialog.html#a21224b0dedf14f7a6c05174bff9dea65" title="SendCoinsDialog::coinControl\lChangeChecked" alt="" coords="473,379,671,421"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RavenApplication::getOptionsModel" name="RavenApplication::getOptionsModel">
+<area shape="rect" id="node2" href="$class_raven_core.html#aa9e30d6447d40d2b79c77ecea6cef516" title="Pass fatal exception message to UI thread. " alt="" coords="248,23,437,65"/>
+<area shape="rect" id="node3" href="$util_8cpp.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="485,5,644,32"/>
+<area shape="rect" id="node4" href="$warnings_8cpp.html#a6918ffd0d632afc0c0495696bc99aa00" title="Format a string that describes several potential problems detected by the core. " alt="" coords="515,56,614,83"/>
+<area shape="rect" id="node5" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="760,31,799,57"/>
+<area shape="rect" id="node8" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="692,81,867,108"/>
+<area shape="rect" id="node6" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="915,5,1044,32"/>
+<area shape="rect" id="node7" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="918,56,1041,83"/>
+</map>

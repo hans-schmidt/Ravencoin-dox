@@ -1,0 +1,16 @@
+<map id="CWallet" name="CWallet">
+<area shape="rect" id="node2" href="$class_c_crypto_key_store.html" title="Keystore which keeps the private keys encrypted. " alt="" coords="73,440,199,467"/>
+<area shape="rect" id="node3" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="90,351,209,377"/>
+<area shape="rect" id="node4" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="106,261,193,288"/>
+<area shape="rect" id="node5" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="91,172,208,199"/>
+<area shape="rect" id="node16" href="$class_c_d_b_env.html" title="CDBEnv" alt="" coords="223,261,297,288"/>
+<area shape="rect" id="node8" href="$class_c_validation_interface.html" title="CValidationInterface" alt="" coords="335,440,475,467"/>
+<area shape="rect" id="node9" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="500,440,583,467"/>
+<area shape="rect" id="node10" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="614,440,701,467"/>
+<area shape="rect" id="node11" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash160 of its serialized public key. " alt="" coords="623,351,692,377"/>
+<area shape="rect" id="node12" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="625,261,689,288"/>
+<area shape="rect" id="node13" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="594,172,721,199"/>
+<area shape="rect" id="node14" href="$class_c_wallet_d_b.html" title="Access to the wallet database. " alt="" coords="223,440,311,467"/>
+<area shape="rect" id="node15" href="$class_c_d_b.html" title="RAII class that provides access to a Berkeley database. " alt="" coords="233,351,284,377"/>
+<area shape="rect" id="node17" href="$class_c_wallet_d_b_wrapper.html" title="An instance of this class represents one database. " alt="" coords="309,351,446,377"/>
+</map>

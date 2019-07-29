@@ -1,0 +1,8 @@
+<map id="GUIUtil::getTopLabelFont" name="GUIUtil::getTopLabelFont">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a10820ddcfc592bc32d6a69e83e350877" title="AssetsDialog::setupAsset\lControlFrame" alt="" coords="237,5,411,47"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#a4f9e5fbfc2df6f3ef5906f996d8cbc54" title="CreateAssetDialog::\lsetupCoinControlFrame" alt="" coords="244,71,404,112"/>
+<area shape="rect" id="node4" href="$class_overview_page.html#ab377237585c9eeabc2eec882cec9a1e2" title="OverviewPage::OverviewPage" alt="" coords="224,137,424,163"/>
+<area shape="rect" id="node5" href="$class_reissue_asset_dialog.html#aa109b97862232a459016fe32d3bc855c" title="ReissueAssetDialog\l::setupCoinControlFrame" alt="" coords="240,188,408,229"/>
+<area shape="rect" id="node6" href="$class_reissue_asset_dialog.html#a0f1d520a0ec652f1581c240fd11e3543" title="ReissueAssetDialog\l::setupAssetDataView" alt="" coords="247,253,401,295"/>
+<area shape="rect" id="node7" href="$class_send_coins_dialog.html#aa8a4e6102dc5d31c4a61dbcb7d3dcdf0" title="SendCoinsDialog::setupCoin\lControl" alt="" coords="229,319,419,360"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="RavenUnits::parse" name="RavenUnits::parse">
+<area shape="rect" id="node2" href="$namespace_g_u_i_util.html#a80ec9b464c28356231274c07af8cc9e4" title="GUIUtil::parseRavenURI" alt="" coords="188,56,356,83"/>
+<area shape="rect" id="node5" href="$class_amount_spin_box.html#a487085fe9dc6d6aaa1d2e2a55852f587" title="Parse a string into a number of base monetary units and return validity. " alt="" coords="194,157,350,184"/>
+<area shape="rect" id="node20" href="$class_transaction_view.html#ab4b25a73703d7ce5da47af1e60e7e3cf" title="TransactionView::changed\lAmount" alt="" coords="184,230,360,271"/>
+<area shape="rect" id="node3" href="$namespace_g_u_i_util.html#a62c5849ffd735b22e57c8a492d75c77a" title="GUIUtil::parseRavenURI" alt="" coords="436,5,604,32"/>
+<area shape="rect" id="node4" href="$class_open_u_r_i_dialog.html#a3c0c5b376623e9570cc17e23778c239c" title="OpenURIDialog::accept" alt="" coords="439,56,601,83"/>
+<area shape="rect" id="node6" href="$class_amount_spin_box.html#afebc9df8aca245c93d460a48675586e1" title="AmountSpinBox::validate" alt="" coords="435,107,605,133"/>
+<area shape="rect" id="node7" href="$class_amount_spin_box.html#a082bac9de36ad4bb0c0f2d5d42f0acc6" title="AmountSpinBox::fixup" alt="" coords="444,157,596,184"/>
+<area shape="rect" id="node8" href="$class_amount_spin_box.html#ab7e522a441231ceaeeb0682ec62a06a9" title="AmountSpinBox::value" alt="" coords="443,208,597,235"/>
+<area shape="rect" id="node9" href="$class_amount_spin_box.html#a055616d98771e6fcef3ee225d7b09ee9" title="AmountSpinBox::stepBy" alt="" coords="703,81,868,108"/>
+<area shape="rect" id="node10" href="$class_amount_spin_box.html#aef946e84b685f35c02782b50f4cce842" title="AmountSpinBox::setDisplayUnit" alt="" coords="680,132,891,159"/>
+<area shape="rect" id="node13" href="$class_amount_spin_box.html#a79bd0b44f07469dd24b59f1dcbadd3ad" title="AmountSpinBox::setAssetUnit" alt="" coords="685,183,885,209"/>
+<area shape="rect" id="node17" href="$class_amount_spin_box.html#aab6a98db725aa53d43f7863c831d6d7f" title="AmountSpinBox::stepEnabled" alt="" coords="687,233,883,260"/>
+<area shape="rect" id="node18" href="$class_raven_amount_field.html#ad7082ed6a20ddc7c1c59c7ff28d8934a" title="RavenAmountField::value" alt="" coords="699,284,871,311"/>
+<area shape="rect" id="node19" href="$class_asset_amount_field.html#a40bb0a983bed07593ae81fd2127b4d8a" title="AssetAmountField::value" alt="" coords="701,335,869,361"/>
+<area shape="rect" id="node11" href="$class_raven_amount_field.html#aaa87098dad2031b7418e72b28402c83a" title="RavenAmountField::unitChanged" alt="" coords="939,129,1153,156"/>
+<area shape="rect" id="node12" href="$class_raven_amount_field.html#a6573319bda9d888779c8d90e79e2b2a7" title="RavenAmountField::RavenAmount\lField" alt="" coords="1201,114,1425,155"/>
+<area shape="rect" id="node14" href="$class_asset_amount_field.html#af8940195a7d6c59d7bef3fe421dd60d1" title="AssetAmountField::setUnit" alt="" coords="957,187,1135,213"/>
+<area shape="rect" id="node15" href="$class_asset_amount_field.html#ac79a10d7a2f53d99f87039e2388f1598" title="AssetAmountField::AssetAmount\lField" alt="" coords="1205,179,1421,221"/>
+<area shape="rect" id="node16" href="$class_asset_amount_field.html#a99b846d6be542259e5403a2ca44cbc10" title="Make field empty and ready for new input. " alt="" coords="1231,245,1396,272"/>
+<area shape="rect" id="node21" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="408,259,632,285"/>
+</map>

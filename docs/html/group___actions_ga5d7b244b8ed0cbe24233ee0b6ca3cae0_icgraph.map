@@ -1,0 +1,5 @@
+<map id="CWallet::LoadWallet" name="CWallet::LoadWallet">
+<area shape="rect" id="node2" href="$struct_wallet_testing_setup.html#a0125ada997b4b16803624bfd537d8902" title="WalletTestingSetup\l::WalletTestingSetup" alt="" coords="226,5,370,47"/>
+<area shape="rect" id="node3" href="$class_list_coins_testing_setup.html#adadca010ddbfc563e99928862ade6027" title="ListCoinsTestingSetup\l::ListCoinsTestingSetup" alt="" coords="217,71,379,112"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html#a7f16b3133c87937edcf29b467568d8ad" title="CWallet::CreateWalletFromFile" alt="" coords="196,137,400,163"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QualifierAssetFromTransaction" name="QualifierAssetFromTransaction">
+<area shape="rect" id="node2" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="256,5,463,32"/>
+<area shape="rect" id="node3" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="320,56,399,83"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="511,31,691,57"/>
+<area shape="rect" id="node5" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="551,81,650,108"/>
+<area shape="rect" id="node6" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="739,81,837,108"/>
+</map>

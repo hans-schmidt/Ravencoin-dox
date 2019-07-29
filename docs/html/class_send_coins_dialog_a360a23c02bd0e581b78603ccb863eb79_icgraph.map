@@ -1,0 +1,9 @@
+<map id="SendCoinsDialog::setClientModel" name="SendCoinsDialog::setClientModel">
+<area shape="rect" id="node2" href="$class_wallet_view.html#a46d9a8d93adfdcc29cae9ff0d44c313e" title="Set the client model. " alt="" coords="236,42,419,69"/>
+<area shape="rect" id="node3" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="467,42,629,69"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="677,42,856,69"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1377,5,1552,47"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="904,64,1083,105"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1131,71,1329,98"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1377,71,1552,112"/>
+</map>

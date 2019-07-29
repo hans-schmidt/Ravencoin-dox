@@ -1,0 +1,4 @@
+<map id="TrafficGraphWidget::setClientModel" name="TrafficGraphWidget::setClientModel">
+<area shape="rect" id="node2" href="$class_client_model.html#a3ecd021e48073debd6dfeb90fdb3e7bd" title="ClientModel::getTotalBytesRecv" alt="" coords="188,5,399,32"/>
+<area shape="rect" id="node3" href="$class_client_model.html#a53cd536b119e49b0fab9c95d13a247ed" title="ClientModel::getTotalBytesSent" alt="" coords="190,56,397,83"/>
+</map>

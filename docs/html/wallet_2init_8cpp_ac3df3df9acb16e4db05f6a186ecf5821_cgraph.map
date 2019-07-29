@@ -1,0 +1,6 @@
+<map id="RegisterWalletRPC" name="RegisterWalletRPC">
+<area shape="rect" id="node2" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="205,5,380,32"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a9588923ef8339a1b820fcd61797639d5" title="RegisterWalletRPCCommands" alt="" coords="191,56,395,83"/>
+<area shape="rect" id="node4" href="$class_c_r_p_c_table.html#ab37e0ca9d3b5771a6551b6bf22c48ba8" title="Appends a CRPCCommand to the dispatch table. " alt="" coords="443,56,645,83"/>
+<area shape="rect" id="node5" href="$server_8cpp.html#a6e430f3dcb8182cc7c7330fdef63575b" title="Query whether RPC is running. " alt="" coords="693,56,804,83"/>
+</map>

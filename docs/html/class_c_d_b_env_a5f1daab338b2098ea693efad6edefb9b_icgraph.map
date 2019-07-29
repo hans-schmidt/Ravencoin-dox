@@ -1,0 +1,9 @@
+<map id="CDBEnv::TxnBegin" name="CDBEnv::TxnBegin">
+<area shape="rect" id="node2" href="$class_c_d_b.html#adaf61592305effb05fdfd23a5b7008ca" title="CDB::Recover" alt="" coords="194,56,302,83"/>
+<area shape="rect" id="node6" href="$class_c_d_b.html#a6f817da7947e1498e44034b7a1c8ac10" title="CDB::TxnBegin" alt="" coords="191,107,305,133"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#a7afc156ac22c92eb131c7f8a797cc7c4" title="CWalletDB::Recover" alt="" coords="356,56,501,83"/>
+<area shape="rect" id="node4" href="$class_c_wallet_d_b.html#ac077bf1cc1a55a364743a67d953f4601" title="CWalletDB::Recover" alt="" coords="583,5,728,32"/>
+<area shape="rect" id="node5" href="$class_c_wallet_d_b.html#a337d72e68ddcd35d2f2517c57979e0ac" title="CWalletDB::VerifyDatabaseFile" alt="" coords="552,56,759,83"/>
+<area shape="rect" id="node7" href="$class_c_wallet_d_b.html#afc8c5c734f2a8c80d4d00623b391bf66" title="Begin a new transaction. " alt="" coords="353,107,504,133"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#gaa3408e97801cc83c6b49542157777d19" title="CWallet::AccountMove" alt="" coords="577,107,734,133"/>
+</map>

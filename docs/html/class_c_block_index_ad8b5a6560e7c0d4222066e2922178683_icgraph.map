@@ -1,0 +1,6 @@
+<map id="CBlockIndex::IsValid" name="CBlockIndex::IsValid">
+<area shape="rect" id="node2" href="$mining_8cpp.html#a39d592ef311818f32e6081ec6be2f462" title="getblocktemplate" alt="" coords="199,5,320,32"/>
+<area shape="rect" id="node3" href="$mining_8cpp.html#ade0e9e6230c6a02802d6c9d33c1e69c4" title="submitblock" alt="" coords="213,56,305,83"/>
+<area shape="rect" id="node4" href="$validation_8h.html#a04e493dc156338a1b2f457f7a7feaaa9" title="Mark a block as precious and reorganize. " alt="" coords="206,107,313,133"/>
+<area shape="rect" id="node5" href="$blockchain_8cpp.html#a695c96344a03c94483459398b33427d0" title="preciousblock" alt="" coords="368,107,471,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ContextualCheckNewAsset" name="ContextualCheckNewAsset">
+<area shape="rect" id="node2" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="255,5,418,32"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a3d93a173bcd387795f14fb76e9c534e6" title="ContextualCheckUniqueAsset" alt="" coords="237,56,436,83"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="745,56,952,83"/>
+<area shape="rect" id="node4" href="$assets_8h.html#aed0cb4b141b8e7da4be0c7df228ab73f" title="ContextualCheckUniqueAssetTx" alt="" coords="484,5,697,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CWallet::TopUpKeyPool" name="CWallet::TopUpKeyPool">
+<area shape="rect" id="node2" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="248,5,339,32"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#aeec02dcbb431a01ceb08e46ed4d76d18" title="getnewaddress" alt="" coords="238,56,349,83"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a3ba9ef66d33d66c86661f062d6e7d421" title="getrawchangeaddress" alt="" coords="219,107,368,133"/>
+<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a76414f3eca368ded50b1fe631a75c892" title="keypoolrefill" alt="" coords="248,157,339,184"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#ae33fa4da0b9b5726e4cf0f29b3e7663b" title="walletpassphrase" alt="" coords="232,208,355,235"/>
+</map>

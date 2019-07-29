@@ -1,0 +1,41 @@
+<map id="EncodeAssetData" name="EncodeAssetData">
+<area shape="rect" id="node2" href="$assets_8h.html#aa2cbb008291be23f6ef30d12b7515496" title="Check the Encoded hash and make sure it is either an IPFS hash or a OIP hash. " alt="" coords="236,333,347,360"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1231,119,1437,145"/>
+<area shape="rect" id="node25" href="$class_c_z_m_q_message.html#a31d04ffa548c5429d8e5dceb8b88cbc3" title="CZMQMessage::createJsonString" alt="" coords="181,547,401,573"/>
+<area shape="rect" id="node26" href="$class_c_message.html#a7701a0522a9a5d914a787235f7ba95a1" title="CMessage::ToString" alt="" coords="220,597,363,624"/>
+<area shape="rect" id="node29" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="219,652,363,679"/>
+<area shape="rect" id="node31" href="$class_reissue_asset_dialog.html#ad1316b9a32506b8247aa833223f83355" title="ReissueAssetDialog\l::buildUpdatedData" alt="" coords="221,801,362,842"/>
+<area shape="rect" id="node34" href="$class_reissue_asset_dialog.html#a8c5e97e2a387224aad484305355c42cf" title="SLOTS. " alt="" coords="748,1042,889,1083"/>
+<area shape="rect" id="node3" href="$class_c_asset_transfer.html#a2a36d6fb30224c906196cb3f7b4faa65" title="CAssetTransfer::IsValid" alt="" coords="477,421,640,448"/>
+<area shape="rect" id="node4" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="716,312,921,339"/>
+<area shape="rect" id="node6" href="$assets_8h.html#af894efb762726583de09a23045325595" title="ContextualCheckNewAsset" alt="" coords="467,169,651,196"/>
+<area shape="rect" id="node10" href="$class_create_asset_dialog.html#a5906e5b70ee2ad507cd8cb4b269423ac" title="CreateAssetDialog::\lcheckIPFSHash" alt="" coords="489,355,629,397"/>
+<area shape="rect" id="node20" href="$class_reissue_asset_dialog.html#aa2f4601a131610b59d3d28fea1edceb2" title="ReissueAssetDialog\l::checkIPFSHash" alt="" coords="488,473,629,514"/>
+<area shape="rect" id="node23" href="$class_send_assets_entry.html#aa9294e7c8c528e1971305d86b1c65558" title="SendAssetsEntry::validate" alt="" coords="470,253,647,280"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="737,93,900,120"/>
+<area shape="rect" id="node8" href="$assets_8h.html#a3d93a173bcd387795f14fb76e9c534e6" title="ContextualCheckUniqueAsset" alt="" coords="719,144,918,171"/>
+<area shape="rect" id="node9" href="$assets_8h.html#aed0cb4b141b8e7da4be0c7df228ab73f" title="ContextualCheckUniqueAssetTx" alt="" coords="969,93,1183,120"/>
+<area shape="rect" id="node11" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="749,413,889,454"/>
+<area shape="rect" id="node18" href="$class_create_asset_dialog.html#af0bc8685461d2aa1ca30a4ba5da4a3dd" title="CreateAssetDialog::\lonIPFSHashChanged" alt="" coords="1001,595,1151,637"/>
+<area shape="rect" id="node12" href="$class_create_asset_dialog.html#ad83e1c6c6ea29e74543f4afd80dce1ea" title="Helper Methods. " alt="" coords="1006,347,1146,389"/>
+<area shape="rect" id="node13" href="$class_create_asset_dialog.html#af95ab6bad7ceb28ec010d3bf90abd1cc" title="CreateAssetDialog::\ltoggleIPFSText" alt="" coords="1006,478,1146,519"/>
+<area shape="rect" id="node16" href="$class_create_asset_dialog.html#a15a1a9145508ae601f890e808df4bd27" title="CreateAssetDialog::\lcheckAvailabilityClicked" alt="" coords="1252,537,1416,578"/>
+<area shape="rect" id="node17" href="$class_create_asset_dialog.html#ac9da60f170acd8f2bdc3f1af18933376" title="CreateAssetDialog::\lonAddressNameChanged" alt="" coords="1249,347,1419,389"/>
+<area shape="rect" id="node19" href="$class_create_asset_dialog.html#a375f356987a8233f519de5ffd97dcf84" title="CreateAssetDialog::\lonChangeAddressChanged" alt="" coords="985,413,1167,454"/>
+<area shape="rect" id="node14" href="$class_create_asset_dialog.html#ad489dbbb54713a98847998d9721c7101" title="SLOTS. " alt="" coords="1264,471,1404,513"/>
+<area shape="rect" id="node15" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="1485,505,1625,546"/>
+<area shape="rect" id="node21" href="$class_reissue_asset_dialog.html#a8170ce5c542f2d0a33dd5d5ead816671" title="ReissueAssetDialog\l::onIPFSHashChanged" alt="" coords="740,742,897,783"/>
+<area shape="rect" id="node22" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="1259,859,1409,901"/>
+<area shape="rect" id="node24" href="$class_assets_dialog.html#a72ea3a7ceb18986cfed5f3654c61eebe" title="AssetsDialog::on_sendButton\l_clicked" alt="" coords="721,246,916,287"/>
+<area shape="rect" id="node27" href="$class_c_message_d_b.html#a648aa6b7059d9db2bfffe760f0bd9d85" title="CMessageDB::Flush" alt="" coords="487,539,631,565"/>
+<area shape="rect" id="node28" href="$class_c_z_m_q_publish_new_asset_message_notifier.html#a377fbf5333b33c86f657e20f794018c1" title="CZMQPublishNewAssetMessage\lNotifier::NotifyMessage" alt="" coords="449,590,668,631"/>
+<area shape="rect" id="node30" href="$rawtransaction_8cpp.html#ac7e0210645b016dfbaec68de41c11dba" title="decodescript" alt="" coords="511,656,607,683"/>
+<area shape="rect" id="node32" href="$class_reissue_asset_dialog.html#ad6aa8fff769bd6c23cff0f8e77990d14" title="ReissueAssetDialog\l::toggleIPFSText" alt="" coords="748,677,889,718"/>
+<area shape="rect" id="node36" href="$class_reissue_asset_dialog.html#afba0024b2c7e29f73b1ac16b8af91149" title="ReissueAssetDialog\l::onQuantityChanged" alt="" coords="1003,801,1149,842"/>
+<area shape="rect" id="node37" href="$class_reissue_asset_dialog.html#aba27fa384162c0cd454da09904859369" title="ReissueAssetDialog\l::onReissueBoxChanged" alt="" coords="735,859,902,901"/>
+<area shape="rect" id="node38" href="$class_reissue_asset_dialog.html#ac81974f97ba52c4bb2142c5d4d2e741f" title="ReissueAssetDialog\l::onUnitChanged" alt="" coords="488,918,629,959"/>
+<area shape="rect" id="node33" href="$class_reissue_asset_dialog.html#aa2084213599b606009d89872d1dd6d0e" title="ReissueAssetDialog\l::onIPFSStateChanged" alt="" coords="997,679,1155,721"/>
+<area shape="rect" id="node35" href="$class_reissue_asset_dialog.html#ae74a27a150a383c12e0360eaf597251c" title="ReissueAssetDialog\l::focusReissueAsset" alt="" coords="1004,1042,1148,1083"/>
+<area shape="rect" id="node39" href="$class_reissue_asset_dialog.html#aafd6ecc466cab83a381e1fad50708853" title="ReissueAssetDialog\l::clear" alt="" coords="748,977,889,1018"/>
+<area shape="rect" id="node40" href="$class_reissue_asset_dialog.html#a8d382efad25b258bf68627fde8b67c3d" title="ReissueAssetDialog\l::onClearButtonClicked" alt="" coords="997,977,1155,1018"/>
+</map>

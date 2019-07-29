@@ -1,0 +1,33 @@
+<map id="CBlockPolicyEstimator::MaxUsableEstimate" name="CBlockPolicyEstimator::MaxUsableEstimate">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#a65e487a203acb59995c667ab91b87444" title="Process all the transactions that have been included in a block. " alt="" coords="211,30,368,71"/>
+<area shape="rect" id="node5" href="$class_c_block_policy_estimator.html#af766877edc815e15192134ff3401658c" title="Estimate feerate needed to get be included in a block within confTarget blocks. " alt="" coords="211,111,368,153"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#ad140b39a0be43b4c0ca1872ba7323351" title="Called when a block is connected. " alt="" coords="416,20,621,47"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="669,5,875,32"/>
+<area shape="rect" id="node6" href="$wallet_2fees_8h.html#a6530b4650c4167b2365741b937bd09af" title="Estimate the minimum fee considering user set parameters and the required fee. " alt="" coords="459,136,578,163"/>
+<area shape="rect" id="node31" href="$wallet_2fees_8h.html#a7be7ee637e62f5c3d076e62ef47e7852" title="Return the maximum feerate for discarding change. " alt="" coords="461,187,577,213"/>
+<area shape="rect" id="node32" href="$mining_8cpp.html#a4d52dab422bb2e483cc73845003dc19b" title="estimatesmartfee" alt="" coords="457,85,580,112"/>
+<area shape="rect" id="node7" href="$class_assets_dialog.html#aaab72ec94847a448ae0c3e1f2b81c45d" title="AssetsDialog::updateSmart\lFeeLabel" alt="" coords="681,129,863,170"/>
+<area shape="rect" id="node18" href="$class_create_asset_dialog.html#aa37a4311db27c51221f53f80e958a38d" title="CreateAssetDialog::\lupdateSmartFeeLabel" alt="" coords="697,209,847,250"/>
+<area shape="rect" id="node22" href="$class_reissue_asset_dialog.html#aadf315ea23c92aebe36373aeb19e4b33" title="ReissueAssetDialog\l::updateSmartFeeLabel" alt="" coords="693,339,851,381"/>
+<area shape="rect" id="node26" href="$class_send_coins_dialog.html#ac42a9db733fbb2e06882660400c49517" title="SendCoinsDialog::updateSmart\lFeeLabel" alt="" coords="669,57,875,98"/>
+<area shape="rect" id="node8" href="$class_assets_dialog.html#a3265b5a60fb756a30b59e08f1aca3485" title="AssetsDialog::setClientModel" alt="" coords="945,107,1139,133"/>
+<area shape="rect" id="node9" href="$class_assets_dialog.html#a4783cfe81eecd969402459a0aae2f840" title="AssetsDialog::updateDisplayUnit" alt="" coords="935,157,1149,184"/>
+<area shape="rect" id="node10" href="$class_assets_dialog.html#a7724156dfba2b1a62c13c1b708e37b0a" title="AssetsDialog::setModel" alt="" coords="1221,157,1382,184"/>
+<area shape="rect" id="node11" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="1441,157,1628,184"/>
+<area shape="rect" id="node12" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1676,132,1839,159"/>
+<area shape="rect" id="node13" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1887,132,2065,159"/>
+<area shape="rect" id="node14" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="2587,95,2761,137"/>
+<area shape="rect" id="node15" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="2113,154,2292,195"/>
+<area shape="rect" id="node16" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="2340,161,2539,188"/>
+<area shape="rect" id="node17" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="2587,161,2761,202"/>
+<area shape="rect" id="node19" href="$class_create_asset_dialog.html#a06344b22bf8b2ec84692c3988e4d36a4" title="CreateAssetDialog::\lsetClientModel" alt="" coords="972,209,1112,250"/>
+<area shape="rect" id="node20" href="$class_create_asset_dialog.html#a14c45db711ab138f4c2e52fa81c5f50a" title="CreateAssetDialog::\lupdateDisplayUnit" alt="" coords="972,274,1112,315"/>
+<area shape="rect" id="node21" href="$class_create_asset_dialog.html#affceaf7b5ffeeda6f20ecb354ff4e7f8" title="CreateAssetDialog::\lsetModel" alt="" coords="1231,242,1371,283"/>
+<area shape="rect" id="node23" href="$class_reissue_asset_dialog.html#a3b3e11f430c99c56f2dfa6b15baf7f36" title="ReissueAssetDialog\l::setClientModel" alt="" coords="971,339,1113,381"/>
+<area shape="rect" id="node24" href="$class_reissue_asset_dialog.html#ad6175c9716f2861e9d499033c6759e51" title="ReissueAssetDialog\l::updateDisplayUnit" alt="" coords="971,405,1113,446"/>
+<area shape="rect" id="node25" href="$class_reissue_asset_dialog.html#aedb26df763c8cda11fea5a0c07ca70a0" title="ReissueAssetDialog\l::setModel" alt="" coords="1231,339,1372,381"/>
+<area shape="rect" id="node27" href="$class_send_coins_dialog.html#a360a23c02bd0e581b78603ccb863eb79" title="SendCoinsDialog::setClient\lModel" alt="" coords="1210,9,1393,50"/>
+<area shape="rect" id="node29" href="$class_send_coins_dialog.html#a74815ad8502b126200b6fd2e59e9f042" title="SendCoinsDialog::updateDisplayUnit" alt="" coords="923,56,1161,83"/>
+<area shape="rect" id="node28" href="$class_wallet_view.html#a46d9a8d93adfdcc29cae9ff0d44c313e" title="Set the client model. " alt="" coords="1443,77,1626,104"/>
+<area shape="rect" id="node30" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="1209,85,1393,112"/>
+</map>

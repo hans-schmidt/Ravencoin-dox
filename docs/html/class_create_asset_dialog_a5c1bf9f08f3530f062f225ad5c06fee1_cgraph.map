@@ -1,0 +1,6 @@
+<map id="CreateAssetDialog::onAssetListActivated" name="CreateAssetDialog::onAssetListActivated">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#a1ce91f290c34d88a5006e93d1e8e8025" title="CreateAssetDialog::\lGetSpecialCharacter" alt="" coords="223,5,366,47"/>
+<area shape="rect" id="node3" href="$assettypes_8cpp.html#a4e30ad1d1a0e7f52fc2f8f1bf11e0f22" title="IntFromAssetType" alt="" coords="437,71,568,98"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#aeca06f7c83a8d4e300fbf4ca5c423c72" title="CreateAssetDialog::\lUpdateAssetNameMaxSize" alt="" coords="203,123,387,164"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#a2c1fc0441715acb09a9793c55b5ff971" title="CreateAssetDialog::\lupdatePresentedAssetName" alt="" coords="200,188,389,229"/>
+</map>

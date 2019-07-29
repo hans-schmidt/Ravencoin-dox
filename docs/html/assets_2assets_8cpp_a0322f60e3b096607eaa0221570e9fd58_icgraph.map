@@ -1,0 +1,51 @@
+<map id="IsAssetNameAnOwner" name="IsAssetNameAnOwner">
+<area shape="rect" id="node2" href="$class_c_assets_cache.html#ae5b756875c6582ada18c2488b6748a47" title="CAssetsCache::AddToAsset\lBalance" alt="" coords="248,5,439,47"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="812,71,1023,98"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1071,198,1277,225"/>
+<area shape="rect" id="node5" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="238,223,449,250"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a502421abc8868b5f7ec7437b366d572e" title="CheckNewAsset" alt="" coords="283,325,404,351"/>
+<area shape="rect" id="node11" href="$rpc_2assets_8cpp.html#a3cdcfa67fed9018d3a7560acae8c7ff6" title="UnitValueFromAmount" alt="" coords="266,426,421,453"/>
+<area shape="rect" id="node12" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="271,477,415,503"/>
+<area shape="rect" id="node14" href="$class_asset_control_dialog.html#a23d6eb759e1dbe885b3b2c48e72c65bd" title="AssetControlDialog\l::updateAssetList" alt="" coords="276,528,411,569"/>
+<area shape="rect" id="node20" href="$class_assets_dialog.html#a5a77479fb5eafe6e3dba71144aff9797" title="AssetsDialog::addEntry" alt="" coords="263,645,423,671"/>
+<area shape="rect" id="node30" href="$class_asset_table_priv.html#a0db8601c63adc35516894a281a3b765b" title="AssetTablePriv::refreshWallet" alt="" coords="245,855,441,882"/>
+<area shape="rect" id="node33" href="$class_create_asset_dialog.html#a093dbb5a197e9fbe2bab3e7529f65340" title="CreateAssetDialog::\lselectTypeName" alt="" coords="273,932,413,973"/>
+<area shape="rect" id="node36" href="$class_overview_page.html#a81be2869bfc6f249e1a9fb2621c87a04" title="OverviewPage::handleAsset\lClicked" alt="" coords="250,997,437,1039"/>
+<area shape="rect" id="node38" href="$class_reissue_asset_dialog.html#ae74a27a150a383c12e0360eaf597251c" title="ReissueAssetDialog\l::focusReissueAsset" alt="" coords="271,1063,415,1104"/>
+<area shape="rect" id="node39" href="$class_send_assets_entry.html#aaa1bc4e15d435744a4b8371a7388f89c" title="SendAssetsEntry::onAsset\lSelected" alt="" coords="253,1153,433,1195"/>
+<area shape="rect" id="node42" href="$class_send_assets_entry.html#a078cf67a1a168840e2c61bb3ab824fdd" title="SendAssetsEntry::switchAdministratorList" alt="" coords="209,1303,477,1330"/>
+<area shape="rect" id="node46" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="238,1383,449,1410"/>
+<area shape="rect" id="node48" href="$class_transaction_record.html#a9f5db4465fa5fdcc3f9af525096bcdb9" title="TransactionRecord::\ldecomposeTransaction" alt="" coords="265,1496,422,1537"/>
+<area shape="rect" id="node6" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="593,223,696,250"/>
+<area shape="rect" id="node8" href="$assets_8h.html#af894efb762726583de09a23045325595" title="ContextualCheckNewAsset" alt="" coords="553,325,737,351"/>
+<area shape="rect" id="node9" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="836,274,999,301"/>
+<area shape="rect" id="node10" href="$assets_8h.html#a3d93a173bcd387795f14fb76e9c534e6" title="ContextualCheckUniqueAsset" alt="" coords="818,325,1017,351"/>
+<area shape="rect" id="node13" href="$rawtransaction_8cpp.html#ac7e0210645b016dfbaec68de41c11dba" title="decodescript" alt="" coords="597,375,693,402"/>
+<area shape="rect" id="node15" href="$class_asset_control_dialog.html#a4a1447fea96b2bbc38758ea998cf4085" title="AssetControlDialog\l::setModel" alt="" coords="850,427,985,468"/>
+<area shape="rect" id="node18" href="$class_asset_control_dialog.html#a30bbfa2cb3fb3a09b968bb3a5e9e0eec" title="AssetControlDialog\l::viewAdministratorClicked" alt="" coords="555,477,734,519"/>
+<area shape="rect" id="node16" href="$class_assets_dialog.html#a316ed7dfcd069b3f9f3f255e78f79d4e" title="AssetsDialog::assetControl\lButtonClicked" alt="" coords="1083,572,1265,613"/>
+<area shape="rect" id="node17" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="1325,695,1512,722"/>
+<area shape="rect" id="node19" href="$class_asset_control_dialog.html#acaafd2a83fa87e3cf4b6748e25a1346a" title="AssetControlDialog\l::AssetControlDialog" alt="" coords="846,492,989,533"/>
+<area shape="rect" id="node21" href="$class_assets_dialog.html#acee3707f7fffab047f300be52e137cdc" title="AssetsDialog::clear" alt="" coords="577,746,713,773"/>
+<area shape="rect" id="node25" href="$class_assets_dialog.html#a825711b83beb942f517d7c2e354d250a" title="AssetsDialog::removeEntry" alt="" coords="553,543,736,570"/>
+<area shape="rect" id="node26" href="$class_assets_dialog.html#ae0538aa7e5abe73ae5d696af5f3f6738" title="RVN START. " alt="" coords="826,572,1009,613"/>
+<area shape="rect" id="node27" href="$class_assets_dialog.html#a0a9c3ab2bc735b9ff5146b7615ebe9d9" title="AssetsDialog::setAddress" alt="" coords="557,645,732,671"/>
+<area shape="rect" id="node28" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="832,1101,1003,1127"/>
+<area shape="rect" id="node22" href="$class_assets_dialog.html#a1070909809e60004a8ae7230f519f0b1" title="AssetsDialog::reject" alt="" coords="847,847,987,874"/>
+<area shape="rect" id="node23" href="$class_assets_dialog.html#a3f19feda56586655269f8e7a2b5d9470" title="AssetsDialog::accept" alt="" coords="844,746,991,773"/>
+<area shape="rect" id="node24" href="$class_assets_dialog.html#a22d1a45433ed5eac4c5ee523c8ceb00b" title="AssetsDialog::focusAsset" alt="" coords="830,949,1005,975"/>
+<area shape="rect" id="node29" href="$class_assets_dialog.html#a6ef27cbd6256b7af509e3f10a2e2e89c" title="AssetsDialog::handlePayment\lRequest" alt="" coords="1075,1093,1273,1135"/>
+<area shape="rect" id="node31" href="$class_asset_table_model.html#a507b91782129f0bf05f8aa1032468af2" title="AssetTableModel::AssetTable\lModel" alt="" coords="546,848,743,889"/>
+<area shape="rect" id="node32" href="$class_asset_table_model.html#a5b3e5bc2d8312e6ac6f62e84a8b5e404" title="AssetTableModel::checkBalance\lChanged" alt="" coords="538,913,751,955"/>
+<area shape="rect" id="node34" href="$class_create_asset_dialog.html#a9900289907248e0b67e838f4a2db2f6e" title="CreateAssetDialog::\lfocusSubAsset" alt="" coords="575,979,715,1020"/>
+<area shape="rect" id="node35" href="$class_create_asset_dialog.html#abbaaae0c6a41b5888e86f17c2e1e4ac2" title="CreateAssetDialog::\lfocusUniqueAsset" alt="" coords="575,1044,715,1085"/>
+<area shape="rect" id="node37" href="$class_overview_page.html#ab377237585c9eeabc2eec882cec9a1e2" title="OverviewPage::OverviewPage" alt="" coords="545,1110,745,1137"/>
+<area shape="rect" id="node40" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="816,1265,1019,1307"/>
+<area shape="rect" id="node41" href="$class_send_assets_entry.html#acae5a9a78098c2e7d66880b5984bd3ee" title="SendAssetsEntry::setValue" alt="" coords="553,1161,736,1187"/>
+<area shape="rect" id="node43" href="$class_send_assets_entry.html#a2156d0b759f8bf4c57f5a46544d3eaf4" title="SendAssetsEntry::onSendOwnership\lChanged" alt="" coords="525,1328,764,1369"/>
+<area shape="rect" id="node44" href="$class_send_assets_entry.html#a1235585a9ccb51e70fe5f3ac0ecfeec5" title="SendAssetsEntry::CheckOwnerBox" alt="" coords="529,1394,760,1421"/>
+<area shape="rect" id="node45" href="$class_send_assets_entry.html#a1324def1449b7e6e65762590ec23f35a" title="SendAssetsEntry::refresh\lAssetList" alt="" coords="559,1263,731,1304"/>
+<area shape="rect" id="node47" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="557,1445,733,1471"/>
+<area shape="rect" id="node49" href="$class_transaction_table_priv.html#a1f81da5d7cfb2aac03a5e18e6bc91792" title="TransactionTablePriv\l::refreshWallet" alt="" coords="572,1496,717,1537"/>
+<area shape="rect" id="node50" href="$class_transaction_table_priv.html#a5a8454ce91251c4d9eb927bf2850745c" title="TransactionTablePriv\l::updateWallet" alt="" coords="572,1561,717,1603"/>
+</map>

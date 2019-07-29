@@ -1,0 +1,9 @@
+<map id="CWallet::CommitTransaction" name="CWallet::CommitTransaction">
+<area shape="rect" id="node2" href="$assets_8h.html#ac85f60493840a888d3cc36a218881457" title="Send any type of asset transaction to the network. " alt="" coords="249,81,403,108"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#a53443aca544c824550f21e5f87e4ec39" title="WalletModel::sendCoins" alt="" coords="244,132,408,159"/>
+<area shape="rect" id="node8" href="$class_list_coins_testing_setup.html#a8ce37c5d8d073c901b91153f83c47ee8" title="ListCoinsTestingSetup\l::AddTx" alt="" coords="249,183,403,225"/>
+<area shape="rect" id="node3" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="514,5,605,32"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="456,56,663,83"/>
+<area shape="rect" id="node5" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="508,107,611,133"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a1c12ea47660aeb523c9f3a414b0d0ce9" title="WalletModel::sendAssets" alt="" coords="474,157,645,184"/>
+</map>

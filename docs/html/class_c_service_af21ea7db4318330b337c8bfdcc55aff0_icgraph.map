@@ -1,0 +1,15 @@
+<map id="CService::GetKey" name="CService::GetKey">
+<area shape="rect" id="node2" href="$class_c_addr_info.html#a11e2712f11c0d92c75976e90f2c5003e" title="Calculate in which &quot;tried&quot; bucket this entry belongs. " alt="" coords="191,107,371,133"/>
+<area shape="rect" id="node8" href="$class_c_addr_info.html#a3a133ffb3fbf67cbeb5f4bc683fa9126" title="Calculate in which position of a bucket to store this entry. " alt="" coords="181,233,380,260"/>
+<area shape="rect" id="node12" href="$class_c_node.html#a923c9640a28f97cf9c23a21ae8e13c97" title="CNode::AddAddressKnown" alt="" coords="189,284,372,311"/>
+<area shape="rect" id="node13" href="$class_c_node.html#a1f39037c55bed93b832bcbef00597ca5" title="CNode::PushAddress" alt="" coords="206,385,355,412"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a98e8383efb48b7c2932795438f35a10a" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="441,157,594,184"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a27e51ef4fe86db1ff5a5e45caefc1ef4" title="Select an address to connect to, if newOnly is set to true, only the new table is selected from..." alt="" coords="655,56,791,83"/>
+<area shape="rect" id="node5" href="$class_c_addr_info.html#ae14c3a91bb669e5580be1d3767264187" title="CAddrInfo::CAddrInfo" alt="" coords="443,5,591,32"/>
+<area shape="rect" id="node7" href="$class_c_addr_man.html#a94c76a39ab311deb9e7b810e01b664ce" title="CAddrMan::Unserialize" alt="" coords="439,107,596,133"/>
+<area shape="rect" id="node6" href="$class_c_addr_man.html#af5d1e15be40f1d6bfa3e614730e46a04" title="find an entry, creating it if necessary. " alt="" coords="657,5,788,32"/>
+<area shape="rect" id="node9" href="$class_c_addr_man.html#a33ec6a4584cf4b17af821e6e35216459" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="452,259,583,285"/>
+<area shape="rect" id="node10" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="456,309,579,336"/>
+<area shape="rect" id="node11" href="$class_c_addr_info.html#a04ac79764971242edce1e82aefb2aea0" title="Calculate in which &quot;new&quot; bucket this entry belongs, using its default source. " alt="" coords="428,360,607,387"/>
+<area shape="rect" id="node14" href="$net_8h.html#a0cde2b3256757536c42c0bd3037847d1" title="AdvertiseLocal" alt="" coords="463,411,571,437"/>
+</map>

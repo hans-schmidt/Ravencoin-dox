@@ -1,0 +1,4 @@
+<map id="CWallet::CreateTransaction" name="CWallet::CreateTransaction">
+<area shape="rect" id="node2" href="$class_wallet_model.html#aa56ac200db13d7121cedb40ebd43ba2f" title="WalletModel::prepareTransaction" alt="" coords="237,5,451,32"/>
+<area shape="rect" id="node3" href="$class_list_coins_testing_setup.html#a8ce37c5d8d073c901b91153f83c47ee8" title="ListCoinsTestingSetup\l::AddTx" alt="" coords="267,57,421,98"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="CloseSocket" name="CloseSocket">
+<area shape="rect" id="node2" href="$class_c_node.html#a63a6091a0b0fc0987d9436e1ec708423" title="CNode::CloseSocketDisconnect" alt="" coords="151,5,363,32"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#afe88b51d85f5b77fd38cd0be1d177891" title="CConnman::AcceptConnection" alt="" coords="411,56,613,83"/>
+<area shape="rect" id="node7" href="$class_c_connman.html#a289dca0ee65310fcfc5b552249fc0401" title="CConnman::Stop" alt="" coords="195,107,318,133"/>
+<area shape="rect" id="node9" href="$class_c_node.html#ac9b30cb93e91a48dacc58821abfc44f0" title="CNode::~CNode" alt="" coords="197,157,317,184"/>
+<area shape="rect" id="node10" href="$netbase_8h.html#ac4d702700b01312baccffa6f36703800" title="ConnectSocketDirectly" alt="" coords="178,208,335,235"/>
+<area shape="rect" id="node3" href="$class_c_connman.html#a1893a7b9c31a02d3ee307421ad40232d" title="CConnman::SocketSendData" alt="" coords="415,5,609,32"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#a765597cbfe99c083d8fa3d61bb464e34" title="CConnman::ThreadSocketHandler" alt="" coords="661,56,884,83"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#aa4709e5604e0f4369dada0a211493565" title="CConnman::Start" alt="" coords="1753,117,1877,144"/>
+<area shape="rect" id="node8" href="$class_c_connman.html#ab4bc83003310d960423d963148d5c9ec" title="CConnman::~CConnman" alt="" coords="427,107,597,133"/>
+<area shape="rect" id="node11" href="$class_c_connman.html#ac810542ffa683d5dde5e5524b5ce2e4e" title="CConnman::ConnectNode" alt="" coords="685,157,861,184"/>
+<area shape="rect" id="node16" href="$netbase_8h.html#ab0050e9d599c152605bab7ef97566d9e" title="ConnectThroughProxy" alt="" coords="436,208,588,235"/>
+<area shape="rect" id="node12" href="$class_c_connman.html#a3bd6aed18096f954c24c80b32c876da5" title="CConnman::OpenNetworkConnection" alt="" coords="932,157,1175,184"/>
+<area shape="rect" id="node13" href="$class_c_connman.html#a161f1b41271db1a10cec61a825524b5d" title="CConnman::ProcessOneShot" alt="" coords="1223,107,1417,133"/>
+<area shape="rect" id="node14" href="$class_c_connman.html#ac4c8cf5142f88565e789f3b173d89b3e" title="CConnman::ThreadOpenConnections" alt="" coords="1465,117,1705,144"/>
+<area shape="rect" id="node15" href="$class_c_connman.html#a0b787caf95e52a346a2b31a580d60a62" title="CConnman::ThreadOpenAdded\lConnections" alt="" coords="1483,190,1687,231"/>
+</map>

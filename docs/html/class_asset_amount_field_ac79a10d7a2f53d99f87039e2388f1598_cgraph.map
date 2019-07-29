@@ -1,0 +1,16 @@
+<map id="AssetAmountField::AssetAmountField" name="AssetAmountField::AssetAmountField">
+<area shape="rect" id="node2" href="$class_asset_amount_field.html#af8940195a7d6c59d7bef3fe421dd60d1" title="AssetAmountField::setUnit" alt="" coords="269,79,448,105"/>
+<area shape="rect" id="node3" href="$class_amount_spin_box.html#a79bd0b44f07469dd24b59f1dcbadd3ad" title="AmountSpinBox::setAssetUnit" alt="" coords="496,79,696,105"/>
+<area shape="rect" id="node4" href="$class_amount_spin_box.html#ab7e522a441231ceaeeb0682ec62a06a9" title="AmountSpinBox::value" alt="" coords="754,41,909,68"/>
+<area shape="rect" id="node12" href="$class_amount_spin_box.html#aca3825a8e5735dd99d3fa9665afb614c" title="AmountSpinBox::setValue" alt="" coords="744,104,919,131"/>
+<area shape="rect" id="node5" href="$class_amount_spin_box.html#a487085fe9dc6d6aaa1d2e2a55852f587" title="Parse a string into a number of base monetary units and return validity. " alt="" coords="967,35,1123,61"/>
+<area shape="rect" id="node6" href="$class_raven_units.html#af5e74a09a2c73d1dc08b571ee312f631" title="RavenUnits::assetParse" alt="" coords="1171,31,1336,57"/>
+<area shape="rect" id="node8" href="$class_raven_units.html#afcf268875a556bcacdf6a8b6fb5a4149" title="Return maximum number of base units (Satoshis) " alt="" coords="1619,5,1781,32"/>
+<area shape="rect" id="node10" href="$class_raven_units.html#affaad322be327986fd98a14404c7d81e" title="Parse string to coin amount. " alt="" coords="1188,81,1319,108"/>
+<area shape="rect" id="node7" href="$class_raven_units.html#a21db9aa82ae32bd1a7155d30d8840307" title="RavenUnits::removeSpaces" alt="" coords="1384,31,1571,57"/>
+<area shape="rect" id="node9" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="1402,81,1553,108"/>
+<area shape="rect" id="node11" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="1414,132,1541,159"/>
+<area shape="rect" id="node13" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="1185,132,1321,159"/>
+<area shape="rect" id="node14" href="$class_raven_units.html#aea6fad621ac4f75381406d5ca415f78e" title="Number of Satoshis (1e&#45;8) per unit for assets. " alt="" coords="1394,183,1561,209"/>
+<area shape="rect" id="node15" href="$class_raven_units.html#a56c9ff217422454061562a0612bf61ec" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="1411,233,1543,260"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="benchmark::BenchRunner::RunAll" name="benchmark::BenchRunner::RunAll">
+<area shape="rect" id="node2" href="$perf_8cpp.html#af93eb319c368ae8e88a5ffe92a5149b4" title="perf_init" alt="" coords="279,5,347,32"/>
+<area shape="rect" id="node3" href="$classbenchmark_1_1_bench_runner.html#a025bd08cc9c7553569746309d34be8d3" title="benchmark::BenchRunner\l::benchmarks" alt="" coords="227,57,400,98"/>
+<area shape="rect" id="node4" href="$perf_8cpp.html#ad0b848078057ad6fecccebe7c0dfd492" title="perf_fini" alt="" coords="279,123,347,149"/>
+</map>

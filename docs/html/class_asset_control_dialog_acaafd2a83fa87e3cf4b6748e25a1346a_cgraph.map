@@ -1,0 +1,51 @@
+<map id="AssetControlDialog::AssetControlDialog" name="AssetControlDialog::AssetControlDialog">
+<area shape="rect" id="node2" href="$class_asset_control_dialog.html#a10146defb43cd0eabda34494e651c9a4" title="AssetControlDialog\l::showMenu" alt="" coords="218,724,353,765"/>
+<area shape="rect" id="node7" href="$class_asset_control_dialog.html#adf521ea30c2251efb2600a3bd18810df" title="AssetControlDialog\l::copyAddress" alt="" coords="218,201,353,243"/>
+<area shape="rect" id="node9" href="$class_asset_control_dialog.html#a1a8cb10658cf5cb104c18d19324a08e4" title="AssetControlDialog\l::copyLabel" alt="" coords="218,267,353,308"/>
+<area shape="rect" id="node10" href="$class_asset_control_dialog.html#abd01571bb6e4fa85be82e778199c6e6a" title="AssetControlDialog\l::copyAmount" alt="" coords="218,5,353,47"/>
+<area shape="rect" id="node13" href="$class_asset_control_dialog.html#a60a377a7e7e460d512ffef035543e378" title="AssetControlDialog\l::copyTransactionHash" alt="" coords="207,332,364,373"/>
+<area shape="rect" id="node14" href="$class_asset_control_dialog.html#a382655b94d4220e5a57fc14f078c4231" title="AssetControlDialog\l::lockCoin" alt="" coords="218,789,353,831"/>
+<area shape="rect" id="node21" href="$class_asset_control_dialog.html#a3bafccebc3e0b9f1af7f8e363bf65317" title="AssetControlDialog\l::unlockCoin" alt="" coords="218,855,353,896"/>
+<area shape="rect" id="node24" href="$class_asset_control_dialog.html#aa8d42eec2e534308ff82493295d3285e" title="AssetControlDialog\l::clipboardQuantity" alt="" coords="218,397,353,439"/>
+<area shape="rect" id="node25" href="$class_asset_control_dialog.html#a8533038eee55475818c0c45c65899127" title="AssetControlDialog\l::clipboardAmount" alt="" coords="218,463,353,504"/>
+<area shape="rect" id="node26" href="$class_asset_control_dialog.html#a245fc2a1ebf30eecb50af9a6c62e4418" title="AssetControlDialog\l::clipboardFee" alt="" coords="218,528,353,569"/>
+<area shape="rect" id="node27" href="$class_asset_control_dialog.html#ad88b183d81d19bce2dbb1da63d35630a" title="AssetControlDialog\l::clipboardAfterFee" alt="" coords="218,593,353,635"/>
+<area shape="rect" id="node28" href="$class_asset_control_dialog.html#ab812b5350131dcbeb91c363fbd8b0098" title="AssetControlDialog\l::clipboardBytes" alt="" coords="218,659,353,700"/>
+<area shape="rect" id="node29" href="$class_asset_control_dialog.html#a18b50035761a7243761557022fe9dff6" title="AssetControlDialog\l::clipboardLowOutput" alt="" coords="213,71,358,112"/>
+<area shape="rect" id="node30" href="$class_asset_control_dialog.html#a80e075b1f6611265093a1226f95572e2" title="AssetControlDialog\l::clipboardChange" alt="" coords="218,136,353,177"/>
+<area shape="rect" id="node31" href="$class_asset_control_dialog.html#a95edb752c6942fd6ccb2012b85cee862" title="AssetControlDialog\l::radioTreeMode" alt="" coords="449,1357,583,1399"/>
+<area shape="rect" id="node39" href="$class_asset_control_dialog.html#aa0544072b8452289345e4a4d032c6ebb" title="AssetControlDialog\l::sortView" alt="" coords="933,972,1068,1013"/>
+<area shape="rect" id="node40" href="$class_asset_control_dialog.html#a3e83a2121791ed9747e9f2871f3b27fe" title="AssetControlDialog\l::radioListMode" alt="" coords="449,1124,583,1165"/>
+<area shape="rect" id="node41" href="$class_asset_control_dialog.html#ace89a75ef30c5dbb1784a706169a424d" title="AssetControlDialog\l::viewItemChanged" alt="" coords="218,1023,353,1064"/>
+<area shape="rect" id="node44" href="$class_asset_control_dialog.html#a99f4ec139e90470734d4a3e70f13e79b" title="AssetControlDialog\l::headerSectionClicked" alt="" coords="676,972,833,1013"/>
+<area shape="rect" id="node45" href="$class_asset_control_dialog.html#a1806eda1bd43627febe86d6ad57b7e68" title="AssetControlDialog\l::buttonBoxClicked" alt="" coords="218,1205,353,1247"/>
+<area shape="rect" id="node46" href="$class_asset_control_dialog.html#a2be8cae81e2851c32815a6a52856f637" title="AssetControlDialog\l::buttonSelectAllClicked" alt="" coords="204,1140,367,1181"/>
+<area shape="rect" id="node48" href="$class_asset_control_dialog.html#a30bbfa2cb3fb3a09b968bb3a5e9e0eec" title="AssetControlDialog\l::viewAdministratorClicked" alt="" coords="196,1336,375,1377"/>
+<area shape="rect" id="node50" href="$class_asset_control_dialog.html#ae2b4162c5cfe2f0fe907bc007597feef" title="AssetControlDialog\l::onAssetSelected" alt="" coords="218,1271,353,1312"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#abeea7ae42ec38ace2786b2e3d340f5a2" title="RVN END. " alt="" coords="910,681,1091,707"/>
+<area shape="rect" id="node5" href="$uint256_8h.html#a52e679560cc1ebf68f878ed69e38f259" title="uint256S" alt="" coords="479,753,553,779"/>
+<area shape="rect" id="node4" href="$group___actions.html#ga58abc6e61537f10bfb9429587ed29074" title="CWallet::IsLockedCoin" alt="" coords="1159,681,1316,707"/>
+<area shape="rect" id="node6" href="$classbase__blob.html#a5ec1f681a2830f4e180fe664c0eb4dd0" title="base_blob::SetHex" alt="" coords="688,753,821,779"/>
+<area shape="rect" id="node8" href="$namespace_g_u_i_util.html#aef655b19f129179ca32f11a4d0da1a07" title="GUIUtil::setClipboard" alt="" coords="443,339,589,366"/>
+<area shape="rect" id="node11" href="$class_raven_units.html#a21db9aa82ae32bd1a7155d30d8840307" title="RavenUnits::removeSpaces" alt="" coords="423,13,609,39"/>
+<area shape="rect" id="node12" href="$class_raven_units.html#afcf268875a556bcacdf6a8b6fb5a4149" title="Return maximum number of base units (Satoshis) " alt="" coords="673,13,836,39"/>
+<area shape="rect" id="node15" href="$class_wallet_model.html#a9bb6c954dc3cf27e25ced65375fa02f0" title="WalletModel::lockCoin" alt="" coords="439,651,593,678"/>
+<area shape="rect" id="node17" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="900,811,1101,838"/>
+<area shape="rect" id="node19" href="$class_asset_control_dialog.html#ae58871f3528177a1b0a132abdff9ac9b" title="AssetControlDialog\l::updateLabelLocked" alt="" coords="445,804,587,845"/>
+<area shape="rect" id="node16" href="$group___actions.html#gad8843dc88ae40c44b9ef301167b7fbf5" title="CWallet::LockCoin" alt="" coords="689,651,821,678"/>
+<area shape="rect" id="node18" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="1149,811,1325,838"/>
+<area shape="rect" id="node20" href="$class_wallet_model.html#a367977352d1ef183ec2cb6b508a85bc2" title="WalletModel::listLockedCoins" alt="" coords="657,811,852,838"/>
+<area shape="rect" id="node22" href="$class_wallet_model.html#a0a5514bd400327df0f7d63341d8fabf4" title="WalletModel::unlockCoin" alt="" coords="433,870,599,897"/>
+<area shape="rect" id="node23" href="$group___actions.html#ga0675897e118cb946e1b129865d345204" title="CWallet::UnlockCoin" alt="" coords="682,870,827,897"/>
+<area shape="rect" id="node32" href="$class_asset_control_dialog.html#a35356054e1ff12c3cc49e4b7c505be18" title="AssetControlDialog\l::updateView" alt="" coords="687,1247,822,1288"/>
+<area shape="rect" id="node33" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="901,1371,1101,1398"/>
+<area shape="rect" id="node34" href="$class_wallet_model.html#a89ed202e2dbc04aaa70d72872b95b351" title="WalletModel::getAddressTable\lModel" alt="" coords="901,1423,1101,1464"/>
+<area shape="rect" id="node35" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="903,1203,1099,1230"/>
+<area shape="rect" id="node36" href="$class_wallet_model.html#a5b79617bceafd23fba013dd40957392a" title="RVN START. " alt="" coords="921,1254,1081,1281"/>
+<area shape="rect" id="node37" href="$class_address_table_model.html#afcdbfc17ac480f5a57382cbcf096ccb3" title="AddressTableModel::\llabelForAddress" alt="" coords="928,1305,1073,1347"/>
+<area shape="rect" id="node38" href="$class_c_coin_control.html#a9e24b36f8542df7ab1686ae65ac1b032" title="CCoinControl::UnSelectAsset" alt="" coords="902,1153,1099,1179"/>
+<area shape="rect" id="node42" href="$class_c_coin_control.html#abd8d9846498704755b45af4ade82b60b" title="CCoinControl::SelectAsset" alt="" coords="426,1073,606,1099"/>
+<area shape="rect" id="node43" href="$class_asset_control_dialog.html#a92de12c45c6a9be68e3e58d02a7a9b99" title="AssetControlDialog\l::updateLabels" alt="" coords="449,1189,583,1231"/>
+<area shape="rect" id="node47" href="$class_c_coin_control.html#a78bc21b1698e6ae5e6c2fef9758db39c" title="CCoinControl::UnSelectAll" alt="" coords="427,1255,605,1282"/>
+<area shape="rect" id="node49" href="$class_asset_control_dialog.html#a23d6eb759e1dbe885b3b2c48e72c65bd" title="AssetControlDialog\l::updateAssetList" alt="" coords="449,1423,583,1464"/>
+</map>

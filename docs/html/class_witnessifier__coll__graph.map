@@ -1,0 +1,18 @@
+<map id="Witnessifier" name="Witnessifier">
+<area shape="rect" id="node3" href="$class_c_script_i_d.html" title="A reference to a CScript: the Hash160 of its serialization (see script.h) " alt="" coords="995,65,1075,91"/>
+<area shape="rect" id="node4" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="685,70,749,97"/>
+<area shape="rect" id="node16" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash160 of its serialized public key. " alt="" coords="867,103,937,130"/>
+<area shape="rect" id="node5" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="419,70,545,97"/>
+<area shape="rect" id="node6" href="$class_c_wallet.html" title="A CWallet is an extension of a keystore, which also maintains a set of transactions and balances..." alt="" coords="1441,255,1511,282"/>
+<area shape="rect" id="node7" href="$class_c_crypto_key_store.html" title="Keystore which keeps the private keys encrypted. " alt="" coords="1106,407,1231,434"/>
+<area shape="rect" id="node8" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="843,341,961,367"/>
+<area shape="rect" id="node9" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="673,310,760,337"/>
+<area shape="rect" id="node10" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="423,257,541,283"/>
+<area shape="rect" id="node19" href="$class_c_d_b_env.html" title="CDBEnv" alt="" coords="679,205,754,231"/>
+<area shape="rect" id="node13" href="$class_c_validation_interface.html" title="CValidationInterface" alt="" coords="1099,306,1239,333"/>
+<area shape="rect" id="node14" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="1127,357,1210,383"/>
+<area shape="rect" id="node15" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="1125,141,1212,167"/>
+<area shape="rect" id="node17" href="$class_c_wallet_d_b.html" title="Access to the wallet database. " alt="" coords="1125,205,1213,231"/>
+<area shape="rect" id="node18" href="$class_c_d_b.html" title="RAII class that provides access to a Berkeley database. " alt="" coords="877,205,927,231"/>
+<area shape="rect" id="node20" href="$class_c_wallet_d_b_wrapper.html" title="An instance of this class represents one database. " alt="" coords="833,154,971,181"/>
+</map>

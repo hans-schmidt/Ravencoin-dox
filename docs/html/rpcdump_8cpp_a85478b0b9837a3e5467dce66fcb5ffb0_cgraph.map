@@ -1,0 +1,48 @@
+<map id="removeprunedfunds" name="removeprunedfunds">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#a1de07aa72f31cf1b1a3ea94307b7b566" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="189,522,403,549"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#ae44c9e4546fdf6e182276fada0126649" title="EnsureWalletIsAvailable" alt="" coords="214,623,378,650"/>
+<area shape="rect" id="node4" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="479,573,593,599"/>
+<area shape="rect" id="node36" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="243,674,349,701"/>
+<area shape="rect" id="node37" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="238,725,354,751"/>
+<area shape="rect" id="node38" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="234,775,358,802"/>
+<area shape="rect" id="node39" href="$classbase__blob.html#a5ec1f681a2830f4e180fe664c0eb4dd0" title="base_blob::SetHex" alt="" coords="229,826,363,853"/>
+<area shape="rect" id="node40" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="235,877,357,903"/>
+<area shape="rect" id="node42" href="$group___actions.html#ga42dbc5dd23b06ef48d4a2434036c18b0" title="CWallet::ZapSelectTx" alt="" coords="221,939,371,966"/>
+<area shape="rect" id="node5" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="732,509,780,535"/>
+<area shape="rect" id="node35" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="683,573,829,599"/>
+<area shape="rect" id="node6" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="930,154,1017,181"/>
+<area shape="rect" id="node7" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="911,53,1036,79"/>
+<area shape="rect" id="node16" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="894,255,1053,282"/>
+<area shape="rect" id="node17" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="929,306,1018,333"/>
+<area shape="rect" id="node18" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="926,357,1021,383"/>
+<area shape="rect" id="node19" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="891,407,1056,434"/>
+<area shape="rect" id="node20" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="909,458,1037,485"/>
+<area shape="rect" id="node21" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="924,509,1023,535"/>
+<area shape="rect" id="node22" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="902,559,1045,586"/>
+<area shape="rect" id="node23" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="908,610,1039,637"/>
+<area shape="rect" id="node24" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="929,661,1017,687"/>
+<area shape="rect" id="node25" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="907,711,1040,738"/>
+<area shape="rect" id="node26" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="922,813,1025,839"/>
+<area shape="rect" id="node28" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="932,863,1015,890"/>
+<area shape="rect" id="node30" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="923,205,1024,231"/>
+<area shape="rect" id="node32" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="917,914,1029,941"/>
+<area shape="rect" id="node33" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="914,762,1033,789"/>
+<area shape="rect" id="node34" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="923,103,1023,130"/>
+<area shape="rect" id="node8" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1129,78,1261,105"/>
+<area shape="rect" id="node15" href="$namespacetinyformat.html#a37afaa5249c69dacd619269358f06f69" title="Make type&#45;agnostic format list from list of template arguments. " alt="" coords="1104,27,1287,54"/>
+<area shape="rect" id="node9" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="1335,71,1453,112"/>
+<area shape="rect" id="node10" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1505,5,1670,47"/>
+<area shape="rect" id="node11" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1501,71,1673,112"/>
+<area shape="rect" id="node14" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1519,136,1655,177"/>
+<area shape="rect" id="node12" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1721,39,1872,80"/>
+<area shape="rect" id="node13" href="$classtinyformat_1_1detail_1_1_format_arg.html#a91b69f66ce9dc8ca2914dce8985d7a1a" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1734,104,1859,145"/>
+<area shape="rect" id="node27" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="1151,813,1239,839"/>
+<area shape="rect" id="node29" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="1121,863,1269,890"/>
+<area shape="rect" id="node31" href="$namespacefsbridge.html#a19c84cec4ae9accfbc88a83e48f7ee92" title="fsbridge::fopen" alt="" coords="1141,483,1249,510"/>
+<area shape="rect" id="node41" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="467,877,605,903"/>
+<area shape="rect" id="node43" href="$class_c_wallet_d_b.html#ac83c75bb46cc6dff3d325b5a1d7f6338" title="CWalletDB::ZapSelectTx" alt="" coords="451,965,621,991"/>
+<area shape="rect" id="node44" href="$class_c_wallet_d_b.html#a36d47a1a63670abbb8a5e404006a230e" title="CWalletDB::FindWalletTx" alt="" coords="669,965,843,991"/>
+<area shape="rect" id="node46" href="$class_c_wallet_d_b.html#a498e00c693cacc4b558e6f5295ea32f2" title="CWalletDB::EraseTx" alt="" coords="683,1015,829,1042"/>
+<area shape="rect" id="node45" href="$class_c_d_b.html#adfd2c079df629d5f7cac0ca923ffd698" title="CDB::Read" alt="" coords="928,965,1019,991"/>
+<area shape="rect" id="node47" href="$class_c_wallet_d_b.html#a15d5972c3688ef35f875bafcbb4dff32" title="CWalletDB::EraseIC" alt="" coords="901,1015,1045,1042"/>
+</map>

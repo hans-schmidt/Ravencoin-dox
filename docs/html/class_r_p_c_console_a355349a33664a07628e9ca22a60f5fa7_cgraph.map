@@ -1,0 +1,51 @@
+<map id="RPCConsole::setClientModel" name="RPCConsole::setClientModel">
+<area shape="rect" id="node2" href="$class_client_model.html#a643fc112ce94f50ac7187ecdf3c75360" title="ClientModel::getPeerTable\lModel" alt="" coords="569,76,745,118"/>
+<area shape="rect" id="node3" href="$class_client_model.html#ad02b8bf216a08845e393f9bac8c4ed42" title="ClientModel::getBanTable\lModel" alt="" coords="571,564,743,606"/>
+<area shape="rect" id="node4" href="$class_r_p_c_console.html#aa4546cb7812dd35704de8bf09a6ceb60" title="Set number of connections shown in the UI. " alt="" coords="261,630,487,657"/>
+<area shape="rect" id="node5" href="$class_client_model.html#ab1a71928e2ff3902e854d301f4cfe6ef" title="Return number of connections, default is in&#45; and outbound (total) " alt="" coords="813,685,1032,712"/>
+<area shape="rect" id="node6" href="$class_r_p_c_console.html#a8a3dc7ad11aed5071c3c00329f75f736" title="Set number of blocks and last block date shown in the UI. " alt="" coords="277,833,471,860"/>
+<area shape="rect" id="node7" href="$class_client_model.html#a9af729ddd1220f928d8cb3ef29f06f26" title="ClientModel::getNumBlocks" alt="" coords="281,884,467,910"/>
+<area shape="rect" id="node9" href="$class_client_model.html#a8683d6269976a006032075bc01be4925" title="ClientModel::getLastBlockDate" alt="" coords="273,934,475,961"/>
+<area shape="rect" id="node12" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="623,985,690,1012"/>
+<area shape="rect" id="node13" href="$class_client_model.html#aa78104a56c45081dc76b8186b7b46987" title="ClientModel::getVerification\lProgress" alt="" coords="283,1036,465,1078"/>
+<area shape="rect" id="node15" href="$class_r_p_c_console.html#a62c423db4ed102ce48dc650e15e49a96" title="Update UI with latest network info from model. " alt="" coords="559,732,754,774"/>
+<area shape="rect" id="node17" href="$class_r_p_c_console.html#acb43211055d842769637a2de7e0a6c4d" title="Set network state shown in the UI. " alt="" coords="269,782,479,809"/>
+<area shape="rect" id="node18" href="$class_r_p_c_console.html#a41bc6977fc2aab06f408da81dfd2034f" title="update traffic statistics " alt="" coords="565,11,748,52"/>
+<area shape="rect" id="node20" href="$class_client_model.html#a3ecd021e48073debd6dfeb90fdb3e7bd" title="ClientModel::getTotalBytesRecv" alt="" coords="269,1102,479,1129"/>
+<area shape="rect" id="node21" href="$class_client_model.html#a53cd536b119e49b0fab9c95d13a247ed" title="ClientModel::getTotalBytesSent" alt="" coords="271,1153,477,1180"/>
+<area shape="rect" id="node22" href="$class_r_p_c_console.html#a86e7d08d527792b6e9bb65659b21c2af" title="Set size (number of transactions and memory usage) of the mempool in the UI. " alt="" coords="272,1204,476,1230"/>
+<area shape="rect" id="node23" href="$class_r_p_c_console.html#aacaf485583b6342c5e1877e7582f95c5" title="Ban a selected node on the Peers tab. " alt="" coords="269,361,479,388"/>
+<area shape="rect" id="node27" href="$class_r_p_c_console.html#a9c6e2b13f981313a28bcbf10433d0d11" title="clear the selected node " alt="" coords="548,310,765,337"/>
+<area shape="rect" id="node29" href="$class_r_p_c_console.html#a920a08f6248cb341fb47318403f015be" title="Show custom context menu on Peers tab. " alt="" coords="272,1255,476,1296"/>
+<area shape="rect" id="node30" href="$class_r_p_c_console.html#a697e3fab280ee0c9033eeff2f64ec742" title="Disconnect a selected node on the Peers tab. " alt="" coords="248,412,500,438"/>
+<area shape="rect" id="node31" href="$class_r_p_c_console.html#a2487fa6a90cddcbb17ae4bb13ecc5359" title="Handle selection of peer in peers list. " alt="" coords="283,201,465,228"/>
+<area shape="rect" id="node33" href="$class_r_p_c_console.html#af952ebc6484c8f7d1262fa0bceed41bf" title="Handle updated peer information. " alt="" coords="263,252,485,278"/>
+<area shape="rect" id="node34" href="$class_r_p_c_console.html#ae2d43a386af5a7cd92b4b000f102785d" title="Handle selection caching before update. " alt="" coords="271,135,477,176"/>
+<area shape="rect" id="node35" href="$class_r_p_c_console.html#ae080520be8c972076c2fad22cb998ce2" title="Show custom context menu on Bans tab. " alt="" coords="277,1320,471,1362"/>
+<area shape="rect" id="node36" href="$class_r_p_c_console.html#a9a974887c33bf1d4b25eb6aeea002941" title="Unban a selected node on the Bans tab. " alt="" coords="262,462,486,489"/>
+<area shape="rect" id="node39" href="$class_r_p_c_console.html#af285a241961af11845a76ea995ca45c5" title="Hides ban table if no bans are present. " alt="" coords="273,564,475,606"/>
+<area shape="rect" id="node41" href="$class_client_model.html#ae9448d6f2a7f99467152b17f7044eb12" title="ClientModel::formatFullVersion" alt="" coords="273,1386,475,1413"/>
+<area shape="rect" id="node43" href="$class_client_model.html#af06b8f99afdabf8399260a826e2f3ebf" title="ClientModel::formatSubVersion" alt="" coords="273,1437,475,1464"/>
+<area shape="rect" id="node44" href="$class_client_model.html#ae7a70f1c809bae1526e630e1b4522b81" title="ClientModel::dataDir" alt="" coords="303,1488,445,1514"/>
+<area shape="rect" id="node47" href="$class_client_model.html#aae1793d38356a2e8040d9e7dc813b0c1" title="ClientModel::formatClient\lStartupTime" alt="" coords="289,1539,459,1580"/>
+<area shape="rect" id="node49" href="$class_c_r_p_c_table.html#a7ebce2fd23e8343e42d36a9bcd02de95" title="Returns a list of registered commands. " alt="" coords="281,1605,467,1632"/>
+<area shape="rect" id="node50" href="$class_r_p_c_console.html#ac6250045ef6f8bd5e5fece3e478e141d" title="RPCConsole::startExecutor" alt="" coords="281,1656,467,1682"/>
+<area shape="rect" id="node8" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="601,884,713,910"/>
+<area shape="rect" id="node10" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="611,1036,703,1062"/>
+<area shape="rect" id="node11" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="829,1010,1017,1037"/>
+<area shape="rect" id="node14" href="$validation_8cpp.html#ae466f595b8c57bd7a80777c8d34dfdc2" title="Guess how far we are in the verification process at the given block index. " alt="" coords="568,1086,745,1113"/>
+<area shape="rect" id="node16" href="$class_client_model.html#aa8f8839642703f13b476d09b7a616bd7" title="Return true if network activity in core is enabled. " alt="" coords="821,740,1024,766"/>
+<area shape="rect" id="node19" href="$namespace_g_u_i_util.html#a3d10a887d17d7ddafdf1b4428feed494" title="GUIUtil::formatBytes" alt="" coords="850,106,995,133"/>
+<area shape="rect" id="node24" href="$namespace_g_u_i_util.html#a76327913a06a858ddd4a4449706a8bb6" title="Return a field of the currently selected entry as a QString. " alt="" coords="581,361,732,388"/>
+<area shape="rect" id="node25" href="$class_peer_table_model.html#aa735d366015dafba4c5d79dfb76abe49" title="PeerTableModel::getRowBy\lNodeId" alt="" coords="564,244,749,286"/>
+<area shape="rect" id="node26" href="$class_peer_table_model.html#a98084d3299642316c71c5de3d36b9859" title="PeerTableModel::getNodeStats" alt="" coords="555,142,759,169"/>
+<area shape="rect" id="node28" href="$class_ban_table_model.html#a15107160d33bbf2635b9460cb07f9661" title="BanTableModel::refresh" alt="" coords="577,412,737,438"/>
+<area shape="rect" id="node32" href="$class_r_p_c_console.html#a0bd7e2be4a07bcf4f8b20eb1881dacbb" title="show detailed information on ui about selected node " alt="" coords="551,193,762,220"/>
+<area shape="rect" id="node37" href="$netbase_8cpp.html#a4f8635acde45a6be14713608d40935f8" title="LookupSubNet" alt="" coords="603,462,711,489"/>
+<area shape="rect" id="node38" href="$class_c_sub_net.html#abe05f70043af710ac075a4dd77757394" title="CSubNet::IsValid" alt="" coords="861,488,985,514"/>
+<area shape="rect" id="node40" href="$class_ban_table_model.html#afbed923bfe027b3ae959e323d4b843cd" title="BanTableModel::shouldShow" alt="" coords="561,630,752,657"/>
+<area shape="rect" id="node42" href="$clientversion_8cpp.html#ac3e3098552063f228d9deac38a8b9848" title="FormatFullVersion" alt="" coords="593,1386,721,1413"/>
+<area shape="rect" id="node45" href="$namespace_g_u_i_util.html#a82887fd3dd003600d4e30dc07ee866d2" title="GUIUtil::boostPathToQString" alt="" coords="561,1492,753,1518"/>
+<area shape="rect" id="node46" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="613,1441,701,1468"/>
+<area shape="rect" id="node48" href="$util_8cpp.html#a29eee356cb63abcc6e4a48a8485810ef" title="Server/client environment: argument handling, config file parsing, logging, thread wrappers..." alt="" coords="599,1546,714,1573"/>
+</map>

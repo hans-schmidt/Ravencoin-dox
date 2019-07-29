@@ -1,0 +1,4 @@
+<map id="CWallet::SetHDChain" name="CWallet::SetHDChain">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#a3091a6fd2face068ab71bddca4ec711d" title="write the hdchain model (external chain child index counter) " alt="" coords="204,5,385,32"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#a33ec32231db801e91a98afb26acf3e6a" title="CWalletDB::WriteIC" alt="" coords="433,5,575,32"/>
+</map>

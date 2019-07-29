@@ -1,0 +1,15 @@
+<map id="WalletModel::getTransactionTableModel" name="WalletModel::getTransactionTableModel">
+<area shape="rect" id="node2" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="257,107,463,133"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="545,81,732,108"/>
+<area shape="rect" id="node10" href="$class_transaction_view.html#a4920c2cd57d72eb50248948fa160c83c" title="TransactionView::setModel" alt="" coords="270,5,450,32"/>
+<area shape="rect" id="node11" href="$class_transaction_view.html#a8dc3e9fc910cec4f6764d84c21941180" title="TransactionView::abandonTx" alt="" coords="265,259,455,285"/>
+<area shape="rect" id="node13" href="$class_transaction_view.html#a6cf5d062668e5e29c6203b6e0dc3836b" title="TransactionView::bumpFee" alt="" coords="269,208,451,235"/>
+<area shape="rect" id="node14" href="$class_wallet_view.html#aed3fc203d310243887be68bc58d741ec" title="Show incoming transaction notification for new transactions. " alt="" coords="241,56,479,83"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="799,81,961,108"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1009,81,1188,108"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1709,45,1884,86"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1236,103,1415,145"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1463,111,1661,137"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1709,110,1884,151"/>
+<area shape="rect" id="node12" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="527,259,751,285"/>
+</map>

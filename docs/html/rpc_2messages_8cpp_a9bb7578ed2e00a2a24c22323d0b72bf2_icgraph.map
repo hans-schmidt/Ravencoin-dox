@@ -1,0 +1,8 @@
+<map id="MessageActivationWarning" name="MessageActivationWarning">
+<area shape="rect" id="node2" href="$rpc_2messages_8cpp.html#a3eab85bfb6184a1aac41de1294d536a0" title="viewallmessages" alt="" coords="257,5,379,32"/>
+<area shape="rect" id="node3" href="$rpc_2messages_8cpp.html#a7d5049b7d1981595ad9aa6b5dcbed792" title="viewallmessagechannels" alt="" coords="235,56,401,83"/>
+<area shape="rect" id="node4" href="$rpc_2messages_8cpp.html#ab95837542bcae6da050dd5d184034eaa" title="subscribetochannel" alt="" coords="251,107,385,133"/>
+<area shape="rect" id="node5" href="$rpc_2messages_8cpp.html#aaa89c11ae8e26884d39dfc0c63c0bd98" title="unsubscribefromchannel" alt="" coords="237,157,399,184"/>
+<area shape="rect" id="node6" href="$rpc_2messages_8cpp.html#ac536a9b709d618462014345f2396e8f2" title="clearmessages" alt="" coords="263,208,373,235"/>
+<area shape="rect" id="node7" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="267,259,369,285"/>
+</map>

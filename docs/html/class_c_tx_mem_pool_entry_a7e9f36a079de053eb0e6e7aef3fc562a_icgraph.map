@@ -1,0 +1,4 @@
+<map id="CTxMemPoolEntry::GetModFeesWithDescendants" name="CTxMemPoolEntry::GetModFeesWithDescendants">
+<area shape="rect" id="node2" href="$class_compare_tx_mem_pool_entry_by_descendant_score.html#a93a2240e6e7f89a40b3bc4069caca8aa" title="CompareTxMemPoolEntryByDescendant\lScore::operator()" alt="" coords="269,5,532,47"/>
+<area shape="rect" id="node3" href="$class_compare_tx_mem_pool_entry_by_descendant_score.html#a989520d6e471d07bcfb951a63d55683d" title="CompareTxMemPoolEntryByDescendant\lScore::UseDescendantScore" alt="" coords="269,71,532,112"/>
+</map>

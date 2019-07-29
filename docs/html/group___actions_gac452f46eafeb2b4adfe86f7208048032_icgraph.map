@@ -1,0 +1,10 @@
+<map id="CWallet::GetKeyFromPool" name="CWallet::GetKeyFromPool">
+<area shape="rect" id="node2" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="300,5,391,32"/>
+<area shape="rect" id="node3" href="$class_address_table_model.html#aa72edd2a093a6e9318639d69d3a23488" title="AddressTableModel::\laddRow" alt="" coords="273,57,418,98"/>
+<area shape="rect" id="node8" href="$class_payment_server.html#a4bde538eb8942bfd41f2872234df0d6b" title="PaymentServer::fetchPaymentACK" alt="" coords="231,123,460,149"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#aeec02dcbb431a01ceb08e46ed4d76d18" title="getnewaddress" alt="" coords="290,173,401,200"/>
+<area shape="rect" id="node4" href="$class_edit_address_dialog.html#a8494a551799cd1f4c253e557424c206c" title="EditAddressDialog::\lsaveCurrentRow" alt="" coords="528,25,667,66"/>
+<area shape="rect" id="node6" href="$class_receive_coins_dialog.html#a9db8de31f6889288cb22c061aa51e0cd" title="ReceiveCoinsDialog\l::on_receiveButton_clicked" alt="" coords="508,90,687,131"/>
+<area shape="rect" id="node5" href="$class_edit_address_dialog.html#ac52b71129806bccf6533d0e9441393b6" title="EditAddressDialog::\laccept" alt="" coords="736,25,875,66"/>
+<area shape="rect" id="node7" href="$class_receive_coins_dialog.html#abcf17b510c473bf3e94ef12f7f5cfc10" title="ReceiveCoinsDialog\l::keyPressEvent" alt="" coords="735,90,876,131"/>
+</map>

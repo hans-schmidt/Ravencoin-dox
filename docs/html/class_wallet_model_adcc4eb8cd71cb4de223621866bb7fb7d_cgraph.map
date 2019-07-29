@@ -1,0 +1,35 @@
+<map id="WalletModel::checkBalanceChanged" name="WalletModel::checkBalanceChanged">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a0450a3bf3302518efef17423f7d4e10f" title="WalletModel::getBalance" alt="" coords="270,115,437,141"/>
+<area shape="rect" id="node17" href="$class_wallet_model.html#a5028f20a33e0d17942abeea537916736" title="WalletModel::getUnconfirmed\lBalance" alt="" coords="256,231,451,273"/>
+<area shape="rect" id="node23" href="$class_wallet_model.html#ac5dbbc28b2c8ecd2e00fb45c6a2cb6f8" title="WalletModel::getImmature\lBalance" alt="" coords="266,297,441,338"/>
+<area shape="rect" id="node26" href="$class_wallet_model.html#ab5e8e946e9ac3ddc9dc6a203e61968e2" title="WalletModel::haveWatchOnly" alt="" coords="256,363,451,389"/>
+<area shape="rect" id="node27" href="$class_wallet_model.html#a6d9050286d99bccb4a28a8d88f0ca5f8" title="WalletModel::getWatchBalance" alt="" coords="251,41,456,68"/>
+<area shape="rect" id="node30" href="$class_wallet_model.html#a691b35afd9aff056e1398fd057691ff1" title="WalletModel::getWatchUnconfirmed\lBalance" alt="" coords="237,166,469,207"/>
+<area shape="rect" id="node32" href="$class_wallet_model.html#a9da743fbe881d4928eeafc48f50ef3d5" title="WalletModel::getWatchImmature\lBalance" alt="" coords="247,414,460,455"/>
+<area shape="rect" id="node3" href="$group___actions.html#gae232544033dfc42b460e00ec0e54b29b" title="CWallet::GetAvailableBalance" alt="" coords="527,71,726,97"/>
+<area shape="rect" id="node4" href="$group___actions.html#gaa6522c2833bc0a84d216cf102b51ba05" title="CWallet::GetBalance" alt="" coords="554,121,699,148"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga71efb0d5b5def8ae00a1d74b8741bfcb" title="CWalletTx::IsTrusted" alt="" coords="814,81,961,108"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#gaf3c82ba365c720dd3d929b86bf432ef6" title="CWalletTx::GetAvailableCredit" alt="" coords="787,132,988,159"/>
+<area shape="rect" id="node6" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="1060,81,1163,108"/>
+<area shape="rect" id="node7" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="1288,233,1400,260"/>
+<area shape="rect" id="node8" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="1298,157,1390,184"/>
+<area shape="rect" id="node9" href="$class_c_block_index.html#aa9bd0ab02cf8b9c866618cee3a5a0583" title="CBlockIndex::GetMedianTimePast" alt="" coords="1232,5,1456,32"/>
+<area shape="rect" id="node11" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="1283,56,1405,83"/>
+<area shape="rect" id="node14" href="$tx__verify_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="Check if transaction is final and can be included in a block with the specified height and time..." alt="" coords="1306,107,1382,133"/>
+<area shape="rect" id="node10" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="1504,5,1692,32"/>
+<area shape="rect" id="node12" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="1562,56,1634,83"/>
+<area shape="rect" id="node13" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="&quot;Never go to sea with two chronometers; take one or three.&quot; Our three time sources are: ..." alt="" coords="1544,107,1652,133"/>
+<area shape="rect" id="node16" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="1062,132,1161,159"/>
+<area shape="rect" id="node18" href="$group___actions.html#ga6e6e1497535d499242c2f2a76d1cbe63" title="CWallet::GetUnconfirmedBalance" alt="" coords="517,239,736,265"/>
+<area shape="rect" id="node19" href="$class_c_merkle_tx.html#a0600dfab890747c0d4d1cfeb09a0b8c2" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="793,234,982,275"/>
+<area shape="rect" id="node21" href="$group__map_wallet.html#gae4af382e1eeba62ee7e84100c7234f23" title="CWalletTx::InMempool" alt="" coords="809,183,965,209"/>
+<area shape="rect" id="node20" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="1048,233,1175,260"/>
+<area shape="rect" id="node22" href="$class_c_tx_mem_pool.html#a8b7a13b5289ab839d4460f41a7da9789" title="CTxMemPool::exists" alt="" coords="1039,183,1184,209"/>
+<area shape="rect" id="node24" href="$group___actions.html#ga6ab8dfa75c5c8d5539325f3981697964" title="CWallet::GetImmatureBalance" alt="" coords="527,304,727,331"/>
+<area shape="rect" id="node25" href="$group__map_wallet.html#ga19bb617269ab1ce42f5d18e1f1f8db09" title="CWalletTx::GetImmatureCredit" alt="" coords="786,304,989,331"/>
+<area shape="rect" id="node28" href="$group___actions.html#ga92a58ebac7d7d398597657600db56611" title="CWallet::GetWatchOnlyBalance" alt="" coords="521,20,732,47"/>
+<area shape="rect" id="node29" href="$group__map_wallet.html#gac78c4da3c420b2b28370cba7044dd68d" title="CWalletTx::GetAvailableWatch\lOnlyCredit" alt="" coords="785,15,989,57"/>
+<area shape="rect" id="node31" href="$group___actions.html#gab0c110f14f0429f9de594b2293837621" title="CWallet::GetUnconfirmedWatch\lOnlyBalance" alt="" coords="521,173,732,214"/>
+<area shape="rect" id="node33" href="$group___actions.html#ga1372ba886aaeda65bf28758c9ccb65b4" title="CWallet::GetImmatureWatch\lOnlyBalance" alt="" coords="531,414,722,455"/>
+<area shape="rect" id="node34" href="$group__map_wallet.html#ga72f8eabb937fe06b415316c2ef4ea510" title="CWalletTx::GetImmatureWatch\lOnlyCredit" alt="" coords="784,414,991,455"/>
+</map>

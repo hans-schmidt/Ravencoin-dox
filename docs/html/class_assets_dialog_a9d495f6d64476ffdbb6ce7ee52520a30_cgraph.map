@@ -1,0 +1,6 @@
+<map id="AssetsDialog::focusAssetListBox" name="AssetsDialog::focusAssetListBox">
+<area shape="rect" id="node2" href="$class_send_assets_entry.html#ae91caa9b134eda6912422aee71c6f423" title="SendAssetsEntry::setFocus\lAssetListBox" alt="" coords="228,5,415,47"/>
+<area shape="rect" id="node3" href="$class_send_assets_entry.html#ae123ede2dd7038627d91fc1c7b8d27e1" title="SendAssetsEntry::getValue" alt="" coords="230,71,413,98"/>
+<area shape="rect" id="node5" href="$class_send_assets_entry.html#a430072fd48e488e771d3c95a93bf440f" title="SendAssetsEntry::setFocus" alt="" coords="228,122,415,149"/>
+<area shape="rect" id="node4" href="$class_payment_request_plus.html#aa3d8c57af7c7bc4ffbc31da32e5a40a6" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="463,64,612,105"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="GetDataDir" name="GetDataDir">
+<area shape="rect" id="node2" href="$class_c_ban_d_b.html#aaa72a14ee1c95a75cd5be52ffac0386b" title="CBanDB::CBanDB" alt="" coords="169,193,303,220"/>
+<area shape="rect" id="node3" href="$class_c_addr_d_b.html#af8c039f1904b1892c5a14e484a5b31a7" title="CAddrDB::CAddrDB" alt="" coords="165,244,307,271"/>
+<area shape="rect" id="node4" href="$init_8cpp.html#a7d6237c784498974e67d4a54436f2b14" title="CleanupBlockRevFiles" alt="" coords="159,295,313,321"/>
+<area shape="rect" id="node5" href="$init_8cpp.html#a2dd42c68a25e6632cdb9c7b03aed8503" title="ThreadImport" alt="" coords="427,371,525,397"/>
+<area shape="rect" id="node6" href="$init_8h.html#a267bb31fa79be7173fe5d2d8ce471145" title="Raven core main initialization. " alt="" coords="431,523,521,549"/>
+<area shape="rect" id="node8" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="705,5,767,32"/>
+<area shape="rect" id="node10" href="$class_client_model.html#ae7a70f1c809bae1526e630e1b4522b81" title="ClientModel::dataDir" alt="" coords="165,751,307,777"/>
+<area shape="rect" id="node12" href="$namespace_g_u_i_util.html#aad169e3227e7a851db52a08bfb30391c" title="GUIUtil::openDebugLogfile" alt="" coords="147,801,325,828"/>
+<area shape="rect" id="node14" href="$class_r_p_c_console.html#a91ee472a4d664623e69aa3dfd2f5f3ad" title="RPCConsole::RPCConsole" alt="" coords="144,852,328,879"/>
+<area shape="rect" id="node15" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="452,700,500,727"/>
+<area shape="rect" id="node41" href="$class_tor_controller.html#a55913c25c46f3d6cd49acb173664c350" title="Get name fo file to store private key in. " alt="" coords="153,903,319,945"/>
+<area shape="rect" id="node42" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="185,599,287,625"/>
+<area shape="rect" id="node43" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="195,649,277,676"/>
+<area shape="rect" id="node44" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="177,548,295,575"/>
+<area shape="rect" id="node45" href="$validation_8h.html#a6df609da0bad1550cbb2cdc781ad2904" title="Check whether enough disk space is available for an incoming block. " alt="" coords="174,969,298,996"/>
+<area shape="rect" id="node46" href="$validation_8h.html#a14ff9fb82bd3b6a8d7887f68873cdc4d" title="Translation to a filesystem path. " alt="" coords="160,396,312,423"/>
+<area shape="rect" id="node47" href="$validation_8h.html#a4b0f164432912c7b1b0e3535c13ad01c" title="Dump the mempool to disk. " alt="" coords="181,1020,291,1047"/>
+<area shape="rect" id="node48" href="$class_c_d_b.html#aa5a0775b1bcb7fe902cb9776cd89252e" title="CDB::VerifyEnvironment" alt="" coords="153,1071,319,1097"/>
+<area shape="rect" id="node49" href="$class_c_d_b.html#ad31ec9da2d902b6486f1f3fba0c11362" title="CDB::CDB" alt="" coords="192,1121,280,1148"/>
+<area shape="rect" id="node50" href="$class_c_wallet_d_b_wrapper.html#aae43ddc4f6aa72de2ca771ebd7c9eddb" title="Back up the entire database to a file. " alt="" coords="141,1172,331,1199"/>
+<area shape="rect" id="node7" href="$class_raven_core.html#ad8824da7414b72f26061a1e914d66b59" title="RavenCore::initialize" alt="" coords="665,56,807,83"/>
+<area shape="rect" id="node9" href="$ravend_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="976,5,1027,32"/>
+<area shape="rect" id="node11" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="379,751,573,777"/>
+<area shape="rect" id="node13" href="$class_r_p_c_console.html#adf26672994effc0bf948e8d83e1a8cb3" title="open the debug.log from the current datadir " alt="" coords="379,802,573,843"/>
+<area shape="rect" id="node16" href="$class_c_transaction.html#a78e4b3b650fd78ff8261cbf079155045" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="635,376,837,403"/>
+<area shape="rect" id="node17" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="639,427,833,469"/>
+<area shape="rect" id="node18" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="629,493,843,534"/>
+<area shape="rect" id="node19" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="621,558,851,599"/>
+<area shape="rect" id="node20" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="635,624,837,651"/>
+<area shape="rect" id="node21" href="$class_c_assets_cache.html#a0c43a3a5962805c6358b90dda2abda4e" title="CAssetsCache::UndoAssetCoin" alt="" coords="631,675,841,701"/>
+<area shape="rect" id="node22" href="$class_c_assets_cache.html#a226cec2d3134721b3fea8127bbd1549e" title="Changes Memory Only. " alt="" coords="637,725,835,752"/>
+<area shape="rect" id="node23" href="$class_c_assets_cache.html#a68da2d53f80143a0644e98a87b60efd2" title="Cache only undo functions. " alt="" coords="621,776,851,803"/>
+<area shape="rect" id="node24" href="$class_c_assets_cache.html#a7c55e7e3c3609e08e6b2ac088eea3f10" title="Cache only add asset functions. " alt="" coords="635,827,837,853"/>
+<area shape="rect" id="node25" href="$class_c_assets_cache.html#a9c3d2c9475d31549b37460a3f438fc20" title="Changes Memory Only. " alt="" coords="641,878,831,919"/>
+<area shape="rect" id="node26" href="$class_c_assets_cache.html#a8ac4066b8f63246f7b447642bf14b797" title="Changes Memory Only. " alt="" coords="628,943,844,985"/>
+<area shape="rect" id="node27" href="$class_c_assets_cache.html#afcc1e5da7958b8ccd58a837924b2109a" title="Changes Memory Only. " alt="" coords="628,1009,844,1036"/>
+<area shape="rect" id="node28" href="$class_c_assets_cache.html#ae7fae54a79efd6fa5f48bf3e559f11e7" title="Write asset cache data to database. " alt="" coords="633,1061,839,1102"/>
+<area shape="rect" id="node29" href="$class_c_assets_cache.html#a944260f72095bae895284480f96067c5" title="Flush all new cache entries into the passets global cache. " alt="" coords="661,1127,811,1153"/>
+<area shape="rect" id="node30" href="$assets_8h.html#ac04b8a7fff37f9c7ff2c8f8682961ce6" title="CheckVerifierString" alt="" coords="669,1279,803,1305"/>
+<area shape="rect" id="node31" href="$assets_8h.html#a92ccc0f4b0b9b6cf54306673d504fad4" title="ContextualCheckVerifierString" alt="" coords="902,1228,1101,1255"/>
+<area shape="rect" id="node32" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1152,1253,1359,1280"/>
+<area shape="rect" id="node33" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="899,1329,1104,1356"/>
+<area shape="rect" id="node34" href="$rpc_2assets_8cpp.html#a417cb44a82745ed3dc33e23ca777a44c" title="UpdateAddressTag" alt="" coords="669,1380,803,1407"/>
+<area shape="rect" id="node35" href="$rpc_2assets_8cpp.html#a0334c36dd0b0df30124e3e7b02cc920d" title="UpdateAddressRestriction" alt="" coords="649,1431,823,1457"/>
+<area shape="rect" id="node36" href="$rpc_2assets_8cpp.html#a1235254f4405fcc980887407f35a64fc" title="UpdateGlobalRestrictedAsset" alt="" coords="639,107,833,133"/>
+<area shape="rect" id="node37" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="691,157,781,184"/>
+<area shape="rect" id="node38" href="$class_c_message_d_b.html#a648aa6b7059d9db2bfffe760f0bd9d85" title="CMessageDB::Flush" alt="" coords="664,208,808,235"/>
+<area shape="rect" id="node39" href="$class_c_message_channel_d_b.html#aa035b7e674df725a4134880b3c4f1bdc" title="CMessageChannelDB::\lFlush" alt="" coords="656,259,816,301"/>
+<area shape="rect" id="node40" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="685,325,787,352"/>
+</map>

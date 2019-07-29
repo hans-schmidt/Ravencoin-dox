@@ -1,0 +1,15 @@
+<map id="CTxMemPool::addAddressIndex" name="CTxMemPool::addAddressIndex">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool_entry.html#a2deed4202061edf8b040a3f554417c20" title="CTxMemPoolEntry::GetTx" alt="" coords="281,5,459,32"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#a7efd1379de830341417c0bfa23a149aa" title="CTransaction::GetHash" alt="" coords="290,56,450,83"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_cache.html#afd0144ded5ce891084aabff29141f8b2" title="Return a reference to Coin in the cache, or a pruned one if not found. " alt="" coords="264,107,476,133"/>
+<area shape="rect" id="node7" href="$class_c_script.html#a0c3729c606d318923dc06f95d85a0971" title="CScript::IsPayToScriptHash" alt="" coords="276,157,464,184"/>
+<area shape="rect" id="node10" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="313,216,427,243"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_cache.html#aad44dd0b312871702e46ddfb449cecba" title="CCoinsViewCache::FetchCoin" alt="" coords="524,107,725,133"/>
+<area shape="rect" id="node6" href="$class_c_coins_view.html#a435080be262889508365787dcc75cf95" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="773,107,924,133"/>
+<area shape="rect" id="node8" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="571,157,679,184"/>
+<area shape="rect" id="node9" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="782,177,915,204"/>
+<area shape="rect" id="node11" href="$classprevector_1_1iterator.html#ae9dd2b5e8d96f866e4b05d6b7535f285" title="prevector::iterator\l::iterator" alt="" coords="563,209,687,250"/>
+<area shape="rect" id="node12" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="559,275,690,301"/>
+<area shape="rect" id="node13" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="779,249,918,276"/>
+<area shape="rect" id="node14" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="775,300,923,327"/>
+</map>

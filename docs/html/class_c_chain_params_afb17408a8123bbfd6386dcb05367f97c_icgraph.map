@@ -1,0 +1,8 @@
+<map id="CChainParams::ReissueAssetBurnAmount" name="CChainParams::ReissueAssetBurnAmount">
+<area shape="rect" id="node2" href="$assets_8h.html#acf982e63feb867ae0a3323b35d3b78e1" title="GetReissueAssetBurnAmount" alt="" coords="255,89,452,115"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a229bd5fb969a96a86730f960da9acf7a" title="Check to make sure the script contains the reissue burn data. " alt="" coords="530,13,681,39"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="759,93,965,119"/>
+<area shape="rect" id="node6" href="$assets_8h.html#a7b00531a831520d94381648ee9ff8622" title="GetBurnAmount" alt="" coords="548,114,663,141"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="500,165,711,191"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#ac1ed9ac185d1ec2d9adad8f306a1a396" title="To be called on CTransactions where IsReissueAsset returns true. " alt="" coords="767,5,957,47"/>
+</map>

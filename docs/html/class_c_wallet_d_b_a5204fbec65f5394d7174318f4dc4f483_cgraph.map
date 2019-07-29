@@ -1,0 +1,4 @@
+<map id="CWalletDB::WriteTx" name="CWalletDB::WriteTx">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#a33ec32231db801e91a98afb26acf3e6a" title="CWalletDB::WriteIC" alt="" coords="199,5,340,32"/>
+<area shape="rect" id="node3" href="$class_c_merkle_tx.html#a20142f81e7ff0242db646e63e0a973b3" title="CMerkleTx::GetHash" alt="" coords="196,56,343,83"/>
+</map>

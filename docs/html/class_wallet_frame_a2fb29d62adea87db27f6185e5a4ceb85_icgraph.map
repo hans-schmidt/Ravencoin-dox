@@ -1,0 +1,9 @@
+<map id="WalletFrame::requestedSyncWarningInfo" name="WalletFrame::requestedSyncWarningInfo">
+<area shape="rect" id="node2" href="$class_wallet_frame.html#a9b846a7ce32f1bca329a0ef634c73524" title="Pass on signal over requested out&#45;of&#45;sync&#45;warning information. " alt="" coords="244,35,459,76"/>
+<area shape="rect" id="node3" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="507,42,669,69"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="717,42,896,69"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1417,5,1592,47"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="944,64,1123,105"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1171,71,1369,98"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1417,71,1592,112"/>
+</map>

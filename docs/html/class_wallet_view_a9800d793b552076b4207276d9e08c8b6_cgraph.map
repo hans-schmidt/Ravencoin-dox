@@ -1,0 +1,5 @@
+<map id="WalletView::backupWallet" name="WalletView::backupWallet">
+<area shape="rect" id="node2" href="$namespace_g_u_i_util.html#a788c51092a2255b1f8976d4794fc3ee6" title="Get save filename, mimics QFileDialog::getSaveFileName, except that it appends a default suffix when ..." alt="" coords="229,5,408,32"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#aa316c19ef41f26ea89f194ab253d3206" title="WalletModel::backupWallet" alt="" coords="228,56,409,83"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html#a74118e304f4694671bcf7f2173a5a302" title="CWallet::BackupWallet" alt="" coords="457,56,616,83"/>
+</map>

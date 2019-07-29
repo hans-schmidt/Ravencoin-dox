@@ -1,0 +1,7 @@
+<map id="PaymentRequestPlus::getMerchant" name="PaymentRequestPlus::getMerchant">
+<area shape="rect" id="node2" href="$class_payment_request_plus.html#ae8186db42936c0f87377205806f3497c" title="PaymentRequestPlus\l::PaymentRequestPlus" alt="" coords="233,5,391,47"/>
+<area shape="rect" id="node3" href="$class_payment_server.html#a19092e1d4d7c6eee3ec9d4390d11a092" title="PaymentServer::processPayment\lRequest" alt="" coords="203,71,421,112"/>
+<area shape="rect" id="node4" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="469,162,645,189"/>
+<area shape="rect" id="node6" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="207,187,417,214"/>
+<area shape="rect" id="node5" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="693,155,839,196"/>
+</map>

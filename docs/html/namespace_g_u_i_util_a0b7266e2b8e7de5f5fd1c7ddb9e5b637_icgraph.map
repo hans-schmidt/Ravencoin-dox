@@ -1,0 +1,16 @@
+<map id="GUIUtil::isObscured" name="GUIUtil::isObscured">
+<area shape="rect" id="node2" href="$class_raven_g_u_i.html#af33662f5a5604298177f56a15160cae3" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="193,81,425,108"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="701,107,873,133"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a0d11887de883a162fbdcafee8d08b2d6" title="Notify the user of an event from the core network or transaction handling code. " alt="" coords="485,5,630,32"/>
+<area shape="rect" id="node12" href="$class_raven_g_u_i.html#a6d7d2d398b230d83e37ea8b22acd4d9a" title="RavenGUI::eventFilter" alt="" coords="481,107,634,133"/>
+<area shape="rect" id="node13" href="$class_raven_g_u_i.html#af2d98960f72ef6a38c95e12b91f3e970" title="Simply calls showNormalIfMinimized(true) for use in SLOT() macro. " alt="" coords="473,157,641,184"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="960,107,1115,133"/>
+<area shape="rect" id="node6" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1191,81,1369,108"/>
+<area shape="rect" id="node11" href="$class_raven_g_u_i.html#a30da8eba81ba735251d621c8ff82a61e" title="RavenGUI::showEvent" alt="" coords="708,56,865,83"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1891,45,2065,86"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1417,103,1596,145"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1644,111,1843,137"/>
+<area shape="rect" id="node10" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1891,110,2065,151"/>
+<area shape="rect" id="node14" href="$class_raven_g_u_i.html#a70bd0387232a672e0b54db9d23ef9597" title="Handle tray icon clicked. " alt="" coords="689,157,884,184"/>
+<area shape="rect" id="node15" href="$class_raven_g_u_i.html#a992e4d8e9a7a80cd6e8d4b6fb272ffd2" title="Create system tray menu (or setup the dock menu) " alt="" coords="932,157,1143,184"/>
+</map>

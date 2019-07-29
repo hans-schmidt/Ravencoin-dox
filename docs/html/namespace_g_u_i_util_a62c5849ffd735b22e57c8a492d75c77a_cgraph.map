@@ -1,0 +1,8 @@
+<map id="GUIUtil::parseRavenURI" name="GUIUtil::parseRavenURI">
+<area shape="rect" id="node2" href="$namespace_g_u_i_util.html#a80ec9b464c28356231274c07af8cc9e4" title="GUIUtil::parseRavenURI" alt="" coords="221,56,389,83"/>
+<area shape="rect" id="node3" href="$class_raven_units.html#affaad322be327986fd98a14404c7d81e" title="Parse string to coin amount. " alt="" coords="437,56,568,83"/>
+<area shape="rect" id="node4" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="646,5,773,32"/>
+<area shape="rect" id="node5" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="634,56,785,83"/>
+<area shape="rect" id="node6" href="$class_raven_units.html#a21db9aa82ae32bd1a7155d30d8840307" title="RavenUnits::removeSpaces" alt="" coords="616,107,803,133"/>
+<area shape="rect" id="node7" href="$class_raven_units.html#afcf268875a556bcacdf6a8b6fb5a4149" title="Return maximum number of base units (Satoshis) " alt="" coords="851,107,1013,133"/>
+</map>

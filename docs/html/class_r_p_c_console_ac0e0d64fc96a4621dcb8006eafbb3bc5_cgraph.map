@@ -1,0 +1,8 @@
+<map id="RPCConsole::walletReindex" name="RPCConsole::walletReindex">
+<area shape="rect" id="node2" href="$class_send_confirmation_dialog.html#abf3d0b7f41287f492e050e827aaacb12" title="SendConfirmationDialog\l::exec" alt="" coords="267,31,429,72"/>
+<area shape="rect" id="node4" href="$class_r_p_c_console.html#a317ca97b14efb6af2c2e22d5a60e8872" title="Build parameter list for restart. " alt="" coords="243,122,453,149"/>
+<area shape="rect" id="node7" href="$rpcconsole_8cpp.html#adeb5e7f9d8eef5f2bdf8d575ebc2a66a" title="REINDEX" alt="" coords="541,173,624,199"/>
+<area shape="rect" id="node3" href="$class_send_confirmation_dialog.html#a16d172238461a082fedb1d20490bdef7" title="SendConfirmationDialog\l::updateYesButton" alt="" coords="501,5,664,47"/>
+<area shape="rect" id="node5" href="$rpcconsole_8cpp.html#af007bb2ea31fde5ef557de07fbbec40f" title="RESCAN" alt="" coords="543,71,622,98"/>
+<area shape="rect" id="node6" href="$rpcconsole_8cpp.html#a24cf492047fa76d0994be667ce8fbb1d" title="ZAPTXES1" alt="" coords="537,122,628,149"/>
+</map>

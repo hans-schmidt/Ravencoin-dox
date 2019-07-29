@@ -1,0 +1,7 @@
+<map id="RavenUnits::formatWithCustomName" name="RavenUnits::formatWithCustomName">
+<area shape="rect" id="node2" href="$class_raven_g_u_i.html#a30da8eba81ba735251d621c8ff82a61e" title="RavenGUI::showEvent" alt="" coords="324,5,481,32"/>
+<area shape="rect" id="node3" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="297,56,508,83"/>
+<area shape="rect" id="node6" href="$class_transaction_desc.html#a1de402b439b16ee501487b6cadb979ce" title="TransactionDesc::CreateDebug\lString" alt="" coords="299,107,506,149"/>
+<area shape="rect" id="node4" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="556,56,732,83"/>
+<area shape="rect" id="node5" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="780,49,925,90"/>
+</map>

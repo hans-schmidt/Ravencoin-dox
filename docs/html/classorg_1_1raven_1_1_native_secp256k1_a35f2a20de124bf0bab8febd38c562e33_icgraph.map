@@ -1,0 +1,7 @@
+<map id="org.raven.NativeSecp256k1.secp256k1_pubkey_tweak_mul" name="org.raven.NativeSecp256k1.secp256k1_pubkey_tweak_mul">
+<area shape="rect" id="node2" href="$classorg_1_1raven_1_1_native_secp256k1.html#ab56b5eeebb37ee6756744fd71425db77" title="libsecp256k1 PubKey Tweak&#45;Mul &#45; Tweak pubkey by multiplying to it " alt="" coords="323,8,531,49"/>
+<area shape="rect" id="node5" href="$classorg_1_1raven_1_1_native_secp256k1.html#ab9c66fef67799f869f65d296e61adb0e" title="libsecp256k1 randomize &#45; updates the context randomization " alt="" coords="304,75,551,102"/>
+<area shape="rect" id="node3" href="$classorg_1_1raven_1_1_native_secp256k1_test.html#a2890257017b1ab0b4db04a36fa92c7d7" title="This tests private key tweak&#45;mul uncompressed. " alt="" coords="599,5,793,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1raven_1_1_native_secp256k1_test.html#afd1b0d2fe3413a8fcd28b3acb4b91b12" title="org.raven.NativeSecp256k1\lTest.main" alt="" coords="841,39,1024,80"/>
+<area shape="rect" id="node6" href="$classorg_1_1raven_1_1_native_secp256k1_test.html#a3906d7d680a506cc1b73a76d967208d5" title="This tests seed randomization. " alt="" coords="605,71,787,112"/>
+</map>

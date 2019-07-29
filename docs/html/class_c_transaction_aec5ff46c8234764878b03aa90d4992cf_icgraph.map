@@ -1,0 +1,10 @@
+<map id="CTransaction::IsReissueAsset" name="CTransaction::IsReissueAsset">
+<area shape="rect" id="node2" href="$assets_8h.html#a10b6852f2679590541be4a8bf0f7c043" title="ReissueAssetFromTransaction" alt="" coords="255,107,457,133"/>
+<area shape="rect" id="node6" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="569,157,647,184"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a4ad4f27609f77293bff602da8bccb0d8" title="ContextualCheckReissueAsset" alt="" coords="505,56,711,83"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1017,56,1224,83"/>
+<area shape="rect" id="node4" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="759,5,969,32"/>
+<area shape="rect" id="node7" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="774,157,954,184"/>
+<area shape="rect" id="node8" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="815,208,913,235"/>
+<area shape="rect" id="node9" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="1071,208,1170,235"/>
+</map>

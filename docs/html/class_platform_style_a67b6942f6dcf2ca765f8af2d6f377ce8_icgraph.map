@@ -1,0 +1,5 @@
+<map id="PlatformStyle::getUseExtraSpacing" name="PlatformStyle::getUseExtraSpacing">
+<area shape="rect" id="node2" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="247,5,449,47"/>
+<area shape="rect" id="node3" href="$class_send_coins_entry.html#a6eae20cd564011773931fc724f4d787c" title="SendCoinsEntry::SendCoins\lEntry" alt="" coords="253,71,443,112"/>
+<area shape="rect" id="node4" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="236,137,460,163"/>
+</map>

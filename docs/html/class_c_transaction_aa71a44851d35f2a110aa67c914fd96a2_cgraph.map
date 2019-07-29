@@ -1,0 +1,5 @@
+<map id="CTransaction::IsNewMsgChannelAsset" name="CTransaction::IsNewMsgChannelAsset">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a43c3b1ec45d04f238c64199742ef2260" title="issue asset scripts to make sure script meets the standards " alt="" coords="305,29,440,56"/>
+<area shape="rect" id="node4" href="$assets_2assets_8cpp.html#af7768975d6bcbc4af1128467384e4e25" title="Check script and see if it matches the message channel issuance template. " alt="" coords="272,104,473,131"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#ac84c0956bcb6810989cbf6a37a345548" title="Check script and see if it matches the asset issuance template. " alt="" coords="521,29,649,56"/>
+</map>

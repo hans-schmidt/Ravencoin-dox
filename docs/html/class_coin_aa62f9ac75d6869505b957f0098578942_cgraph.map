@@ -1,0 +1,5 @@
+<map id="Coin::IsAsset" name="Coin::IsAsset">
+<area shape="rect" id="node2" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="156,5,309,32"/>
+<area shape="rect" id="node3" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="357,5,465,32"/>
+<area shape="rect" id="node4" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="513,5,647,32"/>
+</map>

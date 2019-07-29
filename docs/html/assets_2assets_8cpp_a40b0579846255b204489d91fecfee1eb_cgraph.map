@@ -1,0 +1,12 @@
+<map id="GetBurnAddress" name="GetBurnAddress">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="251,5,317,32"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#ae2ecee4da74ee048bc19d65c20729f5c" title="CChainParams::IssueAsset\lBurnAddress" alt="" coords="191,57,377,98"/>
+<area shape="rect" id="node4" href="$class_c_chain_params.html#a24491fb1453b098e355fc156ce4755d5" title="CChainParams::IssueSubAsset\lBurnAddress" alt="" coords="180,122,388,163"/>
+<area shape="rect" id="node5" href="$class_c_chain_params.html#ab60074c71787ecb9e9d03e5f57086560" title="CChainParams::IssueMsgChannel\lAssetBurnAddress" alt="" coords="172,187,396,229"/>
+<area shape="rect" id="node6" href="$class_c_chain_params.html#a09e308fa6a785169d4fec84c4c5c2278" title="CChainParams::IssueUnique\lAssetBurnAddress" alt="" coords="188,253,380,294"/>
+<area shape="rect" id="node7" href="$class_c_chain_params.html#a1677720be2c800253b27751a6352a418" title="CChainParams::ReissueAsset\lBurnAddress" alt="" coords="183,318,385,359"/>
+<area shape="rect" id="node8" href="$class_c_chain_params.html#a7c7344ab6c26ee09838ea2f92e38aa24" title="CChainParams::IssueQualifier\lAssetBurnAddress" alt="" coords="185,383,383,425"/>
+<area shape="rect" id="node9" href="$class_c_chain_params.html#a1d989297ae2044d9bfbe381eca860922" title="CChainParams::IssueSubQualifier\lAssetBurnAddress" alt="" coords="173,449,395,490"/>
+<area shape="rect" id="node10" href="$class_c_chain_params.html#a4447d76485afff8c2f92d7986465c33b" title="CChainParams::IssueRestricted\lAssetBurnAddress" alt="" coords="179,514,389,555"/>
+<area shape="rect" id="node11" href="$class_c_chain_params.html#abcce64581795a76cdfb9512b7f4a9be8" title="CChainParams::AddNullQualifier\lTagBurnAddress" alt="" coords="177,579,391,621"/>
+</map>

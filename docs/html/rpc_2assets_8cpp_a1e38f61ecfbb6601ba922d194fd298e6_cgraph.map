@@ -1,0 +1,51 @@
+<map id="checkaddressrestriction" name="checkaddressrestriction">
+<area shape="rect" id="node2" href="$validation_8cpp.html#ad82587b49fc0765c8c7255c3bad6bd16" title="AreRestrictedAssetsDeployed" alt="" coords="492,436,691,463"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="272,537,379,564"/>
+<area shape="rect" id="node4" href="$rpc_2assets_8cpp.html#ad466b6c98e6b988560e602c272c101f7" title="RestrictedActivationWarning" alt="" coords="231,487,419,513"/>
+<area shape="rect" id="node5" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="267,588,383,615"/>
+<area shape="rect" id="node6" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="263,639,387,665"/>
+<area shape="rect" id="node7" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="268,689,383,716"/>
+<area shape="rect" id="node33" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="264,740,387,767"/>
+<area shape="rect" id="node35" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="259,791,392,817"/>
+<area shape="rect" id="node42" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="261,841,389,868"/>
+<area shape="rect" id="node43" href="$class_c_assets_cache.html#a47bf79cae996da8e22ae785cddb09288" title="Return true if the address is marked as frozen. " alt="" coords="213,1025,437,1066"/>
+<area shape="rect" id="node8" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="567,487,615,513"/>
+<area shape="rect" id="node32" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="518,689,665,716"/>
+<area shape="rect" id="node9" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="801,259,887,285"/>
+<area shape="rect" id="node10" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="781,867,907,893"/>
+<area shape="rect" id="node13" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="765,360,923,387"/>
+<area shape="rect" id="node14" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="799,411,889,437"/>
+<area shape="rect" id="node15" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="797,461,891,488"/>
+<area shape="rect" id="node16" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="761,512,927,539"/>
+<area shape="rect" id="node17" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="780,563,908,589"/>
+<area shape="rect" id="node18" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="795,613,893,640"/>
+<area shape="rect" id="node19" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="773,664,915,691"/>
+<area shape="rect" id="node20" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="779,715,909,741"/>
+<area shape="rect" id="node21" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="800,765,888,792"/>
+<area shape="rect" id="node22" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="777,816,911,843"/>
+<area shape="rect" id="node23" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="793,56,895,83"/>
+<area shape="rect" id="node25" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="803,5,885,32"/>
+<area shape="rect" id="node27" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="793,309,895,336"/>
+<area shape="rect" id="node29" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="788,157,900,184"/>
+<area shape="rect" id="node30" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="785,107,903,133"/>
+<area shape="rect" id="node31" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="794,208,894,235"/>
+<area shape="rect" id="node11" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1016,841,1148,868"/>
+<area shape="rect" id="node12" href="$namespacetinyformat.html#a37afaa5249c69dacd619269358f06f69" title="Make type&#45;agnostic format list from list of template arguments. " alt="" coords="991,892,1173,919"/>
+<area shape="rect" id="node24" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="1038,56,1126,83"/>
+<area shape="rect" id="node26" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="1008,5,1156,32"/>
+<area shape="rect" id="node28" href="$namespacefsbridge.html#a19c84cec4ae9accfbc88a83e48f7ee92" title="fsbridge::fopen" alt="" coords="1028,208,1136,235"/>
+<area shape="rect" id="node34" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="523,740,660,767"/>
+<area shape="rect" id="node36" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="518,935,665,961"/>
+<area shape="rect" id="node37" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="808,1019,880,1045"/>
+<area shape="rect" id="node40" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="811,917,877,944"/>
+<area shape="rect" id="node41" href="$class_c_chain_params.html#a103c58eca4a26a71201882b3ed6c4cb4" title="CChainParams::Base58Prefix" alt="" coords="745,968,943,995"/>
+<area shape="rect" id="node38" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1041,1035,1123,1061"/>
+<area shape="rect" id="node39" href="$glibc__compat_8cpp.html#a424ac71631da5ada2976630ff67051d1" title="__chk_fail" alt="" coords="1041,984,1123,1011"/>
+<area shape="rect" id="node44" href="$struct_c_asset_cache_restricted_address.html#a2262710323cfeca3eb84254f4124bade" title="CAssetCacheRestrictedAddress\l::GetHash" alt="" coords="485,1119,697,1161"/>
+<area shape="rect" id="node48" href="$classbase__blob.html#ad7263503f949fb3c6c520ebb1f28e378" title="base_blob::GetHex" alt="" coords="524,1003,659,1029"/>
+<area shape="rect" id="node49" href="$class_c_restricted_d_b.html#ae34dd38eefab6aebc5b3c0c5abedbebb" title="CRestrictedDB::ReadRestricted\lAddress" alt="" coords="486,1054,697,1095"/>
+<area shape="rect" id="node45" href="$hash_8h.html#ab3f6c437460137530d86e09c2c102e99" title="Compute the 256&#45;bit hash of an object. " alt="" coords="817,1127,871,1153"/>
+<area shape="rect" id="node46" href="$class_c_hash256.html#a9cc25033c6435cb28e2e8e377c949a7a" title="CHash256::Write" alt="" coords="1021,1161,1143,1188"/>
+<area shape="rect" id="node47" href="$class_c_hash256.html#aa8a70c1b7cf24ce7d00240a1131cf4e7" title="CHash256::Finalize" alt="" coords="1013,1111,1151,1137"/>
+<area shape="rect" id="node50" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="775,1069,913,1096"/>
+</map>

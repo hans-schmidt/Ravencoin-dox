@@ -1,0 +1,5 @@
+<map id="TransactionRecord::getTxID" name="TransactionRecord::getTxID">
+<area shape="rect" id="node2" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="452,13,628,39"/>
+<area shape="rect" id="node4" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="193,38,404,65"/>
+<area shape="rect" id="node3" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="676,5,821,47"/>
+</map>

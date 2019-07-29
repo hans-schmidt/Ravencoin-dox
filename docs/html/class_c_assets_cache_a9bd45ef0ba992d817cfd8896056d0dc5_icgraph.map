@@ -1,0 +1,13 @@
+<map id="CAssetsCache::GetAssetVerifierStringIfExists" name="CAssetsCache::GetAssetVerifierStringIfExists">
+<area shape="rect" id="node2" href="$class_c_asset_transfer.html#a4521bc6493a97fb673728357c6adc248" title="CAssetTransfer::Contextual\lCheckAgainstVerifyString" alt="" coords="281,5,466,47"/>
+<area shape="rect" id="node5" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="527,66,737,93"/>
+<area shape="rect" id="node6" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="268,122,479,149"/>
+<area shape="rect" id="node8" href="$rpc_2assets_8cpp.html#adaad4e580eaa0bf4584c8d0fbe4fc36c" title="getverifierstring" alt="" coords="318,173,429,199"/>
+<area shape="rect" id="node9" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="334,223,413,250"/>
+<area shape="rect" id="node3" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="529,14,735,41"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="785,66,992,93"/>
+<area shape="rect" id="node7" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="581,167,683,194"/>
+<area shape="rect" id="node10" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="542,222,722,249"/>
+<area shape="rect" id="node11" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="583,273,681,299"/>
+<area shape="rect" id="node12" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="839,273,938,299"/>
+</map>

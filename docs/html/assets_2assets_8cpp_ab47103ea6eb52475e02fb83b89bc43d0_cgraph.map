@@ -1,0 +1,51 @@
+<map id="ContextualCheckTransferAsset" name="ContextualCheckTransferAsset">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="300,5,431,32"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#a149d069990401daec0d9fef9f81c1c74" title="AreMessagingDeployed" alt="" coords="547,5,707,32"/>
+<area shape="rect" id="node4" href="$assets_2assets_8cpp.html#aa2cbb008291be23f6ef30d12b7515496" title="Check the Encoded hash and make sure it is either an IPFS hash or a OIP hash. " alt="" coords="310,107,421,133"/>
+<area shape="rect" id="node14" href="$validation_8cpp.html#ad82587b49fc0765c8c7255c3bad6bd16" title="AreRestrictedAssetsDeployed" alt="" coords="266,157,465,184"/>
+<area shape="rect" id="node15" href="$class_c_assets_cache.html#acd5e52fc1fae482b9cf5fb5442c3250d" title="Return true if the restricted asset is globally freezing trading. " alt="" coords="259,209,472,250"/>
+<area shape="rect" id="node18" href="$class_c_asset_transfer.html#a4521bc6493a97fb673728357c6adc248" title="CAssetTransfer::Contextual\lCheckAgainstVerifyString" alt="" coords="273,303,458,345"/>
+<area shape="rect" id="node25" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="1114,676,1162,703"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#ab1ad26491b92ed7cd206887146119fab" title="EncodeAssetData" alt="" coords="563,56,691,83"/>
+<area shape="rect" id="node9" href="$utilstrencodings_8cpp.html#a9f23401f4b871ed693f7a96a9ba40c58" title="IsHex" alt="" coords="599,107,656,133"/>
+<area shape="rect" id="node11" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="1119,267,1157,293"/>
+<area shape="rect" id="node6" href="$assets_2assets_8cpp.html#af119a3e3b2be69ab1febba47dc9ded76" title="EncodeIPFS" alt="" coords="847,56,943,83"/>
+<area shape="rect" id="node8" href="$utilstrencodings_8h.html#ace13a819ca4e98c22847d26b3b357e75" title="HexStr" alt="" coords="863,5,926,32"/>
+<area shape="rect" id="node7" href="$base58_8cpp.html#a8d6f0e9d5df175b4966dcede31dc90ad" title="Why base&#45;58 instead of standard base&#45;64 encoding? " alt="" coords="1083,56,1193,83"/>
+<area shape="rect" id="node10" href="$utilstrencodings_8cpp.html#aa59e8a8c5a39cb5041f93bb95dd02119" title="HexDigit" alt="" coords="858,107,931,133"/>
+<area shape="rect" id="node12" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="1287,192,1417,219"/>
+<area shape="rect" id="node13" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="1291,243,1413,269"/>
+<area shape="rect" id="node16" href="$class_c_restricted_d_b.html#a6ddcb49127d51221249816492261175c" title="CRestrictedDB::ReadGlobal\lRestriction" alt="" coords="534,209,721,250"/>
+<area shape="rect" id="node17" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="1069,216,1207,243"/>
+<area shape="rect" id="node19" href="$class_c_assets_cache.html#a9bd45ef0ba992d817cfd8896056d0dc5" title="Returns true if the Asset Verifier String was found for an asset_name, if fSkipTempCache is true..." alt="" coords="520,274,735,315"/>
+<area shape="rect" id="node21" href="$assets_2assets_8cpp.html#a96ddaacf589342114bfc15e0633dbb9f" title="ContextualCheckVerifierString" alt="" coords="528,479,727,505"/>
+<area shape="rect" id="node20" href="$class_c_restricted_d_b.html#a21e65d8452ecf3060819f9f727e3d61b" title="CRestrictedDB::ReadVerifier" alt="" coords="799,273,990,300"/>
+<area shape="rect" id="node22" href="$assets_2assets_8cpp.html#a3f8ab19ed882100a67a73595f66397b4" title="CheckVerifierString" alt="" coords="827,391,962,417"/>
+<area shape="rect" id="node24" href="$class_lib_bool_e_e.html#afd99902085538f626e204431ad722f97" title="LibBoolEE::resolve" alt="" coords="1071,475,1205,501"/>
+<area shape="rect" id="node49" href="$class_c_assets_cache.html#a14f851cfa27dac74476f86c99c1b03f2" title="Returns true if an asset with this name already exists. " alt="" coords="795,442,994,483"/>
+<area shape="rect" id="node50" href="$class_c_assets_cache.html#aca574b6303dcc473b92373f54d4798ff" title="Return true if the address has the given qualifier assigned to it. " alt="" coords="783,559,1007,601"/>
+<area shape="rect" id="node23" href="$assets_2assets_8cpp.html#ac415ca9da76026727c6267f0850cdcf4" title="GetStrippedVerifierString" alt="" coords="1055,391,1221,417"/>
+<area shape="rect" id="node26" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="1309,597,1395,624"/>
+<area shape="rect" id="node27" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="1289,293,1415,320"/>
+<area shape="rect" id="node30" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="1273,699,1431,725"/>
+<area shape="rect" id="node31" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="1307,749,1397,776"/>
+<area shape="rect" id="node32" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="1305,800,1399,827"/>
+<area shape="rect" id="node33" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="1269,851,1435,877"/>
+<area shape="rect" id="node34" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="1288,901,1416,928"/>
+<area shape="rect" id="node35" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="1303,952,1401,979"/>
+<area shape="rect" id="node36" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="1281,1003,1423,1029"/>
+<area shape="rect" id="node37" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="1287,1053,1417,1080"/>
+<area shape="rect" id="node38" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="1308,1104,1396,1131"/>
+<area shape="rect" id="node39" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="1285,1155,1419,1181"/>
+<area shape="rect" id="node40" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="1301,395,1403,421"/>
+<area shape="rect" id="node42" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="1311,344,1393,371"/>
+<area shape="rect" id="node44" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="1301,648,1403,675"/>
+<area shape="rect" id="node46" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="1296,445,1408,472"/>
+<area shape="rect" id="node47" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="1293,496,1411,523"/>
+<area shape="rect" id="node48" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="1302,547,1402,573"/>
+<area shape="rect" id="node28" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1508,293,1640,320"/>
+<area shape="rect" id="node29" href="$namespacetinyformat.html#a37afaa5249c69dacd619269358f06f69" title="Make type&#45;agnostic format list from list of template arguments. " alt="" coords="1483,243,1665,269"/>
+<area shape="rect" id="node41" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="1530,395,1618,421"/>
+<area shape="rect" id="node43" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="1500,344,1648,371"/>
+<area shape="rect" id="node45" href="$namespacefsbridge.html#a19c84cec4ae9accfbc88a83e48f7ee92" title="fsbridge::fopen" alt="" coords="1520,572,1628,599"/>
+</map>

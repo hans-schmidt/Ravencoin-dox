@@ -1,0 +1,4 @@
+<map id="CChainParams::NetworkIDString" name="CChainParams::NetworkIDString">
+<area shape="rect" id="node2" href="$class_payment_server.html#a2e0bc3b47b27fb840db85a6d5d0e263b" title="PaymentServer::verifyNetwork" alt="" coords="269,13,471,39"/>
+<area shape="rect" id="node3" href="$class_payment_server.html#a19092e1d4d7c6eee3ec9d4390d11a092" title="PaymentServer::processPayment\lRequest" alt="" coords="519,5,737,47"/>
+</map>

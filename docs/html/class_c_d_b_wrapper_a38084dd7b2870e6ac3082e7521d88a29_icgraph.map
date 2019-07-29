@@ -1,0 +1,51 @@
+<map id="CDBWrapper::Read" name="CDBWrapper::Read">
+<area shape="rect" id="node2" href="$class_c_assets_d_b.html#a38162c2ca81726b81e20778d4129074c" title="CAssetsDB::ReadAssetData" alt="" coords="215,153,408,180"/>
+<area shape="rect" id="node9" href="$class_c_assets_d_b.html#a180ef319c88ff67fa4b168a6ab2312f7" title="CAssetsDB::ReadAssetAddress\lQuantity" alt="" coords="205,431,418,473"/>
+<area shape="rect" id="node18" href="$class_c_assets_d_b.html#a79cb2919fa135e603c2336664a287459" title="CAssetsDB::ReadAddressAsset\lQuantity" alt="" coords="205,301,418,342"/>
+<area shape="rect" id="node19" href="$class_c_assets_d_b.html#a85132d276eff11f42ca8fb8eee03ef12" title="CAssetsDB::ReadReissuedMempool\lState" alt="" coords="192,366,431,407"/>
+<area shape="rect" id="node20" href="$class_c_message_d_b.html#a78c75180edc4285ec8c67516522612e3" title="CMessageDB::ReadMessage" alt="" coords="213,497,409,524"/>
+<area shape="rect" id="node23" href="$class_c_message_channel_d_b.html#afe408853aae6ac850700e3166d5eba3a" title="CMessageChannelDB::\lReadMyMessageChannel" alt="" coords="225,599,397,641"/>
+<area shape="rect" id="node26" href="$class_c_message_d_b.html#adcc1a6b44927f5d650f1e031b3f19d9a" title="CMessageDB::ReadFlag" alt="" coords="227,548,395,575"/>
+<area shape="rect" id="node27" href="$class_c_message_channel_d_b.html#ae719f988e15b5286605f8b563a4abf74" title="CMessageChannelDB::\lReadUsedAddress" alt="" coords="231,730,391,771"/>
+<area shape="rect" id="node29" href="$class_c_message_channel_d_b.html#acac26f34470e95abdbf545babbd0811c" title="CMessageChannelDB::\lReadFlag" alt="" coords="231,665,391,706"/>
+<area shape="rect" id="node30" href="$class_c_restricted_d_b.html#a21e65d8452ecf3060819f9f727e3d61b" title="CRestrictedDB::ReadVerifier" alt="" coords="495,797,686,824"/>
+<area shape="rect" id="node32" href="$class_c_restricted_d_b.html#aca09f2ef6ba1579f32d7a8291aa7c74d" title="CRestrictedDB::ReadAddress\lQualifier" alt="" coords="212,233,411,274"/>
+<area shape="rect" id="node34" href="$class_c_restricted_d_b.html#a7e7a974b51fe5599ccf82ac7ee8e5bee" title="CRestrictedDB::ReadQualifier\lAddress" alt="" coords="212,847,411,889"/>
+<area shape="rect" id="node35" href="$class_c_restricted_d_b.html#ae34dd38eefab6aebc5b3c0c5abedbebb" title="CRestrictedDB::ReadRestricted\lAddress" alt="" coords="206,913,417,954"/>
+<area shape="rect" id="node37" href="$class_c_restricted_d_b.html#a6ddcb49127d51221249816492261175c" title="CRestrictedDB::ReadGlobal\lRestriction" alt="" coords="218,978,405,1019"/>
+<area shape="rect" id="node39" href="$class_c_restricted_d_b.html#a7d81c519aac75391f47204afe29bcdc6" title="CRestrictedDB::ReadFlag" alt="" coords="224,1044,399,1071"/>
+<area shape="rect" id="node40" href="$class_c_coins_view_d_b.html#a2a018edc94bdca2b96a126688f22770d" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="226,1095,397,1121"/>
+<area shape="rect" id="node41" href="$class_c_coins_view_d_b.html#aac696880a5bb854dcdcb20d8a035be9b" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="210,1145,413,1172"/>
+<area shape="rect" id="node42" href="$class_c_coins_view_d_b.html#aec0d3d60ab629a23873894e44b6bc266" title="Retrieve the range of blocks that may have been only partially written. " alt="" coords="204,1196,419,1223"/>
+<area shape="rect" id="node43" href="$class_c_block_tree_d_b.html#a3f597e6bab0a7003cbf7ea86cb434e85" title="CBlockTreeDB::ReadBlockFileInfo" alt="" coords="199,1247,424,1273"/>
+<area shape="rect" id="node44" href="$class_c_block_tree_d_b.html#adb1276fe2f0e0c4c106660948c581711" title="CBlockTreeDB::ReadLastBlockFile" alt="" coords="197,1297,425,1324"/>
+<area shape="rect" id="node45" href="$class_c_block_tree_d_b.html#a74383427266d627e84c2d0c8e21e03c7" title="CBlockTreeDB::ReadTxIndex" alt="" coords="213,1348,409,1375"/>
+<area shape="rect" id="node47" href="$class_c_block_tree_d_b.html#acca1254c911a40dafe2c977058cdf852" title="CBlockTreeDB::ReadSpentIndex" alt="" coords="204,1399,419,1425"/>
+<area shape="rect" id="node49" href="$class_c_block_tree_d_b.html#a6fae191147b4eb044788f73a270523e8" title="CBlockTreeDB::ReadTimestamp\lBlockIndex" alt="" coords="204,1450,419,1491"/>
+<area shape="rect" id="node50" href="$class_c_block_tree_d_b.html#acd779c4653fd9a87fffe95d53ce7c6d3" title="CBlockTreeDB::ReadFlag" alt="" coords="224,1516,399,1543"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a14f851cfa27dac74476f86c99c1b03f2" title="Returns true if an asset with this name already exists. " alt="" coords="491,75,690,117"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#a6b24b3a0e6c057eac636755c7fe8bed1" title="CAssetsCache::GetAssetMeta\lDataIfExists" alt="" coords="489,146,692,187"/>
+<area shape="rect" id="node4" href="$class_c_null_asset_tx_data.html#a2b7cb3bb2fa0eb7a91bc2d1ff6576dd3" title="CNullAssetTxData::IsValid" alt="" coords="769,56,949,83"/>
+<area shape="rect" id="node5" href="$assets_8h.html#a92ccc0f4b0b9b6cf54306673d504fad4" title="ContextualCheckVerifierString" alt="" coords="759,107,958,133"/>
+<area shape="rect" id="node7" href="$assets_8h.html#af894efb762726583de09a23045325595" title="ContextualCheckNewAsset" alt="" coords="767,5,951,32"/>
+<area shape="rect" id="node6" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1015,107,1221,133"/>
+<area shape="rect" id="node10" href="$assets_8h.html#a0def7c4c8ea4d94f1e54d32d2a6d4456" title="This will get the amount that an address for a certain asset contains from the database if they cache..." alt="" coords="492,371,689,397"/>
+<area shape="rect" id="node11" href="$class_c_assets_cache.html#ae5b756875c6582ada18c2488b6748a47" title="CAssetsCache::AddToAsset\lBalance" alt="" coords="763,275,954,317"/>
+<area shape="rect" id="node12" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="757,341,960,368"/>
+<area shape="rect" id="node13" href="$class_c_assets_cache.html#a47feee324d07313932b68b51943daea6" title="Changes Memory Only. " alt="" coords="755,393,962,434"/>
+<area shape="rect" id="node14" href="$class_c_assets_cache.html#a226cec2d3134721b3fea8127bbd1549e" title="Changes Memory Only. " alt="" coords="759,459,958,485"/>
+<area shape="rect" id="node15" href="$class_c_assets_cache.html#a9c3d2c9475d31549b37460a3f438fc20" title="Changes Memory Only. " alt="" coords="763,510,954,551"/>
+<area shape="rect" id="node17" href="$class_c_assets_cache.html#a8ac4066b8f63246f7b447642bf14b797" title="Changes Memory Only. " alt="" coords="751,158,967,199"/>
+<area shape="rect" id="node16" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="1079,701,1157,728"/>
+<area shape="rect" id="node21" href="$messages_8h.html#a5171637e3f89e086642cd12c49030dcd" title="GetMessage" alt="" coords="543,551,639,577"/>
+<area shape="rect" id="node22" href="$messages_8h.html#a0eeee83eea46ef2c4fb70e0b20b635ea" title="OrphanMessage" alt="" coords="800,600,917,627"/>
+<area shape="rect" id="node24" href="$messages_8h.html#a27c2172658a0b240d76947771c7137b1" title="IsChannelSubscribed" alt="" coords="517,651,664,677"/>
+<area shape="rect" id="node25" href="$messages_8h.html#ae821d3c2bf631ca5117e60323dc00865" title="ScanForMessageChannels" alt="" coords="769,701,948,728"/>
+<area shape="rect" id="node28" href="$messages_8h.html#a4908ac4883b21feb4bd1d58f400b0123" title="IsAddressSeen" alt="" coords="535,737,646,764"/>
+<area shape="rect" id="node31" href="$class_c_assets_cache.html#a9bd45ef0ba992d817cfd8896056d0dc5" title="Returns true if the Asset Verifier String was found for an asset_name, if fSkipTempCache is true..." alt="" coords="751,803,966,845"/>
+<area shape="rect" id="node33" href="$class_c_assets_cache.html#aca574b6303dcc473b92373f54d4798ff" title="Return true if the address has the given qualifier assigned to it. " alt="" coords="479,221,703,262"/>
+<area shape="rect" id="node36" href="$class_c_assets_cache.html#a47bf79cae996da8e22ae785cddb09288" title="Return true if the address is marked as frozen. " alt="" coords="479,913,703,954"/>
+<area shape="rect" id="node38" href="$class_c_assets_cache.html#acd5e52fc1fae482b9cf5fb5442c3250d" title="Return true if the restricted asset is globally freezing trading. " alt="" coords="484,978,697,1019"/>
+<area shape="rect" id="node46" href="$validation_8h.html#a07fae6c3df8041881d293cd91afd9c97" title="Retrieve a transaction (from memory pool, or from disk, if possible) " alt="" coords="535,1348,646,1375"/>
+<area shape="rect" id="node48" href="$validation_8h.html#ae88ea23b2e483753f7e055283007dd77" title="GetSpentIndex" alt="" coords="536,1399,645,1425"/>
+</map>

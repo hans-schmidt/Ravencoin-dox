@@ -1,0 +1,51 @@
+<map id="prevector::end" name="prevector::end">
+<area shape="rect" id="node2" href="$assets_8h.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="179,552,347,579"/>
+<area shape="rect" id="node15" href="$assets_8h.html#ac6674dacd80ef7a86fa9d3b5cdc188a6" title="AssetFromScript" alt="" coords="203,931,323,957"/>
+<area shape="rect" id="node18" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="457,1235,601,1261"/>
+<area shape="rect" id="node19" href="$assets_8h.html#ad68c15cb9705f979a469cb2f9bca297d" title="MsgChannelAssetFromScript" alt="" coords="166,100,359,127"/>
+<area shape="rect" id="node20" href="$assets_8h.html#a8a351ca76c72c36f9779f6b66ee574d7" title="QualifierAssetFromScript" alt="" coords="179,165,347,192"/>
+<area shape="rect" id="node21" href="$assets_8h.html#a1371a34eb57ee41b4478f4c682506861" title="RestrictedAssetFromScript" alt="" coords="173,283,353,309"/>
+<area shape="rect" id="node22" href="$assets_8h.html#aeb621c6bc4f2815a9c8f0aebdf0a397b" title="OwnerAssetFromScript" alt="" coords="183,687,342,713"/>
+<area shape="rect" id="node23" href="$assets_8h.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="179,771,347,797"/>
+<area shape="rect" id="node24" href="$assets_8h.html#a818c53c297f28619f6d8bfd1dff63748" title="AssetNullDataFromScript" alt="" coords="177,1117,348,1144"/>
+<area shape="rect" id="node25" href="$assets_8h.html#a4a357145c18abde9a5ade7e7686c01a0" title="GlobalAssetNullDataFromScript" alt="" coords="159,1269,367,1296"/>
+<area shape="rect" id="node26" href="$assets_8h.html#a9c01f18ec919e70a8604a2759d55df5c" title="AssetNullVerifierDataFrom\lScript" alt="" coords="173,1321,352,1362"/>
+<area shape="rect" id="node27" href="$class_c_bloom_filter.html#aec420a9b66ab133090c2b4b8ed286f79" title="Also adds any outputs which match the filter to the filter (to match their spending txes) ..." alt="" coords="711,1506,880,1547"/>
+<area shape="rect" id="node28" href="$core__write_8cpp.html#a3baef73fdbf49896ad4c68bc27fbd2b0" title="FormatScript" alt="" coords="214,1589,311,1616"/>
+<area shape="rect" id="node29" href="$core__write_8cpp.html#accaf6e3c14d2f3045f85984aa9cec2c8" title="Create the assembly string representation of a CScript object. " alt="" coords="205,1219,320,1245"/>
+<area shape="rect" id="node30" href="$hash_8h.html#a0219e6058a104e8f9c26fb539302bbec" title="Compute the 160&#45;bit hash of a vector. " alt="" coords="225,1640,300,1667"/>
+<area shape="rect" id="node31" href="$classprevector.html#abab195dce86a4b44bab7a5e9809a522c" title="prevector::prevector" alt="" coords="193,1691,332,1717"/>
+<area shape="rect" id="node32" href="$classprevector.html#a325af27672f21e7f2a01d8cdae7abba8" title="prevector::operator=" alt="" coords="460,1767,599,1793"/>
+<area shape="rect" id="node33" href="$classprevector.html#ad2d97a45e0d2872260e868a540d31860" title="prevector::resize" alt="" coords="203,1741,322,1768"/>
+<area shape="rect" id="node34" href="$classprevector.html#a1bcffc1a855e24c2ac67b11f55d80d5f" title="prevector::erase" alt="" coords="205,1843,321,1869"/>
+<area shape="rect" id="node35" href="$classprevector.html#a14e92ae67d4f110c66fe8c430f44a027" title="prevector::pop_back" alt="" coords="193,1893,333,1920"/>
+<area shape="rect" id="node36" href="$classprevector.html#a6de6f6aff0a0ca527754020dbb26f7ab" title="prevector::operator==" alt="" coords="189,1944,336,1971"/>
+<area shape="rect" id="node37" href="$classprevector.html#aa599ca1a3ab1fef2736b831ffed19d04" title="prevector::operator\&lt;" alt="" coords="193,1995,332,2021"/>
+<area shape="rect" id="node38" href="$interpreter_8h.html#acea38d31b2cc35a1ecfad02eaed0f85e" title="EvalScript" alt="" coords="221,2045,304,2072"/>
+<area shape="rect" id="node39" href="$class_c_script.html#a957f92ddf3efcd76b66e514c05f27dde" title="Pre&#45;version&#45;0.6, Raven always counted CHECKMULTISIGs as 20 sigops. " alt="" coords="179,2096,346,2123"/>
+<area shape="rect" id="node40" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="171,1387,354,1413"/>
+<area shape="rect" id="node41" href="$standard_8h.html#a81899059ee66f695aaf96a07d5e2ebdc" title="Parse a scriptPubKey and identify script type for standard scripts. " alt="" coords="500,1488,559,1515"/>
+<area shape="rect" id="node42" href="$class_c_script.html#a090905f875fa5a40e616b319de8e973f" title="Called by IsStandardTx and P2SH/BIP62 VerifyScript (which makes it consensus&#45;critical). " alt="" coords="191,1437,334,1464"/>
+<area shape="rect" id="node43" href="$class_c_script.html#a9e3a82350bd93a61ee967232004cd0c7" title="Check if the script contains valid OP_CODES. " alt="" coords="187,2147,338,2173"/>
+<area shape="rect" id="node44" href="$script_8h.html#a316c79deed92779e782b4bd7a73b532b" title="AmountFromNewAssetScript" alt="" coords="167,2197,359,2224"/>
+<area shape="rect" id="node45" href="$script_8h.html#a62f45666d54d6ea391884f3eb53419d6" title="AmountFromTransferScript" alt="" coords="173,2248,352,2275"/>
+<area shape="rect" id="node46" href="$script_8h.html#aac0ad4d0ab10eb025c65426587ace362" title="AmountFromReissueScript" alt="" coords="173,2299,352,2325"/>
+<area shape="rect" id="node47" href="$class_c_script.html#af5c72a9c725a2c4f1432cc214d54cfd7" title="CScript::operator+=" alt="" coords="194,2349,331,2376"/>
+<area shape="rect" id="node48" href="$class_c_script.html#aad6e9f84fe8aa2d27a979f1bc2732463" title="CScript::FindAndDelete" alt="" coords="183,2400,343,2427"/>
+<area shape="rect" id="node49" href="$serialize_8h.html#a6724f283710e869aa8caabba08bfd2af" title="Serialize_impl" alt="" coords="211,2451,314,2477"/>
+<area shape="rect" id="node50" href="$class_c_tx_mem_pool.html#a2c4f1513000ff34c3fe341e6674b2bd9" title="CTxMemPool::addSpentIndex" alt="" coords="164,2501,361,2528"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="424,763,635,805"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="432,93,627,134"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="422,158,637,199"/>
+<area shape="rect" id="node6" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="415,275,644,317"/>
+<area shape="rect" id="node7" href="$class_c_transaction.html#ac1ed9ac185d1ec2d9adad8f306a1a396" title="To be called on CTransactions where IsReissueAsset returns true. " alt="" coords="434,545,625,586"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="428,712,631,739"/>
+<area shape="rect" id="node9" href="$class_c_assets_cache.html#a0c43a3a5962805c6358b90dda2abda4e" title="CAssetsCache::UndoAssetCoin" alt="" coords="424,661,635,688"/>
+<area shape="rect" id="node10" href="$assets_8h.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="477,880,582,907"/>
+<area shape="rect" id="node11" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="692,855,899,881"/>
+<area shape="rect" id="node12" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="756,1133,835,1160"/>
+<area shape="rect" id="node13" href="$assets_8h.html#a5eada513d55a69bac5fd3a1fe2b862d5" title="Helper method for extracting address bytes, asset name and amount from an asset script. " alt="" coords="467,611,591,637"/>
+<area shape="rect" id="node14" href="$group___actions.html#gabb894f8914f0bf49d43a41daacb518ef" title="CWallet::CreateTransactionAll" alt="" coords="430,341,629,368"/>
+<area shape="rect" id="node16" href="$assets_8h.html#a8a084b5bdaacece583a040f7cc35c867" title="These types of asset tx, have specific metadata at certain indexes in the transaction. " alt="" coords="452,1032,607,1059"/>
+<area shape="rect" id="node17" href="$assets_8h.html#a9ebc1469030d7a4c538238c553b40145" title="UniqueAssetFromTransaction" alt="" coords="432,981,627,1008"/>
+</map>

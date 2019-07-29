@@ -1,0 +1,11 @@
+<map id="AppInitServers" name="AppInitServers">
+<area shape="rect" id="node2" href="$namespace_r_p_c_server.html#ab38f9a4ad5abfb7a1ade85fae6fa75d2" title="RPCServer::OnStarted" alt="" coords="171,5,327,32"/>
+<area shape="rect" id="node3" href="$init_8cpp.html#aaf46bb0b868e28f75fa0299f7386d6a4" title="OnRPCStarted" alt="" coords="193,56,304,83"/>
+<area shape="rect" id="node5" href="$namespace_r_p_c_server.html#abe44263b00af3bb92721b23a903aa5ae" title="RPCServer::OnStopped" alt="" coords="167,107,330,133"/>
+<area shape="rect" id="node6" href="$init_8cpp.html#adb67159734f47c352636ca7a9f812125" title="OnRPCStopped" alt="" coords="191,157,307,184"/>
+<area shape="rect" id="node7" href="$httpserver_8cpp.html#a6808b08438e29d81ba310ebded4ba648" title="Initialize HTTP server. " alt="" coords="192,208,305,235"/>
+<area shape="rect" id="node8" href="$server_8cpp.html#adf899cb7aaf397daa8390b1b92efc4a9" title="StartRPC" alt="" coords="209,259,288,285"/>
+<area shape="rect" id="node9" href="$httprpc_8cpp.html#a7d820e9f4f9a27793dd7648813b802f6" title="Start HTTP RPC subsystem. " alt="" coords="191,309,306,336"/>
+<area shape="rect" id="node10" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="161,360,336,387"/>
+<area shape="rect" id="node4" href="$blockchain_8cpp.html#a7f3d9c36d5032b8227eb8ec0102405ab" title="Callback for when block tip changed. " alt="" coords="384,107,548,133"/>
+</map>

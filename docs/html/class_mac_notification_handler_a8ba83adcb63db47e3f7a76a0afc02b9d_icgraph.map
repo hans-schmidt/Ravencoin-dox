@@ -1,0 +1,12 @@
+<map id="MacNotificationHandler::instance" name="MacNotificationHandler::instance">
+<area shape="rect" id="node2" href="$class_notificator.html#ac98c8b73d4e06ea85e9f58426c5c935d" title="Create a new notificator. " alt="" coords="220,17,371,43"/>
+<area shape="rect" id="node3" href="$class_notificator.html#ac48ec94cd02fc4ea80db6c50e24086c1" title="Notificator::notifySystray" alt="" coords="212,67,379,94"/>
+<area shape="rect" id="node4" href="$class_notificator.html#ae08e1e7e85ddc4690f307649021f7fdc" title="Show notification message. " alt="" coords="427,67,549,94"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a0d11887de883a162fbdcafee8d08b2d6" title="Notify the user of an event from the core network or transaction handling code. " alt="" coords="597,67,743,94"/>
+<area shape="rect" id="node6" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="791,42,969,69"/>
+<area shape="rect" id="node11" href="$class_raven_g_u_i.html#a30da8eba81ba735251d621c8ff82a61e" title="RavenGUI::showEvent" alt="" coords="801,93,959,119"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1491,5,1665,47"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1017,64,1196,105"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1244,71,1443,98"/>
+<area shape="rect" id="node10" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1491,71,1665,112"/>
+</map>

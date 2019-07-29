@@ -1,0 +1,51 @@
+<map id="RavenApplication::requestShutdown" name="RavenApplication::requestShutdown">
+<area shape="rect" id="node2" href="$class_shutdown_window.html#afedf474cbce7ca8bba6ac4f8e430a2f2" title="ShutdownWindow::showShutdown\lWindow" alt="" coords="228,615,452,657"/>
+<area shape="rect" id="node4" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="241,775,439,801"/>
+<area shape="rect" id="node8" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="753,725,932,752"/>
+<area shape="rect" id="node49" href="$init_8cpp.html#ac7140c7327b1e6a8d46470b1cd0e8e1b" title="StartShutdown" alt="" coords="286,861,394,888"/>
+<area shape="rect" id="node3" href="$class_shutdown_window.html#a9bf9b087649914f963f37a1ea235c969" title="&quot;Shutdown&quot; window " alt="" coords="500,615,693,657"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="507,863,686,905"/>
+<area shape="rect" id="node47" href="$class_raven_application.html#ade4bd06fbc6cde24bac2e2230b083fe4" title="RavenApplication::shutdown\lResult" alt="" coords="503,798,691,839"/>
+<area shape="rect" id="node48" href="$class_raven_application.html#ab8d78f3283479655dbacd1d76d7db14c" title="Handle runaway exceptions. Shows a message box with the problem and quits the program. " alt="" coords="511,733,682,774"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#a0f1f0292263509c1585d35e9268694d3" title="PlatformStyle::getName" alt="" coords="761,871,924,897"/>
+<area shape="rect" id="node7" href="$class_payment_server.html#a16ef83adbc58729dfa5f577e476203c6" title="PaymentServer::LoadRootCAs" alt="" coords="741,921,944,948"/>
+<area shape="rect" id="node46" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="755,820,930,847"/>
+<area shape="rect" id="node9" href="$class_raven_g_u_i.html#a992e4d8e9a7a80cd6e8d4b6fb272ffd2" title="Create system tray menu (or setup the dock menu) " alt="" coords="992,129,1203,156"/>
+<area shape="rect" id="node14" href="$class_raven_g_u_i.html#a965665e4391f98ae3a499d19c8419ccd" title="Update UI with latest network info from model. " alt="" coords="1261,253,1472,280"/>
+<area shape="rect" id="node15" href="$class_raven_g_u_i.html#ab70bb9d162bde2bae00a347f5f9470f1" title="Set number of connections shown in the UI. " alt="" coords="992,304,1203,331"/>
+<area shape="rect" id="node16" href="$class_raven_g_u_i.html#a0d8512401b89c0d0e11472e502fa1fd2" title="Set network state shown in the UI. " alt="" coords="999,253,1195,280"/>
+<area shape="rect" id="node17" href="$class_modal_overlay.html#a21b223aa0e1bb5a161b39b165ee213dd" title="ModalOverlay::setKnownBest\lHeight" alt="" coords="1000,355,1195,397"/>
+<area shape="rect" id="node18" href="$class_client_model.html#a2d3579ef717497df235062ee3f874dc6" title="ClientModel::getHeaderTip\lHeight" alt="" coords="1545,371,1723,413"/>
+<area shape="rect" id="node20" href="$class_client_model.html#a9dbed4eb3ca6afcdeef233f35cd7dc41" title="ClientModel::getHeaderTipTime" alt="" coords="1531,437,1737,464"/>
+<area shape="rect" id="node21" href="$class_raven_g_u_i.html#a56b793f67b4b1c8a6b0d0968f3ce1694" title="Set number of blocks and last block date shown in the UI. " alt="" coords="1008,725,1187,752"/>
+<area shape="rect" id="node22" href="$class_client_model.html#a9af729ddd1220f928d8cb3ef29f06f26" title="ClientModel::getNumBlocks" alt="" coords="1274,873,1459,900"/>
+<area shape="rect" id="node24" href="$class_client_model.html#a8683d6269976a006032075bc01be4925" title="ClientModel::getLastBlockDate" alt="" coords="1265,523,1468,549"/>
+<area shape="rect" id="node27" href="$class_client_model.html#aa78104a56c45081dc76b8186b7b46987" title="ClientModel::getVerification\lProgress" alt="" coords="1275,574,1458,615"/>
+<area shape="rect" id="node29" href="$class_raven_g_u_i.html#a0d11887de883a162fbdcafee8d08b2d6" title="Notify the user of an event from the core network or transaction handling code. " alt="" coords="1025,776,1170,803"/>
+<area shape="rect" id="node32" href="$class_raven_g_u_i.html#ac62ae9220e7e5fbacc3bbb71be4fddc3" title="Show progress dialog e.g. " alt="" coords="1010,827,1185,853"/>
+<area shape="rect" id="node33" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="1000,624,1195,651"/>
+<area shape="rect" id="node37" href="$class_wallet_frame.html#a72f3a61b1d882a894c65fbf1adc1a954" title="WalletFrame::setClientModel" alt="" coords="1002,877,1193,904"/>
+<area shape="rect" id="node38" href="$class_unit_display_status_bar_control.html#ac8d2a43f66f3f71c7d6926dbd5927066" title="Lets the control know about the Options Model (and its signals) " alt="" coords="1002,929,1193,970"/>
+<area shape="rect" id="node39" href="$class_client_model.html#ae8da1e2eabfbbcc49a7eed821908bdb6" title="ClientModel::getOptionsModel" alt="" coords="999,995,1196,1021"/>
+<area shape="rect" id="node40" href="$class_raven_g_u_i.html#a2f3ed182003051d038765ff48467100d" title="When hideTrayIcon setting is changed in OptionsModel hide or show the icon accordingly. " alt="" coords="997,1045,1197,1072"/>
+<area shape="rect" id="node41" href="$class_options_model.html#ad802657807bc648ff8b622e0ed07c03b" title="OptionsModel::getHideTrayIcon" alt="" coords="994,1096,1201,1123"/>
+<area shape="rect" id="node42" href="$class_raven_g_u_i.html#adbcee2d387adeac3006131f0ce643450" title="Enable or disable all wallet&#45;related actions. " alt="" coords="1002,1147,1193,1189"/>
+<area shape="rect" id="node43" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1016,1213,1179,1240"/>
+<area shape="rect" id="node44" href="$class_wallet_frame.html#ab6d4f86307bf1b28b53c2583c5166905" title="WalletFrame::setCurrentWallet" alt="" coords="996,1264,1199,1291"/>
+<area shape="rect" id="node45" href="$class_wallet_frame.html#a022ecdc6281ee7ac3dc2618b5a150e93" title="WalletFrame::removeAllWallets" alt="" coords="994,1315,1201,1341"/>
+<area shape="rect" id="node10" href="$class_raven_g_u_i.html#a70bd0387232a672e0b54db9d23ef9597" title="Handle tray icon clicked. " alt="" coords="1269,5,1464,32"/>
+<area shape="rect" id="node11" href="$class_mac_dock_icon_handler.html#afd3ef7126d0b6ef02eaf85e5455fe6f4" title="MacDockIconHandler\l::instance" alt="" coords="1293,57,1441,98"/>
+<area shape="rect" id="node12" href="$class_mac_dock_icon_handler.html#a4d2d18c7d56286ea745e349497941293" title="MacDockIconHandler\l::setMainWindow" alt="" coords="1293,122,1441,163"/>
+<area shape="rect" id="node13" href="$class_mac_dock_icon_handler.html#a8aff3dc6410687e432f8d9314eba0ab9" title="MacDockIconHandler\l::dockMenu" alt="" coords="1293,187,1441,229"/>
+<area shape="rect" id="node19" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="1785,463,1973,489"/>
+<area shape="rect" id="node23" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="1578,873,1690,900"/>
+<area shape="rect" id="node25" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="1588,539,1680,565"/>
+<area shape="rect" id="node26" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="1601,640,1667,667"/>
+<area shape="rect" id="node28" href="$validation_8cpp.html#ae466f595b8c57bd7a80777c8d34dfdc2" title="Guess how far we are in the verification process at the given block index. " alt="" coords="1545,589,1723,616"/>
+<area shape="rect" id="node30" href="$class_raven_g_u_i.html#af33662f5a5604298177f56a15160cae3" title="Show window if hidden, unminimize when minimized, rise when obscured or show if hidden and fToggleHid..." alt="" coords="1251,924,1483,951"/>
+<area shape="rect" id="node31" href="$class_notificator.html#ae08e1e7e85ddc4690f307649021f7fdc" title="Show notification message. " alt="" coords="1305,975,1428,1001"/>
+<area shape="rect" id="node34" href="$class_client_model.html#a643fc112ce94f50ac7187ecdf3c75360" title="ClientModel::getPeerTable\lModel" alt="" coords="1279,691,1455,733"/>
+<area shape="rect" id="node35" href="$class_client_model.html#ad02b8bf216a08845e393f9bac8c4ed42" title="ClientModel::getBanTable\lModel" alt="" coords="1281,757,1453,798"/>
+<area shape="rect" id="node36" href="$class_r_p_c_console.html#aa4546cb7812dd35704de8bf09a6ceb60" title="Set number of connections shown in the UI. " alt="" coords="1253,823,1480,849"/>
+<area shape="rect" id="node50" href="$init_8cpp.html#ad099182cc3731bd097628912ebe4cc7d" title="fRequestShutdown" alt="" coords="530,929,663,956"/>
+</map>

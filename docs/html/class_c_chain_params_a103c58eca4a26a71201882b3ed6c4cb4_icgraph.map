@@ -1,0 +1,51 @@
+<map id="CChainParams::Base58Prefix" name="CChainParams::Base58Prefix">
+<area shape="rect" id="node2" href="$class_c_raven_address.html#a6033d839353db9d6116b2df706dedb37" title="CRavenAddress::IsValid" alt="" coords="267,956,433,983"/>
+<area shape="rect" id="node3" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="277,1007,423,1033"/>
+<area shape="rect" id="node44" href="$class_c_raven_secret.html#a40556f69b7090924b5a7c450a6673c4e" title="CRavenSecret::IsValid" alt="" coords="272,1057,428,1084"/>
+<area shape="rect" id="node45" href="$class_c_raven_ext_key_base.html#a13e8ccdae9fbe80bdc4c4e85be0229af" title="CRavenExtKeyBase::CRaven\lExtKeyBase" alt="" coords="251,1109,449,1150"/>
+<area shape="rect" id="node46" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="271,1175,429,1201"/>
+<area shape="rect" id="node4" href="$base58_8h.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="532,1007,665,1033"/>
+<area shape="rect" id="node5" href="$assets_8h.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="802,5,907,32"/>
+<area shape="rect" id="node6" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="773,56,936,83"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="749,107,960,133"/>
+<area shape="rect" id="node8" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="749,157,960,184"/>
+<area shape="rect" id="node9" href="$rpc_2assets_8cpp.html#a417cb44a82745ed3dc33e23ca777a44c" title="UpdateAddressTag" alt="" coords="787,208,922,235"/>
+<area shape="rect" id="node10" href="$rpc_2assets_8cpp.html#a0334c36dd0b0df30124e3e7b02cc920d" title="UpdateAddressRestriction" alt="" coords="767,259,942,285"/>
+<area shape="rect" id="node11" href="$rpc_2assets_8cpp.html#a1235254f4405fcc980887407f35a64fc" title="UpdateGlobalRestrictedAsset" alt="" coords="757,309,952,336"/>
+<area shape="rect" id="node12" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="809,360,900,387"/>
+<area shape="rect" id="node13" href="$rpc_2assets_8cpp.html#a271698719ffcdd7dc76231b9f07354f4" title="listassetbalancesbyaddress" alt="" coords="763,411,946,437"/>
+<area shape="rect" id="node14" href="$rpc_2assets_8cpp.html#ada46b27ad209c9612f99f41ca69d2645" title="transferfromaddresses" alt="" coords="779,461,931,488"/>
+<area shape="rect" id="node15" href="$rpc_2assets_8cpp.html#aa06d4ab628195fde717fd7f32f695952" title="transferfromaddress" alt="" coords="785,512,924,539"/>
+<area shape="rect" id="node16" href="$rpc_2assets_8cpp.html#a2892e5a0d72f4d968f5e9179a520a6fe" title="listtagsforaddress" alt="" coords="792,563,917,589"/>
+<area shape="rect" id="node17" href="$rpc_2assets_8cpp.html#a9c8cc2dd439186ff4104385c6cea1dca" title="listaddressrestrictions" alt="" coords="780,613,929,640"/>
+<area shape="rect" id="node18" href="$rpc_2assets_8cpp.html#ada2e59c757a6a8f7acffad783b4f1e1a" title="checkaddresstag" alt="" coords="794,664,915,691"/>
+<area shape="rect" id="node19" href="$rpc_2assets_8cpp.html#a1e38f61ecfbb6601ba922d194fd298e6" title="checkaddressrestriction" alt="" coords="775,715,935,741"/>
+<area shape="rect" id="node20" href="$class_address_table_model.html#a5c6bd467fd1fc499d126fe2b7380ce5c" title="AddressTableModel::\lsetData" alt="" coords="782,766,927,807"/>
+<area shape="rect" id="node21" href="$class_address_table_model.html#aa72edd2a093a6e9318639d69d3a23488" title="AddressTableModel::\laddRow" alt="" coords="782,831,927,873"/>
+<area shape="rect" id="node22" href="$class_address_table_model.html#afcdbfc17ac480f5a57382cbcf096ccb3" title="AddressTableModel::\llabelForAddress" alt="" coords="782,999,927,1041"/>
+<area shape="rect" id="node23" href="$class_assets_dialog.html#a95ed8d5fe22a17370639734b9fa827dc" title="AssetsDialog::assetControl\lChangeEdited" alt="" coords="1017,893,1199,934"/>
+<area shape="rect" id="node24" href="$class_create_asset_dialog.html#aef3a1821b31b37c6494227e1550b2235" title="CreateAssetDialog::\lcoinControlChangeEdited" alt="" coords="1023,961,1193,1002"/>
+<area shape="rect" id="node25" href="$class_reissue_asset_dialog.html#a8be50271ce7047cf2dc58d03e59c65db" title="ReissueAssetDialog\l::coinControlChangeEdited" alt="" coords="1019,1031,1197,1073"/>
+<area shape="rect" id="node26" href="$class_send_coins_dialog.html#a1f419f2381bce2ae9b4a7bd140f25a4e" title="SendCoinsDialog::coinControl\lChangeEdited" alt="" coords="1009,1107,1207,1149"/>
+<area shape="rect" id="node27" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="785,1167,925,1209"/>
+<area shape="rect" id="node28" href="$namespace_g_u_i_util.html#af72fd9408f5cc4f11f6adb4dd533aa40" title="GUIUtil::isDust" alt="" coords="799,1233,911,1260"/>
+<area shape="rect" id="node29" href="$class_reissue_asset_dialog.html#aa065ab07d6b3a10cca44ce96febfff94" title="ReissueAssetDialog\l::onAddressNameChanged" alt="" coords="765,1285,944,1326"/>
+<area shape="rect" id="node30" href="$class_sign_verify_message_dialog.html#a2ef91b4ace68d63ab1c1d3cc6c13b5f9" title="SignVerifyMessageDialog\l::on_signMessageButton\l_SM_clicked" alt="" coords="769,1351,941,1407"/>
+<area shape="rect" id="node31" href="$class_sign_verify_message_dialog.html#ae37dec200b27f23c409221511447ae1e" title="SignVerifyMessageDialog\l::on_verifyMessageButton\l_VM_clicked" alt="" coords="767,1431,942,1487"/>
+<area shape="rect" id="node32" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="1020,1536,1196,1563"/>
+<area shape="rect" id="node33" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="749,1511,960,1537"/>
+<area shape="rect" id="node34" href="$class_wallet_model.html#aa56ac200db13d7121cedb40ebd43ba2f" title="WalletModel::prepareTransaction" alt="" coords="748,1612,961,1639"/>
+<area shape="rect" id="node35" href="$class_wallet_model.html#a88d44bc0994c1701386f63b1f266637f" title="WalletModel::saveReceive\lRequest" alt="" coords="765,1663,944,1705"/>
+<area shape="rect" id="node36" href="$mining_8cpp.html#a16cf276c50111f451fdbd5dfbe3c8a6b" title="generatetoaddress" alt="" coords="790,1729,919,1756"/>
+<area shape="rect" id="node37" href="$misc_8cpp.html#a16e3c661b34f8ecdccf6a140bed07ee3" title="validateaddress" alt="" coords="798,1780,911,1807"/>
+<area shape="rect" id="node38" href="$rpcwallet_8cpp.html#a1690e528ea9f2db9375e34d0eb55e1b5" title="Used by addmultisigaddress / createmultisig: " alt="" coords="757,1831,952,1857"/>
+<area shape="rect" id="node39" href="$misc_8cpp.html#a0b6a5eab4e4ad2898bdc4dfb0be1da73" title="verifymessage" alt="" coords="801,1881,908,1908"/>
+<area shape="rect" id="node40" href="$rawtransaction_8cpp.html#ab02feb76c01de90cbcc78c56499217a2" title="createrawtransaction" alt="" coords="783,1932,926,1959"/>
+<area shape="rect" id="node41" href="$rpcwallet_8cpp.html#aba44e0021b6111a1f0a8c54bbff34130" title="importaddress" alt="" coords="803,1983,907,2009"/>
+<area shape="rect" id="node42" href="$rpcwallet_8cpp.html#ab3f51d8e8fe414dbf91c37485e481ae3" title="dumpprivkey" alt="" coords="807,2033,903,2060"/>
+<area shape="rect" id="node43" href="$rpcdump_8cpp.html#a0ccf80d09e7c16fb3035c4b81bf4a4d8" title="ProcessImport" alt="" coords="801,2084,908,2111"/>
+<area shape="rect" id="node47" href="$class_address_table_model.html#a79b07007c147962c0119310ebd4931c1" title="AddressTableModel::data" alt="" coords="513,1269,684,1296"/>
+<area shape="rect" id="node48" href="$class_r_p_c_console.html#a8ce64bac6c4420afacee4d2ead446649" title="RPCConsole::clear" alt="" coords="531,1087,666,1113"/>
+<area shape="rect" id="node49" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="497,1138,700,1179"/>
+<area shape="rect" id="node50" href="$class_sign_verify_message_dialog.html#a83ae6a360e2c8779d0d2895117bfb833" title="SignVerifyMessageDialog\l::SignVerifyMessageDialog" alt="" coords="509,1203,689,1245"/>
+</map>

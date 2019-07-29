@@ -1,0 +1,8 @@
+<map id="CCoinControl::UnSelectAll" name="CCoinControl::UnSelectAll">
+<area shape="rect" id="node2" href="$class_asset_control_dialog.html#a2be8cae81e2851c32815a6a52856f637" title="AssetControlDialog\l::buttonSelectAllClicked" alt="" coords="240,5,403,47"/>
+<area shape="rect" id="node4" href="$class_asset_control_dialog.html#a30bbfa2cb3fb3a09b968bb3a5e9e0eec" title="AssetControlDialog\l::viewAdministratorClicked" alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node5" href="$class_asset_control_dialog.html#ae2b4162c5cfe2f0fe907bc007597feef" title="AssetControlDialog\l::onAssetSelected" alt="" coords="254,136,389,177"/>
+<area shape="rect" id="node6" href="$class_coin_control_dialog.html#ae106a71c5b87ac8bea8c52e7c4f4a129" title="CoinControlDialog::\lbuttonSelectAllClicked" alt="" coords="244,201,399,243"/>
+<area shape="rect" id="node3" href="$class_asset_control_dialog.html#acaafd2a83fa87e3cf4b6748e25a1346a" title="AssetControlDialog\l::AssetControlDialog" alt="" coords="459,71,601,112"/>
+<area shape="rect" id="node7" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="462,201,598,243"/>
+</map>

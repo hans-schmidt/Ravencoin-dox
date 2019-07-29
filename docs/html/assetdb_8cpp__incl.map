@@ -1,0 +1,23 @@
+<map id="src/assets/assetdb.cpp" name="src/assets/assetdb.cpp">
+<area shape="rect" id="node3" href="$params_8h.html" title="consensus/params.h" alt="" coords="1682,229,1825,256"/>
+<area shape="rect" id="node15" href="$ismine_8h.html" title="script/ismine.h" alt="" coords="2487,155,2593,181"/>
+<area shape="rect" id="node19" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2231,304,2321,331"/>
+<area shape="rect" id="node24" href="$assetdb_8h.html" title="assetdb.h" alt="" coords="1503,80,1582,107"/>
+<area shape="rect" id="node44" href="$assets_8h.html" title="assets.h" alt="" coords="1971,80,2043,107"/>
+<area shape="rect" id="node4" href="$uint256_8h.html" title="uint256.h" alt="" coords="2132,304,2207,331"/>
+<area shape="rect" id="node11" href="$common_8h.html" title="crypto/common.h" alt="" coords="1872,386,1995,413"/>
+<area shape="rect" id="node13" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1825,468,1943,495"/>
+<area shape="rect" id="node16" href="$standard_8h.html" title="script/standard.h" alt="" coords="2251,229,2370,256"/>
+<area shape="rect" id="node17" href="$interpreter_8h.html" title="script/interpreter.h" alt="" coords="1930,304,2057,331"/>
+<area shape="rect" id="node25" href="$fs_8h.html" title="fs.h" alt="" coords="1206,304,1250,331"/>
+<area shape="rect" id="node30" href="$serialize_8h.html" title="serialize.h" alt="" coords="513,304,594,331"/>
+<area shape="rect" id="node37" href="$dbwrapper_8h.html" title="dbwrapper.h" alt="" coords="1076,155,1169,181"/>
+<area shape="rect" id="node36" href="$prevector_8h.html" title="prevector.h" alt="" coords="379,386,466,413"/>
+<area shape="rect" id="node38" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="1024,304,1131,331"/>
+<area shape="rect" id="node39" href="$streams_8h.html" title="streams.h" alt="" coords="740,229,820,256"/>
+<area shape="rect" id="node40" href="$util_8h.html" title="util.h" alt="" coords="1455,229,1505,256"/>
+<area shape="rect" id="node41" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1274,304,1398,331"/>
+<area shape="rect" id="node42" href="$version_8h.html" title="version.h" alt="" coords="641,229,716,256"/>
+<area shape="rect" id="node45" href="$amount_8h.html" title="amount.h" alt="" coords="2394,229,2470,256"/>
+<area shape="rect" id="node46" href="$assettypes_8h.html" title="assettypes.h" alt="" coords="2114,155,2211,181"/>
+</map>

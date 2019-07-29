@@ -1,0 +1,51 @@
+<map id="CAssetCacheNewTransfer::CAssetCacheNewTransfer" name="CAssetCacheNewTransfer::CAssetCacheNewTransfer">
+<area shape="rect" id="node2" href="$rpc_2assets_8cpp.html#ad4e434d502a68b796fa86a9ed50c5862" title="transfer" alt="" coords="240,642,307,669"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="640,439,779,466"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="408,439,515,466"/>
+<area shape="rect" id="node5" href="$rpc_2assets_8cpp.html#a41e81a808809b12fd795b404d39ac60a" title="AssetActivationWarning" alt="" coords="380,389,543,415"/>
+<area shape="rect" id="node6" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="403,541,519,567"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a1de07aa72f31cf1b1a3ea94307b7b566" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="355,591,568,618"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#ae44c9e4546fdf6e182276fada0126649" title="EnsureWalletIsAvailable" alt="" coords="379,693,543,719"/>
+<area shape="rect" id="node9" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="652,654,767,681"/>
+<area shape="rect" id="node39" href="$safemode_8cpp.html#aa7985a8405eaf7b4b8e269dc39be5e30" title="ObserveSafeMode" alt="" coords="396,794,527,821"/>
+<area shape="rect" id="node45" href="$rpcwallet_8cpp.html#a4eb48c19268ebfbfc0e9b6d7904e877f" title="EnsureWalletIsUnlocked" alt="" coords="378,743,545,770"/>
+<area shape="rect" id="node47" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="400,845,523,871"/>
+<area shape="rect" id="node49" href="$assets_2assets_8cpp.html#a48456563eb2897bdd74fc743f7fef2cf" title="Check if an asset is a qualifier asset or sub qualifier. " alt="" coords="382,895,541,922"/>
+<area shape="rect" id="node10" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="914,509,962,535"/>
+<area shape="rect" id="node38" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="865,654,1011,681"/>
+<area shape="rect" id="node11" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="1113,154,1199,181"/>
+<area shape="rect" id="node12" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="1093,53,1219,79"/>
+<area shape="rect" id="node19" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="1077,255,1235,282"/>
+<area shape="rect" id="node20" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="1111,306,1201,333"/>
+<area shape="rect" id="node21" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="1109,357,1203,383"/>
+<area shape="rect" id="node22" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="1073,407,1239,434"/>
+<area shape="rect" id="node23" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="1092,458,1220,485"/>
+<area shape="rect" id="node24" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="1107,509,1205,535"/>
+<area shape="rect" id="node25" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="1085,559,1227,586"/>
+<area shape="rect" id="node26" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="1091,610,1221,637"/>
+<area shape="rect" id="node27" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="1112,661,1200,687"/>
+<area shape="rect" id="node28" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="1089,711,1223,738"/>
+<area shape="rect" id="node29" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="1105,813,1207,839"/>
+<area shape="rect" id="node31" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="1115,863,1197,890"/>
+<area shape="rect" id="node33" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="1105,205,1207,231"/>
+<area shape="rect" id="node35" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="1100,914,1212,941"/>
+<area shape="rect" id="node36" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="1097,762,1215,789"/>
+<area shape="rect" id="node37" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="1106,103,1206,130"/>
+<area shape="rect" id="node13" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1312,78,1444,105"/>
+<area shape="rect" id="node18" href="$namespacetinyformat.html#a37afaa5249c69dacd619269358f06f69" title="Make type&#45;agnostic format list from list of template arguments. " alt="" coords="1287,27,1469,54"/>
+<area shape="rect" id="node14" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="1517,71,1636,112"/>
+<area shape="rect" id="node15" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1687,5,1853,47"/>
+<area shape="rect" id="node16" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1684,71,1856,112"/>
+<area shape="rect" id="node17" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1702,136,1838,177"/>
+<area shape="rect" id="node30" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="1334,813,1422,839"/>
+<area shape="rect" id="node32" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="1304,863,1452,890"/>
+<area shape="rect" id="node34" href="$namespacefsbridge.html#a19c84cec4ae9accfbc88a83e48f7ee92" title="fsbridge::fopen" alt="" coords="1324,483,1432,510"/>
+<area shape="rect" id="node40" href="$warnings_8cpp.html#a6918ffd0d632afc0c0495696bc99aa00" title="Format a string that describes several potential problems detected by the core. " alt="" coords="660,819,759,846"/>
+<area shape="rect" id="node44" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="851,794,1025,821"/>
+<area shape="rect" id="node41" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="919,965,957,991"/>
+<area shape="rect" id="node42" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="1091,965,1221,991"/>
+<area shape="rect" id="node43" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="1095,1015,1217,1042"/>
+<area shape="rect" id="node46" href="$class_c_crypto_key_store.html#a52919fa284a3aa10f1b4bd6018b6dbee" title="CCryptoKeyStore::IsLocked" alt="" coords="616,718,803,745"/>
+<area shape="rect" id="node48" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="641,870,778,897"/>
+<area shape="rect" id="node50" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="644,921,775,947"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="register_sha256d_algo" name="register_sha256d_algo">
+<area shape="rect" id="node2" href="$sha2_8c.html#aa463072f159a17fee91475c3e1c383c8" title="scanhash_sha256d" alt="" coords="205,5,340,32"/>
+<area shape="rect" id="node6" href="$sha2_8c.html#a8a2489bc3c3d28814298f4ca56dfc572" title="sha256d" alt="" coords="237,68,308,95"/>
+<area shape="rect" id="node3" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="563,68,635,95"/>
+<area shape="rect" id="node4" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="683,43,765,69"/>
+<area shape="rect" id="node5" href="$glibc__compat_8cpp.html#a424ac71631da5ada2976630ff67051d1" title="__chk_fail" alt="" coords="683,93,765,120"/>
+<area shape="rect" id="node7" href="$sha2_8c.html#a81f80713ddb54592b0a9314461f81497" title="sha256_init" alt="" coords="407,93,495,120"/>
+<area shape="rect" id="node8" href="$sha2_8c.html#a237c313b8522048e9f8872fd4251d53e" title="sha256_transform" alt="" coords="388,144,515,171"/>
+</map>

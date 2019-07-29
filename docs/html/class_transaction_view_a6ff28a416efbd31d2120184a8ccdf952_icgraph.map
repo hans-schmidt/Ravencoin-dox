@@ -1,0 +1,11 @@
+<map id="TransactionView::showAssets" name="TransactionView::showAssets">
+<area shape="rect" id="node2" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="259,5,483,32"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#aed3fc203d310243887be68bc58d741ec" title="Show incoming transaction notification for new transactions. " alt="" coords="252,56,489,83"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="537,56,724,83"/>
+<area shape="rect" id="node5" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="772,56,935,83"/>
+<area shape="rect" id="node6" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="983,56,1161,83"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1683,19,1857,61"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1209,78,1388,119"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1436,85,1635,112"/>
+<area shape="rect" id="node10" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1683,85,1857,126"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RavenGUI::toggleHidden" name="RavenGUI::toggleHidden">
+<area shape="rect" id="node2" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="233,5,405,32"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a70bd0387232a672e0b54db9d23ef9597" title="Handle tray icon clicked. " alt="" coords="221,56,416,83"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="492,5,647,32"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a992e4d8e9a7a80cd6e8d4b6fb272ffd2" title="Create system tray menu (or setup the dock menu) " alt="" coords="464,56,675,83"/>
+<area shape="rect" id="node6" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="723,56,901,83"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1423,19,1597,61"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="949,78,1128,119"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1176,85,1375,112"/>
+<area shape="rect" id="node10" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1423,85,1597,126"/>
+</map>

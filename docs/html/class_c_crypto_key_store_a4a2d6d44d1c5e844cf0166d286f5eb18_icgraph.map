@@ -1,0 +1,11 @@
+<map id="CCryptoKeyStore::AddKeyPubKey" name="CCryptoKeyStore::AddKeyPubKey">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gacc1f62c9141576557cb98551cf78dc67" title="CWallet::AddKeyPubKeyWithDB" alt="" coords="279,60,493,87"/>
+<area shape="rect" id="node8" href="$class_c_wallet.html#a439bab81d7989f91a4f0909960516eea" title="Adds a key to the store, without saving it to disk (used by LoadWallet) " alt="" coords="322,111,450,137"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gac5f2eb553d4a59b1ff7fadacb7e981d8" title="Adds a key to the store, and saves it to disk. " alt="" coords="541,56,711,83"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="810,5,910,32"/>
+<area shape="rect" id="node6" href="$rpcdump_8cpp.html#a0ccf80d09e7c16fb3035c4b81bf4a4d8" title="ProcessImport" alt="" coords="807,56,913,83"/>
+<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1009,5,1132,32"/>
+<area shape="rect" id="node7" href="$wallet__tests_8cpp.html#af0e3c9469f1d8f368d3d5f38e5580367" title="importmulti" alt="" coords="1027,56,1114,83"/>
+<area shape="rect" id="node9" href="$walletdb_8cpp.html#aebac4c34dd06c6ce4249ed71914401fb" title="ReadKeyValue" alt="" coords="571,111,681,137"/>
+<area shape="rect" id="node10" href="$class_c_wallet_d_b.html#a5b0ec9c8643c62d62ebffd55cf5b09c8" title="CWalletDB::RecoverKeysOnly\lFilter" alt="" coords="759,107,961,149"/>
+</map>

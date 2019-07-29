@@ -1,0 +1,51 @@
+<map id="CreateAssetTransaction" name="CreateAssetTransaction">
+<area shape="rect" id="node2" href="$base58_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="266,56,398,83"/>
+<area shape="rect" id="node7" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="253,309,411,336"/>
+<area shape="rect" id="node8" href="$assets_2assets_8cpp.html#a54fcab3b7b13175978a313553bcc4912" title="ContextualCheckNewAsset" alt="" coords="240,565,424,592"/>
+<area shape="rect" id="node11" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="1001,537,1132,564"/>
+<area shape="rect" id="node22" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="265,157,399,184"/>
+<area shape="rect" id="node26" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="268,683,396,709"/>
+<area shape="rect" id="node27" href="$group___actions.html#ga35154f4813aaef32ab0f740111f68fb0" title="RVN START. " alt="" coords="238,617,426,658"/>
+<area shape="rect" id="node33" href="$assets_2assets_8cpp.html#af95cbe060a64b5acafd13a047b7b4201" title="Get the root name of an asset. " alt="" coords="544,411,660,437"/>
+<area shape="rect" id="node34" href="$assets_2assets_8cpp.html#a8fa417e13099076d2179c9e269efa87f" title="GetBurnAmount" alt="" coords="275,757,389,784"/>
+<area shape="rect" id="node35" href="$standard_8cpp.html#ae40f28d3b46c21033f6ee1f1200d0321" title="Generate a Raven scriptPubKey for the given CTxDestination. " alt="" coords="251,808,413,835"/>
+<area shape="rect" id="node36" href="$assets_2assets_8cpp.html#a4442ef13091cc85b6a32884ebdb0773b" title="GetBurnAddress" alt="" coords="273,883,391,909"/>
+<area shape="rect" id="node37" href="$group___actions.html#gaa6522c2833bc0a84d216cf102b51ba05" title="CWallet::GetBalance" alt="" coords="259,933,405,960"/>
+<area shape="rect" id="node40" href="$class_c_wallet.html#a3f5728bc5d3962386439668b8f2ea7a4" title="Inquire whether this wallet broadcasts transactions. " alt="" coords="216,984,448,1011"/>
+<area shape="rect" id="node41" href="$classprevector.html#af34b1eea43f461465aa29fe7ca67449d" title="prevector::push_back" alt="" coords="259,259,405,285"/>
+<area shape="rect" id="node46" href="$class_c_asset_transfer.html#a56e100f5cff3a6c5f9c53108dad2f3fc" title="CAssetTransfer::Construct\lTransaction" alt="" coords="243,1035,421,1077"/>
+<area shape="rect" id="node47" href="$assets_2assets_8cpp.html#a52e020e05bc45321be500ff2abc719dd" title="Verifies that this wallet owns the give asset. " alt="" coords="257,1101,407,1128"/>
+<area shape="rect" id="node48" href="$class_c_null_asset_tx_verifier_string.html#a57fc68705ec93ed603cc0d852f965d55" title="CNullAssetTxVerifierString\l::ConstructTransaction" alt="" coords="243,1153,421,1194"/>
+<area shape="rect" id="node49" href="$group___actions.html#ga63f758b1ae68f0da04cebc617994ba5a" title="RVN START. " alt="" coords="240,1218,424,1259"/>
+<area shape="rect" id="node50" href="$utilmoneystr_8cpp.html#a0043c9abedcbce2d7d1d2cacaf595c9e" title="Money parsing/formatting utilities. " alt="" coords="281,1284,383,1311"/>
+<area shape="rect" id="node3" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="519,56,685,83"/>
+<area shape="rect" id="node5" href="$class_c_base58_data.html#a7dc91af403ca02694b3247b15604e220" title="CBase58Data::ToString" alt="" coords="521,5,683,32"/>
+<area shape="rect" id="node4" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="821,56,888,83"/>
+<area shape="rect" id="node6" href="$base58_8cpp.html#ace9a5807ee51604f33044339f073ec76" title="Encode a byte vector into a base58&#45;encoded string, including checksum. " alt="" coords="781,5,929,32"/>
+<area shape="rect" id="node9" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="533,731,671,757"/>
+<area shape="rect" id="node10" href="$assets_2assets_8cpp.html#a502421abc8868b5f7ec7437b366d572e" title="CheckNewAsset" alt="" coords="541,629,663,656"/>
+<area shape="rect" id="node12" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="835,765,874,792"/>
+<area shape="rect" id="node16" href="$class_c_assets_cache.html#a14f851cfa27dac74476f86c99c1b03f2" title="Returns true if an asset with this name already exists. " alt="" coords="503,462,701,503"/>
+<area shape="rect" id="node18" href="$validation_8cpp.html#a149d069990401daec0d9fef9f81c1c74" title="AreMessagingDeployed" alt="" coords="775,512,935,539"/>
+<area shape="rect" id="node19" href="$assets_2assets_8cpp.html#aa2cbb008291be23f6ef30d12b7515496" title="Check the Encoded hash and make sure it is either an IPFS hash or a OIP hash. " alt="" coords="547,579,657,605"/>
+<area shape="rect" id="node15" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="777,664,933,691"/>
+<area shape="rect" id="node13" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="1002,791,1131,817"/>
+<area shape="rect" id="node14" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="1005,740,1128,767"/>
+<area shape="rect" id="node17" href="$class_c_assets_d_b.html#a38162c2ca81726b81e20778d4129074c" title="CAssetsDB::ReadAssetData" alt="" coords="758,461,951,488"/>
+<area shape="rect" id="node20" href="$assets_2assets_8cpp.html#ab1ad26491b92ed7cd206887146119fab" title="EncodeAssetData" alt="" coords="791,563,919,589"/>
+<area shape="rect" id="node21" href="$utilstrencodings_8cpp.html#a9f23401f4b871ed693f7a96a9ba40c58" title="IsHex" alt="" coords="826,613,883,640"/>
+<area shape="rect" id="node23" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="529,107,675,133"/>
+<area shape="rect" id="node24" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="819,157,891,184"/>
+<area shape="rect" id="node25" href="$class_c_chain_params.html#a103c58eca4a26a71201882b3ed6c4cb4" title="CChainParams::Base58Prefix" alt="" coords="756,107,953,133"/>
+<area shape="rect" id="node28" href="$group___actions.html#gad2347fdc30dfbba5298f2386a219c13d" title="CReserveKey::GetReservedKey" alt="" coords="496,781,708,808"/>
+<area shape="rect" id="node29" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="541,883,663,909"/>
+<area shape="rect" id="node30" href="$class_c_key_i_d.html#a01dbd3c37820a2ffe89d106c6a7cf53d" title="CKeyID::CKeyID" alt="" coords="793,933,917,960"/>
+<area shape="rect" id="node31" href="$hash_8h.html#a4490f70ddae16e9e48460a0416a48a6b" title="Compute the 160&#45;bit hash an object. " alt="" coords="817,832,892,859"/>
+<area shape="rect" id="node32" href="$classbase__blob.html#a00e7426a5d1ada51c635debf85f5a810" title="base_blob\&lt; 160 \&gt;::size" alt="" coords="775,883,934,909"/>
+<area shape="rect" id="node38" href="$group__map_wallet.html#ga71efb0d5b5def8ae00a1d74b8741bfcb" title="CWalletTx::IsTrusted" alt="" coords="529,933,675,960"/>
+<area shape="rect" id="node39" href="$group__map_wallet.html#gaf3c82ba365c720dd3d929b86bf432ef6" title="CWalletTx::GetAvailableCredit" alt="" coords="501,984,703,1011"/>
+<area shape="rect" id="node42" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="801,259,909,285"/>
+<area shape="rect" id="node43" href="$classprevector.html#a833f4c9e5c4804fb8ac57b708657af24" title="prevector::capacity" alt="" coords="535,259,669,285"/>
+<area shape="rect" id="node44" href="$classprevector.html#a0e673654d3b7d8d6f79534e17f68741a" title="prevector::change_capacity" alt="" coords="511,157,693,184"/>
+<area shape="rect" id="node45" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="537,208,667,235"/>
+</map>

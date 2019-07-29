@@ -1,0 +1,4 @@
+<map id="GetBestAssetAddressAmount" name="GetBestAssetAddressAmount">
+<area shape="rect" id="node2" href="$class_c_assets_d_b.html#a180ef319c88ff67fa4b168a6ab2312f7" title="CAssetsDB::ReadAssetAddress\lQuantity" alt="" coords="251,5,464,47"/>
+<area shape="rect" id="node3" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="512,13,651,39"/>
+</map>

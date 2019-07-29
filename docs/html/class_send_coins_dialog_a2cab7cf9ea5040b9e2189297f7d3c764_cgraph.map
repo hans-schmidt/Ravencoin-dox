@@ -1,0 +1,33 @@
+<map id="SendCoinsDialog::on_sendButton_clicked" name="SendCoinsDialog::on_sendButton_clicked">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="199,197,399,224"/>
+<area shape="rect" id="node3" href="$class_send_coins_entry.html#ab77df95fe77e9a001190cd4dabe0dfec" title="SendCoinsEntry::validate" alt="" coords="213,300,384,327"/>
+<area shape="rect" id="node32" href="$class_send_coins_entry.html#af36fb0ed9e2e07079c1a982b31e793c8" title="SendCoinsEntry::getValue" alt="" coords="211,248,387,275"/>
+<area shape="rect" id="node4" href="$class_payment_request_plus.html#aa3d8c57af7c7bc4ffbc31da32e5a40a6" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="469,238,619,279"/>
+<area shape="rect" id="node5" href="$class_wallet_model.html#a04604615253aeaae1253b1412a70a1f7" title="WalletModel::validateAddress" alt="" coords="447,367,641,393"/>
+<area shape="rect" id="node9" href="$namespace_g_u_i_util.html#af72fd9408f5cc4f11f6adb4dd533aa40" title="GUIUtil::isDust" alt="" coords="488,304,600,331"/>
+<area shape="rect" id="node6" href="$base58_8cpp.html#a32169f8eb6ebcce6412b675f9d23d878" title="IsValidDestinationString" alt="" coords="689,392,852,419"/>
+<area shape="rect" id="node7" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="900,392,1067,419"/>
+<area shape="rect" id="node8" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="1180,411,1247,437"/>
+<area shape="rect" id="node10" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="704,341,837,368"/>
+<area shape="rect" id="node16" href="$standard_8cpp.html#ae40f28d3b46c21033f6ee1f1200d0321" title="Generate a Raven scriptPubKey for the given CTxDestination. " alt="" coords="689,240,852,267"/>
+<area shape="rect" id="node17" href="$policy_8cpp.html#ab18c1023518f2920e34e05ca324d0ebb" title="IsDust" alt="" coords="740,291,801,317"/>
+<area shape="rect" id="node11" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="910,341,1057,368"/>
+<area shape="rect" id="node12" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1177,309,1249,336"/>
+<area shape="rect" id="node15" href="$class_c_chain_params.html#a103c58eca4a26a71201882b3ed6c4cb4" title="CChainParams::Base58Prefix" alt="" coords="1115,360,1312,387"/>
+<area shape="rect" id="node13" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1396,309,1479,336"/>
+<area shape="rect" id="node14" href="$glibc__compat_8cpp.html#a424ac71631da5ada2976630ff67051d1" title="__chk_fail" alt="" coords="1397,360,1478,387"/>
+<area shape="rect" id="node18" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="907,265,1060,292"/>
+<area shape="rect" id="node21" href="$policy_8cpp.html#a7b1001b4a41a02d9469e3b6985587300" title="GetDustThreshold" alt="" coords="919,203,1047,229"/>
+<area shape="rect" id="node19" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1574,169,1682,196"/>
+<area shape="rect" id="node20" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="1749,136,1882,163"/>
+<area shape="rect" id="node22" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="1133,157,1294,184"/>
+<area shape="rect" id="node28" href="$serialize_8h.html#aeb209536f7b746673a9c3fba8651b0e5" title="GetSerializeSize" alt="" coords="1154,208,1273,235"/>
+<area shape="rect" id="node29" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="1122,107,1305,133"/>
+<area shape="rect" id="node23" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1380,56,1495,83"/>
+<area shape="rect" id="node24" href="$classprevector_1_1iterator.html#ae9dd2b5e8d96f866e4b05d6b7535f285" title="prevector::iterator\l::iterator" alt="" coords="1566,103,1690,145"/>
+<area shape="rect" id="node25" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="1563,52,1693,79"/>
+<area shape="rect" id="node26" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="1746,77,1885,104"/>
+<area shape="rect" id="node27" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="1741,27,1889,53"/>
+<area shape="rect" id="node30" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="1360,5,1515,32"/>
+<area shape="rect" id="node31" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1385,107,1490,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="prevector::empty" name="prevector::empty">
+<area shape="rect" id="node2" href="$class_c_script.html#aad6e9f84fe8aa2d27a979f1bc2732463" title="CScript::FindAndDelete" alt="" coords="173,5,333,32"/>
+<area shape="rect" id="node3" href="$serialize_8h.html#a5f8f6e82f0b5e6bd182441352f5153cd" title="prevector prevectors of unsigned char are a special case and are intended to be serialized as a singl..." alt="" coords="202,56,305,83"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#a5748d9d17982b234b10a4b9e6f8e9f53" title="WrapVarInt" alt="" coords="381,31,469,57"/>
+<area shape="rect" id="node5" href="$serialize_8h.html#a9d2c702de5faf93aa7b0500c8e14657d" title="Serialize" alt="" coords="389,81,461,108"/>
+</map>

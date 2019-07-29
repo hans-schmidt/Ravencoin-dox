@@ -1,0 +1,12 @@
+<map id="AssetsDialog::updateSmartFeeLabel" name="AssetsDialog::updateSmartFeeLabel">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a3265b5a60fb756a30b59e08f1aca3485" title="AssetsDialog::setClientModel" alt="" coords="246,5,441,32"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a4783cfe81eecd969402459a0aae2f840" title="AssetsDialog::updateDisplayUnit" alt="" coords="236,56,451,83"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#a7724156dfba2b1a62c13c1b708e37b0a" title="AssetsDialog::setModel" alt="" coords="499,56,660,83"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="708,56,895,83"/>
+<area shape="rect" id="node6" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="943,56,1105,83"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1153,56,1332,83"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1853,19,2028,61"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1380,78,1559,119"/>
+<area shape="rect" id="node10" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1607,85,1805,112"/>
+<area shape="rect" id="node11" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1853,85,2028,126"/>
+</map>

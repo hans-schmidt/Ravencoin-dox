@@ -1,0 +1,13 @@
+<map id="CScript::IsNullAssetVerifierTxDataScript" name="CScript::IsNullAssetVerifierTxDataScript">
+<area shape="rect" id="node2" href="$assets_8h.html#a9c01f18ec919e70a8604a2759d55df5c" title="AssetNullVerifierDataFrom\lScript" alt="" coords="236,129,415,170"/>
+<area shape="rect" id="node12" href="$class_c_script.html#a9acd6acffdeb24610da43cfee4dd914c" title="CScript::IsNullAsset" alt="" coords="254,195,397,221"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a84ff5c249e98ada99e2a800ff733f8bd" title="CheckVerifierAssetTxOut" alt="" coords="477,56,647,83"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="709,107,916,133"/>
+<area shape="rect" id="node5" href="$assets_8h.html#aebcf42b5074b6ac822367822ce49f414" title="ContextualCheckVerifierAsset\lTxOut" alt="" coords="463,158,661,199"/>
+<area shape="rect" id="node6" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="523,224,601,251"/>
+<area shape="rect" id="node10" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="490,5,634,32"/>
+<area shape="rect" id="node7" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="723,249,903,276"/>
+<area shape="rect" id="node8" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="763,199,862,225"/>
+<area shape="rect" id="node9" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="964,199,1063,225"/>
+<area shape="rect" id="node11" href="$rawtransaction_8cpp.html#ac7e0210645b016dfbaec68de41c11dba" title="decodescript" alt="" coords="765,5,861,32"/>
+</map>

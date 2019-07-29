@@ -1,0 +1,10 @@
+<map id="GetMaxBlockWeight" name="GetMaxBlockWeight">
+<area shape="rect" id="node2" href="$class_partially_downloaded_block.html#a04e1b3207e547c972e002c1ec472da1f" title="PartiallyDownloadedBlock\l::InitData" alt="" coords="219,15,393,57"/>
+<area shape="rect" id="node3" href="$coins_8h.html#a1757faa84ceebf6fcb02c1285145d976" title="Utility function to find any unspent output with a given txid. " alt="" coords="253,81,359,108"/>
+<area shape="rect" id="node7" href="$class_c_partial_merkle_tree.html#a27712a344f6580787552ee8e3955ba62" title="extract the matching txid&#39;s represented by this partial merkle tree and their respective indices with..." alt="" coords="239,133,373,174"/>
+<area shape="rect" id="node9" href="$class_block_assembler.html#a9097778c02e1194888201f09fc1d0136" title="BlockAssembler::BlockAssembler" alt="" coords="196,199,416,225"/>
+<area shape="rect" id="node4" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="464,5,644,32"/>
+<area shape="rect" id="node5" href="$rawtransaction_8cpp.html#ac8f41750e8ba0b272a35eef9bd8c33c0" title="gettxoutproof" alt="" coords="505,56,603,83"/>
+<area shape="rect" id="node6" href="$validation_8cpp.html#a4eb74c7b0135bd677315175c4056f890" title="Restore the UTXO in a Coin at a given COutPoint. " alt="" coords="498,107,610,133"/>
+<area shape="rect" id="node8" href="$class_c_partial_merkle_tree.html#a5bc2f93aa4139815b8540b641ee680e8" title="CPartialMerkleTree\l::SerializationOp" alt="" coords="487,158,621,199"/>
+</map>

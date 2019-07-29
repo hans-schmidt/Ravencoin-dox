@@ -1,0 +1,8 @@
+<map id="CAddressUnspentKey::SetNull" name="CAddressUnspentKey::SetNull">
+<area shape="rect" id="node2" href="$struct_c_address_unspent_key.html#a4214fcda8c15ed1dba7adb23921a2dfb" title="CAddressUnspentKey\l::CAddressUnspentKey" alt="" coords="248,5,408,47"/>
+<area shape="rect" id="node3" href="$struct_c_address_unspent_value.html#aaf389144f1cd076222554e74a4712be5" title="CAddressUnspentValue\l::CAddressUnspentValue" alt="" coords="243,71,413,112"/>
+<area shape="rect" id="node4" href="$struct_c_address_index_key.html#a23e505dcc72997d168e0d40acaf21023" title="CAddressIndexKey::CAddress\lIndexKey" alt="" coords="227,136,429,177"/>
+<area shape="rect" id="node5" href="$struct_c_address_index_iterator_key.html#aa3a82dee2b5dc382f1a913907fa95c91" title="CAddressIndexIteratorKey\l::CAddressIndexIteratorKey" alt="" coords="236,201,420,243"/>
+<area shape="rect" id="node6" href="$struct_c_address_index_iterator_asset_key.html#aa53c447963101f2f7711187e091188f0" title="CAddressIndexIteratorAsset\lKey::CAddressIndexIteratorAssetKey" alt="" coords="207,267,449,308"/>
+<area shape="rect" id="node7" href="$struct_c_address_index_iterator_height_key.html#ae7cdd7f2d435b1aa3d9dc1a8f8b88ebc" title="CAddressIndexIteratorHeight\lKey::CAddressIndexIteratorHeightKey" alt="" coords="205,332,451,373"/>
+</map>

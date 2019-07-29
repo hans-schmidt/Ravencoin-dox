@@ -1,0 +1,10 @@
+<map id="CPubKey::Set" name="CPubKey::Set">
+<area shape="rect" id="node2" href="$class_c_script_compressor.html#a19a67455a106e2e0528bc97cb60d2391" title="CScriptCompressor::\lIsToPubKey" alt="" coords="181,13,327,55"/>
+<area shape="rect" id="node5" href="$class_c_pub_key.html#a169505e735a02db385486b0affeb565c" title="Recover a public key from a compact signature. " alt="" coords="160,86,348,113"/>
+<area shape="rect" id="node8" href="$class_c_pub_key.html#a572689418fecf47b300a11519bc3da36" title="Turn this public key into an uncompressed public key. " alt="" coords="174,137,334,163"/>
+<area shape="rect" id="node9" href="$class_c_pub_key.html#ac28722f47ab8a613bf9982608d13aa1f" title="Derive BIP32 child pubkey. " alt="" coords="192,187,316,214"/>
+<area shape="rect" id="node3" href="$class_c_script_compressor.html#a563ba251e7720841b4d5fc30ebd736e6" title="CScriptCompressor::\lCompress" alt="" coords="411,5,556,47"/>
+<area shape="rect" id="node4" href="$class_c_script_compressor.html#a4d2053a76ce3bbac8e2e94969319fe99" title="CScriptCompressor::\lSerialize" alt="" coords="619,5,764,47"/>
+<area shape="rect" id="node6" href="$class_sign_verify_message_dialog.html#ae37dec200b27f23c409221511447ae1e" title="SignVerifyMessageDialog\l::on_verifyMessageButton\l_VM_clicked" alt="" coords="396,71,571,127"/>
+<area shape="rect" id="node7" href="$misc_8cpp.html#a0b6a5eab4e4ad2898bdc4dfb0be1da73" title="verifymessage" alt="" coords="430,151,537,178"/>
+</map>

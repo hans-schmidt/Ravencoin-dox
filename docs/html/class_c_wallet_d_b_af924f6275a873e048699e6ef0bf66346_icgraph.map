@@ -1,0 +1,4 @@
+<map id="CWalletDB::GetAccountCreditDebit" name="CWalletDB::GetAccountCreditDebit">
+<area shape="rect" id="node2" href="$group___actions.html#gabc196bc3ad4c11a5f643c0fcd77b68a4" title="CWallet::GetLegacyBalance" alt="" coords="253,13,440,39"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#ae659cb0ab5177ea79df6670bd61afd23" title="getbalance" alt="" coords="488,13,573,39"/>
+</map>

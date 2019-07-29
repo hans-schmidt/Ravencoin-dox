@@ -1,0 +1,5 @@
+<map id="CBlockTreeDB::ReadTxIndex" name="CBlockTreeDB::ReadTxIndex">
+<area shape="rect" id="node2" href="$validation_8h.html#a07fae6c3df8041881d293cd91afd9c97" title="Retrieve a transaction (from memory pool, or from disk, if possible) " alt="" coords="249,31,360,57"/>
+<area shape="rect" id="node3" href="$rawtransaction_8cpp.html#a62dc16375e4d300e642339f1605da3c9" title="getrawtransaction" alt="" coords="408,5,533,32"/>
+<area shape="rect" id="node4" href="$rawtransaction_8cpp.html#ac8f41750e8ba0b272a35eef9bd8c33c0" title="gettxoutproof" alt="" coords="421,56,520,83"/>
+</map>

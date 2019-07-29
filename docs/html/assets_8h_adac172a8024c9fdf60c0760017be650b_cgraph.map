@@ -1,0 +1,4 @@
+<map id="GetIssueQualifierAssetBurnAmount" name="GetIssueQualifierAssetBurnAmount">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="303,5,370,32"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#a46cee123e88274ae69a3ba23bf187f75" title="CChainParams::IssueQualifier\lAssetBurnAmount" alt="" coords="237,57,436,98"/>
+</map>

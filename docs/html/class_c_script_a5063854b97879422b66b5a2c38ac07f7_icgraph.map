@@ -1,0 +1,7 @@
+<map id="CScript::IsAssetScript" name="CScript::IsAssetScript">
+<area shape="rect" id="node2" href="$class_c_script.html#ab882c8e39212c7cc4666fc76c183b9d9" title="CScript::IsAssetScript" alt="" coords="213,5,367,32"/>
+<area shape="rect" id="node3" href="$class_c_script.html#a4e214abf112e7b1ea2fe307ec7ea7bfb" title="CScript::IsNewAsset" alt="" coords="217,56,363,83"/>
+<area shape="rect" id="node4" href="$class_c_script.html#a5e4a8683fd34745ee0a1e484d25284a3" title="CScript::IsOwnerAsset" alt="" coords="211,107,369,133"/>
+<area shape="rect" id="node5" href="$class_c_script.html#ad135f092bd92ea291aebc631ed2d8410" title="CScript::IsReissueAsset" alt="" coords="207,157,373,184"/>
+<area shape="rect" id="node6" href="$class_c_script.html#a0c55155fc24269f61909586f5fb9b52b" title="CScript::IsTransferAsset" alt="" coords="207,208,373,235"/>
+</map>

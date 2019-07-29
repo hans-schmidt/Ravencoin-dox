@@ -1,0 +1,8 @@
+<map id="CTxMemPool::CalculateMemPoolAncestors" name="CTxMemPool::CalculateMemPoolAncestors">
+<area shape="rect" id="node2" href="$class_block_assembler.html#ae70b1a66271f21fd4bc9dd0e72b3091d" title="Add transactions based on feerate including unconfirmed ancestors Increments nPackagesSelected / nDes..." alt="" coords="253,5,472,32"/>
+<area shape="rect" id="node3" href="$rbf_8h.html#a880b888b68f505a3fb00e099eb66006d" title="IsRBFOptIn" alt="" coords="317,56,409,83"/>
+<area shape="rect" id="node4" href="$blockchain_8cpp.html#a0dbc687da2b478fac18d9776272961d5" title="getmempoolancestors" alt="" coords="287,107,438,133"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#ab30fadfa811829e79accca41da6a8328" title="If sanity&#45;checking is turned on, check makes sure the pool is consistent (does not contain two transa..." alt="" coords="290,157,435,184"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#a076041ea11b38722d1419c1640bf6ac4" title="Affect CreateNewBlock prioritisation of transactions. " alt="" coords="248,208,477,235"/>
+<area shape="rect" id="node7" href="$mining_8cpp.html#a617a6a3bdefa5ef27a13d8e138e8c292" title="prioritisetransaction" alt="" coords="525,208,660,235"/>
+</map>

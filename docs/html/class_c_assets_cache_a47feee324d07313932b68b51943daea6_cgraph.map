@@ -1,0 +1,5 @@
+<map id="CAssetsCache::AddBackSpentAsset" name="CAssetsCache::AddBackSpentAsset">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a0def7c4c8ea4d94f1e54d32d2a6d4456" title="This will get the amount that an address for a certain asset contains from the database if they cache..." alt="" coords="260,13,457,39"/>
+<area shape="rect" id="node3" href="$class_c_assets_d_b.html#a180ef319c88ff67fa4b168a6ab2312f7" title="CAssetsDB::ReadAssetAddress\lQuantity" alt="" coords="505,5,719,47"/>
+<area shape="rect" id="node4" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="767,13,905,39"/>
+</map>

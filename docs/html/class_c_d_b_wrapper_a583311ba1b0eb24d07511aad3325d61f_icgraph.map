@@ -1,0 +1,17 @@
+<map id="CDBWrapper::Erase" name="CDBWrapper::Erase">
+<area shape="rect" id="node2" href="$class_c_assets_d_b.html#a8f08931c9b61371792dfdfeda6ab454b" title="CAssetsDB::EraseAssetData" alt="" coords="206,304,402,331"/>
+<area shape="rect" id="node4" href="$class_c_assets_d_b.html#a021b13d2e39326e10ed3ae13c400739d" title="CAssetsDB::EraseMyAssetData" alt="" coords="197,56,411,83"/>
+<area shape="rect" id="node5" href="$class_c_assets_d_b.html#a57fd371dc682615e2c2dd4f8f18f8223" title="CAssetsDB::EraseAssetAddress\lQuantity" alt="" coords="196,551,412,593"/>
+<area shape="rect" id="node6" href="$class_c_assets_d_b.html#a414093b3042dcb0ab6886ba02f30e686" title="CAssetsDB::EraseAddressAsset\lQuantity" alt="" coords="196,617,412,658"/>
+<area shape="rect" id="node7" href="$class_c_message_d_b.html#a43f10fe9574e01c49d2eab7064598232" title="CMessageDB::EraseMessage" alt="" coords="205,5,403,32"/>
+<area shape="rect" id="node9" href="$class_c_message_channel_d_b.html#a31aa3e21aaff81b0fa78498c6ee4904a" title="CMessageChannelDB::\lEraseMyMessageChannel" alt="" coords="217,107,391,149"/>
+<area shape="rect" id="node11" href="$class_c_message_channel_d_b.html#ae7ab201efccc5d58e6702b17caccae82" title="CMessageChannelDB::\lEraseUsedAddress" alt="" coords="224,355,384,397"/>
+<area shape="rect" id="node12" href="$class_c_restricted_d_b.html#af93d2caef9c541b46e054c68308c10df" title="CRestrictedDB::EraseVerifier" alt="" coords="207,683,401,709"/>
+<area shape="rect" id="node13" href="$class_c_restricted_d_b.html#a9800b4358c4710afe20d9e9827b63b0f" title="CRestrictedDB::EraseAddress\lQualifier" alt="" coords="203,173,405,214"/>
+<area shape="rect" id="node14" href="$class_c_restricted_d_b.html#a5c0773d7bf54e976e81fc6e2cc7a9ffa" title="CRestrictedDB::EraseQualifier\lAddress" alt="" coords="203,238,405,279"/>
+<area shape="rect" id="node15" href="$class_c_restricted_d_b.html#a605f0ae320376eb066e4691c23d9b4ea" title="CRestrictedDB::EraseRestricted\lAddress" alt="" coords="197,421,411,462"/>
+<area shape="rect" id="node16" href="$class_c_restricted_d_b.html#a34653a9642cab0a0b143afaa7b57e6d0" title="CRestrictedDB::EraseGlobal\lRestriction" alt="" coords="209,486,399,527"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#ae7fae54a79efd6fa5f48bf3e559f11e7" title="Write asset cache data to database. " alt="" coords="460,453,667,494"/>
+<area shape="rect" id="node8" href="$class_c_message_d_b.html#a648aa6b7059d9db2bfffe760f0bd9d85" title="CMessageDB::Flush" alt="" coords="491,5,635,32"/>
+<area shape="rect" id="node10" href="$class_c_message_channel_d_b.html#aa035b7e674df725a4134880b3c4f1bdc" title="CMessageChannelDB::\lFlush" alt="" coords="483,107,643,149"/>
+</map>

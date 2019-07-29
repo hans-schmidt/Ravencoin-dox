@@ -1,0 +1,10 @@
+<map id="AmountSpinBox::stepEnabled" name="AmountSpinBox::stepEnabled">
+<area shape="rect" id="node2" href="$class_amount_spin_box.html#ab7e522a441231ceaeeb0682ec62a06a9" title="AmountSpinBox::value" alt="" coords="249,118,404,145"/>
+<area shape="rect" id="node6" href="$class_raven_units.html#afcf268875a556bcacdf6a8b6fb5a4149" title="Return maximum number of base units (Satoshis) " alt="" coords="1104,143,1267,170"/>
+<area shape="rect" id="node3" href="$class_amount_spin_box.html#a487085fe9dc6d6aaa1d2e2a55852f587" title="Parse a string into a number of base monetary units and return validity. " alt="" coords="452,118,608,145"/>
+<area shape="rect" id="node4" href="$class_raven_units.html#af5e74a09a2c73d1dc08b571ee312f631" title="RavenUnits::assetParse" alt="" coords="656,143,821,170"/>
+<area shape="rect" id="node8" href="$class_raven_units.html#affaad322be327986fd98a14404c7d81e" title="Parse string to coin amount. " alt="" coords="673,93,804,119"/>
+<area shape="rect" id="node5" href="$class_raven_units.html#a21db9aa82ae32bd1a7155d30d8840307" title="RavenUnits::removeSpaces" alt="" coords="869,143,1056,170"/>
+<area shape="rect" id="node7" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="887,93,1038,119"/>
+<area shape="rect" id="node9" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="899,42,1026,69"/>
+</map>

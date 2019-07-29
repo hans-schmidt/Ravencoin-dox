@@ -1,0 +1,20 @@
+<map id="OverviewPage::OverviewPage" name="OverviewPage::OverviewPage">
+<area shape="rect" id="node2" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="263,5,465,32"/>
+<area shape="rect" id="node4" href="$class_overview_page.html#a84e46c99d048bebab05174e689a455c0" title="OverviewPage::assetSearch\lChanged" alt="" coords="270,57,458,98"/>
+<area shape="rect" id="node5" href="$class_overview_page.html#a8de10507bde89116a691ed61e7e52507" title="OverviewPage::handleTransaction\lClicked" alt="" coords="253,122,475,163"/>
+<area shape="rect" id="node6" href="$class_overview_page.html#a81be2869bfc6f249e1a9fb2621c87a04" title="OverviewPage::handleAsset\lClicked" alt="" coords="271,187,457,229"/>
+<area shape="rect" id="node11" href="$class_overview_page.html#ac96ea713a074e706b4b6eadaadeca9d1" title="OverviewPage::showOutOfSync\lWarning" alt="" coords="259,253,469,294"/>
+<area shape="rect" id="node13" href="$class_overview_page.html#ab5a8627802b5810268f7e1ee9432e2b1" title="OverviewPage::handleOutOf\lSyncWarningClicks" alt="" coords="270,318,458,359"/>
+<area shape="rect" id="node14" href="$class_platform_style.html#a4e298def69a98d6a39236f24570878bb" title="PlatformStyle::WidgetBack\lGroundColor" alt="" coords="274,383,454,425"/>
+<area shape="rect" id="node15" href="$namespace_g_u_i_util.html#ae5e1dcf10da1e70457dbfd0634bad52a" title="GUIUtil::getShadowEffect" alt="" coords="277,449,451,476"/>
+<area shape="rect" id="node16" href="$namespace_g_u_i_util.html#af80f82d36992cfa279ea6bdc7e2079d4" title="GUIUtil::getTopLabelFont" alt="" coords="279,500,449,527"/>
+<area shape="rect" id="node17" href="$namespace_g_u_i_util.html#a8be38945b1ea26b68f766eabac8c4a2a" title="GUIUtil::getSubLabelFont" alt="" coords="278,551,450,577"/>
+<area shape="rect" id="node18" href="$namespace_g_u_i_util.html#af92fc0b0a8962b11e9336ae77740e95b" title="GUIUtil::getTopLabelFont\lBolded" alt="" coords="279,602,449,643"/>
+<area shape="rect" id="node19" href="$class_overview_page.html#a11e2786bcf2d11b233e0558b69c4a2c5" title="OverviewPage::showAssets" alt="" coords="271,668,457,695"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="523,5,699,32"/>
+<area shape="rect" id="node7" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="533,144,689,171"/>
+<area shape="rect" id="node9" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="531,195,690,221"/>
+<area shape="rect" id="node10" href="$namespace_g_u_i_util.html#aef655b19f129179ca32f11a4d0da1a07" title="GUIUtil::setClipboard" alt="" coords="537,245,684,272"/>
+<area shape="rect" id="node8" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="747,144,877,171"/>
+<area shape="rect" id="node12" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="541,481,680,508"/>
+</map>

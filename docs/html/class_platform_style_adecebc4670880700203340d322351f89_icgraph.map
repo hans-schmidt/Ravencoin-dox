@@ -1,0 +1,11 @@
+<map id="PlatformStyle::SingleColorImage" name="PlatformStyle::SingleColorImage">
+<area shape="rect" id="node2" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="229,96,412,137"/>
+<area shape="rect" id="node6" href="$class_r_p_c_console.html#a8ce64bac6c4420afacee4d2ead446649" title="RPCConsole::clear" alt="" coords="253,187,388,214"/>
+<area shape="rect" id="node3" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="471,5,673,47"/>
+<area shape="rect" id="node4" href="$class_send_coins_entry.html#a6eae20cd564011773931fc724f4d787c" title="SendCoinsEntry::SendCoins\lEntry" alt="" coords="477,71,667,112"/>
+<area shape="rect" id="node5" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="460,137,684,163"/>
+<area shape="rect" id="node7" href="$class_r_p_c_console.html#a91ee472a4d664623e69aa3dfd2f5f3ad" title="RPCConsole::RPCConsole" alt="" coords="953,238,1137,265"/>
+<area shape="rect" id="node8" href="$class_r_p_c_console.html#a385a3c3b75604e379ce4ed26b697cb36" title="RPCConsole::setFontSize" alt="" coords="483,238,661,265"/>
+<area shape="rect" id="node9" href="$class_r_p_c_console.html#ad120baf8f0d43b56fca2a8e8d4dda50f" title="RPCConsole::fontBigger" alt="" coords="735,238,902,265"/>
+<area shape="rect" id="node10" href="$class_r_p_c_console.html#a259454bfa74826c944fec35953f2d328" title="RPCConsole::fontSmaller" alt="" coords="732,289,905,315"/>
+</map>

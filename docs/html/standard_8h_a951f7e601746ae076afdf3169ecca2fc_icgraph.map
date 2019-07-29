@@ -1,0 +1,51 @@
+<map id="ExtractDestination" name="ExtractDestination">
+<area shape="rect" id="node2" href="$assets_8h.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="209,992,377,1019"/>
+<area shape="rect" id="node13" href="$class_transaction_desc.html#a1de402b439b16ee501487b6cadb979ce" title="TransactionDesc::CreateDebug\lString" alt="" coords="728,1059,935,1101"/>
+<area shape="rect" id="node14" href="$group__map_wallet.html#gacab92d6e00f06a89a57617a80636f29c" title="CWalletTx::GetAmounts" alt="" coords="749,1275,914,1301"/>
+<area shape="rect" id="node17" href="$assets_8h.html#ac6674dacd80ef7a86fa9d3b5cdc188a6" title="AssetFromScript" alt="" coords="233,604,353,631"/>
+<area shape="rect" id="node19" href="$class_transaction_record.html#a9f5db4465fa5fdcc3f9af525096bcdb9" title="TransactionRecord::\ldecomposeTransaction" alt="" coords="753,1623,910,1665"/>
+<area shape="rect" id="node27" href="$assets_8h.html#ad68c15cb9705f979a469cb2f9bca297d" title="MsgChannelAssetFromScript" alt="" coords="197,1211,390,1237"/>
+<area shape="rect" id="node28" href="$assets_8h.html#a8a351ca76c72c36f9779f6b66ee574d7" title="QualifierAssetFromScript" alt="" coords="209,1503,377,1529"/>
+<area shape="rect" id="node29" href="$assets_8h.html#a1371a34eb57ee41b4478f4c682506861" title="RestrictedAssetFromScript" alt="" coords="203,1452,383,1479"/>
+<area shape="rect" id="node30" href="$assets_8h.html#aeb621c6bc4f2815a9c8f0aebdf0a397b" title="OwnerAssetFromScript" alt="" coords="214,325,373,352"/>
+<area shape="rect" id="node31" href="$assets_8h.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="209,275,377,301"/>
+<area shape="rect" id="node32" href="$assets_8h.html#a818c53c297f28619f6d8bfd1dff63748" title="AssetNullDataFromScript" alt="" coords="480,1553,651,1580"/>
+<area shape="rect" id="node33" href="$assets_8h.html#a7652928e0004b0ac4a096b39c2add5f7" title="Check to make sure the script contains the burn transaction. " alt="" coords="226,1276,361,1303"/>
+<area shape="rect" id="node34" href="$assets_8h.html#a229bd5fb969a96a86730f960da9acf7a" title="Check to make sure the script contains the reissue burn data. " alt="" coords="218,64,369,91"/>
+<area shape="rect" id="node35" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="242,1756,345,1783"/>
+<area shape="rect" id="node36" href="$class_asset_control_dialog.html#a35356054e1ff12c3cc49e4b7c505be18" title="AssetControlDialog\l::updateView" alt="" coords="226,1807,361,1849"/>
+<area shape="rect" id="node37" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="225,1873,361,1914"/>
+<area shape="rect" id="node38" href="$class_payment_server.html#a19092e1d4d7c6eee3ec9d4390d11a092" title="PaymentServer::processPayment\lRequest" alt="" coords="184,1938,403,1979"/>
+<area shape="rect" id="node39" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="205,2004,381,2031"/>
+<area shape="rect" id="node40" href="$standard_8h.html#a49e36ddce090cc66aba405c0755c8be7" title="Parse a standard scriptPubKey with one or more destination addresses. " alt="" coords="225,2055,362,2081"/>
+<area shape="rect" id="node41" href="$rpcdump_8cpp.html#ab05aad539141493439212c3052c1bcc2" title="ImportScript" alt="" coords="247,2105,340,2132"/>
+<area shape="rect" id="node42" href="$rpcdump_8cpp.html#a0ccf80d09e7c16fb3035c4b81bf4a4d8" title="ProcessImport" alt="" coords="240,2156,347,2183"/>
+<area shape="rect" id="node43" href="$rpcwallet_8cpp.html#ab00d84bc574f3a4707fc11d30269a8e1" title="getreceivedbyaccount" alt="" coords="219,2207,368,2233"/>
+<area shape="rect" id="node44" href="$rpcwallet_8cpp.html#ae5af8884ac356c023c84fca170e79ad6" title="ListReceived" alt="" coords="244,2257,343,2284"/>
+<area shape="rect" id="node45" href="$group__map_wallet.html#gaba1c6108b7d2d3800dd487bab4c4c82e" title="CWallet::IsChange" alt="" coords="227,2308,360,2335"/>
+<area shape="rect" id="node46" href="$group___actions.html#ga70a35c7acb517996e538c316d471d1df" title="Return list of available assets and locked assets grouped by non&#45;change output address. " alt="" coords="224,2359,363,2385"/>
+<area shape="rect" id="node47" href="$group___actions.html#gabc9215fdb75a105599e5bcdc98f5083b" title="Return list of available coins and locked coins grouped by non&#45;change output address. " alt="" coords="227,2409,359,2436"/>
+<area shape="rect" id="node48" href="$group___actions.html#ga2a894168e394309bff165338a7cec7c2" title="CWallet::GetAccountName" alt="" coords="203,2460,384,2487"/>
+<area shape="rect" id="node49" href="$group___actions.html#gadf2b4ac337ddb271555985cec82e43e6" title="CWallet::GetAddressBalances" alt="" coords="193,2511,393,2537"/>
+<area shape="rect" id="node50" href="$group___actions.html#ga5e4f298434211541d39d8dc8c851fedf" title="CWallet::GetAddressGroupings" alt="" coords="191,2561,396,2588"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="460,985,671,1026"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="468,1203,663,1245"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="458,1386,673,1427"/>
+<area shape="rect" id="node6" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="451,1269,680,1310"/>
+<area shape="rect" id="node7" href="$class_c_transaction.html#ac1ed9ac185d1ec2d9adad8f306a1a396" title="To be called on CTransactions where IsReissueAsset returns true. " alt="" coords="470,57,661,98"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="464,325,667,352"/>
+<area shape="rect" id="node9" href="$class_c_assets_cache.html#a0c43a3a5962805c6358b90dda2abda4e" title="CAssetsCache::UndoAssetCoin" alt="" coords="460,224,671,251"/>
+<area shape="rect" id="node10" href="$assets_8h.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="513,528,618,555"/>
+<area shape="rect" id="node11" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="728,528,935,555"/>
+<area shape="rect" id="node12" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="792,933,871,960"/>
+<area shape="rect" id="node15" href="$assets_8h.html#a5eada513d55a69bac5fd3a1fe2b862d5" title="Helper method for extracting address bytes, asset name and amount from an asset script. " alt="" coords="503,275,627,301"/>
+<area shape="rect" id="node16" href="$group___actions.html#gabb894f8914f0bf49d43a41daacb518ef" title="CWallet::CreateTransactionAll" alt="" coords="466,1051,665,1077"/>
+<area shape="rect" id="node18" href="$assets_8h.html#a8a084b5bdaacece583a040f7cc35c867" title="These types of asset tx, have specific metadata at certain indexes in the transaction. " alt="" coords="488,933,643,960"/>
+<area shape="rect" id="node20" href="$assets_8h.html#a9ebc1469030d7a4c538238c553b40145" title="UniqueAssetFromTransaction" alt="" coords="468,376,663,403"/>
+<area shape="rect" id="node21" href="$class_c_transaction.html#a78e4b3b650fd78ff8261cbf079155045" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="464,781,667,808"/>
+<area shape="rect" id="node22" href="$assets_8h.html#a1702db1ed7afb15167e38dce196b5ac0" title="IsScriptNewUniqueAsset" alt="" coords="481,731,650,757"/>
+<area shape="rect" id="node23" href="$assets_8h.html#aa6513f005ac1c0737c13e12e77dd1d17" title="IsScriptNewMsgChannelAsset" alt="" coords="465,579,666,605"/>
+<area shape="rect" id="node24" href="$assets_8h.html#a0406d94b66a103362c0ee4e2a83edb53" title="IsScriptNewQualifierAsset" alt="" coords="477,629,653,656"/>
+<area shape="rect" id="node25" href="$assets_8h.html#aa3265b8648a0b7cab0c72b56e7a324b3" title="IsScriptNewRestrictedAsset" alt="" coords="471,680,659,707"/>
+<area shape="rect" id="node26" href="$assets_8h.html#aed0cb4b141b8e7da4be0c7df228ab73f" title="ContextualCheckUniqueAssetTx" alt="" coords="459,427,672,453"/>
+</map>

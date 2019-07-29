@@ -1,0 +1,15 @@
+<map id="CValidationState::GetRejectReason" name="CValidationState::GetRejectReason">
+<area shape="rect" id="node2" href="$assets_8h.html#ac85f60493840a888d3cc36a218881457" title="Send any type of asset transaction to the network. " alt="" coords="245,81,399,108"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#a53443aca544c824550f21e5f87e4ec39" title="WalletModel::sendCoins" alt="" coords="240,132,404,159"/>
+<area shape="rect" id="node8" href="$blockchain_8cpp.html#a695c96344a03c94483459398b33427d0" title="preciousblock" alt="" coords="271,183,373,209"/>
+<area shape="rect" id="node9" href="$blockchain_8cpp.html#aa4622532451c45880d5e6262c2c0b327" title="invalidateblock" alt="" coords="268,233,376,260"/>
+<area shape="rect" id="node10" href="$blockchain_8cpp.html#a90a8558b8d0d36013e3dfeef6f201081" title="reconsiderblock" alt="" coords="265,284,379,311"/>
+<area shape="rect" id="node11" href="$validation_8h.html#a86ed1d2d0837b905d74c2e4192b6c06a" title="Convert CValidationState to a human&#45;readable message for logging. " alt="" coords="249,335,395,361"/>
+<area shape="rect" id="node13" href="$walletdb_8cpp.html#aebac4c34dd06c6ce4249ed71914401fb" title="ReadKeyValue" alt="" coords="267,387,377,413"/>
+<area shape="rect" id="node3" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="510,5,601,32"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="452,56,659,83"/>
+<area shape="rect" id="node5" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="504,107,607,133"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a1c12ea47660aeb523c9f3a414b0d0ce9" title="WalletModel::sendAssets" alt="" coords="470,157,641,184"/>
+<area shape="rect" id="node12" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="482,332,629,359"/>
+<area shape="rect" id="node14" href="$class_c_wallet_d_b.html#a5b0ec9c8643c62d62ebffd55cf5b09c8" title="CWalletDB::RecoverKeysOnly\lFilter" alt="" coords="454,383,657,425"/>
+</map>

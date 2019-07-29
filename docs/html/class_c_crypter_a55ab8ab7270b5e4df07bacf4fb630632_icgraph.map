@@ -1,0 +1,14 @@
+<map id="CCrypter::BytesToKeySHA512AES" name="CCrypter::BytesToKeySHA512AES">
+<area shape="rect" id="node2" href="$class_c_crypter.html#a5368279e4a1549d3c1d15d8aa2179708" title="CCrypter::SetKeyFromPassphrase" alt="" coords="284,122,509,149"/>
+<area shape="rect" id="node3" href="$class_test_crypter.html#a98e2c77ec91e9861e10663cc1bf7a396" title="TestCrypter::TestPassphrase\lSingle" alt="" coords="574,5,769,47"/>
+<area shape="rect" id="node4" href="$crypto__tests_8cpp.html#a333d0ca472c78361f61ffdf437b3bcd3" title="BOOST_AUTO_TEST_CASE" alt="" coords="573,71,770,98"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga002c61a2b74f2c46063340c568e6cc1b" title="CWallet::Unlock" alt="" coords="612,122,731,149"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="557,173,785,199"/>
+<area shape="rect" id="node11" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="592,274,751,301"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a6d7ebdcf0d28d058c658eb44a6c4a6c6" title="WalletModel::setWalletLocked" alt="" coords="842,71,1041,98"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#ae33fa4da0b9b5726e4cf0f29b3e7663b" title="walletpassphrase" alt="" coords="880,122,1003,149"/>
+<area shape="rect" id="node9" href="$class_wallet_model.html#a67ebff3f267b5c9973c0465184c085a4" title="WalletModel::changePassphrase" alt="" coords="835,173,1048,199"/>
+<area shape="rect" id="node10" href="$rpcwallet_8cpp.html#acc41d3c00924c9805c9ff98816f1ea80" title="walletpassphrasechange" alt="" coords="859,223,1024,250"/>
+<area shape="rect" id="node12" href="$class_wallet_model.html#a444340830badcd48e3a4dd6b03d9c4d7" title="WalletModel::setWalletEncrypted" alt="" coords="833,274,1049,301"/>
+<area shape="rect" id="node13" href="$rpcwallet_8cpp.html#ad5b140b5a5d2fe49008f7e7887125470" title="encryptwallet" alt="" coords="892,325,991,351"/>
+</map>

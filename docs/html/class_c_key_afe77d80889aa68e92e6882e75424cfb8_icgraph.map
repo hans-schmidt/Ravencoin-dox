@@ -1,0 +1,8 @@
+<map id="CKey::SignCompact" name="CKey::SignCompact">
+<area shape="rect" id="node2" href="$class_c_key.html#a96b017433a65335775cf3807d73f85ce" title="Check whether the public key corresponding to this private key is (to be) compressed. " alt="" coords="205,56,353,83"/>
+<area shape="rect" id="node6" href="$misc_8cpp.html#a7cc5c728930b938ed47704a71c0d0b02" title="signmessagewithprivkey" alt="" coords="196,107,361,133"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a8b18eac056b0261feaa2381f30b3e9d8" title="signmessage" alt="" coords="229,157,328,184"/>
+<area shape="rect" id="node3" href="$class_c_raven_secret.html#a9e28a7dea8650427bb1635a98551685f" title="CRavenSecret::SetKey" alt="" coords="424,5,583,32"/>
+<area shape="rect" id="node4" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="453,56,554,83"/>
+<area shape="rect" id="node5" href="$class_transaction_signature_creator.html#a9cb1b4bd531ab19a1257abd9b639b7c8" title="Create a singular (non&#45;script) signature. " alt="" coords="409,107,597,149"/>
+</map>

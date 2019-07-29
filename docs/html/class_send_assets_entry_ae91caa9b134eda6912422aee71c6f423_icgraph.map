@@ -1,0 +1,23 @@
+<map id="SendAssetsEntry::setFocusAssetListBox" name="SendAssetsEntry::setFocusAssetListBox">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a5a77479fb5eafe6e3dba71144aff9797" title="AssetsDialog::addEntry" alt="" coords="247,216,407,243"/>
+<area shape="rect" id="node14" href="$class_assets_dialog.html#a9d495f6d64476ffdbb6ce7ee52520a30" title="AssetsDialog::focusAsset\lListBox" alt="" coords="240,314,415,356"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="1180,35,1367,62"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#acee3707f7fffab047f300be52e137cdc" title="AssetsDialog::clear" alt="" coords="491,136,627,163"/>
+<area shape="rect" id="node8" href="$class_assets_dialog.html#a825711b83beb942f517d7c2e354d250a" title="AssetsDialog::removeEntry" alt="" coords="467,191,650,218"/>
+<area shape="rect" id="node9" href="$class_assets_dialog.html#ae0538aa7e5abe73ae5d696af5f3f6738" title="RVN START. " alt="" coords="711,238,893,280"/>
+<area shape="rect" id="node11" href="$class_assets_dialog.html#a0a9c3ab2bc735b9ff5146b7615ebe9d9" title="AssetsDialog::setAddress" alt="" coords="471,292,646,319"/>
+<area shape="rect" id="node12" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="473,343,644,370"/>
+<area shape="rect" id="node5" href="$class_assets_dialog.html#a1070909809e60004a8ae7230f519f0b1" title="AssetsDialog::reject" alt="" coords="732,86,872,112"/>
+<area shape="rect" id="node6" href="$class_assets_dialog.html#a3f19feda56586655269f8e7a2b5d9470" title="AssetsDialog::accept" alt="" coords="729,136,875,163"/>
+<area shape="rect" id="node7" href="$class_assets_dialog.html#a22d1a45433ed5eac4c5ee523c8ceb00b" title="AssetsDialog::focusAsset" alt="" coords="715,187,889,214"/>
+<area shape="rect" id="node10" href="$class_assets_dialog.html#a316ed7dfcd069b3f9f3f255e78f79d4e" title="AssetsDialog::assetControl\lButtonClicked" alt="" coords="949,162,1132,204"/>
+<area shape="rect" id="node13" href="$class_assets_dialog.html#a6ef27cbd6256b7af509e3f10a2e2e89c" title="AssetsDialog::handlePayment\lRequest" alt="" coords="703,333,901,374"/>
+<area shape="rect" id="node15" href="$class_wallet_view.html#ac6e1002ebe7fa3501c6bf8660c7cd637" title="RVN START. " alt="" coords="463,395,655,422"/>
+<area shape="rect" id="node16" href="$class_wallet_view.html#a830ad98895b8a6c4d7fbcc6a311d2adb" title="WalletView::setRavenGUI" alt="" coords="714,399,890,426"/>
+<area shape="rect" id="node17" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="959,399,1122,426"/>
+<area shape="rect" id="node18" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1184,399,1363,426"/>
+<area shape="rect" id="node19" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1888,362,2063,404"/>
+<area shape="rect" id="node20" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1415,421,1593,462"/>
+<area shape="rect" id="node21" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1641,428,1840,455"/>
+<area shape="rect" id="node22" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1888,428,2063,469"/>
+</map>

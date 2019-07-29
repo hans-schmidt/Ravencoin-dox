@@ -1,0 +1,6 @@
+<map id="RavenCore::handleRunawayException" name="RavenCore::handleRunawayException">
+<area shape="rect" id="node2" href="$class_raven_application.html#a6d5f30ca1a974638fe5b91f52f4f101f" title="RavenApplication::getOptions\lModel" alt="" coords="243,5,437,47"/>
+<area shape="rect" id="node3" href="$class_raven_core.html#ad8824da7414b72f26061a1e914d66b59" title="RavenCore::initialize" alt="" coords="269,71,411,98"/>
+<area shape="rect" id="node4" href="$class_raven_core.html#ab35cedbe16324f62d058e964b03cac69" title="RavenCore::restart" alt="" coords="273,122,407,149"/>
+<area shape="rect" id="node5" href="$class_raven_core.html#a0b62b17932fa72d2ac40d4d81b2a432d" title="RavenCore::shutdown" alt="" coords="264,173,416,199"/>
+</map>

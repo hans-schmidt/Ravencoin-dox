@@ -1,0 +1,5 @@
+<map id="RavenCore::shutdownResult" name="RavenCore::shutdownResult">
+<area shape="rect" id="node2" href="$class_raven_application.html#a6d5f30ca1a974638fe5b91f52f4f101f" title="RavenApplication::getOptions\lModel" alt="" coords="244,5,439,47"/>
+<area shape="rect" id="node3" href="$class_raven_core.html#ab35cedbe16324f62d058e964b03cac69" title="RavenCore::restart" alt="" coords="275,71,408,98"/>
+<area shape="rect" id="node4" href="$class_raven_core.html#a0b62b17932fa72d2ac40d4d81b2a432d" title="RavenCore::shutdown" alt="" coords="265,122,417,149"/>
+</map>

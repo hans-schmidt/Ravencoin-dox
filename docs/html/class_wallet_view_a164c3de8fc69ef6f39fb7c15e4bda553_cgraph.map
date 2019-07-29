@@ -1,0 +1,7 @@
+<map id="WalletView::encryptWallet" name="WalletView::encryptWallet">
+<area shape="rect" id="node2" href="$class_ask_passphrase_dialog.html#a35b83e1ef98813b6b88155aab0803ed3" title="AskPassphraseDialog\l::setModel" alt="" coords="253,5,403,47"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#ad348f2ed9f843ef9125ca416307c7412" title="Re&#45;emit encryption status signal. " alt="" coords="229,71,427,112"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#aa89632d2019414f2ab85674cd4d01398" title="WalletModel::getEncryption\lStatus" alt="" coords="475,71,657,112"/>
+<area shape="rect" id="node5" href="$class_c_crypto_key_store.html#acc8fed44366c98fb481333ca6e867088" title="CCryptoKeyStore::IsCrypted" alt="" coords="705,53,896,79"/>
+<area shape="rect" id="node6" href="$class_c_crypto_key_store.html#a52919fa284a3aa10f1b4bd6018b6dbee" title="CCryptoKeyStore::IsLocked" alt="" coords="707,103,894,130"/>
+</map>

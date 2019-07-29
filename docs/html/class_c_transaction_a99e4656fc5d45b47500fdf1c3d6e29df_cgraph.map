@@ -1,0 +1,8 @@
+<map id="CTransaction::IsNewAsset" name="CTransaction::IsNewAsset">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a43c3b1ec45d04f238c64199742ef2260" title="issue asset scripts to make sure script meets the standards " alt="" coords="260,41,395,68"/>
+<area shape="rect" id="node4" href="$assets_2assets_8cpp.html#aec0d9276d4ea752c30ce47119691085c" title="CheckOwnerDataTx" alt="" coords="257,97,398,124"/>
+<area shape="rect" id="node6" href="$assets_2assets_8cpp.html#a9ea2e070a8aaa69fbbe700a6addbc93f" title="Check script and see if it matches the unquie issuance template. " alt="" coords="243,172,412,199"/>
+<area shape="rect" id="node7" href="$assets_2assets_8cpp.html#ae57e5c2b41269a2abba633538f8c927d" title="Check script and see if it matches the restricted issueance template. " alt="" coords="233,247,421,273"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#ac84c0956bcb6810989cbf6a37a345548" title="Check script and see if it matches the asset issuance template. " alt="" coords="475,29,603,56"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#a948242fe5cf1a7fc2b5c74c2eff8a671" title="Check script and see if it matches the owner issuance template. " alt="" coords="469,104,608,131"/>
+</map>

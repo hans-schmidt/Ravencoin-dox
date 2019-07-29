@@ -1,0 +1,4 @@
+<map id="GetIssueMsgChannelAssetBurnAmount" name="GetIssueMsgChannelAssetBurnAmount">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="341,5,408,32"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#aee970c455776b59debba4e570a108e72" title="CChainParams::IssueMsgChannel\lAssetBurnAmount" alt="" coords="263,57,487,98"/>
+</map>

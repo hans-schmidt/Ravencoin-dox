@@ -1,0 +1,19 @@
+<map id="src/addrman.h" name="src/addrman.h">
+<area shape="rect" id="node2" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="1156,155,1253,181"/>
+<area shape="rect" id="node32" href="$protocol_8h.html" title="protocol.h" alt="" coords="950,80,1029,107"/>
+<area shape="rect" id="node36" href="$random_8h.html" title="random.h" alt="" coords="304,80,380,107"/>
+<area shape="rect" id="node38" href="$sync_8h.html" title="sync.h" alt="" coords="3139,229,3200,256"/>
+<area shape="rect" id="node43" href="$timedata_8h.html" title="timedata.h" alt="" coords="523,229,606,256"/>
+<area shape="rect" id="node44" href="$util_8h.html" title="util.h" alt="" coords="2147,155,2198,181"/>
+<area shape="rect" id="node3" href="$compat_8h.html" title="compat.h" alt="" coords="2025,229,2101,256"/>
+<area shape="rect" id="node18" href="$serialize_8h.html" title="serialize.h" alt="" coords="796,229,877,256"/>
+<area shape="rect" id="node19" href="$endian_8h.html" title="compat/endian.h" alt="" coords="190,311,309,338"/>
+<area shape="rect" id="node33" href="$uint256_8h.html" title="uint256.h" alt="" coords="448,155,523,181"/>
+<area shape="rect" id="node35" href="$version_8h.html" title="version.h" alt="" coords="904,155,979,181"/>
+<area shape="rect" id="node34" href="$common_8h.html" title="crypto/common.h" alt="" coords="280,229,403,256"/>
+<area shape="rect" id="node37" href="$chacha20_8h.html" title="crypto/chacha20.h" alt="" coords="84,155,213,181"/>
+<area shape="rect" id="node39" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="3041,311,3146,338"/>
+<area shape="rect" id="node45" href="$fs_8h.html" title="fs.h" alt="" coords="1713,229,1757,256"/>
+<area shape="rect" id="node46" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="630,229,720,256"/>
+<area shape="rect" id="node47" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="2135,229,2210,256"/>
+</map>

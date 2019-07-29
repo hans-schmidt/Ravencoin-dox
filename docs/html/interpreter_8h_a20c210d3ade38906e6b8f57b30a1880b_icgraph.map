@@ -1,0 +1,5 @@
+<map id="VerifyScript" name="VerifyScript">
+<area shape="rect" id="node2" href="$class_mutable_transaction_signature_checker.html#a69407a42e0c79a3eaab03a2a2c5051be" title="MutableTransactionSignature\lChecker::MutableTransactionSignature\lChecker" alt="" coords="144,5,392,61"/>
+<area shape="rect" id="node3" href="$class_c_script_check.html#a108d4c713338308be3867ed4e65b80c5" title="CScriptCheck::operator()" alt="" coords="185,85,351,112"/>
+<area shape="rect" id="node4" href="$class_witnessifier.html#a5d25a6af669cf09c4f776d7cfee7f17b" title="Witnessifier::operator()" alt="" coords="191,136,345,163"/>
+</map>

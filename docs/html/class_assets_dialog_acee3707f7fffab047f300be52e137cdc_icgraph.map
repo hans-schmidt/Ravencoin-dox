@@ -1,0 +1,6 @@
+<map id="AssetsDialog::clear" name="AssetsDialog::clear">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="189,5,376,32"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a1070909809e60004a8ae7230f519f0b1" title="AssetsDialog::reject" alt="" coords="213,56,353,83"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#a3f19feda56586655269f8e7a2b5d9470" title="AssetsDialog::accept" alt="" coords="209,107,356,133"/>
+<area shape="rect" id="node5" href="$class_assets_dialog.html#a22d1a45433ed5eac4c5ee523c8ceb00b" title="AssetsDialog::focusAsset" alt="" coords="195,157,370,184"/>
+</map>

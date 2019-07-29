@@ -1,0 +1,6 @@
+<map id="OptionsDialog::on_openRavenConfButton_clicked" name="OptionsDialog::on_openRavenConfButton_clicked">
+<area shape="rect" id="node2" href="$namespace_g_u_i_util.html#a54f8b44c82f4b9082dbbcef28ba9414b" title="GUIUtil::openRavenConf" alt="" coords="252,31,420,57"/>
+<area shape="rect" id="node3" href="$util_8cpp.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="513,5,615,32"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#a82887fd3dd003600d4e30dc07ee866d2" title="GUIUtil::boostPathToQString" alt="" coords="468,56,660,83"/>
+<area shape="rect" id="node4" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="708,5,796,32"/>
+</map>

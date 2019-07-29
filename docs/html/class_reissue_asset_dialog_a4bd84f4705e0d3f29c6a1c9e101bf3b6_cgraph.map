@@ -1,0 +1,5 @@
+<map id="ReissueAssetDialog::setupFeeControl" name="ReissueAssetDialog::setupFeeControl">
+<area shape="rect" id="node2" href="$class_platform_style.html#a4e298def69a98d6a39236f24570878bb" title="PlatformStyle::WidgetBack\lGroundColor" alt="" coords="195,5,375,47"/>
+<area shape="rect" id="node3" href="$namespace_g_u_i_util.html#ae5e1dcf10da1e70457dbfd0634bad52a" title="GUIUtil::getShadowEffect" alt="" coords="197,71,372,98"/>
+<area shape="rect" id="node4" href="$namespace_g_u_i_util.html#a8be38945b1ea26b68f766eabac8c4a2a" title="GUIUtil::getSubLabelFont" alt="" coords="199,122,371,149"/>
+</map>

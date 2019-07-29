@@ -1,0 +1,10 @@
+<map id="RPCConsole::updateNodeDetail" name="RPCConsole::updateNodeDetail">
+<area shape="rect" id="node2" href="$class_r_p_c_console.html#a2487fa6a90cddcbb17ae4bb13ecc5359" title="Handle selection of peer in peers list. " alt="" coords="284,17,467,43"/>
+<area shape="rect" id="node9" href="$class_r_p_c_console.html#af952ebc6484c8f7d1262fa0bceed41bf" title="Handle updated peer information. " alt="" coords="264,67,487,94"/>
+<area shape="rect" id="node3" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="535,42,729,69"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="777,42,956,69"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1477,5,1652,47"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1004,64,1183,105"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1231,71,1429,98"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1477,71,1652,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CCoinsView::GetBestBlock" name="CCoinsView::GetBestBlock">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html#a4d5c20ed1db1449be6e4b1b01001e3f0" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="237,9,432,50"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#a943a3d13f2ba6936002d7a87b969edba" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="240,74,429,115"/>
+<area shape="rect" id="node4" href="$blockchain_8cpp.html#a0d3ec9ae23b08828dd7ca646766ca637" title="gettxout" alt="" coords="519,5,588,32"/>
+<area shape="rect" id="node5" href="$validation_8h.html#ada1eab9ccd84d9a98f598eba9bd35330" title="RVN END. " alt="" coords="494,56,613,83"/>
+<area shape="rect" id="node7" href="$validation_8h.html#aa597978e5628b461b272c75aa28eb531" title="Update the chain tip based on database information. " alt="" coords="502,107,605,133"/>
+<area shape="rect" id="node8" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="480,157,627,184"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#ab30fadfa811829e79accca41da6a8328" title="If sanity&#45;checking is turned on, check makes sure the pool is consistent (does not contain two transa..." alt="" coords="675,56,820,83"/>
+</map>

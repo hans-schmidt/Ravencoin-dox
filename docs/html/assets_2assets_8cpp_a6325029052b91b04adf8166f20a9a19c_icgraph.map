@@ -1,0 +1,6 @@
+<map id="VerifyQualifierChange" name="VerifyQualifierChange">
+<area shape="rect" id="node2" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="203,93,413,119"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="461,34,668,61"/>
+<area shape="rect" id="node5" href="$assets_8h.html#a142e1804ee596170853e243eb37828f1" title="ContextualCheckNullAsset\lTxOut" alt="" coords="218,27,398,68"/>
+<area shape="rect" id="node4" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="513,93,616,119"/>
+</map>

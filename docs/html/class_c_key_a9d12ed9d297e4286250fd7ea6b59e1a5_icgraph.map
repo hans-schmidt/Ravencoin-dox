@@ -1,0 +1,11 @@
+<map id="CKey::MakeNewKey" name="CKey::MakeNewKey">
+<area shape="rect" id="node2" href="$key_8h.html#a55cc40f04bf887c1000667caccb0684a" title="Check that required EC support is available at runtime. " alt="" coords="217,56,367,83"/>
+<area shape="rect" id="node5" href="$class_c_key.html#a96b017433a65335775cf3807d73f85ce" title="Check whether the public key corresponding to this private key is (to be) compressed. " alt="" coords="218,157,366,184"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#gac0cc4cfc56a39f38926fb3d0f5bb3773" title="keystore implementation Generate a new key " alt="" coords="202,208,382,235"/>
+<area shape="rect" id="node10" href="$group__map_wallet.html#ga35c26d9e81464f04a45375647c251d67" title="CWallet::GenerateNewSeed" alt="" coords="199,259,385,285"/>
+<area shape="rect" id="node3" href="$init_8cpp.html#a878797b40fb8eb0d7f330a41d7742d11" title="Sanity checks Ensure that Raven is running in a usable environment with all necessary library support..." alt="" coords="470,5,585,32"/>
+<area shape="rect" id="node4" href="$struct_c_ext_key.html#aff923572d1c4e4708790cb0ecc922a24" title="CExtKey::Unserialize" alt="" coords="453,56,601,83"/>
+<area shape="rect" id="node6" href="$class_c_raven_secret.html#a9e28a7dea8650427bb1635a98551685f" title="CRavenSecret::SetKey" alt="" coords="448,107,607,133"/>
+<area shape="rect" id="node7" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="477,157,578,184"/>
+<area shape="rect" id="node8" href="$class_transaction_signature_creator.html#a9cb1b4bd531ab19a1257abd9b639b7c8" title="Create a singular (non&#45;script) signature. " alt="" coords="433,209,621,250"/>
+</map>

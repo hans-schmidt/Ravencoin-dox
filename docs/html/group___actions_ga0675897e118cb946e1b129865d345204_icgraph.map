@@ -1,0 +1,8 @@
+<map id="CWallet::UnlockCoin" name="CWallet::UnlockCoin">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a0a5514bd400327df0f7d63341d8fabf4" title="WalletModel::unlockCoin" alt="" coords="199,45,365,71"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a25481caed2b80d0fef3416fb464d8818" title="lockunspent" alt="" coords="236,95,328,122"/>
+<area shape="rect" id="node3" href="$class_asset_control_dialog.html#a3bafccebc3e0b9f1af7f8e363bf65317" title="AssetControlDialog\l::unlockCoin" alt="" coords="414,5,549,47"/>
+<area shape="rect" id="node5" href="$class_coin_control_dialog.html#a3097ebdc8972660aae30f49f2ccd1d8c" title="CoinControlDialog::\lunlockCoin" alt="" coords="413,71,549,112"/>
+<area shape="rect" id="node4" href="$class_asset_control_dialog.html#acaafd2a83fa87e3cf4b6748e25a1346a" title="AssetControlDialog\l::AssetControlDialog" alt="" coords="597,5,740,47"/>
+<area shape="rect" id="node6" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="601,71,737,112"/>
+</map>

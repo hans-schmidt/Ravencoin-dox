@@ -1,0 +1,7 @@
+<map id="CAssetsCache::AddToAssetBalance" name="CAssetsCache::AddToAssetBalance">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a0def7c4c8ea4d94f1e54d32d2a6d4456" title="This will get the amount that an address for a certain asset contains from the database if they cache..." alt="" coords="244,15,441,42"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="265,67,421,94"/>
+<area shape="rect" id="node3" href="$class_c_assets_d_b.html#a180ef319c88ff67fa4b168a6ab2312f7" title="CAssetsDB::ReadAssetAddress\lQuantity" alt="" coords="489,5,703,47"/>
+<area shape="rect" id="node4" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="751,13,889,39"/>
+<area shape="rect" id="node6" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="531,71,661,98"/>
+</map>

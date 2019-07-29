@@ -1,0 +1,5 @@
+<map id="CreateAssetTransaction" name="CreateAssetTransaction">
+<area shape="rect" id="node2" href="$assets_8h.html#a1489ea1a290d8693895688052aecc67c" title="Creates new asset issuance transaction. " alt="" coords="216,49,379,76"/>
+<area shape="rect" id="node3" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="485,24,575,50"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="427,86,633,113"/>
+</map>

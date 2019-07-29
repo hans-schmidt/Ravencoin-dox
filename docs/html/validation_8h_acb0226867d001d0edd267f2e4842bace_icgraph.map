@@ -1,0 +1,5 @@
+<map id="IsWitnessEnabled" name="IsWitnessEnabled">
+<area shape="rect" id="node2" href="$class_c_script_check.html#a1340496c37e521c253606b5957173afd" title="CScriptCheck::GetScriptError" alt="" coords="364,5,559,32"/>
+<area shape="rect" id="node3" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="183,31,314,57"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#aca4103efafec36e5eb69d37823a1f930" title="addwitnessaddress" alt="" coords="181,81,316,108"/>
+</map>

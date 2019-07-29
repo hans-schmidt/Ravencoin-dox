@@ -1,0 +1,8 @@
+<map id="CChainParams::TxData" name="CChainParams::TxData">
+<area shape="rect" id="node2" href="$chainparams_8h.html#a0ff7310f4add117aa99baf7baee48e4b" title="Allows modifying the Version Bits regtest parameters. " alt="" coords="216,5,415,32"/>
+<area shape="rect" id="node3" href="$chainparams_8h.html#a87fb99f08ae5271b10ad4ce2641bc61b" title="TurnOffSegwit" alt="" coords="262,56,369,83"/>
+<area shape="rect" id="node4" href="$chainparams_8h.html#ab66b2aa5a680a46758f6cb32500ef6f7" title="TurnOffCSV" alt="" coords="268,107,363,133"/>
+<area shape="rect" id="node5" href="$chainparams_8h.html#a97c80ae09e880d61afe9889af0162aac" title="TurnOffBIP34" alt="" coords="264,157,367,184"/>
+<area shape="rect" id="node6" href="$chainparams_8h.html#af5df4ad6007c157974fc9682d5c1dc2a" title="TurnOffBIP65" alt="" coords="264,208,367,235"/>
+<area shape="rect" id="node7" href="$chainparams_8h.html#a78cbf1d7f101c411140d5c3633b19bc1" title="TurnOffBIP66" alt="" coords="264,259,367,285"/>
+</map>

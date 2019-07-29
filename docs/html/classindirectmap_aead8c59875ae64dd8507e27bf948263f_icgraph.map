@@ -1,0 +1,6 @@
+<map id="indirectmap::clear" name="indirectmap::clear">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#a2d04be1a3e144d466d45a5f1ec48f62c" title="CTxMemPool::_clear" alt="" coords="179,31,324,57"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a0235036dd3120f920f48ed02dd29de5f" title="Create a new CTxMemPool. " alt="" coords="372,5,563,32"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#a6dba6bce4139392751321438a29b6b09" title="CTxMemPool::clear" alt="" coords="398,56,537,83"/>
+<area shape="rect" id="node5" href="$validation_8h.html#ac98b87e479f71b7be2b990a10c4ebc2d" title="Unload database information. " alt="" coords="611,56,739,83"/>
+</map>

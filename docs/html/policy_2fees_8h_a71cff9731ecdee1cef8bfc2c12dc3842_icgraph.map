@@ -1,0 +1,51 @@
+<map id="getConfTargetForIndex" name="getConfTargetForIndex">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a806a960ab4501b812e70ea2c277caf56" title="AssetsDialog::~AssetsDialog" alt="" coords="213,480,408,507"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#ab8586451475fd971e039e47ecf9294c2" title="AssetsDialog::updateAsset\lControlState" alt="" coords="220,531,401,573"/>
+<area shape="rect" id="node20" href="$class_create_asset_dialog.html#a6324ed5cfe319ac932ebcb94cac0a7c6" title="CreateAssetDialog::\lupdateCoinControlState" alt="" coords="230,1326,391,1367"/>
+<area shape="rect" id="node31" href="$class_reissue_asset_dialog.html#a49f5d9f228024a524cb7dd7bc29bd4ff" title="ReissueAssetDialog\l::updateCoinControlState" alt="" coords="226,687,395,729"/>
+<area shape="rect" id="node40" href="$class_send_coins_dialog.html#a8b090008d92d2ca6752c10e93f8b5ff1" title="SendCoinsDialog::~SendCoins\lDialog" alt="" coords="209,845,412,886"/>
+<area shape="rect" id="node41" href="$class_send_coins_dialog.html#a91c32dd9656813960ca6d076adedd1e0" title="SendCoinsDialog::updateCoin\lControlState" alt="" coords="212,779,409,821"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#aaab72ec94847a448ae0c3e1f2b81c45d" title="AssetsDialog::updateSmart\lFeeLabel" alt="" coords="471,439,654,481"/>
+<area shape="rect" id="node9" href="$class_assets_dialog.html#ac99b7ca264654902abc757ec8dbcbfae" title="AssetsDialog::assetControl\lUpdateLabels" alt="" coords="471,242,654,283"/>
+<area shape="rect" id="node5" href="$class_assets_dialog.html#a3265b5a60fb756a30b59e08f1aca3485" title="AssetsDialog::setClientModel" alt="" coords="735,396,930,423"/>
+<area shape="rect" id="node6" href="$class_assets_dialog.html#a4783cfe81eecd969402459a0aae2f840" title="AssetsDialog::updateDisplayUnit" alt="" coords="725,447,940,473"/>
+<area shape="rect" id="node7" href="$class_assets_dialog.html#a7724156dfba2b1a62c13c1b708e37b0a" title="AssetsDialog::setModel" alt="" coords="1011,409,1173,436"/>
+<area shape="rect" id="node8" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="1232,816,1419,843"/>
+<area shape="rect" id="node10" href="$class_assets_dialog.html#a5a77479fb5eafe6e3dba71144aff9797" title="AssetsDialog::addEntry" alt="" coords="1012,195,1172,221"/>
+<area shape="rect" id="node15" href="$class_assets_dialog.html#a316ed7dfcd069b3f9f3f255e78f79d4e" title="AssetsDialog::assetControl\lButtonClicked" alt="" coords="1697,145,1880,186"/>
+<area shape="rect" id="node18" href="$class_assets_dialog.html#a4fc31292e7ef30cf6d886b6c24013040" title="AssetsDialog::updateTabs\lAndLabels" alt="" coords="745,213,921,254"/>
+<area shape="rect" id="node19" href="$class_assets_dialog.html#a5995462309ec839a5b2938c86fca04f1" title="AssetsDialog::assetControl\lFeatureChanged" alt="" coords="741,330,924,371"/>
+<area shape="rect" id="node11" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="1928,93,2115,120"/>
+<area shape="rect" id="node12" href="$class_assets_dialog.html#acee3707f7fffab047f300be52e137cdc" title="AssetsDialog::clear" alt="" coords="1257,43,1393,69"/>
+<area shape="rect" id="node13" href="$class_assets_dialog.html#a825711b83beb942f517d7c2e354d250a" title="AssetsDialog::removeEntry" alt="" coords="1234,245,1417,272"/>
+<area shape="rect" id="node14" href="$class_assets_dialog.html#ae0538aa7e5abe73ae5d696af5f3f6738" title="RVN START. " alt="" coords="1467,187,1649,229"/>
+<area shape="rect" id="node16" href="$class_assets_dialog.html#a0a9c3ab2bc735b9ff5146b7615ebe9d9" title="AssetsDialog::setAddress" alt="" coords="1238,144,1413,171"/>
+<area shape="rect" id="node17" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="1240,296,1411,323"/>
+<area shape="rect" id="node21" href="$class_create_asset_dialog.html#aa37a4311db27c51221f53f80e958a38d" title="CreateAssetDialog::\lupdateSmartFeeLabel" alt="" coords="488,1477,637,1518"/>
+<area shape="rect" id="node25" href="$class_create_asset_dialog.html#a0395a5dd6501b9332c904c89d0356531" title="CreateAssetDialog::\lcoinControlUpdateLabels" alt="" coords="479,1326,647,1367"/>
+<area shape="rect" id="node22" href="$class_create_asset_dialog.html#a06344b22bf8b2ec84692c3988e4d36a4" title="CreateAssetDialog::\lsetClientModel" alt="" coords="763,1477,903,1518"/>
+<area shape="rect" id="node23" href="$class_create_asset_dialog.html#a14c45db711ab138f4c2e52fa81c5f50a" title="CreateAssetDialog::\lupdateDisplayUnit" alt="" coords="763,1542,903,1583"/>
+<area shape="rect" id="node24" href="$class_create_asset_dialog.html#affceaf7b5ffeeda6f20ecb354ff4e7f8" title="CreateAssetDialog::\lsetModel" alt="" coords="1022,1389,1162,1430"/>
+<area shape="rect" id="node26" href="$class_create_asset_dialog.html#a0798fb7d7daa16c4d49001170c4a4d37" title="CreateAssetDialog::\lonAssetTypeActivated" alt="" coords="755,1229,910,1270"/>
+<area shape="rect" id="node29" href="$class_create_asset_dialog.html#aecfbf86c3d3e5e8d1fac156b8df28f5a" title="CreateAssetDialog::\lcoinControlFeatureChanged" alt="" coords="741,1359,925,1401"/>
+<area shape="rect" id="node30" href="$class_create_asset_dialog.html#a48181a6ef7b33bc3cbe27313f7e2a16a" title="CreateAssetDialog::\lcoinControlButtonClicked" alt="" coords="747,1294,918,1335"/>
+<area shape="rect" id="node27" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="1022,1294,1162,1335"/>
+<area shape="rect" id="node28" href="$class_create_asset_dialog.html#a093dbb5a197e9fbe2bab3e7529f65340" title="CreateAssetDialog::\lselectTypeName" alt="" coords="1022,1229,1162,1270"/>
+<area shape="rect" id="node32" href="$class_reissue_asset_dialog.html#aadf315ea23c92aebe36373aeb19e4b33" title="ReissueAssetDialog\l::updateSmartFeeLabel" alt="" coords="484,563,641,605"/>
+<area shape="rect" id="node36" href="$class_reissue_asset_dialog.html#a1e9d3cbaee7306f1b731c9d275800730" title="ReissueAssetDialog\l::coinControlUpdateLabels" alt="" coords="475,687,651,729"/>
+<area shape="rect" id="node33" href="$class_reissue_asset_dialog.html#a3b3e11f430c99c56f2dfa6b15baf7f36" title="ReissueAssetDialog\l::setClientModel" alt="" coords="762,498,903,539"/>
+<area shape="rect" id="node34" href="$class_reissue_asset_dialog.html#ad6175c9716f2861e9d499033c6759e51" title="ReissueAssetDialog\l::updateDisplayUnit" alt="" coords="762,563,903,605"/>
+<area shape="rect" id="node35" href="$class_reissue_asset_dialog.html#aedb26df763c8cda11fea5a0c07ca70a0" title="ReissueAssetDialog\l::setModel" alt="" coords="1021,721,1163,762"/>
+<area shape="rect" id="node37" href="$class_reissue_asset_dialog.html#a21293778ca6b28a5860897fa3df4aa50" title="ReissueAssetDialog\l::coinControlFeatureChanged" alt="" coords="737,746,929,787"/>
+<area shape="rect" id="node38" href="$class_reissue_asset_dialog.html#aa6ab6d2f84e4c3c305da572e856a1462" title="ReissueAssetDialog\l::coinControlButtonClicked" alt="" coords="743,629,922,670"/>
+<area shape="rect" id="node39" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="1017,629,1167,670"/>
+<area shape="rect" id="node42" href="$class_send_coins_dialog.html#ac42a9db733fbb2e06882660400c49517" title="SendCoinsDialog::updateSmart\lFeeLabel" alt="" coords="460,805,665,846"/>
+<area shape="rect" id="node46" href="$class_send_coins_dialog.html#ae4f429aabcaf309aa314b90049be2a74" title="SendCoinsDialog::coinControl\lUpdateLabels" alt="" coords="464,1014,661,1055"/>
+<area shape="rect" id="node43" href="$class_send_coins_dialog.html#a360a23c02bd0e581b78603ccb863eb79" title="SendCoinsDialog::setClient\lModel" alt="" coords="741,863,924,905"/>
+<area shape="rect" id="node44" href="$class_send_coins_dialog.html#a74815ad8502b126200b6fd2e59e9f042" title="SendCoinsDialog::updateDisplayUnit" alt="" coords="713,812,952,839"/>
+<area shape="rect" id="node45" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="1000,873,1184,900"/>
+<area shape="rect" id="node47" href="$class_send_coins_dialog.html#a3d680a76b967641115c6ff2fa83fb62a" title="SendCoinsDialog::addEntry" alt="" coords="1001,1148,1183,1175"/>
+<area shape="rect" id="node48" href="$class_send_coins_dialog.html#a3b834c739f7d02d8086a2bf58525c5f0" title="SendCoinsDialog::updateTabs\lAndLabels" alt="" coords="733,1111,932,1153"/>
+<area shape="rect" id="node49" href="$class_send_coins_dialog.html#af13ddd00abec4f060632d887b5e838a3" title="SendCoinsDialog::coinControl\lFeatureChanged" alt="" coords="734,981,931,1022"/>
+<area shape="rect" id="node50" href="$class_send_coins_dialog.html#a59d757d9e4bea5b380eb480fd79cfb49" title="SendCoinsDialog::coinControl\lButtonClicked" alt="" coords="734,1046,931,1087"/>
+</map>

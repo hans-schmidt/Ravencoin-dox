@@ -1,0 +1,51 @@
+<map id="CAssetsCache::DumpCacheToDatabase" name="CAssetsCache::DumpCacheToDatabase">
+<area shape="rect" id="node2" href="$class_c_assets_d_b.html#a8f08931c9b61371792dfdfeda6ab454b" title="CAssetsDB::EraseAssetData" alt="" coords="270,5,466,32"/>
+<area shape="rect" id="node6" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="344,1109,392,1136"/>
+<area shape="rect" id="node34" href="$class_c_restricted_d_b.html#af93d2caef9c541b46e054c68308c10df" title="CRestrictedDB::EraseVerifier" alt="" coords="271,56,465,83"/>
+<area shape="rect" id="node35" href="$class_c_assets_d_b.html#a57fd371dc682615e2c2dd4f8f18f8223" title="CAssetsDB::EraseAssetAddress\lQuantity" alt="" coords="260,107,476,149"/>
+<area shape="rect" id="node36" href="$class_c_assets_d_b.html#a414093b3042dcb0ab6886ba02f30e686" title="CAssetsDB::EraseAddressAsset\lQuantity" alt="" coords="260,173,476,214"/>
+<area shape="rect" id="node37" href="$class_c_assets_d_b.html#a403301d628043f43079101fde8836608" title="CAssetsDB::WriteAssetData" alt="" coords="271,500,465,527"/>
+<area shape="rect" id="node40" href="$class_c_assets_d_b.html#a79dfdf41d219461414e871eb00646957" title="CAssetsDB::WriteAssetAddress\lQuantity" alt="" coords="261,551,475,593"/>
+<area shape="rect" id="node41" href="$class_c_assets_d_b.html#ada25c15b3fabe2a568c1a8d5b9da6990" title="CAssetsDB::WriteAddressAsset\lQuantity" alt="" coords="261,617,475,658"/>
+<area shape="rect" id="node42" href="$class_c_restricted_d_b.html#a7001f9df1ed8c0ce8076445d633c11a5" title="CRestrictedDB::WriteVerifier" alt="" coords="273,683,463,709"/>
+<area shape="rect" id="node43" href="$class_c_restricted_d_b.html#a9800b4358c4710afe20d9e9827b63b0f" title="CRestrictedDB::EraseAddress\lQualifier" alt="" coords="267,238,469,279"/>
+<area shape="rect" id="node44" href="$class_c_restricted_d_b.html#a5c0773d7bf54e976e81fc6e2cc7a9ffa" title="CRestrictedDB::EraseQualifier\lAddress" alt="" coords="267,303,469,345"/>
+<area shape="rect" id="node45" href="$class_c_restricted_d_b.html#a7ae8c51580da7e7a5f65b2914e10cca7" title="CRestrictedDB::WriteAddress\lQualifier" alt="" coords="269,734,467,775"/>
+<area shape="rect" id="node46" href="$class_c_restricted_d_b.html#a659e87626a64c10b8bc519596cecee7b" title="CRestrictedDB::WriteQualifier\lAddress" alt="" coords="269,799,467,841"/>
+<area shape="rect" id="node47" href="$class_c_restricted_d_b.html#a605f0ae320376eb066e4691c23d9b4ea" title="CRestrictedDB::EraseRestricted\lAddress" alt="" coords="261,369,475,410"/>
+<area shape="rect" id="node48" href="$class_c_restricted_d_b.html#abfed92ae6fd83bb3313e23613e0638b1" title="CRestrictedDB::WriteRestricted\lAddress" alt="" coords="263,865,473,906"/>
+<area shape="rect" id="node49" href="$class_c_restricted_d_b.html#a34653a9642cab0a0b143afaa7b57e6d0" title="CRestrictedDB::EraseGlobal\lRestriction" alt="" coords="273,434,463,475"/>
+<area shape="rect" id="node50" href="$class_c_restricted_d_b.html#af3c0238624ab6fedc5d51ebc718d83f9" title="CRestrictedDB::WriteGlobal\lRestriction" alt="" coords="275,930,461,971"/>
+<area shape="rect" id="node3" href="$class_c_d_b_wrapper.html#a583311ba1b0eb24d07511aad3325d61f" title="CDBWrapper::Erase" alt="" coords="535,245,678,272"/>
+<area shape="rect" id="node4" href="$class_c_d_b_batch.html#a0b9ed3a5fa7fb461cd668c5a5c7ccd42" title="CDBBatch::Erase" alt="" coords="765,357,892,384"/>
+<area shape="rect" id="node5" href="$class_c_data_stream.html#a5542e71bd7af2ab7cd7be0f381d39cb5" title="CDataStream::reserve" alt="" coords="968,465,1121,492"/>
+<area shape="rect" id="node7" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="563,805,650,832"/>
+<area shape="rect" id="node8" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="544,856,669,883"/>
+<area shape="rect" id="node15" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="527,907,686,933"/>
+<area shape="rect" id="node16" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="562,957,651,984"/>
+<area shape="rect" id="node17" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="559,1008,654,1035"/>
+<area shape="rect" id="node18" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="524,1059,689,1085"/>
+<area shape="rect" id="node19" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="543,1109,671,1136"/>
+<area shape="rect" id="node20" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="557,1160,656,1187"/>
+<area shape="rect" id="node21" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="535,1211,678,1237"/>
+<area shape="rect" id="node22" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="541,1261,672,1288"/>
+<area shape="rect" id="node23" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="563,1312,651,1339"/>
+<area shape="rect" id="node24" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="540,1363,673,1389"/>
+<area shape="rect" id="node25" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="555,1464,658,1491"/>
+<area shape="rect" id="node27" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="565,1413,648,1440"/>
+<area shape="rect" id="node29" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="556,1565,657,1592"/>
+<area shape="rect" id="node31" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="551,704,663,731"/>
+<area shape="rect" id="node32" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="547,1515,666,1541"/>
+<area shape="rect" id="node33" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="557,755,657,781"/>
+<area shape="rect" id="node9" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="763,881,895,908"/>
+<area shape="rect" id="node14" href="$namespacetinyformat.html#a37afaa5249c69dacd619269358f06f69" title="Make type&#45;agnostic format list from list of template arguments. " alt="" coords="737,831,920,857"/>
+<area shape="rect" id="node10" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="985,874,1104,915"/>
+<area shape="rect" id="node11" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1173,809,1338,850"/>
+<area shape="rect" id="node12" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1169,874,1341,915"/>
+<area shape="rect" id="node13" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1187,939,1323,981"/>
+<area shape="rect" id="node26" href="$util_8cpp.html#a7ebe0bd091f7334aaead43904601e008" title="GetDataDir" alt="" coords="785,1464,873,1491"/>
+<area shape="rect" id="node28" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="755,1413,903,1440"/>
+<area shape="rect" id="node30" href="$namespacefsbridge.html#a19c84cec4ae9accfbc88a83e48f7ee92" title="fsbridge::fopen" alt="" coords="775,1540,883,1567"/>
+<area shape="rect" id="node38" href="$class_c_d_b_wrapper.html#a6600aa8c2b30880dd7e032ea21f74aed" title="CDBWrapper::Write" alt="" coords="537,653,676,680"/>
+<area shape="rect" id="node39" href="$class_c_d_b_batch.html#a91b5d889a8d7e56c4f0bbf446e246111" title="CDBBatch::Write" alt="" coords="767,572,891,599"/>
+</map>

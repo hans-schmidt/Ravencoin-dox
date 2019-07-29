@@ -1,0 +1,5 @@
+<map id="ReadWriteAssetHash" name="ReadWriteAssetHash">
+<area shape="rect" id="node2" href="$class_c_new_asset.html#a1425451c7a7d9c0fd1e562f4e7770c73" title="CNewAsset::SerializationOp" alt="" coords="213,5,403,32"/>
+<area shape="rect" id="node3" href="$class_c_asset_transfer.html#aec0e05b65f8e975a1b5aa3691419ad8e" title="CAssetTransfer::SerializationOp" alt="" coords="203,56,413,83"/>
+<area shape="rect" id="node4" href="$class_c_reissue_asset.html#a7de592e70b300413f2e5bb34488a8715" title="CReissueAsset::SerializationOp" alt="" coords="203,107,413,133"/>
+</map>

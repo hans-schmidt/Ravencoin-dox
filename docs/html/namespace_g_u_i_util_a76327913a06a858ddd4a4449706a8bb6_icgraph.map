@@ -1,0 +1,11 @@
+<map id="GUIUtil::getEntryData" name="GUIUtil::getEntryData">
+<area shape="rect" id="node2" href="$class_r_p_c_console.html#a697e3fab280ee0c9033eeff2f64ec742" title="Disconnect a selected node on the Peers tab. " alt="" coords="204,5,456,32"/>
+<area shape="rect" id="node9" href="$class_r_p_c_console.html#aacaf485583b6342c5e1877e7582f95c5" title="Ban a selected node on the Peers tab. " alt="" coords="225,56,435,83"/>
+<area shape="rect" id="node10" href="$class_r_p_c_console.html#a9a974887c33bf1d4b25eb6aeea002941" title="Unban a selected node on the Bans tab. " alt="" coords="218,107,442,133"/>
+<area shape="rect" id="node3" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="504,56,699,83"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="747,56,925,83"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1447,19,1621,61"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="973,78,1152,119"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1200,85,1399,112"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1447,85,1621,126"/>
+</map>

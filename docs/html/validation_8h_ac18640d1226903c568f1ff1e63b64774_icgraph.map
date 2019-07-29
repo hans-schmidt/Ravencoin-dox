@@ -1,0 +1,37 @@
+<map id="GetCurrentAssetCache" name="GetCurrentAssetCache">
+<area shape="rect" id="node2" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="236,5,399,32"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="212,56,423,83"/>
+<area shape="rect" id="node5" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="212,107,423,133"/>
+<area shape="rect" id="node7" href="$rpc_2assets_8cpp.html#a3cdcfa67fed9018d3a7560acae8c7ff6" title="UnitValueFromAmount" alt="" coords="240,157,395,184"/>
+<area shape="rect" id="node8" href="$rpc_2assets_8cpp.html#af791ccaeb7b9aa87ba4c79147dfd1874" title="getassetdata" alt="" coords="269,208,366,235"/>
+<area shape="rect" id="node9" href="$rpc_2assets_8cpp.html#af26e07e379a41c9c155ca6e773fa0930" title="getcacheinfo" alt="" coords="269,259,365,285"/>
+<area shape="rect" id="node10" href="$class_asset_table_priv.html#a0db8601c63adc35516894a281a3b765b" title="AssetTablePriv::refreshWallet" alt="" coords="219,309,415,336"/>
+<area shape="rect" id="node15" href="$class_create_asset_dialog.html#a15a1a9145508ae601f890e808df4bd27" title="CreateAssetDialog::\lcheckAvailabilityClicked" alt="" coords="235,361,399,402"/>
+<area shape="rect" id="node17" href="$class_overview_page.html#a81be2869bfc6f249e1a9fb2621c87a04" title="OverviewPage::handleAsset\lClicked" alt="" coords="224,426,411,467"/>
+<area shape="rect" id="node19" href="$class_reissue_asset_dialog.html#a8c5e97e2a387224aad484305355c42cf" title="SLOTS. " alt="" coords="247,491,388,533"/>
+<area shape="rect" id="node22" href="$class_send_assets_entry.html#aaa1bc4e15d435744a4b8371a7388f89c" title="SendAssetsEntry::onAsset\lSelected" alt="" coords="227,557,407,598"/>
+<area shape="rect" id="node28" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="212,623,423,649"/>
+<area shape="rect" id="node31" href="$rawtransaction_8cpp.html#ab02feb76c01de90cbcc78c56499217a2" title="createrawtransaction" alt="" coords="246,673,389,700"/>
+<area shape="rect" id="node32" href="$validation_8h.html#a12c39e969c9077605ae8a91730fb78d3" title="Check a block is completely valid from start to finish (only works on top of our current best block..." alt="" coords="255,724,379,751"/>
+<area shape="rect" id="node35" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="244,775,391,801"/>
+<area shape="rect" id="node36" href="$validation_8h.html#ad16a624dfed17bddcd0901c6d32212ab" title="Replay blocks that aren&#39;t fully applied to the database. " alt="" coords="266,825,369,852"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="474,56,681,83"/>
+<area shape="rect" id="node6" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="526,107,629,133"/>
+<area shape="rect" id="node11" href="$class_asset_table_model.html#a507b91782129f0bf05f8aa1032468af2" title="AssetTableModel::AssetTable\lModel" alt="" coords="479,178,676,219"/>
+<area shape="rect" id="node12" href="$class_asset_table_model.html#a5b3e5bc2d8312e6ac6f62e84a8b5e404" title="AssetTableModel::checkBalance\lChanged" alt="" coords="471,243,684,285"/>
+<area shape="rect" id="node13" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="735,243,904,285"/>
+<area shape="rect" id="node14" href="$class_wallet_model.html#a36282857c97bcaad796a2b5c7398245c" title="WalletModel::WalletModel" alt="" coords="967,251,1141,277"/>
+<area shape="rect" id="node16" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="507,309,647,350"/>
+<area shape="rect" id="node18" href="$class_overview_page.html#ab377237585c9eeabc2eec882cec9a1e2" title="OverviewPage::OverviewPage" alt="" coords="477,375,677,401"/>
+<area shape="rect" id="node20" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="503,426,652,467"/>
+<area shape="rect" id="node21" href="$class_reissue_asset_dialog.html#ae74a27a150a383c12e0360eaf597251c" title="ReissueAssetDialog\l::focusReissueAsset" alt="" coords="505,491,649,533"/>
+<area shape="rect" id="node23" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="476,557,679,598"/>
+<area shape="rect" id="node24" href="$class_send_assets_entry.html#acae5a9a78098c2e7d66880b5984bd3ee" title="SendAssetsEntry::setValue" alt="" coords="486,623,669,649"/>
+<area shape="rect" id="node25" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="734,572,905,599"/>
+<area shape="rect" id="node27" href="$class_assets_dialog.html#a22d1a45433ed5eac4c5ee523c8ceb00b" title="AssetsDialog::focusAsset" alt="" coords="732,623,907,649"/>
+<area shape="rect" id="node26" href="$class_assets_dialog.html#a6ef27cbd6256b7af509e3f10a2e2e89c" title="AssetsDialog::handlePayment\lRequest" alt="" coords="955,565,1153,606"/>
+<area shape="rect" id="node29" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="489,673,665,700"/>
+<area shape="rect" id="node30" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="747,674,892,715"/>
+<area shape="rect" id="node33" href="$class_c_script_check.html#a1340496c37e521c253606b5957173afd" title="CScriptCheck::GetScriptError" alt="" coords="480,724,675,751"/>
+<area shape="rect" id="node34" href="$mining_8cpp.html#a39d592ef311818f32e6081ec6be2f462" title="getblocktemplate" alt="" coords="517,775,638,801"/>
+</map>

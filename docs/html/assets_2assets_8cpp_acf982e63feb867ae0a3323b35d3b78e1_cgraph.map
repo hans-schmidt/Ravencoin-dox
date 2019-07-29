@@ -1,0 +1,4 @@
+<map id="GetReissueAssetBurnAmount" name="GetReissueAssetBurnAmount">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="318,5,385,32"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#afb17408a8123bbfd6386dcb05367f97c" title="CChainParams::ReissueAsset\lBurnAmount" alt="" coords="251,57,452,98"/>
+</map>

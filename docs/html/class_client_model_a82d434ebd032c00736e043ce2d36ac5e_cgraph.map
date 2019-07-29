@@ -1,0 +1,8 @@
+<map id="ClientModel::updateTimer" name="ClientModel::updateTimer">
+<area shape="rect" id="node2" href="$class_client_model.html#ada13acede28507233a9a0811e23c6306" title="Return number of transactions in the mempool. " alt="" coords="237,5,433,32"/>
+<area shape="rect" id="node4" href="$class_client_model.html#a78a52f9c35aee3326f1ed9e399f37d35" title="Return the dynamic memory usage of the mempool. " alt="" coords="224,57,447,98"/>
+<area shape="rect" id="node6" href="$class_client_model.html#a3ecd021e48073debd6dfeb90fdb3e7bd" title="ClientModel::getTotalBytesRecv" alt="" coords="230,123,441,149"/>
+<area shape="rect" id="node7" href="$class_client_model.html#a53cd536b119e49b0fab9c95d13a247ed" title="ClientModel::getTotalBytesSent" alt="" coords="232,173,439,200"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a867f7b452141770f3b2e8697fb3513d8" title="CTxMemPool::size" alt="" coords="532,5,667,32"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#a4fcf05ad5f15a565c4b43c4b9f29906e" title="CTxMemPool::DynamicMemory\lUsage" alt="" coords="495,57,704,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="prevector::data" name="prevector::data">
+<area shape="rect" id="node2" href="$class_c_script_compressor.html#a1feb663ddab3a45218c7cb02f2a25717" title="CScriptCompressor::\lDecompress" alt="" coords="165,5,311,47"/>
+<area shape="rect" id="node4" href="$class_c_flat_data.html#a050219ab3d7035ab56cf1de842eb74c6" title="CFlatData::CFlatData" alt="" coords="163,71,313,98"/>
+<area shape="rect" id="node5" href="$serialize_8h.html#a5f8f6e82f0b5e6bd182441352f5153cd" title="prevector prevectors of unsigned char are a special case and are intended to be serialized as a singl..." alt="" coords="187,122,289,149"/>
+<area shape="rect" id="node3" href="$class_c_script_compressor.html#a6e8b76d96a963cf79fccf6b180a56fff" title="CScriptCompressor::\lUnserialize" alt="" coords="361,5,507,47"/>
+<area shape="rect" id="node6" href="$serialize_8h.html#a5748d9d17982b234b10a4b9e6f8e9f53" title="WrapVarInt" alt="" coords="390,97,478,123"/>
+<area shape="rect" id="node7" href="$serialize_8h.html#a9d2c702de5faf93aa7b0500c8e14657d" title="Serialize" alt="" coords="398,147,470,174"/>
+</map>

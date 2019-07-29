@@ -1,0 +1,8 @@
+<map id="CBasicKeyStore::GetKey" name="CBasicKeyStore::GetKey">
+<area shape="rect" id="node2" href="$class_c_key_store.html#a2fb2e02e8cdc364607efd5ebb14b8064" title="Support for BIP 0013 : see https://github.com/raven/bips/blob/master/bip&#45;0013.mediawiki. " alt="" coords="247,5,409,32"/>
+<area shape="rect" id="node3" href="$class_c_key_store.html#a51c9fc86b2c3fece10d86146231fa58d" title="CKeyStore::HaveCScript" alt="" coords="243,56,413,83"/>
+<area shape="rect" id="node4" href="$class_c_key_store.html#ae6bf4dbeb0705e199250e48aa5d34264" title="CKeyStore::GetCScript" alt="" coords="249,107,407,133"/>
+<area shape="rect" id="node5" href="$class_c_key_store.html#a12cd4eaa01bd4f4231c0bf68425a44af" title="Support for Watch&#45;only addresses. " alt="" coords="237,157,419,184"/>
+<area shape="rect" id="node6" href="$class_c_key_store.html#ad510747f28d129123a5200e4df8f7f61" title="CKeyStore::RemoveWatchOnly" alt="" coords="224,208,432,235"/>
+<area shape="rect" id="node7" href="$class_c_key_store.html#a9169351f4acf62d299afb824174cbfa8" title="CKeyStore::HaveWatchOnly" alt="" coords="233,259,423,285"/>
+</map>

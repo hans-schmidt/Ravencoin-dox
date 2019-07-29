@@ -1,0 +1,9 @@
+<map id="CCoinsViewMemPool" name="CCoinsViewMemPool">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html" title="CCoinsView backed by another CCoinsView. " alt="" coords="1028,29,1167,56"/>
+<area shape="rect" id="node3" href="$class_c_coins_view.html" title="Abstract view on the open txout dataset. " alt="" coords="720,5,815,32"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html" title="CTxMemPool stores valid&#45;according&#45;to&#45;the&#45;current&#45;best&#45;chain transactions that may be included in the ..." alt="" coords="1046,100,1149,127"/>
+<area shape="rect" id="node5" href="$classindirectmap.html" title="indirectmap\&lt; COutPoint,\l const CTransaction *\&gt;" alt="" coords="684,63,851,105"/>
+<area shape="rect" id="node6" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="419,161,536,188"/>
+<area shape="rect" id="node9" href="$class_c_block_policy_estimator.html" title="We want to be able to estimate feerates that are needed on tx&#39;s to be included in a certain number of..." alt="" coords="689,129,846,156"/>
+<area shape="rect" id="node10" href="$class_tx_confirm_stats.html" title="We will instantiate an instance of this class to track transactions that were included in a block..." alt="" coords="420,92,535,119"/>
+</map>

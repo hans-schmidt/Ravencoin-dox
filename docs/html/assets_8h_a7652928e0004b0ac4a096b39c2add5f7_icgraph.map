@@ -1,0 +1,9 @@
+<map id="CheckIssueBurnTx" name="CheckIssueBurnTx">
+<area shape="rect" id="node2" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="197,5,408,47"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#a78e4b3b650fd78ff8261cbf079155045" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="201,71,404,98"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="205,123,400,164"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="195,188,410,229"/>
+<area shape="rect" id="node6" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="188,253,417,295"/>
+<area shape="rect" id="node7" href="$assets_8h.html#af6f5be6e220fb04b4ffba3b07f3a4929" title="CheckIssueBurnTx" alt="" coords="235,319,370,346"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="199,370,406,397"/>
+</map>

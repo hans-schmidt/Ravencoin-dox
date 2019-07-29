@@ -1,0 +1,5 @@
+<map id="CRestrictedDB::EraseGlobalRestriction" name="CRestrictedDB::EraseGlobalRestriction">
+<area shape="rect" id="node2" href="$class_c_d_b_wrapper.html#a583311ba1b0eb24d07511aad3325d61f" title="CDBWrapper::Erase" alt="" coords="244,13,387,39"/>
+<area shape="rect" id="node3" href="$class_c_d_b_batch.html#a0b9ed3a5fa7fb461cd668c5a5c7ccd42" title="CDBBatch::Erase" alt="" coords="435,13,561,39"/>
+<area shape="rect" id="node4" href="$class_c_data_stream.html#a5542e71bd7af2ab7cd7be0f381d39cb5" title="CDataStream::reserve" alt="" coords="609,13,763,39"/>
+</map>

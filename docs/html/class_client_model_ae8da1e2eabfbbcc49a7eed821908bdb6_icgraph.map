@@ -1,0 +1,12 @@
+<map id="ClientModel::getOptionsModel" name="ClientModel::getOptionsModel">
+<area shape="rect" id="node2" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="251,71,429,98"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#a18e94f625f9327f3718c02f3a2d4d21c" title="Show configuration dialog. " alt="" coords="251,126,429,153"/>
+<area shape="rect" id="node10" href="$class_raven_g_u_i.html#aad53e7f24651741fc062507f4945ee96" title="RavenGUI::changeEvent" alt="" coords="256,177,424,203"/>
+<area shape="rect" id="node11" href="$class_raven_g_u_i.html#a7be726b68a4fd9c7078660674bdc8883" title="RavenGUI::closeEvent" alt="" coords="261,227,419,254"/>
+<area shape="rect" id="node3" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="951,5,1125,47"/>
+<area shape="rect" id="node4" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="477,64,656,105"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="704,71,903,98"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="951,71,1125,112"/>
+<area shape="rect" id="node8" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="481,130,653,157"/>
+<area shape="rect" id="node9" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="726,130,881,157"/>
+</map>

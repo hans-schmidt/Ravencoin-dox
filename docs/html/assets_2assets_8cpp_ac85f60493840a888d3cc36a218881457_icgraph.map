@@ -1,0 +1,6 @@
+<map id="SendAssetTransaction" name="SendAssetTransaction">
+<area shape="rect" id="node2" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="266,5,357,32"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="208,56,415,83"/>
+<area shape="rect" id="node4" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="260,107,363,133"/>
+<area shape="rect" id="node5" href="$class_wallet_model.html#a1c12ea47660aeb523c9f3a414b0d0ce9" title="WalletModel::sendAssets" alt="" coords="226,157,397,184"/>
+</map>

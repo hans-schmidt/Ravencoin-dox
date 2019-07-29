@@ -1,0 +1,5 @@
+<map id="TrafficGraphWidget::TrafficGraphWidget" name="TrafficGraphWidget::TrafficGraphWidget">
+<area shape="rect" id="node2" href="$class_traffic_graph_widget.html#a5a1ae0d0a8cc43c67386de4aa1111340" title="TrafficGraphWidget\l::updateRates" alt="" coords="196,23,331,65"/>
+<area shape="rect" id="node3" href="$class_client_model.html#a3ecd021e48073debd6dfeb90fdb3e7bd" title="ClientModel::getTotalBytesRecv" alt="" coords="379,5,589,32"/>
+<area shape="rect" id="node4" href="$class_client_model.html#a53cd536b119e49b0fab9c95d13a247ed" title="ClientModel::getTotalBytesSent" alt="" coords="381,56,587,83"/>
+</map>

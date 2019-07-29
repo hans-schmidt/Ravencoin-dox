@@ -1,0 +1,8 @@
+<map id="base_blob::size" name="base_blob::size">
+<area shape="rect" id="node2" href="$hash_8h.html#a391c1a6a1f947abbc53cc51fc709110e" title="BIP32Hash" alt="" coords="167,60,256,87"/>
+<area shape="rect" id="node3" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="315,35,417,61"/>
+<area shape="rect" id="node7" href="$class_c_pub_key.html#ac28722f47ab8a613bf9982608d13aa1f" title="Derive BIP32 child pubkey. " alt="" coords="304,85,428,112"/>
+<area shape="rect" id="node4" href="$class_c_key.html#a96b017433a65335775cf3807d73f85ce" title="Check whether the public key corresponding to this private key is (to be) compressed. " alt="" coords="476,35,624,61"/>
+<area shape="rect" id="node5" href="$class_c_raven_secret.html#a9e28a7dea8650427bb1635a98551685f" title="CRavenSecret::SetKey" alt="" coords="687,5,845,32"/>
+<area shape="rect" id="node6" href="$class_transaction_signature_creator.html#a9cb1b4bd531ab19a1257abd9b639b7c8" title="Create a singular (non&#45;script) signature. " alt="" coords="672,57,860,98"/>
+</map>

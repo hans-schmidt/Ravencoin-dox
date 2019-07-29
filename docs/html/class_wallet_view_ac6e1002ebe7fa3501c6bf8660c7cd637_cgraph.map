@@ -1,0 +1,17 @@
+<map id="WalletView::gotoAssetsPage" name="WalletView::gotoAssetsPage">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#abc657d04389811576c3d3f418f664f21" title="AssetsDialog::handleFirst\lSelection" alt="" coords="247,89,419,130"/>
+<area shape="rect" id="node12" href="$class_assets_dialog.html#a9d495f6d64476ffdbb6ce7ee52520a30" title="AssetsDialog::focusAsset\lListBox" alt="" coords="245,169,420,210"/>
+<area shape="rect" id="node3" href="$class_send_assets_entry.html#a1324def1449b7e6e65762590ec23f35a" title="SendAssetsEntry::refresh\lAssetList" alt="" coords="475,74,647,115"/>
+<area shape="rect" id="node4" href="$class_send_assets_entry.html#a078cf67a1a168840e2c61bb3ab824fdd" title="SendAssetsEntry::switchAdministratorList" alt="" coords="703,81,971,108"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#aa941ab8a31a038f9dc52f4b5820b3523" title="GetAllAdministrativeAssets" alt="" coords="1019,5,1201,32"/>
+<area shape="rect" id="node6" href="$assets_2assets_8cpp.html#acf37188835ee43e0362db4462bcb3534" title="GetAllMyAssets" alt="" coords="1256,31,1373,57"/>
+<area shape="rect" id="node9" href="$class_wallet_model.html#ab1471d20adbbc7f9367bffdfdbc43490" title="WalletModel::getWallet" alt="" coords="1031,107,1189,133"/>
+<area shape="rect" id="node10" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="1032,157,1188,184"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga162ea1bf42ba17165bd00653852a949b" title="Helper function that calls AvailableCoinsAll, used for transfering assets. " alt="" coords="1428,31,1599,57"/>
+<area shape="rect" id="node8" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="1647,31,1785,57"/>
+<area shape="rect" id="node11" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="1249,157,1380,184"/>
+<area shape="rect" id="node13" href="$class_send_assets_entry.html#ae91caa9b134eda6912422aee71c6f423" title="SendAssetsEntry::setFocus\lAssetListBox" alt="" coords="468,139,655,181"/>
+<area shape="rect" id="node14" href="$class_send_assets_entry.html#ae123ede2dd7038627d91fc1c7b8d27e1" title="SendAssetsEntry::getValue" alt="" coords="470,205,653,232"/>
+<area shape="rect" id="node16" href="$class_send_assets_entry.html#a430072fd48e488e771d3c95a93bf440f" title="SendAssetsEntry::setFocus" alt="" coords="468,256,655,283"/>
+<area shape="rect" id="node15" href="$class_payment_request_plus.html#aa3d8c57af7c7bc4ffbc31da32e5a40a6" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="762,198,911,239"/>
+</map>

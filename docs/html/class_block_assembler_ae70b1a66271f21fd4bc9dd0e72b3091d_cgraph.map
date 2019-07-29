@@ -1,0 +1,18 @@
+<map id="BlockAssembler::addPackageTxs" name="BlockAssembler::addPackageTxs">
+<area shape="rect" id="node2" href="$class_block_assembler.html#af0307ce7a51afb8b63c3e6458e96b276" title="Add descendants of given transactions to mapModifiedTx with ancestor state updated assuming given tra..." alt="" coords="272,5,497,47"/>
+<area shape="rect" id="node5" href="$class_block_assembler.html#ae3c70769b83910937795a128ed358853" title="Return true if given transaction from mapTx has already been evaluated, or if the transaction&#39;s cache..." alt="" coords="289,71,480,112"/>
+<area shape="rect" id="node6" href="$class_c_fee_rate.html#a1173705aceba99303d6485d1c2f3f9a8" title="Return the fee in satoshis for the given size in bytes. " alt="" coords="318,137,451,163"/>
+<area shape="rect" id="node7" href="$class_block_assembler.html#afecd56f44367b88cc883ea246e356a73" title="Test if a new package would &quot;fit&quot; in the block. " alt="" coords="283,187,486,214"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#a8ae043194110fec37d5d8c810be7c9ec" title="Try to calculate all in&#45;mempool ancestors of entry. " alt="" coords="287,239,482,280"/>
+<area shape="rect" id="node12" href="$class_block_assembler.html#a5dedcbcc00df8337158dbc5d37126419" title="Remove confirmed (inBlock) entries from given set. " alt="" coords="273,305,496,331"/>
+<area shape="rect" id="node13" href="$class_block_assembler.html#a6af6e96d13f9263bd498a23c6ca14015" title="Perform checks on each transaction in a package: locktime, premature&#45;witness, serialized size (if nec..." alt="" coords="283,356,486,397"/>
+<area shape="rect" id="node15" href="$class_block_assembler.html#a5dc18cd47b5d25f33f97e79f6e8c66c3" title="Sort the package in an order that is valid to appear in a block. " alt="" coords="284,422,485,449"/>
+<area shape="rect" id="node16" href="$class_block_assembler.html#a3bb43b38f5af6bac3cdeb9c811865884" title="Add a tx to the block. " alt="" coords="287,473,483,499"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#aea6c845956f051442dac0a13975b2192" title="Populate setDescendants with all in&#45;mempool descendants of hash. " alt="" coords="545,13,788,39"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#a0f163f91b8590b86acd43b26438d7ee1" title="CTxMemPool::GetMemPoolChildren" alt="" coords="836,13,1071,39"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool_entry.html#a2deed4202061edf8b040a3f554417c20" title="CTxMemPoolEntry::GetTx" alt="" coords="578,221,755,247"/>
+<area shape="rect" id="node10" href="$class_c_tx_mem_pool_entry.html#a89325fcaa8efbd1d6fe68c39d7d676b0" title="CTxMemPoolEntry::GetTxSize" alt="" coords="565,271,768,298"/>
+<area shape="rect" id="node11" href="$policy_8cpp.html#a657a593ec90452062582ccf893a8488d" title="Compute the virtual transaction size (weight reinterpreted as bytes). " alt="" coords="866,271,1041,298"/>
+<area shape="rect" id="node14" href="$tx__verify_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="Check if transaction is final and can be included in a block with the specified height and time..." alt="" coords="629,363,705,390"/>
+<area shape="rect" id="node17" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="579,473,754,499"/>
+</map>

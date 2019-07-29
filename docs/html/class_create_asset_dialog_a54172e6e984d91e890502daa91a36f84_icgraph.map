@@ -1,0 +1,14 @@
+<map id="CreateAssetDialog::updateFeeMinimizedLabel" name="CreateAssetDialog::updateFeeMinimizedLabel">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#aa37a4311db27c51221f53f80e958a38d" title="CreateAssetDialog::\lupdateSmartFeeLabel" alt="" coords="229,37,378,79"/>
+<area shape="rect" id="node13" href="$class_create_asset_dialog.html#a78b2a25900602e7b4de483e766ea9545" title="CreateAssetDialog::\lon_buttonMinimizeFee\l_clicked" alt="" coords="227,103,380,159"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#a06344b22bf8b2ec84692c3988e4d36a4" title="CreateAssetDialog::\lsetClientModel" alt="" coords="428,5,568,47"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#a14c45db711ab138f4c2e52fa81c5f50a" title="CreateAssetDialog::\lupdateDisplayUnit" alt="" coords="428,71,568,112"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#affceaf7b5ffeeda6f20ecb354ff4e7f8" title="CreateAssetDialog::\lsetModel" alt="" coords="616,71,756,112"/>
+<area shape="rect" id="node6" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="804,78,991,105"/>
+<area shape="rect" id="node7" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1039,78,1201,105"/>
+<area shape="rect" id="node8" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1249,78,1428,105"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1949,41,2124,83"/>
+<area shape="rect" id="node10" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1476,100,1655,141"/>
+<area shape="rect" id="node11" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1703,107,1901,134"/>
+<area shape="rect" id="node12" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1949,107,2124,148"/>
+</map>

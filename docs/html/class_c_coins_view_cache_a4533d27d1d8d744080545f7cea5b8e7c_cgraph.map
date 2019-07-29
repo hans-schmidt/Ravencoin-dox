@@ -1,0 +1,51 @@
+<map id="CCoinsViewCache::Cursor" name="CCoinsViewCache::Cursor">
+<area shape="rect" id="node2" href="$class_coin.html#af4b7a33f38fc11918e536858df51d30c" title="Coin::DynamicMemoryUsage" alt="" coords="233,1111,428,1137"/>
+<area shape="rect" id="node3" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="291,1161,370,1188"/>
+<area shape="rect" id="node50" href="$coins_8h.html#a1757faa84ceebf6fcb02c1285145d976" title="Utility function to find any unspent output with a given txid. " alt="" coords="277,1212,384,1239"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a96256e8ac1bf79ad9c057e48c41132dd" title="CTransaction::IsCoinBase" alt="" coords="501,5,677,32"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a7efd1379de830341417c0bfa23a149aa" title="CTransaction::GetHash" alt="" coords="509,56,669,83"/>
+<area shape="rect" id="node6" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="1033,132,1171,159"/>
+<area shape="rect" id="node7" href="$class_c_transaction.html#a99e4656fc5d45b47500fdf1c3d6e29df" title="RVN START. " alt="" coords="770,765,950,792"/>
+<area shape="rect" id="node8" href="$assets_2assets_8cpp.html#a9ea2e070a8aaa69fbbe700a6addbc93f" title="Check script and see if it matches the unquie issuance template. " alt="" coords="1017,765,1187,792"/>
+<area shape="rect" id="node9" href="$assets_2assets_8cpp.html#a8a084b5bdaacece583a040f7cc35c867" title="These types of asset tx, have specific metadata at certain indexes in the transaction. " alt="" coords="512,613,667,640"/>
+<area shape="rect" id="node10" href="$assets_2assets_8cpp.html#a2fbfdd85314963be71beacc69bf7188b" title="AssetFromScript" alt="" coords="800,356,920,383"/>
+<area shape="rect" id="node11" href="$base58_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="1036,331,1168,357"/>
+<area shape="rect" id="node12" href="$assets_2assets_8cpp.html#ae0585dc12a2da58dae341e245e550d1c" title="OwnerFromTransaction" alt="" coords="510,816,669,843"/>
+<area shape="rect" id="node13" href="$class_c_assets_cache.html#a7c55e7e3c3609e08e6b2ac088eea3f10" title="Cache only add asset functions. " alt="" coords="488,968,691,995"/>
+<area shape="rect" id="node14" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="836,968,884,995"/>
+<area shape="rect" id="node15" href="$class_c_assets_cache.html#a5c1f4242e5fedba896b505b38398fcde" title="Changes Memory Only. " alt="" coords="482,1085,697,1112"/>
+<area shape="rect" id="node16" href="$class_c_transaction.html#aec5ff46c8234764878b03aa90d4992cf" title="CTransaction::IsReissueAsset" alt="" coords="759,1161,961,1188"/>
+<area shape="rect" id="node17" href="$rpc_2assets_8cpp.html#ada9eee324855c73e13fbf6d9bd44b77e" title="reissue" alt="" coords="828,157,892,184"/>
+<area shape="rect" id="node18" href="$assets_2assets_8cpp.html#a10b6852f2679590541be4a8bf0f7c043" title="ReissueAssetFromTransaction" alt="" coords="488,1187,691,1213"/>
+<area shape="rect" id="node19" href="$class_c_assets_cache.html#a68c7297f843acfed8ec6b8c20dd1c10a" title="Returns true if an asset with the name exists, and it was able to get the asset metadata from databas..." alt="" coords="488,1238,691,1279"/>
+<area shape="rect" id="node20" href="$class_c_assets_cache.html#a9c3d2c9475d31549b37460a3f438fc20" title="Changes Memory Only. " alt="" coords="494,1019,685,1061"/>
+<area shape="rect" id="node21" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="1037,1329,1167,1356"/>
+<area shape="rect" id="node22" href="$assets_2assets_8cpp.html#a9c01f18ec919e70a8604a2759d55df5c" title="AssetNullVerifierDataFrom\lScript" alt="" coords="500,1471,679,1513"/>
+<area shape="rect" id="node23" href="$class_c_assets_cache.html#a9bd45ef0ba992d817cfd8896056d0dc5" title="Returns true if the Asset Verifier String was found for an asset_name, if fSkipTempCache is true..." alt="" coords="482,1537,697,1578"/>
+<area shape="rect" id="node24" href="$class_c_assets_cache.html#a25a557a0ec05cbde0d5ab6f217cd1903" title="Changes Memory Only. " alt="" coords="488,1602,691,1643"/>
+<area shape="rect" id="node25" href="$class_c_transaction.html#ac7808b4e20941f427c3aa9a01b71e85e" title="Make sure to call VerifyNewUniqueAsset if this call returns true. " alt="" coords="767,838,953,879"/>
+<area shape="rect" id="node26" href="$class_c_transaction.html#aa71a44851d35f2a110aa67c914fd96a2" title="Make sure to call VerifyNewUniqueAsset if this call returns true. " alt="" coords="751,1686,969,1727"/>
+<area shape="rect" id="node27" href="$assets_2assets_8cpp.html#a8ee566cf7ae611bccc6fb8d589e692a0" title="MsgChannelAssetFromTransaction" alt="" coords="476,1719,703,1745"/>
+<area shape="rect" id="node28" href="$class_c_transaction.html#a2150029b261bcae600fba72a616040b9" title="Make sure to call VerifyNewQualifierAsset if this call returns true. " alt="" coords="763,1797,957,1838"/>
+<area shape="rect" id="node29" href="$assets_2assets_8cpp.html#a7067ccf651efe7337751d3e2c0dff435" title="QualifierAssetFromTransaction" alt="" coords="488,1820,691,1847"/>
+<area shape="rect" id="node30" href="$class_c_transaction.html#a91fff4a7a020c5c82d9cff4bde33e34c" title="Make sure to call VerifyNewAsset if this call returns true. " alt="" coords="757,1879,963,1921"/>
+<area shape="rect" id="node31" href="$assets_2assets_8cpp.html#a051baaa1cc187e0058f4b7b0da060e0a" title="RestrictedAssetFromTransaction" alt="" coords="482,1921,697,1948"/>
+<area shape="rect" id="node32" href="$class_c_coins_view_cache.html#af097128dca85eb8f94b864015d839d46" title="Just check whether a given outpoint is unspent. " alt="" coords="490,1972,689,1999"/>
+<area shape="rect" id="node33" href="$class_c_coins_view_cache.html#a81968ae5f809c461f1d537c5feb84c5c" title="Add a coin. " alt="" coords="494,2023,685,2049"/>
+<area shape="rect" id="node34" href="$assets_2assets_8cpp.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="537,309,642,336"/>
+<area shape="rect" id="node35" href="$assets_2assets_8cpp.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="776,305,944,332"/>
+<area shape="rect" id="node36" href="$class_c_assets_cache.html#adb0700615ebccd3188e0d2239651eedf" title="CAssetsCache::AddTransfer\lAsset" alt="" coords="494,2074,685,2115"/>
+<area shape="rect" id="node37" href="$assets_2messages_8cpp.html#a27c2172658a0b240d76947771c7137b1" title="IsChannelSubscribed" alt="" coords="516,2140,663,2167"/>
+<area shape="rect" id="node38" href="$assets_2assets_8cpp.html#af95cbe060a64b5acafd13a047b7b4201" title="Get the root name of an asset. " alt="" coords="802,1355,918,1381"/>
+<area shape="rect" id="node39" href="$assets_2messages_8cpp.html#a4908ac4883b21feb4bd1d58f400b0123" title="IsAddressSeen" alt="" coords="534,2191,645,2217"/>
+<area shape="rect" id="node40" href="$assets_2messages_8cpp.html#a4d257b3d4cb2f011cecf4046593e7d90" title="AddChannel" alt="" coords="543,2241,636,2268"/>
+<area shape="rect" id="node41" href="$assets_2messages_8cpp.html#a0725c74cf60e86e8ee66dfe0baa3081a" title="AddAddressSeen" alt="" coords="528,2292,651,2319"/>
+<area shape="rect" id="node42" href="$ismine_8cpp.html#a60a6865dd5664b8e9878a5380ca3e359" title="IsMine" alt="" coords="559,2367,620,2393"/>
+<area shape="rect" id="node43" href="$class_c_script.html#a9acd6acffdeb24610da43cfee4dd914c" title="CScript::IsNullAsset" alt="" coords="518,512,661,539"/>
+<area shape="rect" id="node44" href="$class_c_script.html#aac24b30ab15732057cbb98378324c061" title="CScript::IsNullAssetTxData\lScript" alt="" coords="767,458,953,499"/>
+<area shape="rect" id="node45" href="$class_c_script.html#a2ee2617133c136e3cf5e6c558933522c" title="CScript::IsNullGlobalRestriction\lAssetTxDataScript" alt="" coords="756,555,964,597"/>
+<area shape="rect" id="node46" href="$assets_2assets_8cpp.html#a818c53c297f28619f6d8bfd1dff63748" title="AssetNullDataFromScript" alt="" coords="504,411,675,437"/>
+<area shape="rect" id="node47" href="$class_c_assets_cache.html#a304f6c549595ab326e97bfbc629dc522" title="Changes Memory Only, this only called when adding a block to the chain. " alt="" coords="488,2418,691,2459"/>
+<area shape="rect" id="node48" href="$class_c_assets_cache.html#aec715d565a4e21dede13bbbfe5d3ce03" title="Changes Memory Only, this only called when adding a block to the chain. " alt="" coords="494,1406,685,1447"/>
+<area shape="rect" id="node49" href="$assets_2assets_8cpp.html#a4a357145c18abde9a5ade7e7686c01a0" title="GlobalAssetNullDataFromScript" alt="" coords="485,664,693,691"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CDBEnv::Salvage" name="CDBEnv::Salvage">
+<area shape="rect" id="node2" href="$class_c_d_b.html#adaf61592305effb05fdfd23a5b7008ca" title="CDB::Recover" alt="" coords="183,31,291,57"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#a7afc156ac22c92eb131c7f8a797cc7c4" title="CWalletDB::Recover" alt="" coords="339,31,484,57"/>
+<area shape="rect" id="node4" href="$class_c_wallet_d_b.html#ac077bf1cc1a55a364743a67d953f4601" title="CWalletDB::Recover" alt="" coords="563,5,708,32"/>
+<area shape="rect" id="node5" href="$class_c_wallet_d_b.html#a337d72e68ddcd35d2f2517c57979e0ac" title="CWalletDB::VerifyDatabaseFile" alt="" coords="532,56,739,83"/>
+</map>

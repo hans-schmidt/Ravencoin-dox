@@ -1,0 +1,51 @@
+<map id="WalletView::setWalletModel" name="WalletView::setWalletModel">
+<area shape="rect" id="node2" href="$class_transaction_view.html#a4920c2cd57d72eb50248948fa160c83c" title="TransactionView::setModel" alt="" coords="269,212,449,238"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#afe9f7d149f1e8335033c69dab1dc277d" title="WalletModel::getTransaction\lTableModel" alt="" coords="551,36,739,78"/>
+<area shape="rect" id="node8" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="256,818,461,845"/>
+<area shape="rect" id="node19" href="$class_receive_coins_dialog.html#a856e5bbe280d792004e97e703f42c7f8" title="ReceiveCoinsDialog\l::setModel" alt="" coords="574,335,715,376"/>
+<area shape="rect" id="node24" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="267,1130,451,1157"/>
+<area shape="rect" id="node31" href="$class_address_book_page.html#a1282cda9cb0300ee04c472ec4c9949f3" title="AddressBookPage::setModel" alt="" coords="263,1574,454,1601"/>
+<area shape="rect" id="node34" href="$class_wallet_model.html#a89ed202e2dbc04aaa70d72872b95b351" title="WalletModel::getAddressTable\lModel" alt="" coords="259,1626,459,1667"/>
+<area shape="rect" id="node35" href="$class_assets_dialog.html#a7724156dfba2b1a62c13c1b708e37b0a" title="AssetsDialog::setModel" alt="" coords="278,1524,439,1550"/>
+<area shape="rect" id="node43" href="$class_create_asset_dialog.html#affceaf7b5ffeeda6f20ecb354ff4e7f8" title="CreateAssetDialog::\lsetModel" alt="" coords="289,1456,429,1498"/>
+<area shape="rect" id="node45" href="$class_reissue_asset_dialog.html#aedb26df763c8cda11fea5a0c07ca70a0" title="ReissueAssetDialog\l::setModel" alt="" coords="288,1355,429,1396"/>
+<area shape="rect" id="node46" href="$class_wallet_view.html#ad348f2ed9f843ef9125ca416307c7412" title="Re&#45;emit encryption status signal. " alt="" coords="260,1691,457,1732"/>
+<area shape="rect" id="node47" href="$class_wallet_model.html#a253afef5b3b76de34e72bbfa084e8c3a" title="WalletModel::hdEnabled" alt="" coords="277,1757,440,1784"/>
+<area shape="rect" id="node48" href="$class_wallet_view.html#aed3fc203d310243887be68bc58d741ec" title="Show incoming transaction notification for new transactions. " alt="" coords="240,44,477,70"/>
+<area shape="rect" id="node49" href="$class_wallet_view.html#ac258d549f0e55ad4f84b9d21848faf02" title="Ask for passphrase to unlock wallet temporarily. " alt="" coords="273,1808,444,1834"/>
+<area shape="rect" id="node50" href="$class_wallet_view.html#a8a1f4b689abc0f1073c547ec1f871a26" title="Show progress dialog e.g. " alt="" coords="269,1858,448,1885"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="1079,852,1279,878"/>
+<area shape="rect" id="node5" href="$class_options_model.html#ad1d75a279030057c8bcbdfad5051b870" title="OptionsModel::getThirdParty\lTxUrls" alt="" coords="551,167,739,208"/>
+<area shape="rect" id="node6" href="$class_transaction_view.html#a4f0b28d3a8557d6f490f250bf74b7d5d" title="TransactionView::updateWatch\lOnlyColumn" alt="" coords="543,102,747,143"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#ab5e8e946e9ac3ddc9dc6a203e61968e2" title="WalletModel::haveWatchOnly" alt="" coords="547,284,742,310"/>
+<area shape="rect" id="node9" href="$class_wallet_model.html#a84e33b2581207fd8980494ffaace6338" title="WalletModel::getAssetTable\lModel" alt="" coords="551,400,738,442"/>
+<area shape="rect" id="node10" href="$class_overview_page.html#af6c8fa5b40ecb62b17d6506e369105f3" title="OverviewPage::setBalance" alt="" coords="831,633,1011,660"/>
+<area shape="rect" id="node11" href="$class_wallet_model.html#a0450a3bf3302518efef17423f7d4e10f" title="WalletModel::getBalance" alt="" coords="838,1105,1005,1132"/>
+<area shape="rect" id="node12" href="$class_wallet_model.html#a5028f20a33e0d17942abeea537916736" title="WalletModel::getUnconfirmed\lBalance" alt="" coords="547,1388,742,1430"/>
+<area shape="rect" id="node13" href="$class_wallet_model.html#ac5dbbc28b2c8ecd2e00fb45c6a2cb6f8" title="WalletModel::getImmature\lBalance" alt="" coords="557,1454,732,1495"/>
+<area shape="rect" id="node14" href="$class_wallet_model.html#a6d9050286d99bccb4a28a8d88f0ca5f8" title="WalletModel::getWatchBalance" alt="" coords="542,1206,747,1233"/>
+<area shape="rect" id="node15" href="$class_wallet_model.html#a691b35afd9aff056e1398fd057691ff1" title="WalletModel::getWatchUnconfirmed\lBalance" alt="" coords="529,1258,761,1299"/>
+<area shape="rect" id="node16" href="$class_wallet_model.html#a9da743fbe881d4928eeafc48f50ef3d5" title="WalletModel::getWatchImmature\lBalance" alt="" coords="538,1323,751,1364"/>
+<area shape="rect" id="node17" href="$class_overview_page.html#a03f19b9afd9af4b72d9bba7b0c7cf900" title="OverviewPage::updateDisplayUnit" alt="" coords="533,633,756,660"/>
+<area shape="rect" id="node18" href="$class_overview_page.html#a55febf9c3251e68a45d258a3e81625ef" title="OverviewPage::updateWatch\lOnlyLabels" alt="" coords="549,466,741,507"/>
+<area shape="rect" id="node20" href="$class_wallet_model.html#ab13ca64220a1652d63e1e042d3be578f" title="WalletModel::getRecentRequests\lTableModel" alt="" coords="812,254,1031,295"/>
+<area shape="rect" id="node21" href="$class_recent_requests_table_model.html#a63ba78741b7115af25908f88d138c201" title="RecentRequestsTableModel\l::sort" alt="" coords="828,319,1015,360"/>
+<area shape="rect" id="node22" href="$class_receive_coins_dialog.html#a19eca7743c5326eee821bb8c0af234bb" title="ReceiveCoinsDialog\l::updateDisplayUnit" alt="" coords="851,516,992,558"/>
+<area shape="rect" id="node23" href="$class_receive_coins_dialog.html#a7f6250ef737d2700d392612813f1d03c" title="ReceiveCoinsDialog\l::recentRequestsView\l_selectionChanged" alt="" coords="846,385,997,441"/>
+<area shape="rect" id="node25" href="$class_send_coins_entry.html#a831f8f9a63acd77b7d66d5393e12310b" title="SendCoinsEntry::setModel" alt="" coords="832,734,1011,761"/>
+<area shape="rect" id="node26" href="$class_send_coins_dialog.html#a0c199a70e05ecc35500043caad0d8a4f" title="SendCoinsDialog::setBalance" alt="" coords="823,852,1019,878"/>
+<area shape="rect" id="node27" href="$class_send_coins_dialog.html#a74815ad8502b126200b6fd2e59e9f042" title="SendCoinsDialog::updateDisplayUnit" alt="" coords="525,902,764,929"/>
+<area shape="rect" id="node28" href="$class_send_coins_dialog.html#ae4f429aabcaf309aa314b90049be2a74" title="SendCoinsDialog::coinControl\lUpdateLabels" alt="" coords="823,786,1020,827"/>
+<area shape="rect" id="node29" href="$class_send_coins_dialog.html#af13ddd00abec4f060632d887b5e838a3" title="SendCoinsDialog::coinControl\lFeatureChanged" alt="" coords="546,786,743,827"/>
+<area shape="rect" id="node30" href="$class_options_model.html#a2b094b0e95f630938054c90b35956263" title="OptionsModel::getCoinControl\lFeatures" alt="" coords="546,1519,743,1560"/>
+<area shape="rect" id="node32" href="$class_address_book_page.html#a9df2b5984c8b4ab2c4b5eade1aab8f3e" title="Set button states based on selected tab and selection. " alt="" coords="549,2242,740,2283"/>
+<area shape="rect" id="node33" href="$class_address_book_page.html#ab62ba5d31e2d64c4d901da58d6b32a59" title="New entry/entries were added to address table. " alt="" coords="545,2307,745,2348"/>
+<area shape="rect" id="node36" href="$class_send_assets_entry.html#a6201ca053ebf69795ee0312472036a2d" title="SendAssetsEntry::setModel" alt="" coords="552,1854,737,1881"/>
+<area shape="rect" id="node37" href="$class_assets_dialog.html#af3951dea68ad087b42122a8dc1addf79" title="AssetsDialog::setBalance" alt="" coords="835,1972,1008,1998"/>
+<area shape="rect" id="node38" href="$class_assets_dialog.html#a4783cfe81eecd969402459a0aae2f840" title="AssetsDialog::updateDisplayUnit" alt="" coords="537,1972,752,1998"/>
+<area shape="rect" id="node39" href="$class_assets_dialog.html#ac99b7ca264654902abc757ec8dbcbfae" title="AssetsDialog::assetControl\lUpdateLabels" alt="" coords="830,2074,1013,2115"/>
+<area shape="rect" id="node40" href="$class_assets_dialog.html#a5995462309ec839a5b2938c86fca04f1" title="AssetsDialog::assetControl\lFeatureChanged" alt="" coords="553,2074,736,2115"/>
+<area shape="rect" id="node41" href="$class_assets_dialog.html#a58a66d2821375b5e6f272c8122a6237d" title="AssetsDialog::customFeeFeature\lChanged" alt="" coords="536,1906,753,1947"/>
+<area shape="rect" id="node42" href="$class_options_model.html#aca31ee4dc3e7b4dbe1bf96cdb6d795d5" title="OptionsModel::getCustomFee\lFeatures" alt="" coords="547,1687,743,1728"/>
+<area shape="rect" id="node44" href="$class_create_asset_dialog.html#ab0ea60584abb674b5cc1fba988c638dc" title="CreateAssetDialog::\lsetBalance" alt="" coords="851,1418,991,1459"/>
+</map>

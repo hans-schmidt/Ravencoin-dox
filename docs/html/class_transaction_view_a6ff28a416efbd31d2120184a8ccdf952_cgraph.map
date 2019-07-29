@@ -1,0 +1,7 @@
+<map id="TransactionView::showAssets" name="TransactionView::showAssets">
+<area shape="rect" id="node2" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="295,5,433,32"/>
+<area shape="rect" id="node3" href="$class_transaction_filter_proxy.html#aaacec79a6362b13ee4cfab7f770e33b5" title="TransactionFilterProxy\l::TYPE" alt="" coords="287,57,441,98"/>
+<area shape="rect" id="node4" href="$class_transaction_view.html#af4b19d9c7a562361f95d2d7897d38a19" title="TransactionView::copyAssetName" alt="" coords="252,123,476,149"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#ae231227ad96528c828e1c846f253f642" title="Copy a field of the currently selected entry of a view to the clipboard. " alt="" coords="524,123,685,149"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#aef655b19f129179ca32f11a4d0da1a07" title="GUIUtil::setClipboard" alt="" coords="733,123,880,149"/>
+</map>

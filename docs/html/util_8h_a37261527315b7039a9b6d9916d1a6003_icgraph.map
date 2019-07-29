@@ -1,0 +1,11 @@
+<map id="CopyrightHolders" name="CopyrightHolders">
+<area shape="rect" id="node2" href="$init_8h.html#ac9e2081343d328ca68b7c4c4793442d2" title="Returns licensing information (for &#45;version) " alt="" coords="227,46,317,73"/>
+<area shape="rect" id="node6" href="$class_splash_screen.html#aa6f816612e26f1fec23e428b0f290c2d" title="SplashScreen::SplashScreen" alt="" coords="176,97,368,123"/>
+<area shape="rect" id="node7" href="$util_8h.html#ac481a378af0229bf71e3d9fee7b938ad" title="TraceThread" alt="" coords="225,147,319,174"/>
+<area shape="rect" id="node3" href="$class_help_message_dialog.html#a776ac4235e2a407223c7729d7d4af6a9" title="&quot;Help message&quot; or &quot;About&quot; dialog box " alt="" coords="457,5,603,47"/>
+<area shape="rect" id="node4" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="499,71,561,98"/>
+<area shape="rect" id="node5" href="$ravend_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="778,71,829,98"/>
+<area shape="rect" id="node8" href="$class_c_connman.html#a999ec42f1515f77096556c94c29c6538" title="CConnman::WakeMessageHandler" alt="" coords="416,122,644,149"/>
+<area shape="rect" id="node10" href="$class_c_connman.html#aa4709e5604e0f4369dada0a211493565" title="CConnman::Start" alt="" coords="963,147,1087,174"/>
+<area shape="rect" id="node9" href="$class_c_connman.html#a765597cbfe99c083d8fa3d61bb464e34" title="CConnman::ThreadSocketHandler" alt="" coords="692,122,915,149"/>
+</map>

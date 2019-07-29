@@ -1,0 +1,7 @@
+<map id="CBasicKeyStore::GetPubKey" name="CBasicKeyStore::GetPubKey">
+<area shape="rect" id="node2" href="$class_c_crypto_key_store.html#af57d6ee7c31e1d9673e811a32aaa5ebc" title="CCryptoKeyStore::GetPubKey" alt="" coords="248,31,448,57"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#abe0b4462654768f301d1f758f7907ca2" title="WalletModel::getPubKey" alt="" coords="510,5,677,32"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a1690e528ea9f2db9375e34d0eb55e1b5" title="Used by addmultisigaddress / createmultisig: " alt="" coords="496,56,691,83"/>
+<area shape="rect" id="node5" href="$misc_8cpp.html#a06cf46754b31a639f71af1530ce32a0a" title="createmultisig" alt="" coords="755,31,857,57"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#a35279acfa0bfaf424d5137da424eb8db" title="addmultisigaddress" alt="" coords="739,81,873,108"/>
+</map>

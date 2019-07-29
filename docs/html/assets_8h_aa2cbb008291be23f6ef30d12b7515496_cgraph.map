@@ -1,0 +1,12 @@
+<map id="CheckEncoded" name="CheckEncoded">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#ab1ad26491b92ed7cd206887146119fab" title="EncodeAssetData" alt="" coords="180,31,308,57"/>
+<area shape="rect" id="node6" href="$validation_8cpp.html#a149d069990401daec0d9fef9f81c1c74" title="AreMessagingDeployed" alt="" coords="164,81,324,108"/>
+<area shape="rect" id="node7" href="$utilstrencodings_8cpp.html#a9f23401f4b871ed693f7a96a9ba40c58" title="IsHex" alt="" coords="215,132,273,159"/>
+<area shape="rect" id="node9" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="225,183,263,209"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#af119a3e3b2be69ab1febba47dc9ded76" title="EncodeIPFS" alt="" coords="389,5,485,32"/>
+<area shape="rect" id="node5" href="$utilstrencodings_8h.html#ace13a819ca4e98c22847d26b3b357e75" title="HexStr" alt="" coords="405,56,468,83"/>
+<area shape="rect" id="node4" href="$base58_8cpp.html#a8d6f0e9d5df175b4966dcede31dc90ad" title="Why base&#45;58 instead of standard base&#45;64 encoding? " alt="" coords="549,5,660,32"/>
+<area shape="rect" id="node8" href="$utilstrencodings_8cpp.html#aa59e8a8c5a39cb5041f93bb95dd02119" title="HexDigit" alt="" coords="400,132,473,159"/>
+<area shape="rect" id="node10" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="372,183,501,209"/>
+<area shape="rect" id="node11" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="375,233,498,260"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ChaCha20::SetKey" name="ChaCha20::SetKey">
+<area shape="rect" id="node2" href="$class_cha_cha20.html#a9c2237a8696089b4f203ef2007309484" title="ChaCha20::ChaCha20" alt="" coords="188,5,343,32"/>
+<area shape="rect" id="node3" href="$class_fast_random_context.html#a7fa6ad2737010ee65ee38c9a0fdcf727" title="FastRandomContext::\lRandomSeed" alt="" coords="190,57,341,98"/>
+<area shape="rect" id="node11" href="$class_fast_random_context.html#a3e62f86fd62a8527e171dc27580cb7b2" title="Initialize with explicit seed (only for testing) " alt="" coords="190,122,341,163"/>
+<area shape="rect" id="node4" href="$class_fast_random_context.html#afe719582d74b5ce1dd61042ee27fc2c5" title="FastRandomContext::\lFillByteBuffer" alt="" coords="391,57,541,98"/>
+<area shape="rect" id="node5" href="$class_fast_random_context.html#aaa7592f37a6e2b0ea2ce38f0b0ef0474" title="generate a random uint256. " alt="" coords="788,21,939,62"/>
+<area shape="rect" id="node7" href="$class_fast_random_context.html#a59cd586d02fb2b0fd4014a437166c62a" title="Generate a random 64&#45;bit integer. " alt="" coords="589,86,740,127"/>
+<area shape="rect" id="node6" href="$class_fast_random_context.html#a8ea3fd2c7b2961aa1ee93ca5dc6ad6cf" title="Generate a random 32&#45;bit integer. " alt="" coords="1185,21,1336,62"/>
+<area shape="rect" id="node8" href="$class_fast_random_context.html#a39c2ce180d58c55e663ec2ba05593a37" title="FastRandomContext::\lFillBitBuffer" alt="" coords="788,86,939,127"/>
+<area shape="rect" id="node9" href="$class_fast_random_context.html#a95c5189461e49a34f9a9c9127f409481" title="Generate a random (bits)&#45;bit integer. " alt="" coords="987,86,1137,127"/>
+<area shape="rect" id="node10" href="$class_fast_random_context.html#a721778ad4418922703ac4b7c14ab4722" title="Generate a random boolean. " alt="" coords="1185,86,1336,127"/>
+</map>

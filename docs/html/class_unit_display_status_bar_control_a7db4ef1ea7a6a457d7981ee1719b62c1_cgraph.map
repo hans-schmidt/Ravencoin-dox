@@ -1,0 +1,9 @@
+<map id="UnitDisplayStatusBarControl::UnitDisplayStatusBarControl" name="UnitDisplayStatusBarControl::UnitDisplayStatusBarControl">
+<area shape="rect" id="node2" href="$class_unit_display_status_bar_control.html#aeb1291e39e016cb77c340db456bef03f" title="Creates context menu, its actions, and wires up all the relevant signals for mouse events..." alt="" coords="252,107,443,149"/>
+<area shape="rect" id="node3" href="$class_raven_units.html#a52174845724f666a3f26f4c6c7e907ad" title="Get list of units, for drop&#45;down box. " alt="" coords="495,5,677,32"/>
+<area shape="rect" id="node4" href="$class_raven_units.html#a357d3a6cb01154a8da132d435c7fd436" title="Short name. " alt="" coords="521,56,651,83"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#a7dc4348099a7576c8376a60a437401d0" title="PlatformStyle::DarkOrange\lColor" alt="" coords="497,225,675,266"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="503,173,669,200"/>
+<area shape="rect" id="node7" href="$class_unit_display_status_bar_control.html#a8989bed2d30e0e376046356adc216a12" title="Tells underlying optionsModel to update its current display unit. " alt="" coords="491,107,681,149"/>
+<area shape="rect" id="node8" href="$class_options_model.html#a42efacc748130848acc20247a7ed4617" title="Updates current unit in memory, settings and emits displayUnitChanged(newUnit) signal. " alt="" coords="729,115,925,141"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="CreateAssetDialog::updateCoinControlState" name="CreateAssetDialog::updateCoinControlState">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#aa37a4311db27c51221f53f80e958a38d" title="CreateAssetDialog::\lupdateSmartFeeLabel" alt="" coords="224,71,373,112"/>
+<area shape="rect" id="node13" href="$class_create_asset_dialog.html#a0395a5dd6501b9332c904c89d0356531" title="CreateAssetDialog::\lcoinControlUpdateLabels" alt="" coords="215,188,383,229"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#a06344b22bf8b2ec84692c3988e4d36a4" title="CreateAssetDialog::\lsetClientModel" alt="" coords="453,5,593,47"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#a14c45db711ab138f4c2e52fa81c5f50a" title="CreateAssetDialog::\lupdateDisplayUnit" alt="" coords="453,71,593,112"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#affceaf7b5ffeeda6f20ecb354ff4e7f8" title="CreateAssetDialog::\lsetModel" alt="" coords="663,129,803,171"/>
+<area shape="rect" id="node6" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="851,137,1037,163"/>
+<area shape="rect" id="node7" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1085,137,1248,163"/>
+<area shape="rect" id="node8" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1296,137,1475,163"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1996,100,2171,141"/>
+<area shape="rect" id="node10" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1523,159,1701,200"/>
+<area shape="rect" id="node11" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1749,166,1948,193"/>
+<area shape="rect" id="node12" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1996,165,2171,207"/>
+<area shape="rect" id="node14" href="$class_create_asset_dialog.html#a0798fb7d7daa16c4d49001170c4a4d37" title="CreateAssetDialog::\lonAssetTypeActivated" alt="" coords="445,253,600,295"/>
+<area shape="rect" id="node19" href="$class_create_asset_dialog.html#aecfbf86c3d3e5e8d1fac156b8df28f5a" title="CreateAssetDialog::\lcoinControlFeatureChanged" alt="" coords="431,188,615,229"/>
+<area shape="rect" id="node20" href="$class_create_asset_dialog.html#a48181a6ef7b33bc3cbe27313f7e2a16a" title="CreateAssetDialog::\lcoinControlButtonClicked" alt="" coords="437,319,608,360"/>
+<area shape="rect" id="node15" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="663,319,803,360"/>
+<area shape="rect" id="node16" href="$class_create_asset_dialog.html#a093dbb5a197e9fbe2bab3e7529f65340" title="CreateAssetDialog::\lselectTypeName" alt="" coords="663,253,803,295"/>
+<area shape="rect" id="node17" href="$class_create_asset_dialog.html#a9900289907248e0b67e838f4a2db2f6e" title="CreateAssetDialog::\lfocusSubAsset" alt="" coords="874,220,1014,261"/>
+<area shape="rect" id="node18" href="$class_create_asset_dialog.html#abbaaae0c6a41b5888e86f17c2e1e4ac2" title="CreateAssetDialog::\lfocusUniqueAsset" alt="" coords="874,285,1014,327"/>
+</map>

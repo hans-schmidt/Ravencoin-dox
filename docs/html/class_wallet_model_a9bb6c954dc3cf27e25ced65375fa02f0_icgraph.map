@@ -1,0 +1,6 @@
+<map id="WalletModel::lockCoin" name="WalletModel::lockCoin">
+<area shape="rect" id="node2" href="$class_asset_control_dialog.html#a382655b94d4220e5a57fc14f078c4231" title="AssetControlDialog\l::lockCoin" alt="" coords="207,5,342,47"/>
+<area shape="rect" id="node4" href="$class_coin_control_dialog.html#a92d82e9a08d81b99fda6546d83f63a19" title="CoinControlDialog::\llockCoin" alt="" coords="207,71,343,112"/>
+<area shape="rect" id="node3" href="$class_asset_control_dialog.html#acaafd2a83fa87e3cf4b6748e25a1346a" title="AssetControlDialog\l::AssetControlDialog" alt="" coords="391,5,533,47"/>
+<area shape="rect" id="node5" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="394,71,530,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PlatformStyle::DarkOrangeColor" name="PlatformStyle::DarkOrangeColor">
+<area shape="rect" id="node2" href="$class_platform_style.html#ac42929f849f2c64caf85681596409801" title="Colorize an icon (given filename) with the color dark orange. " alt="" coords="232,57,439,83"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="495,71,677,112"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#a4bc013871d7f7d6639b4493a3292b258" title="Create the toolbars. " alt="" coords="245,158,425,185"/>
+<area shape="rect" id="node9" href="$class_unit_display_status_bar_control.html#a7db4ef1ea7a6a457d7981ee1719b62c1" title="UnitDisplayStatusBarControl\l::UnitDisplayStatusBarControl" alt="" coords="487,235,685,276"/>
+<area shape="rect" id="node10" href="$class_unit_display_status_bar_control.html#aeb1291e39e016cb77c340db456bef03f" title="Creates context menu, its actions, and wires up all the relevant signals for mouse events..." alt="" coords="240,260,431,301"/>
+<area shape="rect" id="node4" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="744,5,947,47"/>
+<area shape="rect" id="node5" href="$class_send_coins_entry.html#a6eae20cd564011773931fc724f4d787c" title="SendCoinsEntry::SendCoins\lEntry" alt="" coords="751,71,940,112"/>
+<area shape="rect" id="node6" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="733,137,957,163"/>
+<area shape="rect" id="node8" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="509,158,663,185"/>
+</map>

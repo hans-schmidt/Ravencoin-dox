@@ -1,0 +1,5 @@
+<map id="CValidationState::GetRejectCode" name="CValidationState::GetRejectCode">
+<area shape="rect" id="node2" href="$class_peer_logic_validation.html#a124965d7310e0df08cc027d4e1cbbe7b" title="Notifies listeners of a block validation result. " alt="" coords="277,5,414,47"/>
+<area shape="rect" id="node3" href="$validation_8h.html#a86ed1d2d0837b905d74c2e4192b6c06a" title="Convert CValidationState to a human&#45;readable message for logging. " alt="" coords="272,71,419,98"/>
+<area shape="rect" id="node4" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="467,71,613,98"/>
+</map>

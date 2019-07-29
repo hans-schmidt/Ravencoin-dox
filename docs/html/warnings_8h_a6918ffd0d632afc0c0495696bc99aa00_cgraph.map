@@ -1,0 +1,6 @@
+<map id="GetWarnings" name="GetWarnings">
+<area shape="rect" id="node2" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="220,31,259,57"/>
+<area shape="rect" id="node5" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="152,81,327,108"/>
+<area shape="rect" id="node3" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="375,5,504,32"/>
+<area shape="rect" id="node4" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="378,56,501,83"/>
+</map>

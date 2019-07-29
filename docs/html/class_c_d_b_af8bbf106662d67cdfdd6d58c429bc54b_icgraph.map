@@ -1,0 +1,8 @@
+<map id="CDB::Close" name="CDB::Close">
+<area shape="rect" id="node2" href="$class_c_d_b_env.html#a09c5850b88919553a8db416ce288ff1a" title="CDBEnv::Flush" alt="" coords="147,107,261,133"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b_wrapper.html#a572a667c9f054a35383e5b1a4aef3d59" title="Make sure all changes are flushed to disk. " alt="" coords="321,5,499,32"/>
+<area shape="rect" id="node4" href="$class_c_wallet_d_b_wrapper.html#a4e802134bbda01ddbd0efa47e6613e15" title="Get a name for this database, for debugging etc. " alt="" coords="309,56,511,83"/>
+<area shape="rect" id="node5" href="$class_c_d_b.html#af4f5b02f07e4c381c17c926bc6853bf7" title="CDB::~CDB" alt="" coords="362,107,458,133"/>
+<area shape="rect" id="node6" href="$struct_wallet_testing_setup.html#a33e783ffa83796a3611f0b0d9796e0ad" title="WalletTestingSetup\l::~WalletTestingSetup" alt="" coords="334,158,486,199"/>
+<area shape="rect" id="node7" href="$class_list_coins_testing_setup.html#a0c0a4a902f27bc4dbb9e0d53f4e1851f" title="ListCoinsTestingSetup\l::~ListCoinsTestingSetup" alt="" coords="325,223,495,265"/>
+</map>

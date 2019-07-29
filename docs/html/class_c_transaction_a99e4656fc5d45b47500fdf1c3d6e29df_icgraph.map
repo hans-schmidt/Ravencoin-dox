@@ -1,0 +1,18 @@
+<map id="CTransaction::IsNewAsset" name="CTransaction::IsNewAsset">
+<area shape="rect" id="node2" href="$assets_8h.html#a8a084b5bdaacece583a040f7cc35c867" title="These types of asset tx, have specific metadata at certain indexes in the transaction. " alt="" coords="235,73,390,100"/>
+<area shape="rect" id="node4" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="479,124,558,150"/>
+<area shape="rect" id="node16" href="$assets_8h.html#ae0585dc12a2da58dae341e245e550d1c" title="OwnerFromTransaction" alt="" coords="233,22,392,49"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="645,22,852,49"/>
+<area shape="rect" id="node8" href="$class_transaction_record.html#a9f5db4465fa5fdcc3f9af525096bcdb9" title="TransactionRecord::\ldecomposeTransaction" alt="" coords="440,175,597,216"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="659,124,839,150"/>
+<area shape="rect" id="node6" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="699,73,798,100"/>
+<area shape="rect" id="node7" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="933,73,1032,100"/>
+<area shape="rect" id="node9" href="$class_transaction_table_priv.html#a1f81da5d7cfb2aac03a5e18e6bc91792" title="TransactionTablePriv\l::refreshWallet" alt="" coords="676,240,821,282"/>
+<area shape="rect" id="node11" href="$class_transaction_table_priv.html#a5a8454ce91251c4d9eb927bf2850745c" title="TransactionTablePriv\l::updateWallet" alt="" coords="676,175,821,216"/>
+<area shape="rect" id="node10" href="$class_transaction_table_model.html#ac5cc82df37f09b4aed2d20628a77e756" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="900,240,1065,282"/>
+<area shape="rect" id="node12" href="$class_transaction_table_model.html#a8de43b3c7ba0612304906eb5a2f51a06" title="TransactionTableModel\l::updateTransaction" alt="" coords="904,175,1061,216"/>
+<area shape="rect" id="node13" href="$class_transaction_view.html#a8dc3e9fc910cec4f6764d84c21941180" title="TransactionView::abandonTx" alt="" coords="1113,157,1304,184"/>
+<area shape="rect" id="node15" href="$class_transaction_view.html#a6cf5d062668e5e29c6203b6e0dc3836b" title="TransactionView::bumpFee" alt="" coords="1118,208,1299,234"/>
+<area shape="rect" id="node14" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="1352,157,1576,184"/>
+<area shape="rect" id="node17" href="$assets_8h.html#a98273b6a8cc26bdce717969b985c0c92" title="IsNewOwnerTxValid" alt="" coords="447,22,590,49"/>
+</map>

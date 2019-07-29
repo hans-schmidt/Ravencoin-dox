@@ -1,0 +1,5 @@
+<map id="RavenGUI::requestedRestart" name="RavenGUI::requestedRestart">
+<area shape="rect" id="node2" href="$class_raven_g_u_i.html#aee6029ecc46cd969e016af6cbe8f02c9" title="Get restart command&#45;line parameters and request restart. " alt="" coords="245,5,419,32"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="467,5,639,32"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="687,5,841,32"/>
+</map>

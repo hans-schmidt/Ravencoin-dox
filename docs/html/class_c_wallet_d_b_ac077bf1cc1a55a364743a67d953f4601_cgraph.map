@@ -1,0 +1,7 @@
+<map id="CWalletDB::Recover" name="CWalletDB::Recover">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#a7afc156ac22c92eb131c7f8a797cc7c4" title="CWalletDB::Recover" alt="" coords="199,56,344,83"/>
+<area shape="rect" id="node3" href="$class_c_d_b.html#adaf61592305effb05fdfd23a5b7008ca" title="CDB::Recover" alt="" coords="392,56,500,83"/>
+<area shape="rect" id="node4" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="581,5,653,32"/>
+<area shape="rect" id="node5" href="$class_c_d_b_env.html#ad1a7c8aabbea282347acece998883905" title="CDBEnv::Salvage" alt="" coords="552,56,681,83"/>
+<area shape="rect" id="node6" href="$class_c_d_b_env.html#a5f1daab338b2098ea693efad6edefb9b" title="CDBEnv::TxnBegin" alt="" coords="548,107,685,133"/>
+</map>

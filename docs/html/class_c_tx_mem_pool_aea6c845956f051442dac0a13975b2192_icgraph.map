@@ -1,0 +1,12 @@
+<map id="CTxMemPool::CalculateDescendants" name="CTxMemPool::CalculateDescendants">
+<area shape="rect" id="node2" href="$class_block_assembler.html#af0307ce7a51afb8b63c3e6458e96b276" title="Add descendants of given transactions to mapModifiedTx with ancestor state updated assuming given tra..." alt="" coords="298,5,523,47"/>
+<area shape="rect" id="node4" href="$blockchain_8cpp.html#a926e1fc050c32fd678ba2da9688a469c" title="getmempooldescendants" alt="" coords="327,71,494,98"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#a1bdc49203ca7654d8508c356bcbca47e" title="CTxMemPool::removeRecursive" alt="" coords="305,122,517,149"/>
+<area shape="rect" id="node10" href="$class_c_tx_mem_pool.html#a076041ea11b38722d1419c1640bf6ac4" title="Affect CreateNewBlock prioritisation of transactions. " alt="" coords="296,173,525,199"/>
+<area shape="rect" id="node3" href="$class_block_assembler.html#ae70b1a66271f21fd4bc9dd0e72b3091d" title="Add transactions based on feerate including unconfirmed ancestors Increments nPackagesSelected / nDes..." alt="" coords="573,13,792,39"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#a8de8c50a57558d2f20cb2d584f491f8a" title="CTxMemPool::removeConflicts" alt="" coords="580,71,785,98"/>
+<area shape="rect" id="node9" href="$validation_8cpp.html#aaa1204b724d7b62f09ef22df4c6a592d" title="UpdateMempoolForReorg" alt="" coords="597,122,768,149"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#ad140b39a0be43b4c0ca1872ba7323351" title="Called when a block is connected. " alt="" coords="840,71,1045,98"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="1093,71,1299,98"/>
+<area shape="rect" id="node11" href="$mining_8cpp.html#a617a6a3bdefa5ef27a13d8e138e8c292" title="prioritisetransaction" alt="" coords="615,173,750,199"/>
+</map>

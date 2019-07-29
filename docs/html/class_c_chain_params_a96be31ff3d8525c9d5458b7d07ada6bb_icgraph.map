@@ -1,0 +1,5 @@
+<map id="CChainParams::MineBlocksOnDemand" name="CChainParams::MineBlocksOnDemand">
+<area shape="rect" id="node2" href="$class_block_assembler.html#a24b566785f9f88bc72d744095b89c607" title="Construct a new block template with coinbase to scriptPubKeyIn. " alt="" coords="240,5,431,47"/>
+<area shape="rect" id="node3" href="$mining_8cpp.html#a10cdffdab4c77633047f774c424a3713" title="setgenerate" alt="" coords="290,71,381,98"/>
+<area shape="rect" id="node4" href="$misc_8cpp.html#a79ad4fea3fd47edbddef7bf1ed9a4980" title="setmocktime" alt="" coords="287,122,384,149"/>
+</map>

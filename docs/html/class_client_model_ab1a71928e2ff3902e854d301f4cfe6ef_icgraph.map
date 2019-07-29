@@ -1,0 +1,11 @@
+<map id="ClientModel::getNumConnections" name="ClientModel::getNumConnections">
+<area shape="rect" id="node2" href="$class_client_model.html#ab57c3a8365dd3f455f84521353facee7" title="Returns enum BlockSource of the current importing/syncing state. " alt="" coords="274,5,465,32"/>
+<area shape="rect" id="node3" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="773,107,968,133"/>
+<area shape="rect" id="node9" href="$class_r_p_c_console.html#a62c423db4ed102ce48dc650e15e49a96" title="Update UI with latest network info from model. " alt="" coords="272,107,467,149"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1016,107,1195,133"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1716,70,1891,111"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1243,129,1421,170"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1469,136,1668,163"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1716,135,1891,177"/>
+<area shape="rect" id="node10" href="$class_r_p_c_console.html#acb43211055d842769637a2de7e0a6c4d" title="Set network state shown in the UI. " alt="" coords="515,157,725,184"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="GetProxy" name="GetProxy">
+<area shape="rect" id="node2" href="$class_c_connman.html#ac810542ffa683d5dde5e5524b5ce2e4e" title="CConnman::ConnectNode" alt="" coords="148,109,324,136"/>
+<area shape="rect" id="node8" href="$class_options_dialog.html#a44ffc21aae73b251333b75907aa8ff8c" title="OptionsDialog::updateDefault\lProxyNets" alt="" coords="139,198,333,239"/>
+<area shape="rect" id="node14" href="$class_options_model.html#a0fa582a801df3753c2c50840c40bb350" title="OptionsModel::getProxySettings" alt="" coords="131,268,341,295"/>
+<area shape="rect" id="node26" href="$misc_8cpp.html#a2400abe7a0ff2ecbe8122a2edc1235d9" title="getinfo" alt="" coords="205,319,267,345"/>
+<area shape="rect" id="node3" href="$class_c_connman.html#a3bd6aed18096f954c24c80b32c876da5" title="CConnman::OpenNetworkConnection" alt="" coords="389,71,632,97"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#a161f1b41271db1a10cec61a825524b5d" title="CConnman::ProcessOneShot" alt="" coords="680,5,875,32"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#ac4c8cf5142f88565e789f3b173d89b3e" title="CConnman::ThreadOpenConnections" alt="" coords="923,47,1163,73"/>
+<area shape="rect" id="node7" href="$class_c_connman.html#a0b787caf95e52a346a2b31a580d60a62" title="CConnman::ThreadOpenAdded\lConnections" alt="" coords="941,98,1145,139"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#aa4709e5604e0f4369dada0a211493565" title="CConnman::Start" alt="" coords="1230,76,1354,103"/>
+<area shape="rect" id="node9" href="$class_options_dialog.html#a11e902a52cb7472497d14e70cd9399d9" title="OptionsDialog::setModel" alt="" coords="428,147,593,173"/>
+<area shape="rect" id="node13" href="$class_options_dialog.html#a361ac4fdb9bafd3cad531e055084dd08" title="OptionsDialog::on_okButton\l_clicked" alt="" coords="418,198,603,239"/>
+<area shape="rect" id="node10" href="$class_raven_g_u_i.html#a18e94f625f9327f3718c02f3a2d4d21c" title="Show configuration dialog. " alt="" coords="688,161,867,188"/>
+<area shape="rect" id="node11" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="957,164,1129,191"/>
+<area shape="rect" id="node12" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="1215,164,1369,191"/>
+<area shape="rect" id="node15" href="$class_options_model.html#ad1d75a279030057c8bcbdfad5051b870" title="OptionsModel::getThirdParty\lTxUrls" alt="" coords="417,263,605,305"/>
+<area shape="rect" id="node24" href="$class_payment_server.html#a2f94f2c3e12d03199870e17008535302" title="PaymentServer::initNetManager" alt="" coords="407,329,615,356"/>
+<area shape="rect" id="node16" href="$class_transaction_view.html#a4920c2cd57d72eb50248948fa160c83c" title="TransactionView::setModel" alt="" coords="687,271,867,297"/>
+<area shape="rect" id="node17" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="949,271,1136,297"/>
+<area shape="rect" id="node18" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1211,271,1373,297"/>
+<area shape="rect" id="node19" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1421,271,1600,297"/>
+<area shape="rect" id="node20" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="2121,234,2296,275"/>
+<area shape="rect" id="node21" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1648,293,1827,334"/>
+<area shape="rect" id="node22" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1875,300,2073,327"/>
+<area shape="rect" id="node23" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="2121,299,2296,341"/>
+<area shape="rect" id="node25" href="$class_payment_server.html#abb6c65fabbf97ba95381997ca9cd6993" title="PaymentServer::uiReady" alt="" coords="693,329,861,356"/>
+</map>

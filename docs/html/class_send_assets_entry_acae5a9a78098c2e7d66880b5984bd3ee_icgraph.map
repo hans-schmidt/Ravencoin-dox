@@ -1,0 +1,5 @@
+<map id="SendAssetsEntry::setValue" name="SendAssetsEntry::setValue">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="238,13,409,39"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#a22d1a45433ed5eac4c5ee523c8ceb00b" title="AssetsDialog::focusAsset" alt="" coords="236,63,411,90"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a6ef27cbd6256b7af509e3f10a2e2e89c" title="AssetsDialog::handlePayment\lRequest" alt="" coords="459,5,657,47"/>
+</map>

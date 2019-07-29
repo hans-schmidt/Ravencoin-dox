@@ -1,0 +1,5 @@
+<map id="CWallet::HasWalletSpend" name="CWallet::HasWalletSpend">
+<area shape="rect" id="node2" href="$class_c_fee_bumper.html#aa35e522f4d08f765930432ed62a2dc20" title="CFeeBumper::precondition\lChecks" alt="" coords="228,23,405,65"/>
+<area shape="rect" id="node3" href="$class_c_fee_bumper.html#a79933391dc45130c9a026ad35ed91b85" title="CFeeBumper::CFeeBumper" alt="" coords="453,5,637,32"/>
+<area shape="rect" id="node4" href="$class_c_fee_bumper.html#a073cc20ae7290e5a5dfbec5a544d06c9" title="CFeeBumper::commit" alt="" coords="470,56,621,83"/>
+</map>

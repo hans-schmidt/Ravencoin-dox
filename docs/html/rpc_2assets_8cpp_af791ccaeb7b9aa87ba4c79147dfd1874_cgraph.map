@@ -1,0 +1,11 @@
+<map id="getassetdata" name="getassetdata">
+<area shape="rect" id="node2" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="361,39,500,65"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="179,39,285,65"/>
+<area shape="rect" id="node4" href="$rpc_2assets_8cpp.html#a41e81a808809b12fd795b404d39ac60a" title="AssetActivationWarning" alt="" coords="151,89,313,116"/>
+<area shape="rect" id="node5" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="174,140,290,167"/>
+<area shape="rect" id="node6" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="170,191,294,217"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="171,241,293,268"/>
+<area shape="rect" id="node9" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="153,292,311,319"/>
+<area shape="rect" id="node10" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="159,343,305,369"/>
+<area shape="rect" id="node8" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="362,241,499,268"/>
+</map>

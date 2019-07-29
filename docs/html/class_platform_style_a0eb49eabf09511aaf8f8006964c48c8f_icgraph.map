@@ -1,0 +1,6 @@
+<map id="PlatformStyle::LightOrangeColor" name="PlatformStyle::LightOrangeColor">
+<area shape="rect" id="node2" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="232,71,415,112"/>
+<area shape="rect" id="node3" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="473,5,676,47"/>
+<area shape="rect" id="node4" href="$class_send_coins_entry.html#a6eae20cd564011773931fc724f4d787c" title="SendCoinsEntry::SendCoins\lEntry" alt="" coords="480,71,669,112"/>
+<area shape="rect" id="node5" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="463,137,687,163"/>
+</map>

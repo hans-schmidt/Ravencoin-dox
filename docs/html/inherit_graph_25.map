@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_asset_amount_field.html" title="AssetAmountField" alt="" coords="129,5,259,32"/>
+<area shape="rect" id="node3" href="$class_modal_overlay.html" title="Modal overlay to display information about the chain&#45;sync state. " alt="" coords="143,56,245,83"/>
+<area shape="rect" id="node4" href="$class_overview_page.html" title="Overview (&quot;home&quot;) page widget. " alt="" coords="141,107,247,133"/>
+<area shape="rect" id="node5" href="$class_raven_amount_field.html" title="Widget for entering raven amounts. " alt="" coords="127,157,261,184"/>
+<area shape="rect" id="node6" href="$class_r_p_c_console.html" title="Local Raven RPC console. " alt="" coords="145,208,243,235"/>
+<area shape="rect" id="node7" href="$class_shutdown_window.html" title="&quot;Shutdown&quot; window " alt="" coords="131,259,257,285"/>
+<area shape="rect" id="node8" href="$class_splash_screen.html" title="Class for the splashscreen with information of the running client. " alt="" coords="143,309,245,336"/>
+<area shape="rect" id="node9" href="$class_traffic_graph_widget.html" title="TrafficGraphWidget" alt="" coords="127,360,261,387"/>
+<area shape="rect" id="node10" href="$class_transaction_view.html" title="Widget showing the transaction list for a wallet, including a filter row. " alt="" coords="135,411,253,437"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="ReissueAssetDialog::coinControlFeatureChanged" name="ReissueAssetDialog::coinControlFeatureChanged">
+<area shape="rect" id="node2" href="$class_c_coin_control.html#aadca0a9e82e1e6d84dff4649e1d29d31" title="CCoinControl::SetNull" alt="" coords="257,47,409,73"/>
+<area shape="rect" id="node3" href="$class_reissue_asset_dialog.html#a1e9d3cbaee7306f1b731c9d275800730" title="ReissueAssetDialog\l::coinControlUpdateLabels" alt="" coords="245,98,421,139"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="469,5,669,32"/>
+<area shape="rect" id="node5" href="$class_reissue_asset_dialog.html#a49f5d9f228024a524cb7dd7bc29bd4ff" title="ReissueAssetDialog\l::updateCoinControlState" alt="" coords="485,57,654,98"/>
+<area shape="rect" id="node7" href="$assets_2assets_8cpp.html#a8fa417e13099076d2179c9e269efa87f" title="GetBurnAmount" alt="" coords="512,147,627,173"/>
+<area shape="rect" id="node8" href="$class_coin_control_dialog.html#a4fc60e89b097952ff22dc0f9c58c87d9" title="CoinControlDialog::\lupdateLabels" alt="" coords="501,201,637,242"/>
+<area shape="rect" id="node6" href="$policy_2fees_8cpp.html#a71cff9731ecdee1cef8bfc2c12dc3842" title="getConfTargetForIndex" alt="" coords="730,61,886,88"/>
+<area shape="rect" id="node9" href="$policy_8cpp.html#ab18c1023518f2920e34e05ca324d0ebb" title="IsDust" alt="" coords="777,264,839,291"/>
+<area shape="rect" id="node24" href="$class_c_coin_control.html#ad2022117a10ff787973af3d7aa62df6f" title="CCoinControl::ListSelected" alt="" coords="717,315,899,341"/>
+<area shape="rect" id="node25" href="$class_wallet_model.html#a5237ea4d9724807a05e2944e5ce6f181" title="WalletModel::getOutputs" alt="" coords="725,112,891,139"/>
+<area shape="rect" id="node26" href="$class_wallet_model.html#acb24dd4388e6daef526667fb365a57b1" title="WalletModel::isSpent" alt="" coords="735,163,881,189"/>
+<area shape="rect" id="node28" href="$class_c_coin_control.html#a7f9b8135840df5907bc49a4c5cb19ba4" title="CCoinControl::UnSelect" alt="" coords="727,213,889,240"/>
+<area shape="rect" id="node10" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="947,239,1100,265"/>
+<area shape="rect" id="node13" href="$policy_8cpp.html#a7b1001b4a41a02d9469e3b6985587300" title="GetDustThreshold" alt="" coords="959,301,1087,328"/>
+<area shape="rect" id="node11" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1593,315,1701,341"/>
+<area shape="rect" id="node12" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="1767,336,1901,363"/>
+<area shape="rect" id="node14" href="$class_c_script.html#a11c26ad1d03fa2d60a733337c21b6719" title="Returns whether the script is guaranteed to fail at execution, regardless of the initial stack..." alt="" coords="1159,276,1320,303"/>
+<area shape="rect" id="node20" href="$serialize_8h.html#aeb209536f7b746673a9c3fba8651b0e5" title="GetSerializeSize" alt="" coords="1180,327,1299,353"/>
+<area shape="rect" id="node21" href="$class_c_script.html#ae6f2ab1af6361c5772f62b28b19f5eae" title="CScript::IsWitnessProgram" alt="" coords="1148,377,1331,404"/>
+<area shape="rect" id="node15" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1399,428,1513,455"/>
+<area shape="rect" id="node16" href="$classprevector_1_1iterator.html#ae9dd2b5e8d96f866e4b05d6b7535f285" title="prevector::iterator\l::iterator" alt="" coords="1585,366,1709,407"/>
+<area shape="rect" id="node17" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="1581,432,1712,459"/>
+<area shape="rect" id="node18" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="1765,407,1903,433"/>
+<area shape="rect" id="node19" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="1760,457,1908,484"/>
+<area shape="rect" id="node22" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="Encode/decode small integers: " alt="" coords="1379,479,1533,505"/>
+<area shape="rect" id="node23" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1403,377,1509,404"/>
+<area shape="rect" id="node27" href="$group__map_wallet.html#ga6adcf1c224ed3c3fe4b0b19f6fca75d8" title="Outpoint is spent if any non&#45;conflicted transaction spends it: " alt="" coords="962,163,1085,189"/>
+</map>

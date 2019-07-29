@@ -1,0 +1,5 @@
+<map id="GetSpentIndex" name="GetSpentIndex">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#ad5ae2f4442200f4d80e7b3aa61ec0435" title="CTxMemPool::getSpentIndex" alt="" coords="173,5,367,32"/>
+<area shape="rect" id="node3" href="$class_c_block_tree_d_b.html#acca1254c911a40dafe2c977058cdf852" title="CBlockTreeDB::ReadSpentIndex" alt="" coords="163,56,377,83"/>
+<area shape="rect" id="node4" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="425,56,564,83"/>
+</map>

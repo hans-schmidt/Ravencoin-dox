@@ -1,0 +1,10 @@
+<map id="ProduceSignature" name="ProduceSignature">
+<area shape="rect" id="node2" href="$ismine_8h.html#a4195950ab5803ec41e62b459117b3473" title="IsMine" alt="" coords="233,5,295,32"/>
+<area shape="rect" id="node3" href="$sign_8h.html#a831677aaa27f4b63770ed92f09a493fe" title="Produce a script signature for a transaction. " alt="" coords="213,56,315,83"/>
+<area shape="rect" id="node5" href="$struct_signature_data.html#aee920d76f133d8d46195452fee5c1fa2" title="SignatureData::SignatureData" alt="" coords="399,107,595,133"/>
+<area shape="rect" id="node6" href="$class_witnessifier.html#a5d25a6af669cf09c4f776d7cfee7f17b" title="Witnessifier::operator()" alt="" coords="187,157,341,184"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga21ff2b0ff060e9cb3280a0c35b4b03d9" title="RVN END. " alt="" coords="179,208,349,235"/>
+<area shape="rect" id="node9" href="$class_c_wallet.html#a839950ab45648151dfc7f4a66ae694c7" title="CWallet::DummySignTx" alt="" coords="182,259,346,285"/>
+<area shape="rect" id="node4" href="$sign_8h.html#a7d397fef39a9b6931c55bfdc207c332e" title="SignSignature" alt="" coords="445,56,548,83"/>
+<area shape="rect" id="node8" href="$class_c_fee_bumper.html#aa8e923e67944cf4a989e7de1d749a1db" title="CFeeBumper::signTransaction" alt="" coords="397,208,596,235"/>
+</map>

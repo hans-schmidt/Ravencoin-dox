@@ -1,0 +1,51 @@
+<map id="CCoinsViewCache::SpendCoin" name="CCoinsViewCache::SpendCoin">
+<area shape="rect" id="node2" href="$class_c_coins_view_cache.html#aad44dd0b312871702e46ddfb449cecba" title="CCoinsViewCache::FetchCoin" alt="" coords="259,5,461,32"/>
+<area shape="rect" id="node4" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="1016,183,1155,209"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="259,816,461,843"/>
+<area shape="rect" id="node21" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="1203,613,1251,640"/>
+<area shape="rect" id="node46" href="$class_c_out_point.html#ab0026adab6a1098cf00de05c872fbb5d" title="COutPoint::ToString" alt="" coords="538,1093,678,1120"/>
+<area shape="rect" id="node3" href="$class_c_coins_view.html#a435080be262889508365787dcc75cf95" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="533,5,683,32"/>
+<area shape="rect" id="node6" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="531,816,685,843"/>
+<area shape="rect" id="node8" href="$assets_2assets_8cpp.html#a2fbfdd85314963be71beacc69bf7188b" title="AssetFromScript" alt="" coords="548,891,668,917"/>
+<area shape="rect" id="node14" href="$rpc_2assets_8cpp.html#ad4e434d502a68b796fa86a9ed50c5862" title="transfer" alt="" coords="575,512,641,539"/>
+<area shape="rect" id="node44" href="$assets_2assets_8cpp.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="524,992,692,1019"/>
+<area shape="rect" id="node45" href="$assets_2assets_8cpp.html#aeb621c6bc4f2815a9c8f0aebdf0a397b" title="OwnerAssetFromScript" alt="" coords="529,1043,687,1069"/>
+<area shape="rect" id="node48" href="$rpc_2assets_8cpp.html#ada9eee324855c73e13fbf6d9bd44b77e" title="reissue" alt="" coords="576,385,640,412"/>
+<area shape="rect" id="node49" href="$assets_2assets_8cpp.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="524,941,692,968"/>
+<area shape="rect" id="node50" href="$assets_2assets_8cpp.html#a0def7c4c8ea4d94f1e54d32d2a6d4456" title="This will get the amount that an address for a certain asset contains from the database if they cache..." alt="" coords="509,461,707,488"/>
+<area shape="rect" id="node7" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1031,929,1139,956"/>
+<area shape="rect" id="node9" href="$assets_2assets_8cpp.html#ac84c0956bcb6810989cbf6a37a345548" title="Check script and see if it matches the asset issuance template. " alt="" coords="797,891,925,917"/>
+<area shape="rect" id="node10" href="$standard_8cpp.html#a951f7e601746ae076afdf3169ecca2fc" title="Parse a standard scriptPubKey for the destination address. " alt="" coords="796,1093,927,1120"/>
+<area shape="rect" id="node11" href="$base58_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="795,941,927,968"/>
+<area shape="rect" id="node12" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="804,992,919,1019"/>
+<area shape="rect" id="node13" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="809,1043,914,1069"/>
+<area shape="rect" id="node15" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="808,259,915,285"/>
+<area shape="rect" id="node16" href="$rpc_2assets_8cpp.html#a41e81a808809b12fd795b404d39ac60a" title="AssetActivationWarning" alt="" coords="780,208,943,235"/>
+<area shape="rect" id="node17" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="803,360,919,387"/>
+<area shape="rect" id="node18" href="$rpcwallet_8cpp.html#a1de07aa72f31cf1b1a3ea94307b7b566" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="755,411,968,437"/>
+<area shape="rect" id="node19" href="$rpcwallet_8cpp.html#ae44c9e4546fdf6e182276fada0126649" title="EnsureWalletIsAvailable" alt="" coords="779,461,943,488"/>
+<area shape="rect" id="node20" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="1028,613,1143,640"/>
+<area shape="rect" id="node40" href="$safemode_8cpp.html#aa7985a8405eaf7b4b8e269dc39be5e30" title="ObserveSafeMode" alt="" coords="796,512,927,539"/>
+<area shape="rect" id="node41" href="$rpcwallet_8cpp.html#a4eb48c19268ebfbfc0e9b6d7904e877f" title="EnsureWalletIsUnlocked" alt="" coords="778,613,945,640"/>
+<area shape="rect" id="node42" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="800,309,923,336"/>
+<area shape="rect" id="node43" href="$assets_2assets_8cpp.html#a48456563eb2897bdd74fc743f7fef2cf" title="Check if an asset is a qualifier asset or sub qualifier. " alt="" coords="782,664,941,691"/>
+<area shape="rect" id="node22" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="1338,183,1425,209"/>
+<area shape="rect" id="node23" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="1319,233,1444,260"/>
+<area shape="rect" id="node24" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="1302,284,1461,311"/>
+<area shape="rect" id="node25" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="1337,335,1426,361"/>
+<area shape="rect" id="node26" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="1334,385,1429,412"/>
+<area shape="rect" id="node27" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="1299,436,1464,463"/>
+<area shape="rect" id="node28" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="1317,487,1445,513"/>
+<area shape="rect" id="node29" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="1332,537,1431,564"/>
+<area shape="rect" id="node30" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="1310,588,1453,615"/>
+<area shape="rect" id="node31" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="1316,639,1447,665"/>
+<area shape="rect" id="node32" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="1337,689,1425,716"/>
+<area shape="rect" id="node33" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="1315,740,1448,767"/>
+<area shape="rect" id="node34" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="1330,791,1433,817"/>
+<area shape="rect" id="node35" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="1340,841,1423,868"/>
+<area shape="rect" id="node36" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="1331,892,1432,919"/>
+<area shape="rect" id="node37" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="1325,943,1437,969"/>
+<area shape="rect" id="node38" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="1322,993,1441,1020"/>
+<area shape="rect" id="node39" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="1331,1044,1431,1071"/>
+<area shape="rect" id="node47" href="$classbase__blob.html#a7a0d25782830d8b087c4da839f3ccdeb" title="base_blob::ToString" alt="" coords="792,1144,931,1171"/>
+</map>

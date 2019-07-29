@@ -1,0 +1,50 @@
+<map id="TransactionTableModel::index" name="TransactionTableModel::index">
+<area shape="rect" id="node2" href="$class_transaction_table_model.html#a02173c31b6014bff182e320217e30e10" title="TransactionTableModel\l::data" alt="" coords="211,329,368,370"/>
+<area shape="rect" id="node33" href="$class_transaction_table_priv.html#ac692aa6aa7820e80accc971c70e0fae5" title="TransactionTablePriv\l::index" alt="" coords="217,679,362,721"/>
+<area shape="rect" id="node3" href="$class_transaction_table_model.html#a11c11972847aeec2069953eda7abc3b2" title="TransactionTableModel\l::txStatusDecoration" alt="" coords="433,426,590,467"/>
+<area shape="rect" id="node4" href="$class_transaction_table_model.html#a8be4fd0880420a6b45fd0ea4e41454c0" title="TransactionTableModel\l::txWatchonlyDecoration" alt="" coords="428,491,595,533"/>
+<area shape="rect" id="node5" href="$class_transaction_table_model.html#af14920c007e307f892902da061e46072" title="TransactionTableModel\l::txAddressDecoration" alt="" coords="433,557,590,598"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="416,61,607,88"/>
+<area shape="rect" id="node8" href="$class_transaction_table_model.html#af91bbd6b2a712af32988d147e3f311ea" title="TransactionTableModel\l::formatTxDate" alt="" coords="433,295,590,337"/>
+<area shape="rect" id="node10" href="$class_transaction_table_model.html#aefcd45e8b170a459548ddbd308b1ad64" title="TransactionTableModel\l::formatTxType" alt="" coords="685,237,842,278"/>
+<area shape="rect" id="node11" href="$class_transaction_table_model.html#ada92bead83848f3ec231833e5964c27f" title="TransactionTableModel\l::formatTxToAddress" alt="" coords="685,106,842,147"/>
+<area shape="rect" id="node22" href="$class_transaction_table_model.html#ae2950fae820547adb84a5ed420429d02" title="TransactionTableModel\l::formatTxAmount" alt="" coords="433,361,590,402"/>
+<area shape="rect" id="node31" href="$class_transaction_table_model.html#a535a0f50a4404a73194e02c3c09e13c0" title="TransactionTableModel\l::formatTooltip" alt="" coords="433,175,590,217"/>
+<area shape="rect" id="node7" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="680,55,847,81"/>
+<area shape="rect" id="node9" href="$namespace_g_u_i_util.html#aae732a04fea25190081120bf0cc773e8" title="GUIUtil::dateTimeStr" alt="" coords="931,215,1076,241"/>
+<area shape="rect" id="node12" href="$class_transaction_table_model.html#af13204a63b9901c0d9aeb9f43f915001" title="TransactionTableModel\l::lookupAddress" alt="" coords="925,106,1082,147"/>
+<area shape="rect" id="node13" href="$class_wallet_model.html#a89ed202e2dbc04aaa70d72872b95b351" title="WalletModel::getAddressTable\lModel" alt="" coords="1147,139,1347,181"/>
+<area shape="rect" id="node14" href="$class_address_table_model.html#afcdbfc17ac480f5a57382cbcf096ccb3" title="AddressTableModel::\llabelForAddress" alt="" coords="1174,74,1319,115"/>
+<area shape="rect" id="node15" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="1434,81,1567,108"/>
+<area shape="rect" id="node16" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="1643,81,1789,108"/>
+<area shape="rect" id="node17" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1900,31,1972,57"/>
+<area shape="rect" id="node20" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="1903,81,1969,108"/>
+<area shape="rect" id="node21" href="$class_c_chain_params.html#a103c58eca4a26a71201882b3ed6c4cb4" title="CChainParams::Base58Prefix" alt="" coords="1837,132,2035,159"/>
+<area shape="rect" id="node18" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="2083,5,2165,32"/>
+<area shape="rect" id="node19" href="$glibc__compat_8cpp.html#a424ac71631da5ada2976630ff67051d1" title="__chk_fail" alt="" coords="2083,56,2165,83"/>
+<area shape="rect" id="node23" href="$core__io_8h.html#adf3de7349a7c8d2c30da429c92e4c881" title="ValueFromAmountString" alt="" coords="681,404,845,431"/>
+<area shape="rect" id="node24" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="695,353,831,380"/>
+<area shape="rect" id="node29" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="663,455,863,481"/>
+<area shape="rect" id="node30" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="665,505,861,532"/>
+<area shape="rect" id="node25" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="940,436,1067,463"/>
+<area shape="rect" id="node26" href="$class_raven_units.html#aea6fad621ac4f75381406d5ca415f78e" title="Number of Satoshis (1e&#45;8) per unit for assets. " alt="" coords="920,284,1087,311"/>
+<area shape="rect" id="node27" href="$class_raven_units.html#a56c9ff217422454061562a0612bf61ec" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="937,335,1069,361"/>
+<area shape="rect" id="node28" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="928,385,1079,412"/>
+<area shape="rect" id="node32" href="$class_transaction_table_model.html#a93d4d3f64ccd25cd409bb4811a9102e5" title="TransactionTableModel\l::formatTxStatus" alt="" coords="685,171,842,213"/>
+<area shape="rect" id="node34" href="$class_transaction_record.html#a5dd21151d6182f96c0bf42e874a62338" title="Return whether a status update is needed. " alt="" coords="931,877,1076,918"/>
+<area shape="rect" id="node36" href="$class_transaction_record.html#a9b643dd885a790ae511705a1446556be" title="Update status from core wallet tx. " alt="" coords="441,679,581,721"/>
+<area shape="rect" id="node35" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="1191,771,1303,797"/>
+<area shape="rect" id="node37" href="$class_c_merkle_tx.html#a5e7ef444cc0c2b875fba9c729ce83b10" title="CMerkleTx::IsCoinBase" alt="" coords="682,657,845,684"/>
+<area shape="rect" id="node38" href="$group__map_wallet.html#ga71efb0d5b5def8ae00a1d74b8741bfcb" title="CWalletTx::IsTrusted" alt="" coords="690,556,837,583"/>
+<area shape="rect" id="node39" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="952,607,1055,633"/>
+<area shape="rect" id="node47" href="$class_c_merkle_tx.html#a69ebd437f7b44169659c3527fe73b6ab" title="CMerkleTx::GetBlocksToMaturity" alt="" coords="655,775,872,801"/>
+<area shape="rect" id="node48" href="$class_c_merkle_tx.html#a0600dfab890747c0d4d1cfeb09a0b8c2" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="669,709,858,750"/>
+<area shape="rect" id="node40" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="1201,531,1293,557"/>
+<area shape="rect" id="node41" href="$class_c_block_index.html#aa9bd0ab02cf8b9c866618cee3a5a0583" title="CBlockIndex::GetMedianTimePast" alt="" coords="1135,581,1359,608"/>
+<area shape="rect" id="node43" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="1185,632,1308,659"/>
+<area shape="rect" id="node46" href="$tx__verify_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="Check if transaction is final and can be included in a block with the specified height and time..." alt="" coords="1209,683,1285,709"/>
+<area shape="rect" id="node42" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="1407,581,1595,608"/>
+<area shape="rect" id="node44" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="1465,632,1537,659"/>
+<area shape="rect" id="node45" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="&quot;Never go to sea with two chronometers; take one or three.&quot; Our three time sources are: ..." alt="" coords="1447,683,1555,709"/>
+<area shape="rect" id="node49" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="940,767,1067,793"/>
+</map>

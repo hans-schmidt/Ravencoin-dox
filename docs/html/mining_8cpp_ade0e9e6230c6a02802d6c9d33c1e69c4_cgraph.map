@@ -1,0 +1,51 @@
+<map id="submitblock" name="submitblock">
+<area shape="rect" id="node2" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="209,208,316,235"/>
+<area shape="rect" id="node3" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="205,259,321,285"/>
+<area shape="rect" id="node4" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="201,309,325,336"/>
+<area shape="rect" id="node5" href="$core__io_8h.html#a7db52cf960ddbcf9cee6427f0a002c70" title="DecodeHexBlk" alt="" coords="207,360,318,387"/>
+<area shape="rect" id="node9" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="201,411,324,437"/>
+<area shape="rect" id="node11" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="205,461,320,488"/>
+<area shape="rect" id="node32" href="$class_c_block_index.html#ad8b5a6560e7c0d4222066e2922178683" title="Check whether this block index entry is valid up to the passed validity level. " alt="" coords="190,512,335,539"/>
+<area shape="rect" id="node33" href="$validation_8cpp.html#a916ce43a2b2658298882c4eb461d1110" title="Update uncommitted block structures (currently: only the witness nonce). " alt="" coords="145,563,380,589"/>
+<area shape="rect" id="node34" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="229,613,296,640"/>
+<area shape="rect" id="node35" href="$validationinterface_8cpp.html#ade8ef59282b5f7521ecfd870a8e3b137" title="Register a wallet to receive updates from core. " alt="" coords="173,813,352,840"/>
+<area shape="rect" id="node47" href="$validation_8cpp.html#a290fce59049c0951b8eb73f0129bf6f0" title="Process an incoming block. " alt="" coords="197,1257,328,1284"/>
+<area shape="rect" id="node50" href="$validationinterface_8cpp.html#a5e1776de1f87b4d045e9e2a198236b63" title="Unregister a wallet from core. " alt="" coords="167,868,358,895"/>
+<area shape="rect" id="node6" href="$utilstrencodings_8cpp.html#a9f23401f4b871ed693f7a96a9ba40c58" title="IsHex" alt="" coords="503,68,560,95"/>
+<area shape="rect" id="node8" href="$utilstrencodings_8cpp.html#a5a787187ddd5c52baae692350ec5a2cb" title="ParseHex" alt="" coords="491,245,571,272"/>
+<area shape="rect" id="node7" href="$utilstrencodings_8cpp.html#aa59e8a8c5a39cb5041f93bb95dd02119" title="HexDigit" alt="" coords="729,5,802,32"/>
+<area shape="rect" id="node10" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="463,385,600,412"/>
+<area shape="rect" id="node12" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="507,436,555,463"/>
+<area shape="rect" id="node31" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="458,487,605,513"/>
+<area shape="rect" id="node13" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="722,208,809,235"/>
+<area shape="rect" id="node14" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="703,259,828,285"/>
+<area shape="rect" id="node15" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="686,309,845,336"/>
+<area shape="rect" id="node16" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="721,360,810,387"/>
+<area shape="rect" id="node17" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="718,411,813,437"/>
+<area shape="rect" id="node18" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="683,461,848,488"/>
+<area shape="rect" id="node19" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="701,512,829,539"/>
+<area shape="rect" id="node20" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="716,563,815,589"/>
+<area shape="rect" id="node21" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="694,613,837,640"/>
+<area shape="rect" id="node22" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="700,664,831,691"/>
+<area shape="rect" id="node23" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="721,715,809,741"/>
+<area shape="rect" id="node24" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="699,765,832,792"/>
+<area shape="rect" id="node25" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="714,816,817,843"/>
+<area shape="rect" id="node26" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="724,867,807,893"/>
+<area shape="rect" id="node27" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="715,917,816,944"/>
+<area shape="rect" id="node28" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="709,56,821,83"/>
+<area shape="rect" id="node29" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="706,107,825,133"/>
+<area shape="rect" id="node30" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="715,157,815,184"/>
+<area shape="rect" id="node36" href="$class_c_validation_interface.html#a794911828f9350d82bc1941ba82e7463" title="Notifies listeners of updated block chain tip. " alt="" coords="461,865,601,906"/>
+<area shape="rect" id="node37" href="$class_c_validation_interface.html#a686fb053045c28ffe2d69a2ee85eea29" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="430,930,633,971"/>
+<area shape="rect" id="node38" href="$class_c_validation_interface.html#a5c8ac00b2b08a57c28e8bbc991f34ed4" title="Notifies listeners of a block being connected. " alt="" coords="461,995,601,1037"/>
+<area shape="rect" id="node39" href="$class_c_validation_interface.html#a914de3420613e1a2281180f856dca88e" title="Notifies listeners of a block being disconnected. " alt="" coords="460,1061,603,1102"/>
+<area shape="rect" id="node40" href="$class_c_validation_interface.html#a8684492d9878120ce8c6c760a790f9ea" title="Notifies listeners of the new active block chain on&#45;disk. " alt="" coords="461,1126,601,1167"/>
+<area shape="rect" id="node41" href="$class_c_validation_interface.html#a981f5160a2370db0cd616c00d8bd5270" title="Notifies listeners about an inventory item being seen on the network. " alt="" coords="461,1191,601,1233"/>
+<area shape="rect" id="node42" href="$class_c_validation_interface.html#a3473492a52200fb5678c0db596a5093a" title="Tells listeners to broadcast their data. " alt="" coords="438,538,625,579"/>
+<area shape="rect" id="node43" href="$class_c_validation_interface.html#aeb34ef6814685cabc29062ed7be25441" title="Notifies listeners of a block validation result. " alt="" coords="461,603,601,645"/>
+<area shape="rect" id="node44" href="$class_c_validation_interface.html#a07bcbde7de90f5cfbc76f185465d4281" title="Notifies listeners that a block which builds directly on our current tip has been received and connec..." alt="" coords="457,669,605,710"/>
+<area shape="rect" id="node45" href="$class_c_validation_interface.html#a39109ad09e27c52f733bb7b5bdae6766" title="CValidationInterface\l::BlockFound" alt="" coords="461,734,601,775"/>
+<area shape="rect" id="node46" href="$class_c_validation_interface.html#a4ab4636bdcf502afaa3c2756dcf2b567" title="CValidationInterface\l::NewAssetMessage" alt="" coords="459,799,603,841"/>
+<area shape="rect" id="node48" href="$validation_8cpp.html#abc9c65975a473d224b3b97b89d571942" title="Functions for validating blocks and updating the block tree. " alt="" coords="485,1257,578,1284"/>
+<area shape="rect" id="node49" href="$class_c_chain_params.html#aa366d4f63c8d16d625336dca61ca65e5" title="CChainParams::GetConsensus" alt="" coords="428,1308,635,1335"/>
+</map>

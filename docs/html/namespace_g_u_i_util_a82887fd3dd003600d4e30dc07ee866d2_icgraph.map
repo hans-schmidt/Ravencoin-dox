@@ -1,0 +1,17 @@
+<map id="GUIUtil::boostPathToQString" name="GUIUtil::boostPathToQString">
+<area shape="rect" id="node2" href="$class_client_model.html#ae7a70f1c809bae1526e630e1b4522b81" title="ClientModel::dataDir" alt="" coords="273,46,415,73"/>
+<area shape="rect" id="node9" href="$namespace_g_u_i_util.html#aad169e3227e7a851db52a08bfb30391c" title="GUIUtil::openDebugLogfile" alt="" coords="255,105,433,131"/>
+<area shape="rect" id="node11" href="$namespace_g_u_i_util.html#a54f8b44c82f4b9082dbbcef28ba9414b" title="GUIUtil::openRavenConf" alt="" coords="260,162,428,189"/>
+<area shape="rect" id="node13" href="$class_intro.html#aad225845533fc7f451648dc7c9643e6a" title="Determine default data directory for operating system. " alt="" coords="245,250,443,277"/>
+<area shape="rect" id="node3" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="493,42,687,69"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="737,42,916,69"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1437,5,1612,47"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="964,64,1143,105"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1191,71,1389,98"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1437,71,1612,112"/>
+<area shape="rect" id="node10" href="$class_r_p_c_console.html#adf26672994effc0bf948e8d83e1a8cb3" title="open the debug.log from the current datadir " alt="" coords="493,93,687,135"/>
+<area shape="rect" id="node12" href="$class_options_dialog.html#a2beec99a337455faf62d6d60fb07e74b" title="OptionsDialog::on_openRaven\lConfButton_clicked" alt="" coords="491,159,689,200"/>
+<area shape="rect" id="node14" href="$class_intro.html#a2f11c0fccc56ec7bb53cfddec98ee21b" title="Intro::setDataDirectory" alt="" coords="513,225,667,251"/>
+<area shape="rect" id="node15" href="$class_intro.html#ae4cefbcd5e61f62cb2a59f38bc2ae52f" title="Intro::on_dataDirDefault\l_clicked" alt="" coords="746,243,907,284"/>
+<area shape="rect" id="node16" href="$class_intro.html#a3e0e541cd0e55fe71484055964925cfc" title="Determine data directory. " alt="" coords="509,326,671,353"/>
+</map>

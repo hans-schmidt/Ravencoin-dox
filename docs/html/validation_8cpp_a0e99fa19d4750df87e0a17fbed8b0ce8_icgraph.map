@@ -1,0 +1,51 @@
+<map id="AreAssetsDeployed" name="AreAssetsDeployed">
+<area shape="rect" id="node2" href="$assets_8h.html#af894efb762726583de09a23045325595" title="ContextualCheckNewAsset" alt="" coords="451,81,635,108"/>
+<area shape="rect" id="node6" href="$rpc_2assets_8cpp.html#a41e81a808809b12fd795b404d39ac60a" title="AssetActivationWarning" alt="" coords="216,684,379,711"/>
+<area shape="rect" id="node7" href="$rpc_2assets_8cpp.html#ab78f0085816d85628bd80b0649cb2cf1" title="issue" alt="" coords="516,380,569,407"/>
+<area shape="rect" id="node8" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="497,431,588,457"/>
+<area shape="rect" id="node9" href="$rpc_2assets_8cpp.html#a271698719ffcdd7dc76231b9f07354f4" title="listassetbalancesbyaddress" alt="" coords="451,481,634,508"/>
+<area shape="rect" id="node10" href="$rpc_2assets_8cpp.html#af791ccaeb7b9aa87ba4c79147dfd1874" title="getassetdata" alt="" coords="494,532,591,559"/>
+<area shape="rect" id="node11" href="$rpc_2assets_8cpp.html#aae09824bdb1faefa9ca6a014e774c0b3" title="listmyassets" alt="" coords="495,583,591,609"/>
+<area shape="rect" id="node12" href="$rpc_2assets_8cpp.html#ab72b63f00f56942336ffb1fd2017a1c0" title="listaddressesbyasset" alt="" coords="470,633,615,660"/>
+<area shape="rect" id="node13" href="$rpc_2assets_8cpp.html#ad4e434d502a68b796fa86a9ed50c5862" title="transfer" alt="" coords="509,684,576,711"/>
+<area shape="rect" id="node20" href="$class_c_coins_view_cache.html#ad9ccb571fa3a311828efcee46c13bd65" title="Spend a coin. " alt="" coords="961,1217,1166,1244"/>
+<area shape="rect" id="node23" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="1024,1141,1103,1168"/>
+<area shape="rect" id="node24" href="$group__map_wallet.html#gacab92d6e00f06a89a57617a80636f29c" title="CWalletTx::GetAmounts" alt="" coords="981,948,1146,975"/>
+<area shape="rect" id="node27" href="$rpc_2assets_8cpp.html#ada46b27ad209c9612f99f41ca69d2645" title="transferfromaddresses" alt="" coords="467,735,619,761"/>
+<area shape="rect" id="node28" href="$rpc_2assets_8cpp.html#aa06d4ab628195fde717fd7f32f695952" title="transferfromaddress" alt="" coords="473,785,612,812"/>
+<area shape="rect" id="node29" href="$rpc_2assets_8cpp.html#ada9eee324855c73e13fbf6d9bd44b77e" title="reissue" alt="" coords="511,937,575,964"/>
+<area shape="rect" id="node34" href="$rpc_2assets_8cpp.html#ad14bc55f69a299d5b171d4a56b596f6e" title="listassets" alt="" coords="503,836,582,863"/>
+<area shape="rect" id="node35" href="$rpc_2assets_8cpp.html#af26e07e379a41c9c155ca6e773fa0930" title="getcacheinfo" alt="" coords="495,887,591,913"/>
+<area shape="rect" id="node36" href="$rpc_2assets_8cpp.html#a447d2e0b6a295eb5faf8d355ccba3f1b" title="transferqualifier" alt="" coords="242,1191,353,1217"/>
+<area shape="rect" id="node37" href="$class_overview_page.html#ac96ea713a074e706b4b6eadaadeca9d1" title="OverviewPage::showOutOfSync\lWarning" alt="" coords="192,1242,403,1283"/>
+<area shape="rect" id="node38" href="$class_overview_page.html#a11e2786bcf2d11b233e0558b69c4a2c5" title="OverviewPage::showAssets" alt="" coords="204,1308,391,1335"/>
+<area shape="rect" id="node39" href="$class_raven_g_u_i.html#a30da8eba81ba735251d621c8ff82a61e" title="RavenGUI::showEvent" alt="" coords="219,1359,376,1385"/>
+<area shape="rect" id="node40" href="$class_transaction_record.html#a9f5db4465fa5fdcc3f9af525096bcdb9" title="TransactionRecord::\ldecomposeTransaction" alt="" coords="219,1410,376,1451"/>
+<area shape="rect" id="node41" href="$class_transaction_view.html#a5983022ff1e5395f87de3c5728eff8da" title="TransactionView::exportClicked" alt="" coords="194,1476,401,1503"/>
+<area shape="rect" id="node42" href="$class_transaction_view.html#a6ff28a416efbd31d2120184a8ccdf952" title="TransactionView::showAssets" alt="" coords="198,1527,397,1553"/>
+<area shape="rect" id="node43" href="$misc_8cpp.html#a11790e341fbdc743ac2ae28e3ab68d7f" title="getaddressmempool" alt="" coords="228,1577,367,1604"/>
+<area shape="rect" id="node44" href="$misc_8cpp.html#a1ad0d82f6f1b663ac149e605a93bab83" title="getaddressbalance" alt="" coords="232,1628,363,1655"/>
+<area shape="rect" id="node45" href="$misc_8cpp.html#af86900c2cc61f530ad429da2a2250112" title="getaddresstxids" alt="" coords="240,1679,355,1705"/>
+<area shape="rect" id="node46" href="$ismine_8h.html#a4195950ab5803ec41e62b459117b3473" title="IsMine" alt="" coords="267,1729,328,1756"/>
+<area shape="rect" id="node47" href="$validation_8cpp.html#a4eb74c7b0135bd677315175c4056f890" title="Restore the UTXO in a Coin at a given COutPoint. " alt="" coords="241,1780,353,1807"/>
+<area shape="rect" id="node48" href="$group___actions.html#ga162ea1bf42ba17165bd00653852a949b" title="Helper function that calls AvailableCoinsAll, used for transfering assets. " alt="" coords="212,1831,383,1857"/>
+<area shape="rect" id="node49" href="$group___actions.html#ga0f8c5004d31be92833facb012c052f49" title="CWallet::SelectAssets" alt="" coords="220,1881,375,1908"/>
+<area shape="rect" id="node50" href="$group___actions.html#gabb894f8914f0bf49d43a41daacb518ef" title="CWallet::CreateTransactionAll" alt="" coords="198,1932,397,1959"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="716,5,879,32"/>
+<area shape="rect" id="node4" href="$assets_8h.html#a3d93a173bcd387795f14fb76e9c534e6" title="ContextualCheckUniqueAsset" alt="" coords="698,56,897,83"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="960,340,1167,367"/>
+<area shape="rect" id="node14" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="692,391,903,433"/>
+<area shape="rect" id="node15" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="700,457,895,498"/>
+<area shape="rect" id="node16" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="690,522,905,563"/>
+<area shape="rect" id="node17" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="683,209,912,250"/>
+<area shape="rect" id="node18" href="$class_c_transaction.html#ac1ed9ac185d1ec2d9adad8f306a1a396" title="To be called on CTransactions where IsReissueAsset returns true. " alt="" coords="702,639,893,681"/>
+<area shape="rect" id="node19" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="696,857,899,884"/>
+<area shape="rect" id="node21" href="$class_c_assets_cache.html#a0c43a3a5962805c6358b90dda2abda4e" title="CAssetsCache::UndoAssetCoin" alt="" coords="692,588,903,615"/>
+<area shape="rect" id="node22" href="$assets_8h.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="745,807,850,833"/>
+<area shape="rect" id="node25" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="692,157,903,184"/>
+<area shape="rect" id="node26" href="$struct_c_asset_cache_new_transfer.html#a1f643d214b5ef28cb5d40a19c113b570" title="CAssetCacheNewTransfer\l::CAssetCacheNewTransfer" alt="" coords="704,274,891,315"/>
+<area shape="rect" id="node30" href="$assets_8h.html#a4ad4f27609f77293bff602da8bccb0d8" title="ContextualCheckReissueAsset" alt="" coords="695,756,900,783"/>
+<area shape="rect" id="node31" href="$class_c_assets_cache.html#aaf14e92e8562ade9ba2c9c3d17491976" title="CAssetsCache::operator=" alt="" coords="710,908,885,935"/>
+<area shape="rect" id="node32" href="$struct_c_asset_cache_reissue_asset.html#aa4ed130c061ec69b7a9d33144d384401" title="CAssetCacheReissueAsset\l::CAssetCacheReissueAsset" alt="" coords="700,959,895,1001"/>
+<area shape="rect" id="node33" href="$class_reissue_asset_dialog.html#ad1316b9a32506b8247aa833223f83355" title="ReissueAssetDialog\l::buildUpdatedData" alt="" coords="727,1025,868,1066"/>
+</map>

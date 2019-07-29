@@ -1,0 +1,8 @@
+<map id="CTxMemPool::removeRecursive" name="CTxMemPool::removeRecursive">
+<area shape="rect" id="node2" href="$class_c_transaction.html#a7efd1379de830341417c0bfa23a149aa" title="CTransaction::GetHash" alt="" coords="307,5,467,32"/>
+<area shape="rect" id="node3" href="$classindirectmap.html#a75843c1fb116ef691d369b6a53b52c19" title="indirectmap::find" alt="" coords="327,56,446,83"/>
+<area shape="rect" id="node4" href="$classindirectmap.html#acd46b7ca9e1569854a40327744dde108" title="indirectmap::end" alt="" coords="327,107,446,133"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#aea6c845956f051442dac0a13975b2192" title="Populate setDescendants with all in&#45;mempool descendants of hash. " alt="" coords="265,157,508,184"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#ac9a9fc881945bbcec1b174f5dd62df08" title="Remove a set of transactions from the mempool. " alt="" coords="287,208,487,235"/>
+<area shape="rect" id="node6" href="$class_c_tx_mem_pool.html#a0f163f91b8590b86acd43b26438d7ee1" title="CTxMemPool::GetMemPoolChildren" alt="" coords="556,157,791,184"/>
+</map>

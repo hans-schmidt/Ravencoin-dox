@@ -1,0 +1,9 @@
+<map id="CWallet::AbandonTransaction" name="CWallet::AbandonTransaction">
+<area shape="rect" id="node2" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="284,5,404,32"/>
+<area shape="rect" id="node3" href="$class_c_merkle_tx.html#a0600dfab890747c0d4d1cfeb09a0b8c2" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="249,57,439,98"/>
+<area shape="rect" id="node6" href="$class_c_wallet_d_b.html#a5204fbec65f5394d7174318f4dc4f483" title="CWalletDB::WriteTx" alt="" coords="273,123,415,149"/>
+<area shape="rect" id="node4" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="497,15,623,41"/>
+<area shape="rect" id="node5" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="504,65,616,92"/>
+<area shape="rect" id="node7" href="$class_c_wallet_d_b.html#a33ec32231db801e91a98afb26acf3e6a" title="CWalletDB::WriteIC" alt="" coords="489,120,631,147"/>
+<area shape="rect" id="node8" href="$class_c_merkle_tx.html#a20142f81e7ff0242db646e63e0a973b3" title="CMerkleTx::GetHash" alt="" coords="487,171,633,197"/>
+</map>

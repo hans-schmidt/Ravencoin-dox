@@ -1,0 +1,4 @@
+<map id="CBlockPolicyEstimator" name="CBlockPolicyEstimator">
+<area shape="rect" id="node2" href="$class_tx_confirm_stats.html" title="We will instantiate an instance of this class to track transactions that were included in a block..." alt="" coords="5,172,120,199"/>
+<area shape="rect" id="node3" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="144,172,261,199"/>
+</map>

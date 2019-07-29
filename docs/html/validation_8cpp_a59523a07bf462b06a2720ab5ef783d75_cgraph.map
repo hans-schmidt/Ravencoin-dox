@@ -1,0 +1,6 @@
+<map id="GetTransaction" name="GetTransaction">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#a4d4e4f6e476e22655033782e34a3064f" title="CTxMemPool::get" alt="" coords="198,5,326,32"/>
+<area shape="rect" id="node3" href="$class_c_block_tree_d_b.html#a74383427266d627e84c2d0c8e21e03c7" title="CBlockTreeDB::ReadTxIndex" alt="" coords="164,56,360,83"/>
+<area shape="rect" id="node5" href="$validation_8cpp.html#a0d81388930a4ccb6a69b9abdd1ef5097" title="Open a block file (blk?????.dat) " alt="" coords="209,107,315,133"/>
+<area shape="rect" id="node4" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="408,56,547,83"/>
+</map>

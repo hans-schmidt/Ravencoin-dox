@@ -1,0 +1,4 @@
+<map id="CWallet::ZapSelectTx" name="CWallet::ZapSelectTx">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#a85478b0b9837a3e5467dce66fcb5ffb0" title="removeprunedfunds" alt="" coords="204,5,340,32"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="388,5,511,32"/>
+</map>

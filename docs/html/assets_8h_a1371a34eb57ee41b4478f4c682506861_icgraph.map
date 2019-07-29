@@ -1,0 +1,9 @@
+<map id="RestrictedAssetFromScript" name="RestrictedAssetFromScript">
+<area shape="rect" id="node2" href="$assets_8h.html#a051baaa1cc187e0058f4b7b0da060e0a" title="RestrictedAssetFromTransaction" alt="" coords="241,56,455,83"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="511,5,717,32"/>
+<area shape="rect" id="node8" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="233,107,463,149"/>
+<area shape="rect" id="node4" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="575,56,653,83"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="765,31,945,57"/>
+<area shape="rect" id="node6" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="806,81,905,108"/>
+<area shape="rect" id="node7" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="993,81,1092,108"/>
+</map>

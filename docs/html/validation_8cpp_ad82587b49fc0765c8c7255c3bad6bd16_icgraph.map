@@ -1,0 +1,24 @@
+<map id="AreRestrictedAssetsDeployed" name="AreRestrictedAssetsDeployed">
+<area shape="rect" id="node2" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="252,5,457,32"/>
+<area shape="rect" id="node4" href="$rpc_2assets_8cpp.html#ad466b6c98e6b988560e602c272c101f7" title="RestrictedActivationWarning" alt="" coords="261,461,449,488"/>
+<area shape="rect" id="node5" href="$rpc_2assets_8cpp.html#a553a935e183cc0fe5562e3fb81e8a170" title="addtagtoaddress" alt="" coords="549,56,668,83"/>
+<area shape="rect" id="node6" href="$rpc_2assets_8cpp.html#a635dc8e538f29cd5fe67772906fa1e3c" title="removetagfromaddress" alt="" coords="531,107,686,133"/>
+<area shape="rect" id="node7" href="$rpc_2assets_8cpp.html#ae1f7aa4158eccd96f5cf9a9793f48b9d" title="freezeaddress" alt="" coords="557,157,661,184"/>
+<area shape="rect" id="node8" href="$rpc_2assets_8cpp.html#a700bc2c9d6789eb3a3d5749b84f2e57a" title="unfreezeaddress" alt="" coords="549,208,668,235"/>
+<area shape="rect" id="node9" href="$rpc_2assets_8cpp.html#a6f3bba0f102428438dc41c8bb116abc1" title="freezerestrictedasset" alt="" coords="537,259,681,285"/>
+<area shape="rect" id="node10" href="$rpc_2assets_8cpp.html#afca9ae59ab69e049736e4e2c1e8b61da" title="unfreezerestrictedasset" alt="" coords="529,309,688,336"/>
+<area shape="rect" id="node11" href="$rpc_2assets_8cpp.html#a2892e5a0d72f4d968f5e9179a520a6fe" title="listtagsforaddress" alt="" coords="546,360,671,387"/>
+<area shape="rect" id="node12" href="$rpc_2assets_8cpp.html#a3442efd5f3259bf7245567bcb7677b39" title="listaddressesfortag" alt="" coords="543,411,675,437"/>
+<area shape="rect" id="node13" href="$rpc_2assets_8cpp.html#a9c8cc2dd439186ff4104385c6cea1dca" title="listaddressrestrictions" alt="" coords="534,512,683,539"/>
+<area shape="rect" id="node14" href="$rpc_2assets_8cpp.html#abc2244f5dbc4df6b766f48e969c08df7" title="listglobalrestrictions" alt="" coords="540,563,677,589"/>
+<area shape="rect" id="node15" href="$rpc_2assets_8cpp.html#adaad4e580eaa0bf4584c8d0fbe4fc36c" title="getverifierstring" alt="" coords="553,613,664,640"/>
+<area shape="rect" id="node16" href="$rpc_2assets_8cpp.html#ada2e59c757a6a8f7acffad783b4f1e1a" title="checkaddresstag" alt="" coords="548,664,669,691"/>
+<area shape="rect" id="node17" href="$rpc_2assets_8cpp.html#a1e38f61ecfbb6601ba922d194fd298e6" title="checkaddressrestriction" alt="" coords="529,715,689,741"/>
+<area shape="rect" id="node18" href="$rpc_2assets_8cpp.html#af5ba13ee19502558bbd1443d75a62719" title="checkglobalrestriction" alt="" coords="535,765,683,792"/>
+<area shape="rect" id="node19" href="$rpc_2assets_8cpp.html#aa6ab7d8675bda368b0d113c8be075811" title="issuerestrictedasset" alt="" coords="539,816,678,843"/>
+<area shape="rect" id="node20" href="$rpc_2assets_8cpp.html#a3886527f55fafc5c4677a363cb1e2eac" title="reissuerestrictedasset" alt="" coords="533,867,684,893"/>
+<area shape="rect" id="node22" href="$rpc_2assets_8cpp.html#a119170068bd1d77d5fae7f22910ccc17" title="isvalidverifierstring" alt="" coords="543,917,674,944"/>
+<area shape="rect" id="node23" href="$validation_8h.html#ac1bcc006eda37901c1255a06f625fab3" title="IsRestrictedActive" alt="" coords="289,968,420,995"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="505,5,712,32"/>
+<area shape="rect" id="node21" href="$rpc_2assets_8cpp.html#a447d2e0b6a295eb5faf8d355ccba3f1b" title="transferqualifier" alt="" coords="553,461,664,488"/>
+</map>

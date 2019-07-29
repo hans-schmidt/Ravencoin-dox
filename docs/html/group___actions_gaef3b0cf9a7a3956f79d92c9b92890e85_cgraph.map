@@ -1,0 +1,4 @@
+<map id="CWallet::AddAccountingEntry" name="CWallet::AddAccountingEntry">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#ad96920c48370b68b08f9530516edecf2" title="This writes directly to the database, and will not update the CWallet&#39;s cached accounting entries! Us..." alt="" coords="249,5,441,47"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#a33ec32231db801e91a98afb26acf3e6a" title="CWalletDB::WriteIC" alt="" coords="489,13,631,39"/>
+</map>

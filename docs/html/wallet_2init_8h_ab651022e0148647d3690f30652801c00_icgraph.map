@@ -1,0 +1,8 @@
+<map id="FlushWallets" name="FlushWallets">
+<area shape="rect" id="node2" href="$init_8h.html#a5cb3db83cb0ba2e421f651a1ee1f2cfe" title="Preparing steps before shutting down or restarting the wallet. " alt="" coords="152,56,277,83"/>
+<area shape="rect" id="node3" href="$init_8h.html#ac5f038c2b480cf9ef5e19e3eba8dbaf9" title="Shutdown is split into 2 parts: Part 1: shut down everything but the main wallet instance (done in Pr..." alt="" coords="352,31,432,57"/>
+<area shape="rect" id="node7" href="$class_raven_core.html#ab35cedbe16324f62d058e964b03cac69" title="RavenCore::restart" alt="" coords="325,81,459,108"/>
+<area shape="rect" id="node4" href="$class_raven_core.html#a0b62b17932fa72d2ac40d4d81b2a432d" title="RavenCore::shutdown" alt="" coords="507,5,659,32"/>
+<area shape="rect" id="node5" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="551,56,614,83"/>
+<area shape="rect" id="node6" href="$ravend_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="707,56,757,83"/>
+</map>

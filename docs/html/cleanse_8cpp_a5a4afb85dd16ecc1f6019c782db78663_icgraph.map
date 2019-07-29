@@ -1,0 +1,30 @@
+<map id="memory_cleanse" name="memory_cleanse">
+<area shape="rect" id="node2" href="$class_c_base58_data.html#a250fa3bc97d03c7d87de5485c8b49b57" title="CBase58Data::SetString" alt="" coords="204,157,371,184"/>
+<area shape="rect" id="node14" href="$structsecure__allocator.html#af86cc49185bd507b8b479e070d744eb0" title="secure_allocator::deallocate" alt="" coords="195,248,379,275"/>
+<area shape="rect" id="node15" href="$structzero__after__free__allocator.html#a63a1610931a9656c9373bf5dce2db796" title="zero_after_free_allocator\l::deallocate" alt="" coords="205,299,370,341"/>
+<area shape="rect" id="node16" href="$class_c_crypter.html#a5368279e4a1549d3c1d15d8aa2179708" title="CCrypter::SetKeyFromPassphrase" alt="" coords="175,365,400,392"/>
+<area shape="rect" id="node28" href="$class_c_crypter.html#a6910b4cff4ee40e33fbb3789dc12c139" title="CCrypter::CleanKey" alt="" coords="217,416,357,443"/>
+<area shape="rect" id="node29" href="$class_c_d_b.html#a574f0a480841365815e5a6b884ac61f1" title="CDB::ReadAtCursor" alt="" coords="216,467,359,493"/>
+<area shape="rect" id="node3" href="$class_c_base58_data.html#a8e0cba75a3e0a5b21defaf1471d8659c" title="CBase58Data::SetString" alt="" coords="479,56,645,83"/>
+<area shape="rect" id="node4" href="$class_c_raven_secret.html#a7f9c012dc10a37e2f29fee2cd369aba0" title="CRavenSecret::SetString" alt="" coords="477,107,647,133"/>
+<area shape="rect" id="node12" href="$class_c_raven_address.html#ae6ce590b8ad19436b15f1280c8a2c36b" title="CRavenAddress::CRavenAddress" alt="" coords="451,157,673,184"/>
+<area shape="rect" id="node13" href="$class_c_raven_ext_key_base.html#a13e8ccdae9fbe80bdc4c4e85be0229af" title="CRavenExtKeyBase::CRaven\lExtKeyBase" alt="" coords="463,209,661,250"/>
+<area shape="rect" id="node5" href="$misc_8cpp.html#a7cc5c728930b938ed47704a71c0d0b02" title="signmessagewithprivkey" alt="" coords="749,5,915,32"/>
+<area shape="rect" id="node6" href="$rawtransaction_8cpp.html#a5b2abfea4548c97e780cfae39f9ac11b" title="signrawtransaction" alt="" coords="767,56,897,83"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="782,107,882,133"/>
+<area shape="rect" id="node9" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="786,157,878,184"/>
+<area shape="rect" id="node10" href="$rpcdump_8cpp.html#a0ccf80d09e7c16fb3035c4b81bf4a4d8" title="ProcessImport" alt="" coords="779,208,885,235"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="988,107,1111,133"/>
+<area shape="rect" id="node11" href="$wallet__tests_8cpp.html#af0e3c9469f1d8f368d3d5f38e5580367" title="importmulti" alt="" coords="1006,208,1093,235"/>
+<area shape="rect" id="node17" href="$class_test_crypter.html#a98e2c77ec91e9861e10663cc1bf7a396" title="TestCrypter::TestPassphrase\lSingle" alt="" coords="465,274,659,315"/>
+<area shape="rect" id="node18" href="$crypto__tests_8cpp.html#a333d0ca472c78361f61ffdf437b3bcd3" title="BOOST_AUTO_TEST_CASE" alt="" coords="463,340,661,367"/>
+<area shape="rect" id="node19" href="$group__map_wallet.html#ga002c61a2b74f2c46063340c568e6cc1b" title="CWallet::Unlock" alt="" coords="503,391,621,417"/>
+<area shape="rect" id="node22" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="448,441,676,468"/>
+<area shape="rect" id="node25" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="483,543,641,569"/>
+<area shape="rect" id="node20" href="$class_wallet_model.html#a6d7ebdcf0d28d058c658eb44a6c4a6c6" title="WalletModel::setWalletLocked" alt="" coords="733,340,931,367"/>
+<area shape="rect" id="node21" href="$rpcwallet_8cpp.html#ae33fa4da0b9b5726e4cf0f29b3e7663b" title="walletpassphrase" alt="" coords="771,391,893,417"/>
+<area shape="rect" id="node23" href="$class_wallet_model.html#a67ebff3f267b5c9973c0465184c085a4" title="WalletModel::changePassphrase" alt="" coords="725,441,939,468"/>
+<area shape="rect" id="node24" href="$rpcwallet_8cpp.html#acc41d3c00924c9805c9ff98816f1ea80" title="walletpassphrasechange" alt="" coords="749,492,915,519"/>
+<area shape="rect" id="node26" href="$class_wallet_model.html#a444340830badcd48e3a4dd6b03d9c4d7" title="WalletModel::setWalletEncrypted" alt="" coords="724,543,940,569"/>
+<area shape="rect" id="node27" href="$rpcwallet_8cpp.html#ad5b140b5a5d2fe49008f7e7887125470" title="encryptwallet" alt="" coords="783,593,881,620"/>
+</map>

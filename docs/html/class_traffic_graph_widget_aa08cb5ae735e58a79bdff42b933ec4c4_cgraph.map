@@ -1,0 +1,5 @@
+<map id="TrafficGraphWidget::setGraphRangeMins" name="TrafficGraphWidget::setGraphRangeMins">
+<area shape="rect" id="node2" href="$class_traffic_graph_widget.html#a71c23db2649ab8781fa9a294e540b7ee" title="TrafficGraphWidget\l::clear" alt="" coords="203,23,337,65"/>
+<area shape="rect" id="node3" href="$class_client_model.html#a3ecd021e48073debd6dfeb90fdb3e7bd" title="ClientModel::getTotalBytesRecv" alt="" coords="385,5,596,32"/>
+<area shape="rect" id="node4" href="$class_client_model.html#a53cd536b119e49b0fab9c95d13a247ed" title="ClientModel::getTotalBytesSent" alt="" coords="387,56,594,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CConnman::ForNode" name="CConnman::ForNode">
+<area shape="rect" id="node2" href="$class_peer_logic_validation.html#ac89bf1ee08fd8960559d19ab87564b0d" title="PeerLogicValidation\l::EvictExtraOutboundPeers" alt="" coords="200,13,381,54"/>
+<area shape="rect" id="node3" href="$class_peer_logic_validation.html#ad9ba8b8657346c1ce86e061d5fdaeb53" title="PeerLogicValidation\l::CheckForStaleTipAndEvict\lPeers" alt="" coords="429,5,617,61"/>
+</map>

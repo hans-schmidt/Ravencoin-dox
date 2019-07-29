@@ -1,0 +1,19 @@
+<map id="CreateAssetDialog::disableCreateButton" name="CreateAssetDialog::disableCreateButton">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#a5906e5b70ee2ad507cd8cb4b269423ac" title="CreateAssetDialog::\lcheckIPFSHash" alt="" coords="201,253,341,295"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="401,195,541,236"/>
+<area shape="rect" id="node8" href="$class_create_asset_dialog.html#a15a1a9145508ae601f890e808df4bd27" title="CreateAssetDialog::\lcheckAvailabilityClicked" alt="" coords="602,319,766,360"/>
+<area shape="rect" id="node12" href="$class_create_asset_dialog.html#afe8c4424e900a322a391a036185052cc" title="CreateAssetDialog::\lonNameChanged" alt="" coords="838,369,978,411"/>
+<area shape="rect" id="node13" href="$class_create_asset_dialog.html#a0798fb7d7daa16c4d49001170c4a4d37" title="CreateAssetDialog::\lonAssetTypeActivated" alt="" coords="193,436,348,477"/>
+<area shape="rect" id="node17" href="$class_create_asset_dialog.html#a55115517d1a8dbc8c33a4ac9798ed762" title="CreateAssetDialog::\lclear" alt="" coords="201,501,341,543"/>
+<area shape="rect" id="node10" href="$class_create_asset_dialog.html#af0bc8685461d2aa1ca30a4ba5da4a3dd" title="CreateAssetDialog::\lonIPFSHashChanged" alt="" coords="609,253,759,295"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#ad83e1c6c6ea29e74543f4afd80dce1ea" title="Helper Methods. " alt="" coords="614,71,754,112"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#af95ab6bad7ceb28ec010d3bf90abd1cc" title="CreateAssetDialog::\ltoggleIPFSText" alt="" coords="614,136,754,177"/>
+<area shape="rect" id="node9" href="$class_create_asset_dialog.html#ac9da60f170acd8f2bdc3f1af18933376" title="CreateAssetDialog::\lonAddressNameChanged" alt="" coords="823,201,993,243"/>
+<area shape="rect" id="node11" href="$class_create_asset_dialog.html#a375f356987a8233f519de5ffd97dcf84" title="CreateAssetDialog::\lonChangeAddressChanged" alt="" coords="593,5,775,47"/>
+<area shape="rect" id="node6" href="$class_create_asset_dialog.html#ad489dbbb54713a98847998d9721c7101" title="SLOTS. " alt="" coords="838,136,978,177"/>
+<area shape="rect" id="node7" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="1041,311,1181,352"/>
+<area shape="rect" id="node14" href="$class_create_asset_dialog.html#a093dbb5a197e9fbe2bab3e7529f65340" title="CreateAssetDialog::\lselectTypeName" alt="" coords="401,493,541,535"/>
+<area shape="rect" id="node15" href="$class_create_asset_dialog.html#a9900289907248e0b67e838f4a2db2f6e" title="CreateAssetDialog::\lfocusSubAsset" alt="" coords="614,552,754,593"/>
+<area shape="rect" id="node16" href="$class_create_asset_dialog.html#abbaaae0c6a41b5888e86f17c2e1e4ac2" title="CreateAssetDialog::\lfocusUniqueAsset" alt="" coords="614,487,754,528"/>
+<area shape="rect" id="node18" href="$class_create_asset_dialog.html#a0b95e3f6dd2fd1ed869b3db1bf7937f4" title="CreateAssetDialog::\lonClearButtonClicked" alt="" coords="396,588,545,629"/>
+</map>

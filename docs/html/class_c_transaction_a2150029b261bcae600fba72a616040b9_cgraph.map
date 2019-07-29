@@ -1,0 +1,5 @@
+<map id="CTransaction::IsNewQualifierAsset" name="CTransaction::IsNewQualifierAsset">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a43c3b1ec45d04f238c64199742ef2260" title="issue asset scripts to make sure script meets the standards " alt="" coords="269,29,403,56"/>
+<area shape="rect" id="node4" href="$assets_2assets_8cpp.html#ace2b2109c1a3594af01702d8a5bd2387" title="Check script and see if it matches the qualifier issuance template. " alt="" coords="248,104,424,131"/>
+<area shape="rect" id="node3" href="$assets_2assets_8cpp.html#ac84c0956bcb6810989cbf6a37a345548" title="Check script and see if it matches the asset issuance template. " alt="" coords="472,29,600,56"/>
+</map>

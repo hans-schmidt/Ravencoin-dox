@@ -1,0 +1,6 @@
+<map id="WalletView::unlockWallet" name="WalletView::unlockWallet">
+<area shape="rect" id="node2" href="$class_wallet_model.html#aa89632d2019414f2ab85674cd4d01398" title="WalletModel::getEncryption\lStatus" alt="" coords="224,23,407,65"/>
+<area shape="rect" id="node5" href="$class_ask_passphrase_dialog.html#a35b83e1ef98813b6b88155aab0803ed3" title="AskPassphraseDialog\l::setModel" alt="" coords="240,89,391,130"/>
+<area shape="rect" id="node3" href="$class_c_crypto_key_store.html#acc8fed44366c98fb481333ca6e867088" title="CCryptoKeyStore::IsCrypted" alt="" coords="455,5,645,32"/>
+<area shape="rect" id="node4" href="$class_c_crypto_key_store.html#a52919fa284a3aa10f1b4bd6018b6dbee" title="CCryptoKeyStore::IsLocked" alt="" coords="457,56,643,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="VerifyGlobalRestrictedChange" name="VerifyGlobalRestrictedChange">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a0498ed6d847d649575a15182c5522fd4" title="Helper methods that validate changes to null asset data transaction databases. " alt="" coords="275,5,442,32"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#acd5e52fc1fae482b9cf5fb5442c3250d" title="Return true if the restricted asset is globally freezing trading. " alt="" coords="252,57,465,98"/>
+<area shape="rect" id="node4" href="$class_c_restricted_d_b.html#a6ddcb49127d51221249816492261175c" title="CRestrictedDB::ReadGlobal\lRestriction" alt="" coords="513,57,700,98"/>
+<area shape="rect" id="node5" href="$class_c_d_b_wrapper.html#a38084dd7b2870e6ac3082e7521d88a29" title="CDBWrapper::Read" alt="" coords="748,64,887,91"/>
+</map>

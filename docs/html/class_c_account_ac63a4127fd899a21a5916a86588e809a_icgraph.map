@@ -1,0 +1,7 @@
+<map id="CAccount::SetNull" name="CAccount::SetNull">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#afa8d9d374072629b360adb49b9bdd584" title="CWalletDB::ReadAccount" alt="" coords="184,31,359,57"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga5f7245634960710d25795021dee8109d" title="CWallet::GetAccountPubkey" alt="" coords="407,31,597,57"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#ab19bc7a532955f6da81600c3e1b0baa3" title="GetAccountAddress" alt="" coords="645,31,784,57"/>
+<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a333562390545ba33b4dfd2bb0c76cb0e" title="getaccountaddress" alt="" coords="832,5,964,32"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#afac2373870d7a69caeec7f1d0abd5a06" title="setaccount" alt="" coords="855,56,941,83"/>
+</map>

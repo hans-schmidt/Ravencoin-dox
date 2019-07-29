@@ -1,0 +1,10 @@
+<map id="CZMQPublishNewAssetMessageNotifier::NotifyMessage" name="CZMQPublishNewAssetMessageNotifier::NotifyMessage">
+<area shape="rect" id="node2" href="$class_c_message.html#a7701a0522a9a5d914a787235f7ba95a1" title="CMessage::ToString" alt="" coords="298,31,441,57"/>
+<area shape="rect" id="node9" href="$class_c_z_m_q_abstract_publish_notifier.html#a1bec52cf2e0ef829bbd067cac11acfdd" title="CZMQAbstractPublishNotifier\l::SendMessage" alt="" coords="272,82,467,123"/>
+<area shape="rect" id="node3" href="$class_c_out_point.html#ab0026adab6a1098cf00de05c872fbb5d" title="COutPoint::ToString" alt="" coords="515,5,655,32"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#ab1ad26491b92ed7cd206887146119fab" title="EncodeAssetData" alt="" coords="521,56,649,83"/>
+<area shape="rect" id="node4" href="$classbase__blob.html#a7a0d25782830d8b087c4da839f3ccdeb" title="base_blob::ToString" alt="" coords="703,5,841,32"/>
+<area shape="rect" id="node6" href="$assets_2assets_8cpp.html#af119a3e3b2be69ab1febba47dc9ded76" title="EncodeIPFS" alt="" coords="724,56,820,83"/>
+<area shape="rect" id="node8" href="$utilstrencodings_8h.html#ace13a819ca4e98c22847d26b3b357e75" title="HexStr" alt="" coords="741,107,803,133"/>
+<area shape="rect" id="node7" href="$base58_8cpp.html#a8d6f0e9d5df175b4966dcede31dc90ad" title="Why base&#45;58 instead of standard base&#45;64 encoding? " alt="" coords="889,56,1000,83"/>
+</map>

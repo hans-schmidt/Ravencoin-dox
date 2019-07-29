@@ -1,0 +1,6 @@
+<map id="PlatformStyle::getName" name="PlatformStyle::getName">
+<area shape="rect" id="node2" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="216,39,395,80"/>
+<area shape="rect" id="node3" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="443,46,641,73"/>
+<area shape="rect" id="node4" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="689,5,864,47"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="689,71,864,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CBlockPolicyEstimator::MaxUsableEstimate" name="CBlockPolicyEstimator::MaxUsableEstimate">
+<area shape="rect" id="node2" href="$class_tx_confirm_stats.html#a34b67526e2ceea1b81d8669e3faf6a42" title="Return the max number of confirms we&#39;re tracking. " alt="" coords="211,5,432,32"/>
+<area shape="rect" id="node4" href="$class_c_block_policy_estimator.html#ad870b8402333d44c86c35ce1f40e21d7" title="Number of blocks of data recorded while fee estimates have been running. " alt="" coords="243,57,400,98"/>
+<area shape="rect" id="node5" href="$class_c_block_policy_estimator.html#a12176ac3e097524b3e7e24a7515d7ea3" title="Number of blocks of recorded fee estimate data represented in saved data file. " alt="" coords="243,122,400,163"/>
+<area shape="rect" id="node3" href="$class_tx_confirm_stats.html#a8aacab502acae6b278ede7c68c168dc8" title="Write state of estimation data to a file. " alt="" coords="480,5,633,32"/>
+</map>

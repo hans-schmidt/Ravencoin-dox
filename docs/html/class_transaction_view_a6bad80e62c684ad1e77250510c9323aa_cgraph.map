@@ -1,0 +1,51 @@
+<map id="TransactionView::TransactionView" name="TransactionView::TransactionView">
+<area shape="rect" id="node2" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="301,527,484,569"/>
+<area shape="rect" id="node17" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="560,1069,761,1096"/>
+<area shape="rect" id="node22" href="$class_transaction_filter_proxy.html#aaacec79a6362b13ee4cfab7f770e33b5" title="TransactionFilterProxy\l::TYPE" alt="" coords="584,1522,737,1563"/>
+<area shape="rect" id="node23" href="$class_transaction_view.html#a4455d37773d81280d068f0b7751150f7" title="TransactionView::createDate\lRangeWidget" alt="" coords="297,1121,488,1162"/>
+<area shape="rect" id="node26" href="$class_transaction_view.html#ae007f33ab5b6633d332f90de7e576852" title="TransactionView::copyTxPlainText" alt="" coords="280,1807,505,1833"/>
+<area shape="rect" id="node28" href="$class_transaction_view.html#ad1d088fbd25c0841dbc7c5de25583d79" title="TransactionView::openThird\lPartyTxUrl" alt="" coords="301,1289,485,1330"/>
+<area shape="rect" id="node29" href="$class_transaction_view.html#abd49a0777b14f7bf5a72a4d5901d033d" title="TransactionView::chooseDate" alt="" coords="294,1187,491,1213"/>
+<area shape="rect" id="node30" href="$class_transaction_view.html#a590f0edc4ab4d59f88d7fc494e852f80" title="TransactionView::chooseType" alt="" coords="293,1237,492,1264"/>
+<area shape="rect" id="node32" href="$class_transaction_view.html#a0f3b9936adcb622403210e7b38a64574" title="TransactionView::chooseWatchonly" alt="" coords="277,1355,508,1381"/>
+<area shape="rect" id="node34" href="$class_transaction_view.html#ab4b25a73703d7ce5da47af1e60e7e3cf" title="TransactionView::changed\lAmount" alt="" coords="305,1406,481,1447"/>
+<area shape="rect" id="node38" href="$class_transaction_view.html#a8dfe5a0bd7a7124b974102e4be44a3c2" title="TransactionView::changed\lAssetName" alt="" coords="305,1574,481,1615"/>
+<area shape="rect" id="node39" href="$class_transaction_view.html#a8708701f28afefc93ef2cff26de8429d" title="TransactionView::changed\lPrefix" alt="" coords="305,1639,481,1681"/>
+<area shape="rect" id="node40" href="$class_transaction_view.html#abe5793b86a4ea6f80a6d822ee878e646" title="TransactionView::contextualMenu" alt="" coords="283,1705,502,1732"/>
+<area shape="rect" id="node41" href="$class_transaction_view.html#a8dc3e9fc910cec4f6764d84c21941180" title="TransactionView::abandonTx" alt="" coords="297,1756,488,1783"/>
+<area shape="rect" id="node42" href="$class_transaction_view.html#a768ffc4deca27f0cfffb39003bf46f75" title="TransactionView::copyAddress" alt="" coords="291,2161,494,2188"/>
+<area shape="rect" id="node43" href="$class_transaction_view.html#a78d63230a1b7810108f46bb2366b2038" title="TransactionView::copyLabel" alt="" coords="299,1857,486,1884"/>
+<area shape="rect" id="node44" href="$class_transaction_view.html#a83e5ce148e328b673c1b6af09a1d94ea" title="TransactionView::copyAmount" alt="" coords="293,1908,493,1935"/>
+<area shape="rect" id="node45" href="$class_transaction_view.html#a465c51f03cf28f66492766b4a5da8896" title="TransactionView::copyTxID" alt="" coords="301,1959,485,1985"/>
+<area shape="rect" id="node46" href="$class_transaction_view.html#a25fb75eb5e9e95011a41614a3cfd8bc2" title="TransactionView::copyTxHex" alt="" coords="295,2009,490,2036"/>
+<area shape="rect" id="node47" href="$class_transaction_view.html#a18817639384e53f94fc1ad956d7263d9" title="TransactionView::editLabel" alt="" coords="303,2060,482,2087"/>
+<area shape="rect" id="node48" href="$class_transaction_view.html#ae62e0e0941a219c927d83190c3b5def6" title="TransactionView::showDetails" alt="" coords="293,2111,492,2137"/>
+<area shape="rect" id="node49" href="$class_transaction_view.html#a6ff28a416efbd31d2120184a8ccdf952" title="TransactionView::showAssets" alt="" coords="293,1472,492,1499"/>
+<area shape="rect" id="node50" href="$namespace_g_u_i_util.html#a8be38945b1ea26b68f766eabac8c4a2a" title="GUIUtil::getSubLabelFont" alt="" coords="307,2212,479,2239"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="819,433,986,460"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#aa8b4699f877a3c061332cd82a99e727a" title="PlatformStyle::ToolBarSelected\lTextColor" alt="" coords="558,611,763,653"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#a25cc5c8609d092f6111cadb5efc12444" title="PlatformStyle::ToolBarNot\lSelectedTextColor" alt="" coords="573,677,748,718"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="815,749,991,776"/>
+<area shape="rect" id="node7" href="$class_platform_style.html#a56c6f30a712f908bf5e68094a4bcd018" title="PlatformStyle::MainBackGround\lColor" alt="" coords="556,807,765,849"/>
+<area shape="rect" id="node8" href="$class_platform_style.html#a4cca136480c9a1c5e4163d20b007e7c7" title="PlatformStyle::TopWidget\lBackGroundColor" alt="" coords="575,873,747,914"/>
+<area shape="rect" id="node9" href="$class_platform_style.html#a4e298def69a98d6a39236f24570878bb" title="PlatformStyle::WidgetBack\lGroundColor" alt="" coords="571,938,751,979"/>
+<area shape="rect" id="node10" href="$class_platform_style.html#a9d726bbaf3b99cf536acdc973f4bba78" title="PlatformStyle::SendEntries\lBackGroundColor" alt="" coords="571,1003,751,1045"/>
+<area shape="rect" id="node11" href="$class_platform_style.html#a04f9709a73990d1c07c7aec4ab54483a" title="PlatformStyle::ShadowColor" alt="" coords="567,5,754,32"/>
+<area shape="rect" id="node12" href="$class_platform_style.html#a3afe6673b3d60f89ca34d1c23690af6c" title="PlatformStyle::LightBlue\lColor" alt="" coords="579,57,742,98"/>
+<area shape="rect" id="node13" href="$class_platform_style.html#a14c98e08414b0b1565bfd7c9e24c0dab" title="PlatformStyle::DarkBlueColor" alt="" coords="563,123,758,149"/>
+<area shape="rect" id="node14" href="$class_platform_style.html#a0eb49eabf09511aaf8f8006964c48c8f" title="PlatformStyle::LightOrange\lColor" alt="" coords="571,174,750,215"/>
+<area shape="rect" id="node15" href="$class_platform_style.html#a7dc4348099a7576c8376a60a437401d0" title="PlatformStyle::DarkOrange\lColor" alt="" coords="813,258,992,299"/>
+<area shape="rect" id="node16" href="$class_platform_style.html#adecebc4670880700203340d322351f89" title="Colorize an image (given filename) with the icon color. " alt="" coords="573,742,749,783"/>
+<area shape="rect" id="node18" href="$class_platform_style.html#ad69b335b46b2f3d8e50d4f199846114a" title="Set icon with two states on and off. " alt="" coords="573,342,749,383"/>
+<area shape="rect" id="node19" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="565,408,756,435"/>
+<area shape="rect" id="node20" href="$class_platform_style.html#ac42929f849f2c64caf85681596409801" title="Colorize an icon (given filename) with the color dark orange. " alt="" coords="557,291,764,317"/>
+<area shape="rect" id="node21" href="$class_platform_style.html#a9336bcaeed5c9210db1550f85f6e22e6" title="PlatformStyle::PlatformStyle" alt="" coords="567,509,755,536"/>
+<area shape="rect" id="node24" href="$class_transaction_view.html#ab9000969ec2cc3617b9c06caf33e747a" title="TransactionView::dateRange\lChanged" alt="" coords="565,1121,756,1162"/>
+<area shape="rect" id="node25" href="$class_transaction_filter_proxy.html#ad57cc552db9ce70bb4e8e1c12909992d" title="TransactionFilterProxy\l::setDateRange" alt="" coords="826,1150,979,1191"/>
+<area shape="rect" id="node27" href="$namespace_g_u_i_util.html#ae231227ad96528c828e1c846f253f642" title="Copy a field of the currently selected entry of a view to the clipboard. " alt="" coords="580,1933,741,1960"/>
+<area shape="rect" id="node31" href="$class_transaction_filter_proxy.html#af28eee58aee7585b71f057d044408106" title="TransactionFilterProxy\l::setTypeFilter" alt="" coords="584,1238,737,1279"/>
+<area shape="rect" id="node33" href="$class_transaction_filter_proxy.html#a63123114a91591249492278ba7223834" title="TransactionFilterProxy\l::setWatchOnlyFilter" alt="" coords="584,1303,737,1345"/>
+<area shape="rect" id="node35" href="$class_raven_units.html#affaad322be327986fd98a14404c7d81e" title="Parse string to coin amount. " alt="" coords="595,1420,726,1447"/>
+<area shape="rect" id="node36" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="561,1471,761,1497"/>
+<area shape="rect" id="node37" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="563,1369,759,1396"/>
+</map>

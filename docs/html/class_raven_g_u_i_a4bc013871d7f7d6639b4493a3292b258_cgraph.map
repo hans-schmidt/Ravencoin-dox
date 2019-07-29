@@ -1,0 +1,11 @@
+<map id="RavenGUI::createToolBars" name="RavenGUI::createToolBars">
+<area shape="rect" id="node2" href="$class_platform_style.html#a3afe6673b3d60f89ca34d1c23690af6c" title="PlatformStyle::LightBlue\lColor" alt="" coords="257,5,419,47"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a14c98e08414b0b1565bfd7c9e24c0dab" title="PlatformStyle::DarkBlueColor" alt="" coords="241,71,435,98"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#a25cc5c8609d092f6111cadb5efc12444" title="PlatformStyle::ToolBarNot\lSelectedTextColor" alt="" coords="251,123,425,164"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#aa8b4699f877a3c061332cd82a99e727a" title="PlatformStyle::ToolBarSelected\lTextColor" alt="" coords="235,188,441,229"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#a7dc4348099a7576c8376a60a437401d0" title="PlatformStyle::DarkOrange\lColor" alt="" coords="249,253,427,295"/>
+<area shape="rect" id="node7" href="$class_platform_style.html#a56c6f30a712f908bf5e68094a4bcd018" title="PlatformStyle::MainBackGround\lColor" alt="" coords="233,319,443,360"/>
+<area shape="rect" id="node8" href="$class_platform_style.html#a4cca136480c9a1c5e4163d20b007e7c7" title="PlatformStyle::TopWidget\lBackGroundColor" alt="" coords="252,384,424,425"/>
+<area shape="rect" id="node9" href="$namespace_g_u_i_util.html#ae5e1dcf10da1e70457dbfd0634bad52a" title="GUIUtil::getShadowEffect" alt="" coords="251,450,425,477"/>
+<area shape="rect" id="node10" href="$class_raven_g_u_i.html#a42943e5c0191640ec9b7a2b150c02c9c" title="RavenGUI::getPriceInfo" alt="" coords="257,501,419,527"/>
+</map>

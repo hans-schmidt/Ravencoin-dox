@@ -1,0 +1,35 @@
+<map id="ser_readdata8" name="ser_readdata8">
+<area shape="rect" id="node2" href="$struct_c_address_unspent_key.html#a5e0af8c0d517c0eb15f887dfebf4bb5f" title="CAddressUnspentKey\l::Unserialize" alt="" coords="169,62,321,103"/>
+<area shape="rect" id="node3" href="$struct_c_address_index_key.html#aa19ed3af5f9da2010d4db39982806dbc" title="CAddressIndexKey::Unserialize" alt="" coords="391,11,599,37"/>
+<area shape="rect" id="node4" href="$struct_c_address_index_iterator_asset_key.html#a6206260d2911535e63212af643f32d6a" title="CAddressIndexIteratorAsset\lKey::Unserialize" alt="" coords="401,62,588,103"/>
+<area shape="rect" id="node5" href="$struct_c_address_index_iterator_height_key.html#a89bd57085af1d5b9607c568d2a9e73b7" title="CAddressIndexIteratorHeight\lKey::Unserialize" alt="" coords="399,127,590,169"/>
+<area shape="rect" id="node6" href="$struct_c_address_index_iterator_key.html#a8c4bfe5b366a1fe227a8c767e9bf3e22" title="CAddressIndexIteratorKey\l::Unserialize" alt="" coords="157,230,333,271"/>
+<area shape="rect" id="node7" href="$serialize_8h.html#a831d6932e65a64840bb55376f08fe0a6" title="Unserialize" alt="" coords="202,843,289,869"/>
+<area shape="rect" id="node26" href="$serialize_8h.html#ae3fd928949b7361accfec79c314aa90f" title="ReadCompactSize" alt="" coords="179,296,311,323"/>
+<area shape="rect" id="node34" href="$serialize_8h.html#a6f8a5966f156fb3d7e4acc7121eea648" title="ReadVarInt" alt="" coords="201,893,289,920"/>
+<area shape="rect" id="node8" href="$struct_c_block_asset_undo.html#a5794d503b48a085170c384cc2ad6953a" title="CBlockAssetUndo::SerializationOp" alt="" coords="381,767,608,793"/>
+<area shape="rect" id="node9" href="$assettypes_8h.html#a859197bdbf37821c24b52f3433e9caa3" title="ReadWriteAssetHash" alt="" coords="420,1087,569,1113"/>
+<area shape="rect" id="node11" href="$class_c_asset_transfer.html#aec0e05b65f8e975a1b5aa3691419ad8e" title="CAssetTransfer::SerializationOp" alt="" coords="656,911,867,937"/>
+<area shape="rect" id="node13" href="$class_c_message.html#a95ce3a4d8dd77a361145e7dcbac9e61d" title="CMessage::SerializationOp" alt="" coords="404,919,585,945"/>
+<area shape="rect" id="node14" href="$class_c_hash_verifier.html#a8aa7c2e016419a36ef07d6094e72876a" title="CHashVerifier::operator\&gt;\&gt;" alt="" coords="407,969,582,996"/>
+<area shape="rect" id="node15" href="$struct_c_mutable_transaction.html#ac7c9d996b034a789f70309f1c240a64f" title="CMutableTransaction\l::CMutableTransaction" alt="" coords="417,1021,572,1062"/>
+<area shape="rect" id="node16" href="$serialize_8h.html#a5748d9d17982b234b10a4b9e6f8e9f53" title="WrapVarInt" alt="" coords="717,776,805,803"/>
+<area shape="rect" id="node17" href="$serialize_8h.html#a9dda3397ae27b0586200c5fa9293fa03" title="Unserialize_impl" alt="" coords="435,615,554,641"/>
+<area shape="rect" id="node18" href="$serialize_8h.html#a9899687a6e78dfad6ea1c099053afbd6" title="Unserialize" alt="" coords="451,665,538,692"/>
+<area shape="rect" id="node19" href="$serialize_8h.html#af025c0c8666e67f6b03f773c01a16d39" title="SerReadWrite" alt="" coords="443,716,547,743"/>
+<area shape="rect" id="node20" href="$serialize_8h.html#a1e396f5f5f5572081e36acef029c7fb9" title="UnserializeMany" alt="" coords="435,1137,554,1164"/>
+<area shape="rect" id="node21" href="$class_override_stream.html#a6a4b843eee33a00d9ae149e8a924f9b7" title="OverrideStream::operator\&gt;\&gt;" alt="" coords="403,1188,587,1215"/>
+<area shape="rect" id="node22" href="$class_c_data_stream.html#ac80cfc65569416f8c23e328edb4cadae" title="CDataStream::operator\&gt;\&gt;" alt="" coords="408,1239,581,1265"/>
+<area shape="rect" id="node23" href="$class_c_auto_file.html#ae6826219322626d2ac8229e022c41dd7" title="CAutoFile::operator\&gt;\&gt;" alt="" coords="419,1289,570,1316"/>
+<area shape="rect" id="node24" href="$class_c_buffered_file.html#ab570d5f1a173a41100e7b42b4aacbbc5" title="CBufferedFile::operator\&gt;\&gt;" alt="" coords="408,497,581,524"/>
+<area shape="rect" id="node25" href="$class_tx_in_undo_deserializer.html#ad98b7c5d0710ed3ef0fb7d62ae412c98" title="TxInUndoDeserializer\l::Unserialize" alt="" coords="421,549,569,590"/>
+<area shape="rect" id="node10" href="$class_c_new_asset.html#a1425451c7a7d9c0fd1e562f4e7770c73" title="CNewAsset::SerializationOp" alt="" coords="667,1061,856,1088"/>
+<area shape="rect" id="node12" href="$class_c_reissue_asset.html#a7de592e70b300413f2e5bb34488a8715" title="CReissueAsset::SerializationOp" alt="" coords="656,1112,867,1139"/>
+<area shape="rect" id="node27" href="$struct_c_ext_key.html#aff923572d1c4e4708790cb0ecc922a24" title="CExtKey::Unserialize" alt="" coords="421,396,569,423"/>
+<area shape="rect" id="node28" href="$class_c_pub_key.html#aaba2bb7f0275eccf826cba3c414be8fd" title="CPubKey::Unserialize" alt="" coords="419,447,570,473"/>
+<area shape="rect" id="node29" href="$struct_c_ext_pub_key.html#aa09888682af50a5f475d09ac539fb230" title="CExtPubKey::Unserialize" alt="" coords="409,193,580,220"/>
+<area shape="rect" id="node30" href="$class_limited_string.html#adf059434ff46c3a16b736717dffaa8ac" title="LimitedString::Unserialize" alt="" coords="409,244,580,271"/>
+<area shape="rect" id="node31" href="$serialize_8h.html#a4198901100f91eebcd3bcfc33d2366c0" title="Unserialize" alt="" coords="451,295,538,321"/>
+<area shape="rect" id="node32" href="$serialize_8h.html#a7946ec004b1e1c7eb150c17d00800ca3" title="Unserialize_impl" alt="" coords="435,345,554,372"/>
+<area shape="rect" id="node33" href="$serialize_8h.html#a37f7fcf5a434c7fffed8f1ef83fef39f" title="Unserialize" alt="" coords="718,345,805,372"/>
+</map>

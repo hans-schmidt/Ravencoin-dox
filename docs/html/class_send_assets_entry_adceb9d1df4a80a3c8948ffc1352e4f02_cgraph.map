@@ -1,0 +1,51 @@
+<map id="SendAssetsEntry::SendAssetsEntry" name="SendAssetsEntry::SendAssetsEntry">
+<area shape="rect" id="node2" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="576,5,777,32"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="284,557,467,598"/>
+<area shape="rect" id="node11" href="$class_platform_style.html#a9d726bbaf3b99cf536acdc973f4bba78" title="PlatformStyle::SendEntries\lBackGroundColor" alt="" coords="587,1058,767,1099"/>
+<area shape="rect" id="node22" href="$namespace_g_u_i_util.html#aeb3b902c0536bdb9c2def3d3e465aeba" title="GUIUtil::setupAddressWidget" alt="" coords="278,1209,473,1236"/>
+<area shape="rect" id="node23" href="$namespace_g_u_i_util.html#a8be38945b1ea26b68f766eabac8c4a2a" title="GUIUtil::getSubLabelFont" alt="" coords="591,1124,763,1151"/>
+<area shape="rect" id="node26" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="296,1279,455,1305"/>
+<area shape="rect" id="node31" href="$class_send_assets_entry.html#a6e41f4455c7925e31e449943acbb9ec7" title="SendAssetsEntry::deleteClicked" alt="" coords="270,1329,481,1356"/>
+<area shape="rect" id="node32" href="$class_send_assets_entry.html#aaa1bc4e15d435744a4b8371a7388f89c" title="SendAssetsEntry::onAsset\lSelected" alt="" coords="587,1538,767,1579"/>
+<area shape="rect" id="node48" href="$class_send_assets_entry.html#a2156d0b759f8bf4c57f5a46544d3eaf4" title="SendAssetsEntry::onSendOwnership\lChanged" alt="" coords="256,1381,495,1422"/>
+<area shape="rect" id="node50" href="$namespace_g_u_i_util.html#ae5e1dcf10da1e70457dbfd0634bad52a" title="GUIUtil::getShadowEffect" alt="" coords="288,1497,463,1524"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="880,64,1056,91"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="885,696,1051,723"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#aa8b4699f877a3c061332cd82a99e727a" title="PlatformStyle::ToolBarSelected\lTextColor" alt="" coords="574,342,779,383"/>
+<area shape="rect" id="node7" href="$class_platform_style.html#a25cc5c8609d092f6111cadb5efc12444" title="PlatformStyle::ToolBarNot\lSelectedTextColor" alt="" coords="589,407,764,449"/>
+<area shape="rect" id="node8" href="$class_platform_style.html#a56c6f30a712f908bf5e68094a4bcd018" title="PlatformStyle::MainBackGround\lColor" alt="" coords="572,473,781,514"/>
+<area shape="rect" id="node9" href="$class_platform_style.html#a4cca136480c9a1c5e4163d20b007e7c7" title="PlatformStyle::TopWidget\lBackGroundColor" alt="" coords="591,641,763,682"/>
+<area shape="rect" id="node10" href="$class_platform_style.html#a4e298def69a98d6a39236f24570878bb" title="PlatformStyle::WidgetBack\lGroundColor" alt="" coords="587,706,767,747"/>
+<area shape="rect" id="node12" href="$class_platform_style.html#a04f9709a73990d1c07c7aec4ab54483a" title="PlatformStyle::ShadowColor" alt="" coords="583,772,770,799"/>
+<area shape="rect" id="node13" href="$class_platform_style.html#a3afe6673b3d60f89ca34d1c23690af6c" title="PlatformStyle::LightBlue\lColor" alt="" coords="595,823,758,865"/>
+<area shape="rect" id="node14" href="$class_platform_style.html#a14c98e08414b0b1565bfd7c9e24c0dab" title="PlatformStyle::DarkBlueColor" alt="" coords="579,889,774,916"/>
+<area shape="rect" id="node15" href="$class_platform_style.html#a0eb49eabf09511aaf8f8006964c48c8f" title="PlatformStyle::LightOrange\lColor" alt="" coords="587,941,766,982"/>
+<area shape="rect" id="node16" href="$class_platform_style.html#a7dc4348099a7576c8376a60a437401d0" title="PlatformStyle::DarkOrange\lColor" alt="" coords="879,426,1057,467"/>
+<area shape="rect" id="node17" href="$class_platform_style.html#adecebc4670880700203340d322351f89" title="Colorize an image (given filename) with the icon color. " alt="" coords="589,57,765,98"/>
+<area shape="rect" id="node18" href="$class_platform_style.html#ad69b335b46b2f3d8e50d4f199846114a" title="Set icon with two states on and off. " alt="" coords="589,174,765,215"/>
+<area shape="rect" id="node19" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="581,1007,772,1033"/>
+<area shape="rect" id="node20" href="$class_platform_style.html#ac42929f849f2c64caf85681596409801" title="Colorize an icon (given filename) with the color dark orange. " alt="" coords="573,291,780,317"/>
+<area shape="rect" id="node21" href="$class_platform_style.html#a9336bcaeed5c9210db1550f85f6e22e6" title="PlatformStyle::PlatformStyle" alt="" coords="583,240,771,267"/>
+<area shape="rect" id="node24" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="1177,1267,1244,1293"/>
+<area shape="rect" id="node25" href="$class_q_validated_line_edit.html#af365be1760e17fd1ea6b430fa6005bd2" title="QValidatedLineEdit\l::setCheckValidator" alt="" coords="608,1175,745,1217"/>
+<area shape="rect" id="node27" href="$class_c_chain_params.html#a103c58eca4a26a71201882b3ed6c4cb4" title="CChainParams::Base58Prefix" alt="" coords="578,1343,775,1369"/>
+<area shape="rect" id="node28" href="$base58_8cpp.html#a8d6f0e9d5df175b4966dcede31dc90ad" title="Why base&#45;58 instead of standard base&#45;64 encoding? " alt="" coords="621,1393,732,1420"/>
+<area shape="rect" id="node29" href="$base58_8cpp.html#a32169f8eb6ebcce6412b675f9d23d878" title="IsValidDestinationString" alt="" coords="595,1292,758,1319"/>
+<area shape="rect" id="node30" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="885,1292,1051,1319"/>
+<area shape="rect" id="node33" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="890,1393,1046,1420"/>
+<area shape="rect" id="node35" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="889,1596,1047,1623"/>
+<area shape="rect" id="node36" href="$class_send_assets_entry.html#a135f2f2eed17b5611e04a9d55a91fe19" title="SendAssetsEntry::clear" alt="" coords="888,1647,1048,1673"/>
+<area shape="rect" id="node37" href="$class_wallet_model.html#ab1471d20adbbc7f9367bffdfdbc43490" title="WalletModel::getWallet" alt="" coords="889,1444,1047,1471"/>
+<area shape="rect" id="node38" href="$group___actions.html#ga162ea1bf42ba17165bd00653852a949b" title="Helper function that calls AvailableCoinsAll, used for transfering assets. " alt="" coords="1125,1659,1296,1685"/>
+<area shape="rect" id="node40" href="$assets_2assets_8cpp.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="915,1785,1021,1812"/>
+<area shape="rect" id="node46" href="$class_c_coin_control.html#a2a44633d7bdf51252d82f050ba640761" title="CCoinControl::HasAssetSelected" alt="" coords="859,1495,1077,1521"/>
+<area shape="rect" id="node47" href="$core__io_8h.html#adf3de7349a7c8d2c30da429c92e4c881" title="ValueFromAmountString" alt="" coords="886,1545,1050,1572"/>
+<area shape="rect" id="node34" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="1145,1393,1276,1420"/>
+<area shape="rect" id="node39" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="1344,1709,1483,1736"/>
+<area shape="rect" id="node41" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="1134,1811,1287,1837"/>
+<area shape="rect" id="node42" href="$assets_2assets_8cpp.html#a2fbfdd85314963be71beacc69bf7188b" title="AssetFromScript" alt="" coords="1151,1861,1271,1888"/>
+<area shape="rect" id="node43" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="1144,1912,1277,1939"/>
+<area shape="rect" id="node44" href="$rpc_2assets_8cpp.html#ad4e434d502a68b796fa86a9ed50c5862" title="transfer" alt="" coords="1177,1760,1244,1787"/>
+<area shape="rect" id="node45" href="$assets_2assets_8cpp.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="1127,1709,1295,1736"/>
+<area shape="rect" id="node49" href="$class_send_assets_entry.html#a078cf67a1a168840e2c61bb3ab824fdd" title="SendAssetsEntry::switchAdministratorList" alt="" coords="543,1444,811,1471"/>
+</map>

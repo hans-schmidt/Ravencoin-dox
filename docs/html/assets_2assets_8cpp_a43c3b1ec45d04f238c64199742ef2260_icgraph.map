@@ -1,0 +1,31 @@
+<map id="CheckIssueDataTx" name="CheckIssueDataTx">
+<area shape="rect" id="node2" href="$class_c_transaction.html#a99e4656fc5d45b47500fdf1c3d6e29df" title="RVN START. " alt="" coords="213,383,393,409"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="983,344,1189,371"/>
+<area shape="rect" id="node9" href="$class_transaction_record.html#a9f5db4465fa5fdcc3f9af525096bcdb9" title="TransactionRecord::\ldecomposeTransaction" alt="" coords="759,579,916,621"/>
+<area shape="rect" id="node19" href="$class_c_transaction.html#ac7808b4e20941f427c3aa9a01b71e85e" title="Make sure to call VerifyNewUniqueAsset if this call returns true. " alt="" coords="485,411,672,453"/>
+<area shape="rect" id="node21" href="$class_c_transaction.html#a78e4b3b650fd78ff8261cbf079155045" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="201,629,404,656"/>
+<area shape="rect" id="node22" href="$class_c_transaction.html#aa71a44851d35f2a110aa67c914fd96a2" title="Make sure to call VerifyNewUniqueAsset if this call returns true. " alt="" coords="193,302,412,343"/>
+<area shape="rect" id="node24" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="205,681,400,722"/>
+<area shape="rect" id="node25" href="$class_c_transaction.html#a2150029b261bcae600fba72a616040b9" title="Make sure to call VerifyNewQualifierAsset if this call returns true. " alt="" coords="205,49,400,90"/>
+<area shape="rect" id="node27" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="195,746,410,787"/>
+<area shape="rect" id="node28" href="$class_c_transaction.html#a91fff4a7a020c5c82d9cff4bde33e34c" title="Make sure to call VerifyNewAsset if this call returns true. " alt="" coords="199,150,406,191"/>
+<area shape="rect" id="node30" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="188,811,417,853"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a8a084b5bdaacece583a040f7cc35c867" title="These types of asset tx, have specific metadata at certain indexes in the transaction. " alt="" coords="501,477,656,504"/>
+<area shape="rect" id="node5" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="798,213,877,240"/>
+<area shape="rect" id="node17" href="$assets_8h.html#ae0585dc12a2da58dae341e245e550d1c" title="OwnerFromTransaction" alt="" coords="499,360,658,387"/>
+<area shape="rect" id="node6" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="996,239,1176,265"/>
+<area shape="rect" id="node7" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="1037,188,1135,215"/>
+<area shape="rect" id="node8" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="1271,188,1369,215"/>
+<area shape="rect" id="node10" href="$class_transaction_table_priv.html#a1f81da5d7cfb2aac03a5e18e6bc91792" title="TransactionTablePriv\l::refreshWallet" alt="" coords="1013,546,1159,587"/>
+<area shape="rect" id="node12" href="$class_transaction_table_priv.html#a5a8454ce91251c4d9eb927bf2850745c" title="TransactionTablePriv\l::updateWallet" alt="" coords="1013,611,1159,653"/>
+<area shape="rect" id="node11" href="$class_transaction_table_model.html#ac5cc82df37f09b4aed2d20628a77e756" title="TransactionTableModel\l::TransactionTableModel" alt="" coords="1237,546,1403,587"/>
+<area shape="rect" id="node13" href="$class_transaction_table_model.html#a8de43b3c7ba0612304906eb5a2f51a06" title="TransactionTableModel\l::updateTransaction" alt="" coords="1241,611,1399,653"/>
+<area shape="rect" id="node14" href="$class_transaction_view.html#a8dc3e9fc910cec4f6764d84c21941180" title="TransactionView::abandonTx" alt="" coords="1451,593,1641,620"/>
+<area shape="rect" id="node16" href="$class_transaction_view.html#a6cf5d062668e5e29c6203b6e0dc3836b" title="TransactionView::bumpFee" alt="" coords="1455,644,1637,671"/>
+<area shape="rect" id="node15" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="1689,593,1913,620"/>
+<area shape="rect" id="node18" href="$assets_8h.html#a98273b6a8cc26bdce717969b985c0c92" title="IsNewOwnerTxValid" alt="" coords="766,319,909,345"/>
+<area shape="rect" id="node20" href="$assets_8h.html#a9ebc1469030d7a4c538238c553b40145" title="UniqueAssetFromTransaction" alt="" coords="740,420,935,447"/>
+<area shape="rect" id="node23" href="$assets_8h.html#a8ee566cf7ae611bccc6fb8d589e692a0" title="MsgChannelAssetFromTransaction" alt="" coords="465,309,692,336"/>
+<area shape="rect" id="node26" href="$assets_8h.html#a7067ccf651efe7337751d3e2c0dff435" title="QualifierAssetFromTransaction" alt="" coords="477,5,680,32"/>
+<area shape="rect" id="node29" href="$assets_8h.html#a051baaa1cc187e0058f4b7b0da060e0a" title="RestrictedAssetFromTransaction" alt="" coords="471,107,686,133"/>
+</map>

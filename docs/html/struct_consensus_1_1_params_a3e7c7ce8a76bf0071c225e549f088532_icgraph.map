@@ -1,0 +1,5 @@
+<map id="Consensus::Params::DifficultyAdjustmentInterval" name="Consensus::Params::DifficultyAdjustmentInterval">
+<area shape="rect" id="node2" href="$pow_8cpp.html#a2d653c456b2a9cfe2103a4518f3a8221" title="GetNextWorkRequiredBTC" alt="" coords="236,5,417,32"/>
+<area shape="rect" id="node3" href="$mining_8cpp.html#a5f6e044d7c2d84b3beb3a356b02e025b" title="Return average network hashes per second based on the last &#39;lookup&#39; blocks, or from the last difficul..." alt="" coords="256,56,397,83"/>
+<area shape="rect" id="node4" href="$mining_8cpp.html#a6f67f7971af006b31c86a032b63812a4" title="getnetworkhashps" alt="" coords="465,56,593,83"/>
+</map>

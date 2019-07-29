@@ -1,0 +1,10 @@
+<map id="UintToArith256" name="UintToArith256">
+<area shape="rect" id="node2" href="$classbase__uint.html#ade1a897fac931f28f54998c92c797228" title="base_uint\&lt; 256 \&gt;::SetHex" alt="" coords="169,5,344,32"/>
+<area shape="rect" id="node3" href="$classarith__uint256.html#a0e8b76f74ffb7a251b15aff89b087fbf" title="arith_uint256::arith\l_uint256" alt="" coords="192,57,321,98"/>
+<area shape="rect" id="node4" href="$pow_8cpp.html#a2d653c456b2a9cfe2103a4518f3a8221" title="GetNextWorkRequiredBTC" alt="" coords="399,148,580,175"/>
+<area shape="rect" id="node5" href="$pow_8h.html#ae040e051ee33e04c33124b0742480f0c" title="CalculateNextWorkRequired" alt="" coords="163,173,351,200"/>
+<area shape="rect" id="node6" href="$pow_8h.html#a8d60d8d6ddca0963bb51f6436aaee3fd" title="Check whether a block hash satisfies the proof&#45;of&#45;work requirement specified by nBits. " alt="" coords="189,224,325,251"/>
+<area shape="rect" id="node7" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="433,224,545,251"/>
+<area shape="rect" id="node8" href="$mining_8cpp.html#a16cf276c50111f451fdbd5dfbe3c8a6b" title="generatetoaddress" alt="" coords="628,199,757,225"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="657,249,729,276"/>
+</map>

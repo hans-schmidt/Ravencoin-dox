@@ -1,0 +1,10 @@
+<map id="OptionsModel::setRestartRequired" name="OptionsModel::setRestartRequired">
+<area shape="rect" id="node2" href="$class_options_model.html#a1fee36c382abefc0fb165bed99df7413" title="OptionsModel::Init" alt="" coords="255,5,383,32"/>
+<area shape="rect" id="node4" href="$class_options_model.html#a3102b457f4d46efac8ecb03b3d536b62" title="OptionsModel::setData" alt="" coords="241,56,397,83"/>
+<area shape="rect" id="node5" href="$class_options_model.html#ac5d555492fa4d6bba68d00e798efca50" title="OptionsModel::getOverridden\lByCommandLine" alt="" coords="224,107,415,149"/>
+<area shape="rect" id="node3" href="$class_options_model.html#acebd74996030d220f27b1cf026e46d1e" title="OptionsModel::OptionsModel" alt="" coords="463,5,653,32"/>
+<area shape="rect" id="node6" href="$class_options_dialog.html#a11e902a52cb7472497d14e70cd9399d9" title="OptionsDialog::setModel" alt="" coords="475,115,641,141"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#a18e94f625f9327f3718c02f3a2d4d21c" title="Show configuration dialog. " alt="" coords="701,115,880,141"/>
+<area shape="rect" id="node8" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="928,115,1100,141"/>
+<area shape="rect" id="node9" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="1148,115,1303,141"/>
+</map>

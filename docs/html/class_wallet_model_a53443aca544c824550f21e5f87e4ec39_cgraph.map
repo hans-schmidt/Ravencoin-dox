@@ -1,0 +1,12 @@
+<map id="WalletModel::sendCoins" name="WalletModel::sendCoins">
+<area shape="rect" id="node2" href="$class_wallet_model_transaction.html#aa2517bf2650533d16ba08ff7eb731e09" title="WalletModelTransaction\l::getTransaction" alt="" coords="234,5,397,47"/>
+<area shape="rect" id="node3" href="$class_wallet_model_transaction.html#a4d02171de5a21bbab2fb0df15cdf31fd" title="WalletModelTransaction\l::getRecipients" alt="" coords="234,71,397,112"/>
+<area shape="rect" id="node4" href="$class_payment_server.html#a30e543bb181bb74366741459599d2118" title="PaymentServer::verifyExpired" alt="" coords="217,137,413,163"/>
+<area shape="rect" id="node7" href="$class_wallet_model_transaction.html#a58835446dab9397f823106d4a6ba6812" title="WalletModelTransaction\l::getPossibleKeyChange" alt="" coords="232,188,399,229"/>
+<area shape="rect" id="node8" href="$group___actions.html#ga1aefbf0f18f0f6dc3247bc413934f56b" title="RVN END. " alt="" coords="220,254,411,281"/>
+<area shape="rect" id="node11" href="$class_c_validation_state.html#a8fa9612cb40c3c8592f7cd29b5931ccd" title="CValidationState::GetReject\lReason" alt="" coords="222,305,409,347"/>
+<area shape="rect" id="node5" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="508,111,580,138"/>
+<area shape="rect" id="node6" href="$utiltime_8cpp.html#a749bc6776c8ec72d7c5e4dea56aee415" title="DateTimeStrFormat" alt="" coords="475,162,613,189"/>
+<area shape="rect" id="node9" href="$group___actions.html#ga493d06f41ca9571f2a42c8581a3952d8" title="CReserveKey::KeepKey" alt="" coords="461,246,627,273"/>
+<area shape="rect" id="node10" href="$class_c_wallet_tx.html#ab0ee7347584bff886dc24b9f63ff023c" title="CWalletTx::BindWallet" alt="" coords="467,297,621,323"/>
+</map>

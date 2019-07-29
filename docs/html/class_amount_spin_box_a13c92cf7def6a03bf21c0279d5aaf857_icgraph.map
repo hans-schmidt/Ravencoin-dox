@@ -1,0 +1,4 @@
+<map id="AmountSpinBox::setSingleStep" name="AmountSpinBox::setSingleStep">
+<area shape="rect" id="node2" href="$class_raven_amount_field.html#a7da8328d039d697c8898b9bbaf6956eb" title="Set single step in satoshis. " alt="" coords="259,5,481,32"/>
+<area shape="rect" id="node3" href="$class_asset_amount_field.html#abec20ae25629858c73317b50f236397b" title="Set single step in satoshis. " alt="" coords="261,56,479,83"/>
+</map>

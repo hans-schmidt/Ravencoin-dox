@@ -1,0 +1,4 @@
+<map id="RavenUnits::availableUnits" name="RavenUnits::availableUnits">
+<area shape="rect" id="node2" href="$class_unit_display_status_bar_control.html#a7db4ef1ea7a6a457d7981ee1719b62c1" title="UnitDisplayStatusBarControl\l::UnitDisplayStatusBarControl" alt="" coords="473,5,672,47"/>
+<area shape="rect" id="node3" href="$class_unit_display_status_bar_control.html#aeb1291e39e016cb77c340db456bef03f" title="Creates context menu, its actions, and wires up all the relevant signals for mouse events..." alt="" coords="235,35,425,76"/>
+</map>

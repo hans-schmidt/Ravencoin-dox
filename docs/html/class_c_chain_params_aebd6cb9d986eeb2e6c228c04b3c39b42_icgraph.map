@@ -1,0 +1,4 @@
+<map id="CChainParams::GenesisBlock" name="CChainParams::GenesisBlock">
+<area shape="rect" id="node2" href="$validation_8h.html#a0c24c7dfe29eb0ea62f868e79f818493" title="Ensures we have a genesis block in the block tree, possibly writing one to disk. " alt="" coords="253,5,384,32"/>
+<area shape="rect" id="node3" href="$init_8cpp.html#a2dd42c68a25e6632cdb9c7b03aed8503" title="ThreadImport" alt="" coords="432,5,531,32"/>
+</map>

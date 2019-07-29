@@ -1,0 +1,51 @@
+<map id="CreateAssetDialog::setUpValues" name="CreateAssetDialog::setUpValues">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#a0a9efcbea039147ee3d5a13f205f3636" title="CreateAssetDialog::\lhideMessage" alt="" coords="685,291,825,333"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#ab2f436e4d04c3e1ddbf743fc3eafa958" title="CreateAssetDialog::\lCheckFormState" alt="" coords="223,666,363,707"/>
+<area shape="rect" id="node8" href="$assettypes_8cpp.html#a4e30ad1d1a0e7f52fc2f8f1bf11e0f22" title="IntFromAssetType" alt="" coords="690,909,821,936"/>
+<area shape="rect" id="node37" href="$class_raven_units.html#ad61d958c9c19db002368eec18bf1527c" title="Format as string (with unit) " alt="" coords="200,1069,387,1096"/>
+<area shape="rect" id="node44" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="193,1120,393,1147"/>
+<area shape="rect" id="node45" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="195,1171,391,1197"/>
+<area shape="rect" id="node46" href="$assets_2assets_8cpp.html#a8fa417e13099076d2179c9e269efa87f" title="GetBurnAmount" alt="" coords="236,1245,351,1272"/>
+<area shape="rect" id="node47" href="$class_create_asset_dialog.html#af0cb10e9c013ad0bde150c945c1e6704" title="CreateAssetDialog::\lupdateAssetList" alt="" coords="223,1297,363,1338"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#ac86e59d06648856407d3dff4922c9086" title="CreateAssetDialog::\ldisableCreateButton" alt="" coords="685,691,825,733"/>
+<area shape="rect" id="node5" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="466,749,599,776"/>
+<area shape="rect" id="node7" href="$class_create_asset_dialog.html#a5f1cb5ddd6d4f4628e55be71a02c608d" title="CreateAssetDialog::\lGetAssetName" alt="" coords="463,902,603,943"/>
+<area shape="rect" id="node9" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="731,436,779,463"/>
+<area shape="rect" id="node28" href="$assets_2assets_8cpp.html#a825ae021aa75698b44ac054638bc1033" title="Given a type, and an asset name, return if that name is valid based on the type. " alt="" coords="451,851,615,877"/>
+<area shape="rect" id="node29" href="$assettypes_8cpp.html#a466a3d882e7ea5bf23e7ecee445b2d3d" title="AssetTypeFromInt" alt="" coords="467,968,598,995"/>
+<area shape="rect" id="node30" href="$class_create_asset_dialog.html#a1d58463ebfa5875e617cd3faedf862ac" title="CreateAssetDialog::\lshowMessage" alt="" coords="685,626,825,667"/>
+<area shape="rect" id="node31" href="$standard_8cpp.html#adb3a21e4afe9c672720b182ddc7cad7c" title="Check whether a CTxDestination is a CNoDestination. " alt="" coords="469,349,597,376"/>
+<area shape="rect" id="node32" href="$class_create_asset_dialog.html#a5906e5b70ee2ad507cd8cb4b269423ac" title="CreateAssetDialog::\lcheckIPFSHash" alt="" coords="463,582,603,623"/>
+<area shape="rect" id="node35" href="$class_create_asset_dialog.html#ac6a9d6930c37240f740ae857ee25d468" title="CreateAssetDialog::\lshowValidMessage" alt="" coords="463,451,603,493"/>
+<area shape="rect" id="node36" href="$class_create_asset_dialog.html#aba88fc0d76cbce3aaaf6eae4f132cb3e" title="CreateAssetDialog::\lenableCreateButton" alt="" coords="463,517,603,558"/>
+<area shape="rect" id="node6" href="$class_c_raven_address.html#a5e7e76de59b448a766b7e0c7b959280e" title="CRavenAddress::Get" alt="" coords="682,757,829,784"/>
+<area shape="rect" id="node10" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="926,5,1013,32"/>
+<area shape="rect" id="node11" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="907,56,1032,83"/>
+<area shape="rect" id="node12" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="890,107,1049,133"/>
+<area shape="rect" id="node13" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="925,157,1014,184"/>
+<area shape="rect" id="node14" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="922,208,1017,235"/>
+<area shape="rect" id="node15" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="887,259,1052,285"/>
+<area shape="rect" id="node16" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="905,309,1033,336"/>
+<area shape="rect" id="node17" href="$util_8h.html#a579657da2b55b131ecd453bf1b0d2314" title="RenameOver" alt="" coords="920,360,1019,387"/>
+<area shape="rect" id="node18" href="$util_8h.html#a9042a919d837da9d97311a0c460c597c" title="Ignores exceptions thrown by Boost&#39;s create_directories if the requested directory exists..." alt="" coords="898,411,1041,437"/>
+<area shape="rect" id="node19" href="$util_8h.html#a15cb85964fe08c264605537f44570d3c" title="GetDefaultDataDir" alt="" coords="904,461,1035,488"/>
+<area shape="rect" id="node20" href="$util_8h.html#abb63dfb710832aefb746933af05198d4" title="GetDataDir" alt="" coords="925,512,1013,539"/>
+<area shape="rect" id="node21" href="$util_8h.html#abfb50dfe077aced7591f2aba601f605d" title="ClearDatadirCache" alt="" coords="903,563,1036,589"/>
+<area shape="rect" id="node22" href="$util_8h.html#aa634f312705d4811dfa2a5392bddf6cf" title="GetConfigFile" alt="" coords="918,613,1021,640"/>
+<area shape="rect" id="node23" href="$util_8h.html#aa0172eabeecce5061826cb19990fbde2" title="GetPidFile" alt="" coords="928,664,1011,691"/>
+<area shape="rect" id="node24" href="$util_8h.html#a1c0f9b041628dcb399a023bc9913f41d" title="CreatePidFile" alt="" coords="919,715,1020,741"/>
+<area shape="rect" id="node25" href="$util_8h.html#a1e755e72104d3ca393efc1cc3f41952a" title="OpenDebugLog" alt="" coords="913,765,1025,792"/>
+<area shape="rect" id="node26" href="$util_8h.html#a37fca7e305fe0caa306b23fdb37f88e2" title="ShrinkDebugFile" alt="" coords="910,816,1029,843"/>
+<area shape="rect" id="node27" href="$util_8h.html#aa803aa631ab8b4bd79fa9d7b2172bf9a" title="runCommand" alt="" coords="919,867,1019,893"/>
+<area shape="rect" id="node33" href="$assets_2assets_8cpp.html#aa2cbb008291be23f6ef30d12b7515496" title="Check the Encoded hash and make sure it is either an IPFS hash or a OIP hash. " alt="" coords="700,575,811,601"/>
+<area shape="rect" id="node34" href="$assets_2assets_8cpp.html#a1611a2894597c6bb14f06c563368d666" title="Decode and Encode IPFS hashes, or OIP hashes. " alt="" coords="691,524,820,551"/>
+<area shape="rect" id="node38" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="465,1120,601,1147"/>
+<area shape="rect" id="node43" href="$class_raven_units.html#a357d3a6cb01154a8da132d435c7fd436" title="Short name. " alt="" coords="467,1069,598,1096"/>
+<area shape="rect" id="node39" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="692,1196,819,1223"/>
+<area shape="rect" id="node40" href="$class_raven_units.html#aea6fad621ac4f75381406d5ca415f78e" title="Number of Satoshis (1e&#45;8) per unit for assets. " alt="" coords="672,1044,839,1071"/>
+<area shape="rect" id="node41" href="$class_raven_units.html#a56c9ff217422454061562a0612bf61ec" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="689,1095,821,1121"/>
+<area shape="rect" id="node42" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="680,1145,831,1172"/>
+<area shape="rect" id="node48" href="$assets_2assets_8cpp.html#aa941ab8a31a038f9dc52f4b5820b3523" title="GetAllAdministrativeAssets" alt="" coords="441,1329,624,1356"/>
+<area shape="rect" id="node50" href="$class_wallet_model.html#ab1471d20adbbc7f9367bffdfdbc43490" title="WalletModel::getWallet" alt="" coords="454,1279,611,1305"/>
+<area shape="rect" id="node49" href="$assets_2assets_8cpp.html#acf37188835ee43e0362db4462bcb3534" title="GetAllMyAssets" alt="" coords="697,1329,814,1356"/>
+</map>

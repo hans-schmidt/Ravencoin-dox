@@ -1,0 +1,26 @@
+<map id="src/crypto/whirlpoolx.c" name="src/crypto/whirlpoolx.c">
+<area shape="rect" id="node2" href="$miner_8h.html" title="miner.h" alt="" coords="431,80,497,107"/>
+<area shape="rect" id="node37" href="$sph__whirlpool_8h.html" title="WHIRLPOOL interface. " alt="" coords="2469,543,2621,569"/>
+<area shape="rect" id="node3" href="$block_8h.html" title="primitives/block.h" alt="" coords="1469,393,1593,420"/>
+<area shape="rect" id="node27" href="$txmempool_8h.html" title="txmempool.h" alt="" coords="1154,155,1251,181"/>
+<area shape="rect" id="node4" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1227,468,1384,495"/>
+<area shape="rect" id="node14" href="$serialize_8h.html" title="serialize.h" alt="" coords="1822,617,1903,644"/>
+<area shape="rect" id="node25" href="$uint256_8h.html" title="uint256.h" alt="" coords="1144,543,1219,569"/>
+<area shape="rect" id="node6" href="$amount_8h.html" title="amount.h" alt="" coords="675,617,751,644"/>
+<area shape="rect" id="node7" href="$script_8h.html" title="script/script.h" alt="" coords="1255,543,1356,569"/>
+<area shape="rect" id="node8" href="$common_8h.html" title="crypto/common.h" alt="" coords="928,617,1051,644"/>
+<area shape="rect" id="node11" href="$prevector_8h.html" title="prevector.h" alt="" coords="1938,692,2025,719"/>
+<area shape="rect" id="node10" href="$endian_8h.html" title="compat/endian.h" alt="" coords="979,692,1098,719"/>
+<area shape="rect" id="node28" href="$addressindex_8h.html" title="addressindex.h" alt="" coords="947,468,1058,495"/>
+<area shape="rect" id="node29" href="$spentindex_8h.html" title="spentindex.h" alt="" coords="827,468,923,495"/>
+<area shape="rect" id="node30" href="$coins_8h.html" title="coins.h" alt="" coords="1567,237,1631,263"/>
+<area shape="rect" id="node34" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="1990,468,2090,495"/>
+<area shape="rect" id="node41" href="$feerate_8h.html" title="policy/feerate.h" alt="" coords="1381,543,1491,569"/>
+<area shape="rect" id="node42" href="$sync_8h.html" title="sync.h" alt="" coords="776,237,837,263"/>
+<area shape="rect" id="node43" href="$random_8h.html" title="random.h" alt="" coords="726,468,802,495"/>
+<area shape="rect" id="node31" href="$compressor_8h.html" title="compressor.h" alt="" coords="1343,393,1444,420"/>
+<area shape="rect" id="node32" href="$core__memusage_8h.html" title="core_memusage.h" alt="" coords="1458,319,1587,345"/>
+<area shape="rect" id="node33" href="$memusage_8h.html" title="memusage.h" alt="" coords="2079,393,2177,420"/>
+<area shape="rect" id="node36" href="$hash_8h.html" title="hash.h" alt="" coords="1769,468,1831,495"/>
+<area shape="rect" id="node39" href="$sph__types_8h.html" title="Basic type definitions. " alt="" coords="2563,617,2656,644"/>
+</map>

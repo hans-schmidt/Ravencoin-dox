@@ -1,0 +1,4 @@
+<map id="CheckReissueBurnTx" name="CheckReissueBurnTx">
+<area shape="rect" id="node2" href="$class_c_transaction.html#ac1ed9ac185d1ec2d9adad8f306a1a396" title="To be called on CTransactions where IsReissueAsset returns true. " alt="" coords="212,5,403,47"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="204,71,411,98"/>
+</map>

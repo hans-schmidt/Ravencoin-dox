@@ -1,0 +1,4 @@
+<map id="CWallet::SetBestChain" name="CWallet::SetBestChain">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#a5660d366fee16ab81f3e7d3a97892486" title="CWalletDB::WriteBestBlock" alt="" coords="212,5,399,32"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#a33ec32231db801e91a98afb26acf3e6a" title="CWalletDB::WriteIC" alt="" coords="447,5,588,32"/>
+</map>

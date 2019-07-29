@@ -1,0 +1,12 @@
+<map id="MapPort" name="MapPort">
+<area shape="rect" id="node2" href="$init_8h.html#a5cb3db83cb0ba2e421f651a1ee1f2cfe" title="Preparing steps before shutting down or restarting the wallet. " alt="" coords="175,81,301,108"/>
+<area shape="rect" id="node8" href="$class_c_connman.html#a999ec42f1515f77096556c94c29c6538" title="CConnman::WakeMessageHandler" alt="" coords="124,132,352,159"/>
+<area shape="rect" id="node11" href="$class_options_model.html#a3102b457f4d46efac8ecb03b3d536b62" title="OptionsModel::setData" alt="" coords="160,183,316,209"/>
+<area shape="rect" id="node3" href="$init_8h.html#ac5f038c2b480cf9ef5e19e3eba8dbaf9" title="Shutdown is split into 2 parts: Part 1: shut down everything but the main wallet instance (done in Pr..." alt="" coords="471,31,551,57"/>
+<area shape="rect" id="node7" href="$class_raven_core.html#ab35cedbe16324f62d058e964b03cac69" title="RavenCore::restart" alt="" coords="445,81,578,108"/>
+<area shape="rect" id="node4" href="$class_raven_core.html#a0b62b17932fa72d2ac40d4d81b2a432d" title="RavenCore::shutdown" alt="" coords="671,5,823,32"/>
+<area shape="rect" id="node5" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="715,56,778,83"/>
+<area shape="rect" id="node6" href="$ravend_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="871,56,921,83"/>
+<area shape="rect" id="node9" href="$class_c_connman.html#a765597cbfe99c083d8fa3d61bb464e34" title="CConnman::ThreadSocketHandler" alt="" coords="400,132,623,159"/>
+<area shape="rect" id="node10" href="$class_c_connman.html#aa4709e5604e0f4369dada0a211493565" title="CConnman::Start" alt="" coords="685,132,809,159"/>
+</map>

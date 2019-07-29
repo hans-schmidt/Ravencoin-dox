@@ -1,0 +1,11 @@
+<map id="RavenUnits::formatHtmlWithUnit" name="RavenUnits::formatHtmlWithUnit">
+<area shape="rect" id="node2" href="$class_receive_request_dialog.html#a8e1c0ee2fbacf42b4dc7ea05986c86c9" title="ReceiveRequestDialog\l::update" alt="" coords="295,57,451,99"/>
+<area shape="rect" id="node7" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="527,149,703,175"/>
+<area shape="rect" id="node9" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="268,174,479,201"/>
+<area shape="rect" id="node10" href="$class_transaction_desc.html#a1de402b439b16ee501487b6cadb979ce" title="TransactionDesc::CreateDebug\lString" alt="" coords="270,225,477,267"/>
+<area shape="rect" id="node3" href="$class_receive_request_dialog.html#ad57b3bf409346660842360836fd8569d" title="ReceiveRequestDialog\l::setModel" alt="" coords="537,5,693,47"/>
+<area shape="rect" id="node6" href="$class_receive_request_dialog.html#a43344270ef71e68ad9c7a931cc0ca9ed" title="ReceiveRequestDialog\l::setInfo" alt="" coords="537,71,693,112"/>
+<area shape="rect" id="node4" href="$class_receive_coins_dialog.html#a5eabd6106c8e3b275305b84c0303f314" title="ReceiveCoinsDialog\l::on_recentRequestsView\l_doubleClicked" alt="" coords="751,35,923,91"/>
+<area shape="rect" id="node5" href="$class_receive_coins_dialog.html#a56df78045de75af55f4c4045ad4b7fcd" title="ReceiveCoinsDialog\l::on_showRequestButton\l_clicked" alt="" coords="971,35,1140,91"/>
+<area shape="rect" id="node8" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="764,141,909,183"/>
+</map>

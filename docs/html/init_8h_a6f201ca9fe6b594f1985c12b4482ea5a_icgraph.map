@@ -1,0 +1,9 @@
+<map id="ShutdownRequested" name="ShutdownRequested">
+<area shape="rect" id="node2" href="$class_raven_g_u_i.html#a19986d1bcac808645682805749584441" title="called by a timer to check if fRequestShutdown has been set " alt="" coords="196,5,383,32"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#aee6029ecc46cd969e016af6cbe8f02c9" title="Get restart command&#45;line parameters and request restart. " alt="" coords="203,56,376,83"/>
+<area shape="rect" id="node6" href="$ravend_8cpp.html#a6435fba5a749975164947d0d771223ab" title="WaitForShutdown" alt="" coords="226,107,353,133"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="431,56,603,83"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="651,56,805,83"/>
+<area shape="rect" id="node7" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="485,107,548,133"/>
+<area shape="rect" id="node8" href="$ravend_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="703,107,753,133"/>
+</map>

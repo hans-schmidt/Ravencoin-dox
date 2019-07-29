@@ -1,0 +1,31 @@
+<map id="CCoinsViewCache::FetchCoin" name="CCoinsViewCache::FetchCoin">
+<area shape="rect" id="node2" href="$class_c_coins_view_cache.html#aaeb452bec99d4fa667fec4c0df25dedf" title="Retrieve the Coin (unspent transaction output) for a given outpoint. " alt="" coords="266,71,455,98"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_cache.html#ad9ccb571fa3a311828efcee46c13bd65" title="Spend a coin. " alt="" coords="258,629,463,655"/>
+<area shape="rect" id="node8" href="$class_c_coins_view_cache.html#afd0144ded5ce891084aabff29141f8b2" title="Return a reference to Coin in the cache, or a pruned one if not found. " alt="" coords="255,401,467,427"/>
+<area shape="rect" id="node21" href="$class_c_coins_view_cache.html#af097128dca85eb8f94b864015d839d46" title="Just check whether a given outpoint is unspent. " alt="" coords="261,797,460,823"/>
+<area shape="rect" id="node3" href="$class_transaction_desc.html#a1de402b439b16ee501487b6cadb979ce" title="TransactionDesc::CreateDebug\lString" alt="" coords="517,5,723,47"/>
+<area shape="rect" id="node4" href="$blockchain_8cpp.html#a0d3ec9ae23b08828dd7ca646766ca637" title="gettxout" alt="" coords="585,71,655,98"/>
+<area shape="rect" id="node6" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="819,746,918,773"/>
+<area shape="rect" id="node7" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="1065,746,1164,773"/>
+<area shape="rect" id="node9" href="$rpc_2assets_8cpp.html#ab794b426301153b69c4003257372e732" title="CheckRestrictedAssetTransfer\lInputs" alt="" coords="519,477,721,519"/>
+<area shape="rect" id="node10" href="$class_c_coins_view_cache.html#a1a8cd6069fba96939ffcb1bd36ffb921" title="Amount of ravens coming in to a transaction Note that lightweight clients may not know anything besid..." alt="" coords="517,543,723,570"/>
+<area shape="rect" id="node11" href="$tx__verify_8h.html#a312fadbeec896d49437733e986f3df04" title="Count ECDSA signature operations in pay&#45;to&#45;script&#45;hash inputs. " alt="" coords="545,594,695,621"/>
+<area shape="rect" id="node12" href="$policy_8h.html#a791e33e18bea9861e449e6ebcfce8890" title="Check for standard transaction types. " alt="" coords="555,645,685,671"/>
+<area shape="rect" id="node13" href="$policy_8h.html#a8a73d04fc7e2d36b2acc4d6eb0cc2993" title="Check if the transaction is over standard P2WSH resources limit: 3600bytes witnessScript size..." alt="" coords="553,173,687,199"/>
+<area shape="rect" id="node14" href="$rawtransaction_8cpp.html#a266f1646e146bdb9faca1a701de9a9f2" title="combinerawtransaction" alt="" coords="542,223,698,250"/>
+<area shape="rect" id="node15" href="$rawtransaction_8cpp.html#a5b2abfea4548c97e780cfae39f9ac11b" title="signrawtransaction" alt="" coords="555,274,685,301"/>
+<area shape="rect" id="node16" href="$class_c_tx_mem_pool.html#a16884a575b85f500781477a487a9b1dd" title="CTxMemPool::addAddressIndex" alt="" coords="515,325,725,351"/>
+<area shape="rect" id="node17" href="$class_c_tx_mem_pool.html#a2c4f1513000ff34c3fe341e6674b2bd9" title="CTxMemPool::addSpentIndex" alt="" coords="521,375,719,402"/>
+<area shape="rect" id="node18" href="$class_c_tx_mem_pool.html#acf12e024f4d6d5c0437227bc419c28fb" title="CTxMemPool::removeForReorg" alt="" coords="517,122,723,149"/>
+<area shape="rect" id="node20" href="$validation_8cpp.html#adb3030dc3fb35c34bb10776e7d391d1a" title="Check whether all inputs of this transaction are valid (no double spends, scripts &amp; sigs..." alt="" coords="572,426,668,453"/>
+<area shape="rect" id="node19" href="$validation_8cpp.html#aaa1204b724d7b62f09ef22df4c6a592d" title="UpdateMempoolForReorg" alt="" coords="783,122,954,149"/>
+<area shape="rect" id="node22" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="581,847,659,874"/>
+<area shape="rect" id="node24" href="$class_c_coins_view_cache.html#a5b1abd71c95dc7be2523b9c28839ec29" title="Check whether all prevouts of the transaction are present in the UTXO set represented by this view..." alt="" coords="516,898,724,925"/>
+<area shape="rect" id="node29" href="$class_c_tx_mem_pool.html#ab30fadfa811829e79accca41da6a8328" title="If sanity&#45;checking is turned on, check makes sure the pool is consistent (does not contain two transa..." alt="" coords="547,746,693,773"/>
+<area shape="rect" id="node30" href="$validation_8cpp.html#a4eb74c7b0135bd677315175c4056f890" title="Restore the UTXO in a Coin at a given COutPoint. " alt="" coords="564,797,676,823"/>
+<area shape="rect" id="node23" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="779,847,959,874"/>
+<area shape="rect" id="node25" href="$namespace_consensus.html#a71d434a6ed8cd5fe5cd096c2eea58a07" title="Check whether all inputs of this transaction are valid (no double spends and amounts) This does not m..." alt="" coords="776,949,961,975"/>
+<area shape="rect" id="node26" href="$namespace_consensus.html#a3a65a6b28f9d889e647b6f52b335df05" title="RVN START. " alt="" coords="773,898,964,925"/>
+<area shape="rect" id="node27" href="$class_c_tx_mem_pool.html#ad140b39a0be43b4c0ca1872ba7323351" title="Called when a block is connected. " alt="" coords="1012,898,1217,925"/>
+<area shape="rect" id="node28" href="$class_c_tx_mem_pool.html#af0d277f190f134638cb0aa18e2099094" title="Called when a block is connected. " alt="" coords="1265,898,1471,925"/>
+</map>

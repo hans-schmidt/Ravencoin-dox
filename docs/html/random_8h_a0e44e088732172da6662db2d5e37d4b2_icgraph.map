@@ -1,0 +1,4 @@
+<map id="GetRandInt" name="GetRandInt">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a4bf12611bd89c5e524396e50bf8f3846" title="Wraps GetRandInt to allow tests to override RandomInt and make it determinismistic. " alt="" coords="164,5,320,32"/>
+<area shape="rect" id="node3" href="$group___actions.html#gabb894f8914f0bf49d43a41daacb518ef" title="CWallet::CreateTransactionAll" alt="" coords="143,56,341,83"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="GetAssetAmountFromScript" name="GetAssetAmountFromScript">
+<area shape="rect" id="node2" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="667,70,820,96"/>
+<area shape="rect" id="node5" href="$script_8cpp.html#a316c79deed92779e782b4bd7a73b532b" title="AmountFromNewAssetScript" alt="" coords="240,103,432,130"/>
+<area shape="rect" id="node13" href="$script_8cpp.html#a62f45666d54d6ea391884f3eb53419d6" title="AmountFromTransferScript" alt="" coords="247,154,425,180"/>
+<area shape="rect" id="node15" href="$script_8cpp.html#aac0ad4d0ab10eb025c65426587ace362" title="AmountFromReissueScript" alt="" coords="247,204,425,231"/>
+<area shape="rect" id="node3" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="888,120,996,147"/>
+<area shape="rect" id="node4" href="$classprevector.html#a933e204a7e29c6bbc85479d023c00ff8" title="prevector::is_direct" alt="" coords="1064,148,1197,175"/>
+<area shape="rect" id="node6" href="$script_8cpp.html#ad65c2164ab5f1d6cec98efdf0169653a" title="ScriptNewAsset" alt="" coords="491,27,608,54"/>
+<area shape="rect" id="node7" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="492,230,607,256"/>
+<area shape="rect" id="node12" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="497,179,602,206"/>
+<area shape="rect" id="node8" href="$classprevector_1_1iterator.html#ae9dd2b5e8d96f866e4b05d6b7535f285" title="prevector::iterator\l::iterator" alt="" coords="681,172,805,213"/>
+<area shape="rect" id="node9" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="678,238,809,264"/>
+<area shape="rect" id="node10" href="$classprevector.html#a20150a43dd87c33f0e855a55bd3418e8" title="prevector::direct_ptr" alt="" coords="873,234,1011,260"/>
+<area shape="rect" id="node11" href="$classprevector.html#ae3343cc65be9fd678b4a6f8305624de6" title="prevector::indirect_ptr" alt="" coords="868,284,1016,311"/>
+<area shape="rect" id="node14" href="$script_8cpp.html#a1a031fe179413544ea422d3304a3f4a0" title="ScriptTransferAsset" alt="" coords="480,78,619,104"/>
+<area shape="rect" id="node16" href="$script_8cpp.html#a47e98a71543bbdb9c69e2c2e2f523138" title="ScriptReissueAsset" alt="" coords="480,128,619,155"/>
+</map>

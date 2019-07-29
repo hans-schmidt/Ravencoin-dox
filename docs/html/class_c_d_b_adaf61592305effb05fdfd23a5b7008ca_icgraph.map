@@ -1,0 +1,5 @@
+<map id="CDB::Recover" name="CDB::Recover">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#a7afc156ac22c92eb131c7f8a797cc7c4" title="CWalletDB::Recover" alt="" coords="161,31,307,57"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#ac077bf1cc1a55a364743a67d953f4601" title="CWalletDB::Recover" alt="" coords="385,5,531,32"/>
+<area shape="rect" id="node4" href="$class_c_wallet_d_b.html#a337d72e68ddcd35d2f2517c57979e0ac" title="CWalletDB::VerifyDatabaseFile" alt="" coords="355,56,561,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ClientModel::getTotalBytesRecv" name="ClientModel::getTotalBytesRecv">
+<area shape="rect" id="node2" href="$class_client_model.html#a82d434ebd032c00736e043ce2d36ac5e" title="ClientModel::updateTimer" alt="" coords="276,5,447,32"/>
+<area shape="rect" id="node4" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="264,56,459,83"/>
+<area shape="rect" id="node10" href="$class_traffic_graph_widget.html#a8f627aaf6171695d94a0e83b239fe1ac" title="TrafficGraphWidget\l::setClientModel" alt="" coords="294,107,429,149"/>
+<area shape="rect" id="node11" href="$class_traffic_graph_widget.html#a5a1ae0d0a8cc43c67386de4aa1111340" title="TrafficGraphWidget\l::updateRates" alt="" coords="294,173,429,214"/>
+<area shape="rect" id="node13" href="$class_traffic_graph_widget.html#a71c23db2649ab8781fa9a294e540b7ee" title="TrafficGraphWidget\l::clear" alt="" coords="294,238,429,279"/>
+<area shape="rect" id="node3" href="$class_client_model.html#aec1d32d5dc8c094eba66036a19a22854" title="ClientModel::ClientModel" alt="" coords="512,5,680,32"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="507,56,685,83"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1207,19,1381,61"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="733,78,912,119"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="960,85,1159,112"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1207,85,1381,126"/>
+<area shape="rect" id="node12" href="$class_traffic_graph_widget.html#a99f4f3f14bab99bef8918cb4f5f69aa6" title="TrafficGraphWidget\l::TrafficGraphWidget" alt="" coords="525,173,667,214"/>
+<area shape="rect" id="node14" href="$class_traffic_graph_widget.html#aa08cb5ae735e58a79bdff42b933ec4c4" title="TrafficGraphWidget\l::setGraphRangeMins" alt="" coords="521,238,671,279"/>
+</map>

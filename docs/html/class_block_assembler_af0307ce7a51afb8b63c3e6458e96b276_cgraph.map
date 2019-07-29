@@ -1,0 +1,4 @@
+<map id="BlockAssembler::UpdatePackagesForAdded" name="BlockAssembler::UpdatePackagesForAdded">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#aea6c845956f051442dac0a13975b2192" title="Populate setDescendants with all in&#45;mempool descendants of hash. " alt="" coords="279,13,521,39"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a0f163f91b8590b86acd43b26438d7ee1" title="CTxMemPool::GetMemPoolChildren" alt="" coords="569,13,804,39"/>
+</map>

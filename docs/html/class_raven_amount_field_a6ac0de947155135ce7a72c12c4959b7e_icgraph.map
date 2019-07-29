@@ -1,0 +1,4 @@
+<map id="RavenAmountField::setValid" name="RavenAmountField::setValid">
+<area shape="rect" id="node2" href="$class_raven_amount_field.html#ad80eefdbed08e39a3038fddb0fda7c6a" title="Perform input validation, mark field as invalid if entered value is not valid. " alt="" coords="249,5,436,32"/>
+<area shape="rect" id="node3" href="$class_raven_amount_field.html#a55c7c95728a6a4c6e81d370380908ec7" title="Intercept focus&#45;in event and &#39;,&#39; key presses. " alt="" coords="241,56,444,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CBlockPolicyEstimator::estimateRawFee" name="CBlockPolicyEstimator::estimateRawFee">
+<area shape="rect" id="node2" href="$class_tx_confirm_stats.html#a34b67526e2ceea1b81d8669e3faf6a42" title="Return the max number of confirms we&#39;re tracking. " alt="" coords="433,13,655,39"/>
+<area shape="rect" id="node4" href="$class_tx_confirm_stats.html#aace5d830fdfac5626e7769dee5fe6f11" title="Calculate a feerate estimate. " alt="" coords="211,35,385,76"/>
+<area shape="rect" id="node3" href="$class_tx_confirm_stats.html#a8aacab502acae6b278ede7c68c168dc8" title="Write state of estimation data to a file. " alt="" coords="703,13,856,39"/>
+</map>

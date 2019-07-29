@@ -1,0 +1,12 @@
+<map id="AssetsDialog::setBalance" name="AssetsDialog::setBalance">
+<area shape="rect" id="node2" href="$namespace_g_u_i_util.html#a8be38945b1ea26b68f766eabac8c4a2a" title="GUIUtil::getSubLabelFont" alt="" coords="241,5,413,32"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="227,56,427,83"/>
+<area shape="rect" id="node4" href="$class_raven_units.html#ad61d958c9c19db002368eec18bf1527c" title="Format as string (with unit) " alt="" coords="233,107,420,133"/>
+<area shape="rect" id="node11" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="229,157,425,184"/>
+<area shape="rect" id="node5" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="475,81,611,108"/>
+<area shape="rect" id="node10" href="$class_raven_units.html#a357d3a6cb01154a8da132d435c7fd436" title="Short name. " alt="" coords="477,132,608,159"/>
+<area shape="rect" id="node6" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="679,5,805,32"/>
+<area shape="rect" id="node7" href="$class_raven_units.html#aea6fad621ac4f75381406d5ca415f78e" title="Number of Satoshis (1e&#45;8) per unit for assets. " alt="" coords="659,56,825,83"/>
+<area shape="rect" id="node8" href="$class_raven_units.html#a56c9ff217422454061562a0612bf61ec" title="Number of Satoshis (1e&#45;8) per unit. " alt="" coords="676,107,808,133"/>
+<area shape="rect" id="node9" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="667,157,817,184"/>
+</map>

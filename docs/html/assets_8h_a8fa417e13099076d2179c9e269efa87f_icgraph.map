@@ -1,0 +1,35 @@
+<map id="GetBurnAmount" name="GetBurnAmount">
+<area shape="rect" id="node2" href="$assets_8h.html#a7652928e0004b0ac4a096b39c2add5f7" title="Check to make sure the script contains the burn transaction. " alt="" coords="206,225,341,251"/>
+<area shape="rect" id="node10" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="192,357,355,383"/>
+<area shape="rect" id="node11" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="168,407,379,434"/>
+<area shape="rect" id="node13" href="$class_create_asset_dialog.html#ad83e1c6c6ea29e74543f4afd80dce1ea" title="Helper Methods. " alt="" coords="203,459,343,500"/>
+<area shape="rect" id="node14" href="$class_create_asset_dialog.html#a0395a5dd6501b9332c904c89d0356531" title="CreateAssetDialog::\lcoinControlUpdateLabels" alt="" coords="189,707,357,748"/>
+<area shape="rect" id="node30" href="$class_reissue_asset_dialog.html#a1e9d3cbaee7306f1b731c9d275800730" title="ReissueAssetDialog\l::coinControlUpdateLabels" alt="" coords="185,524,361,565"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="436,188,647,229"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a78e4b3b650fd78ff8261cbf079155045" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="440,254,643,281"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="444,305,639,347"/>
+<area shape="rect" id="node6" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="434,5,649,47"/>
+<area shape="rect" id="node7" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="427,71,656,112"/>
+<area shape="rect" id="node8" href="$assets_8h.html#af6f5be6e220fb04b4ffba3b07f3a4929" title="CheckIssueBurnTx" alt="" coords="474,137,609,163"/>
+<area shape="rect" id="node9" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="438,371,645,398"/>
+<area shape="rect" id="node12" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="490,422,593,449"/>
+<area shape="rect" id="node15" href="$class_create_asset_dialog.html#affceaf7b5ffeeda6f20ecb354ff4e7f8" title="CreateAssetDialog::\lsetModel" alt="" coords="709,655,849,696"/>
+<area shape="rect" id="node23" href="$class_create_asset_dialog.html#a0798fb7d7daa16c4d49001170c4a4d37" title="CreateAssetDialog::\lonAssetTypeActivated" alt="" coords="464,837,619,879"/>
+<area shape="rect" id="node28" href="$class_create_asset_dialog.html#aecfbf86c3d3e5e8d1fac156b8df28f5a" title="CreateAssetDialog::\lcoinControlFeatureChanged" alt="" coords="449,707,633,748"/>
+<area shape="rect" id="node29" href="$class_create_asset_dialog.html#a48181a6ef7b33bc3cbe27313f7e2a16a" title="CreateAssetDialog::\lcoinControlButtonClicked" alt="" coords="456,772,627,813"/>
+<area shape="rect" id="node16" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="Set the wallet model. " alt="" coords="901,597,1088,623"/>
+<area shape="rect" id="node17" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1136,597,1299,623"/>
+<area shape="rect" id="node18" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="1347,597,1525,623"/>
+<area shape="rect" id="node19" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="2047,560,2221,601"/>
+<area shape="rect" id="node20" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="1573,619,1752,660"/>
+<area shape="rect" id="node21" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1800,626,1999,653"/>
+<area shape="rect" id="node22" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="2047,625,2221,667"/>
+<area shape="rect" id="node24" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="709,772,849,813"/>
+<area shape="rect" id="node25" href="$class_create_asset_dialog.html#a093dbb5a197e9fbe2bab3e7529f65340" title="CreateAssetDialog::\lselectTypeName" alt="" coords="709,837,849,879"/>
+<area shape="rect" id="node26" href="$class_create_asset_dialog.html#a9900289907248e0b67e838f4a2db2f6e" title="CreateAssetDialog::\lfocusSubAsset" alt="" coords="925,869,1065,911"/>
+<area shape="rect" id="node27" href="$class_create_asset_dialog.html#abbaaae0c6a41b5888e86f17c2e1e4ac2" title="CreateAssetDialog::\lfocusUniqueAsset" alt="" coords="925,804,1065,845"/>
+<area shape="rect" id="node31" href="$class_reissue_asset_dialog.html#aedb26df763c8cda11fea5a0c07ca70a0" title="ReissueAssetDialog\l::setModel" alt="" coords="708,524,849,565"/>
+<area shape="rect" id="node32" href="$class_reissue_asset_dialog.html#a21293778ca6b28a5860897fa3df4aa50" title="ReissueAssetDialog\l::coinControlFeatureChanged" alt="" coords="445,524,637,565"/>
+<area shape="rect" id="node33" href="$class_reissue_asset_dialog.html#aa6ab6d2f84e4c3c305da572e856a1462" title="ReissueAssetDialog\l::coinControlButtonClicked" alt="" coords="452,589,631,631"/>
+<area shape="rect" id="node34" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="704,589,853,631"/>
+</map>

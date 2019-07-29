@@ -1,0 +1,5 @@
+<map id="CWallet::GetCredit" name="CWallet::GetCredit">
+<area shape="rect" id="node2" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="202,13,378,39"/>
+<area shape="rect" id="node4" href="$class_transaction_desc.html#a1de402b439b16ee501487b6cadb979ce" title="TransactionDesc::CreateDebug\lString" alt="" coords="187,64,393,105"/>
+<area shape="rect" id="node3" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="441,5,587,47"/>
+</map>

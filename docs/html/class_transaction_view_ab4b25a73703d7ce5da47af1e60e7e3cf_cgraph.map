@@ -1,0 +1,10 @@
+<map id="TransactionView::changedAmount" name="TransactionView::changedAmount">
+<area shape="rect" id="node2" href="$class_raven_units.html#affaad322be327986fd98a14404c7d81e" title="Parse string to coin amount. " alt="" coords="264,56,395,83"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="229,107,429,133"/>
+<area shape="rect" id="node8" href="$class_options_model.html#a00a1f0842f764f64086e7d5d42bbce63" title="OptionsModel::getDisplayUnit" alt="" coords="231,157,427,184"/>
+<area shape="rect" id="node9" href="$class_transaction_filter_proxy.html#a14688071f18551bf7d78225feb8ca8df" title="TransactionFilterProxy\l::setMinAmount" alt="" coords="253,209,406,250"/>
+<area shape="rect" id="node3" href="$class_raven_units.html#a559a7cae18b466371401f02d6407c9c5" title="Is unit ID valid? " alt="" coords="507,5,634,32"/>
+<area shape="rect" id="node4" href="$class_raven_units.html#ab3396a763c2ca8042f331f32904b0580" title="Number of decimals left. " alt="" coords="495,56,646,83"/>
+<area shape="rect" id="node5" href="$class_raven_units.html#a21db9aa82ae32bd1a7155d30d8840307" title="RavenUnits::removeSpaces" alt="" coords="477,107,664,133"/>
+<area shape="rect" id="node6" href="$class_raven_units.html#afcf268875a556bcacdf6a8b6fb5a4149" title="Return maximum number of base units (Satoshis) " alt="" coords="712,107,875,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CWalletDB::ErasePool" name="CWalletDB::ErasePool">
+<area shape="rect" id="node2" href="$group___actions.html#ga7353ba1e79fc4167fbfbe79b41698fa7" title="Mark old keypool keys as used, and generate all new keys. " alt="" coords="225,5,379,32"/>
+<area shape="rect" id="node3" href="$group___actions.html#gae460b8c824a1a6633615f95373e533f2" title="CWallet::KeepKey" alt="" coords="237,56,367,83"/>
+<area shape="rect" id="node4" href="$group___actions.html#gac322faf0be1465f541e4607c9189d592" title="Marks all keys in the keypool up to and including reserve_key as used. " alt="" coords="209,107,395,149"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="CWallet::ListCoins" name="CWallet::ListCoins">
+<area shape="rect" id="node2" href="$class_wallet_model.html#ae5ce26bba42701b45de766ef11cc9a47" title="WalletModel::listCoins" alt="" coords="218,143,371,170"/>
+<area shape="rect" id="node14" href="$wallet__tests_8cpp.html#ad94db8992665684c9f644686dab4d618" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="185,194,404,221"/>
+<area shape="rect" id="node3" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="452,136,588,177"/>
+<area shape="rect" id="node4" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="636,71,772,112"/>
+<area shape="rect" id="node11" href="$class_coin_control_dialog.html#a1990d478f3ffba666c358a4f1bd395ec" title="CoinControlDialog::\lradioTreeMode" alt="" coords="636,136,772,177"/>
+<area shape="rect" id="node13" href="$class_coin_control_dialog.html#a775c6d290cb63667a434b09072094533" title="CoinControlDialog::\lradioListMode" alt="" coords="636,201,772,243"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#a48181a6ef7b33bc3cbe27313f7e2a16a" title="CreateAssetDialog::\lcoinControlButtonClicked" alt="" coords="833,5,1004,47"/>
+<area shape="rect" id="node7" href="$class_reissue_asset_dialog.html#aa6ab6d2f84e4c3c305da572e856a1462" title="ReissueAssetDialog\l::coinControlButtonClicked" alt="" coords="829,71,1008,112"/>
+<area shape="rect" id="node9" href="$class_send_coins_dialog.html#a59d757d9e4bea5b380eb480fd79cfb49" title="SendCoinsDialog::coinControl\lButtonClicked" alt="" coords="820,136,1017,177"/>
+<area shape="rect" id="node6" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="1093,5,1233,47"/>
+<area shape="rect" id="node8" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="1088,71,1237,112"/>
+<area shape="rect" id="node10" href="$class_send_coins_dialog.html#affacd36b4df87a68e2fe706ef388c0a6" title="SendCoinsDialog::SendCoins\lDialog" alt="" coords="1065,136,1260,177"/>
+<area shape="rect" id="node12" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="851,201,987,243"/>
+</map>

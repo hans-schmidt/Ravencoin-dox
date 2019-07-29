@@ -1,0 +1,9 @@
+<map id="src/rpc/mining.h" name="src/rpc/mining.h">
+<area shape="rect" id="node2" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node3" href="$assetsdialog_8cpp.html" title="src/qt/assetsdialog.cpp" alt="" coords="117,80,274,107"/>
+<area shape="rect" id="node4" href="$rpc_2assets_8cpp.html" title="src/rpc/assets.cpp" alt="" coords="298,80,429,107"/>
+<area shape="rect" id="node5" href="$rpc_2messages_8cpp.html" title="src/rpc/messages.cpp" alt="" coords="453,80,604,107"/>
+<area shape="rect" id="node6" href="$mining_8cpp.html" title="src/rpc/mining.cpp" alt="" coords="628,80,757,107"/>
+<area shape="rect" id="node7" href="$server_8cpp.html" title="src/rpc/server.cpp" alt="" coords="781,80,908,107"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html" title="src/wallet/rpcwallet.cpp" alt="" coords="932,80,1091,107"/>
+</map>

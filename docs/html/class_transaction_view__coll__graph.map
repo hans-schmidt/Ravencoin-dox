@@ -1,0 +1,29 @@
+<map id="TransactionView" name="TransactionView">
+<area shape="rect" id="node3" href="$class_g_u_i_util_1_1_table_view_last_column_resizing_fixer.html" title="Makes a QTableView last column feel as if it was being resized from its left border. " alt="" coords="1661,191,1867,233"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html" title="Interface to Raven wallet from Qt view code. " alt="" coords="1717,351,1811,377"/>
+<area shape="rect" id="node5" href="$class_transaction_filter_proxy.html" title="Filter the transaction list according to pre&#45;specified rules. " alt="" coords="1687,5,1841,32"/>
+<area shape="rect" id="node8" href="$class_transaction_table_model.html" title="UI model for the transaction table of a wallet. " alt="" coords="2093,739,2251,765"/>
+<area shape="rect" id="node29" href="$class_address_table_model.html" title="Qt model of the address book in the core. " alt="" coords="2103,553,2241,580"/>
+<area shape="rect" id="node31" href="$class_recent_requests_table_model.html" title="Model for list of recently generated payment requests / raven: URIs. " alt="" coords="2079,351,2265,377"/>
+<area shape="rect" id="node32" href="$class_asset_table_model.html" title="Models assets portion of wallet as table of owned assets. " alt="" coords="2111,227,2233,253"/>
+<area shape="rect" id="node10" href="$class_transaction_table_priv.html" title="TransactionTablePriv" alt="" coords="2355,784,2500,811"/>
+<area shape="rect" id="node11" href="$class_c_wallet.html" title="A CWallet is an extension of a keystore, which also maintains a set of transactions and balances..." alt="" coords="1420,659,1489,685"/>
+<area shape="rect" id="node30" href="$class_address_table_priv.html" title="AddressTablePriv" alt="" coords="2365,588,2490,615"/>
+<area shape="rect" id="node12" href="$class_c_crypto_key_store.html" title="Keystore which keeps the private keys encrypted. " alt="" coords="1075,789,1201,816"/>
+<area shape="rect" id="node13" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="843,797,961,824"/>
+<area shape="rect" id="node14" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="673,789,760,816"/>
+<area shape="rect" id="node15" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="423,736,541,763"/>
+<area shape="rect" id="node26" href="$class_c_d_b_env.html" title="CDBEnv" alt="" coords="679,684,754,711"/>
+<area shape="rect" id="node18" href="$class_c_validation_interface.html" title="CValidationInterface" alt="" coords="1068,521,1208,548"/>
+<area shape="rect" id="node19" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="1097,583,1179,609"/>
+<area shape="rect" id="node20" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="1095,633,1181,660"/>
+<area shape="rect" id="node21" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash160 of its serialized public key. " alt="" coords="867,583,937,609"/>
+<area shape="rect" id="node22" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="685,583,749,609"/>
+<area shape="rect" id="node23" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="419,583,545,609"/>
+<area shape="rect" id="node24" href="$class_c_wallet_d_b.html" title="Access to the wallet database. " alt="" coords="1094,684,1182,711"/>
+<area shape="rect" id="node25" href="$class_c_d_b.html" title="RAII class that provides access to a Berkeley database. " alt="" coords="877,684,927,711"/>
+<area shape="rect" id="node27" href="$class_c_wallet_d_b_wrapper.html" title="An instance of this class represents one database. " alt="" coords="833,633,971,660"/>
+<area shape="rect" id="node28" href="$class_platform_style.html" title="PlatformStyle" alt="" coords="1713,748,1815,775"/>
+<area shape="rect" id="node33" href="$class_asset_table_priv.html" title="AssetTablePriv" alt="" coords="2372,227,2483,253"/>
+<area shape="rect" id="node34" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Raven client. " alt="" coords="1403,351,1506,377"/>
+</map>

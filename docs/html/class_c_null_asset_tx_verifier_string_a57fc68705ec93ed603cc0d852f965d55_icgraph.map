@@ -1,0 +1,5 @@
+<map id="CNullAssetTxVerifierString::ConstructTransaction" name="CNullAssetTxVerifierString::ConstructTransaction">
+<area shape="rect" id="node2" href="$assets_8h.html#a6aac199c739cdffa605b3ade39208bab" title="CreateAssetTransaction" alt="" coords="256,5,419,32"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="232,56,443,83"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="491,56,697,83"/>
+</map>

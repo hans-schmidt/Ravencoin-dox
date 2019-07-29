@@ -1,0 +1,4 @@
+<map id="TestBlockValidity" name="TestBlockValidity">
+<area shape="rect" id="node2" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="211,5,303,32"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="177,56,336,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="src/net_processing.h" name="src/net_processing.h">
+<area shape="rect" id="node2" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node3" href="$net__processing_8cpp.html" title="src/net_processing.cpp" alt="" coords="117,80,274,107"/>
+<area shape="rect" id="node4" href="$peertablemodel_8h.html" title="src/qt/peertablemodel.h" alt="" coords="299,80,457,107"/>
+<area shape="rect" id="node10" href="$rpc_2net_8cpp.html" title="src/rpc/net.cpp" alt="" coords="482,80,591,107"/>
+<area shape="rect" id="node5" href="$clientmodel_8cpp.html" title="src/qt/clientmodel.cpp" alt="" coords="117,155,268,181"/>
+<area shape="rect" id="node6" href="$peertablemodel_8cpp.html" title="src/qt/peertablemodel.cpp" alt="" coords="292,155,464,181"/>
+<area shape="rect" id="node7" href="$rpcconsole_8h.html" title="src/qt/rpcconsole.h" alt="" coords="489,155,622,181"/>
+<area shape="rect" id="node8" href="$ravengui_8cpp.html" title="src/qt/ravengui.cpp" alt="" coords="406,229,539,256"/>
+<area shape="rect" id="node9" href="$rpcconsole_8cpp.html" title="src/qt/rpcconsole.cpp" alt="" coords="563,229,710,256"/>
+</map>

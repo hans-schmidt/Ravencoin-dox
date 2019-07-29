@@ -1,0 +1,7 @@
+<map id="CWallet::ZapSelectTx" name="CWallet::ZapSelectTx">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#ac83c75bb46cc6dff3d325b5a1d7f6338" title="CWalletDB::ZapSelectTx" alt="" coords="204,31,375,57"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#a36d47a1a63670abbb8a5e404006a230e" title="CWalletDB::FindWalletTx" alt="" coords="423,5,596,32"/>
+<area shape="rect" id="node5" href="$class_c_wallet_d_b.html#a498e00c693cacc4b558e6f5295ea32f2" title="CWalletDB::EraseTx" alt="" coords="437,56,582,83"/>
+<area shape="rect" id="node4" href="$class_c_d_b.html#adfd2c079df629d5f7cac0ca923ffd698" title="CDB::Read" alt="" coords="671,5,761,32"/>
+<area shape="rect" id="node6" href="$class_c_wallet_d_b.html#a15d5972c3688ef35f875bafcbb4dff32" title="CWalletDB::EraseIC" alt="" coords="644,56,788,83"/>
+</map>

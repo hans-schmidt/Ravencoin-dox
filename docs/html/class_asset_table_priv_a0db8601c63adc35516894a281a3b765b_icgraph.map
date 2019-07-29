@@ -1,0 +1,6 @@
+<map id="AssetTablePriv::refreshWallet" name="AssetTablePriv::refreshWallet">
+<area shape="rect" id="node2" href="$class_asset_table_model.html#a507b91782129f0bf05f8aa1032468af2" title="AssetTableModel::AssetTable\lModel" alt="" coords="257,5,455,47"/>
+<area shape="rect" id="node3" href="$class_asset_table_model.html#a5b3e5bc2d8312e6ac6f62e84a8b5e404" title="AssetTableModel::checkBalance\lChanged" alt="" coords="249,71,463,112"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="511,71,680,112"/>
+<area shape="rect" id="node5" href="$class_wallet_model.html#a36282857c97bcaad796a2b5c7398245c" title="WalletModel::WalletModel" alt="" coords="728,78,903,105"/>
+</map>

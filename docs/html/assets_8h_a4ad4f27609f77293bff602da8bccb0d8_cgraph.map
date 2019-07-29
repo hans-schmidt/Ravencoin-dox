@@ -1,0 +1,51 @@
+<map id="ContextualCheckReissueAsset" name="ContextualCheckReissueAsset">
+<area shape="rect" id="node2" href="$rpc_2assets_8cpp.html#ada9eee324855c73e13fbf6d9bd44b77e" title="reissue" alt="" coords="328,259,392,285"/>
+<area shape="rect" id="node22" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="1073,349,1112,376"/>
+<area shape="rect" id="node30" href="$assets_2assets_8cpp.html#a10b6852f2679590541be4a8bf0f7c043" title="ReissueAssetFromTransaction" alt="" coords="259,641,461,668"/>
+<area shape="rect" id="node49" href="$assets_2assets_8cpp.html#a5d71f895106d8d916220342b4d650a0c" title="CheckReissueAsset" alt="" coords="289,692,431,719"/>
+<area shape="rect" id="node50" href="$class_c_assets_cache.html#a68c7297f843acfed8ec6b8c20dd1c10a" title="Returns true if an asset with the name exists, and it was able to get the asset metadata from databas..." alt="" coords="259,743,461,785"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="795,103,933,129"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#a5a7394aeb8d5584db7a90c2c041726b1" title="UniValue::size" alt="" coords="563,56,669,83"/>
+<area shape="rect" id="node5" href="$rpc_2assets_8cpp.html#a41e81a808809b12fd795b404d39ac60a" title="AssetActivationWarning" alt="" coords="535,5,697,32"/>
+<area shape="rect" id="node6" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="558,107,674,133"/>
+<area shape="rect" id="node7" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="554,157,678,184"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a1de07aa72f31cf1b1a3ea94307b7b566" title="Figures out what wallet, if any, to use for a JSONRPCRequest. " alt="" coords="509,208,723,235"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#ae44c9e4546fdf6e182276fada0126649" title="EnsureWalletIsAvailable" alt="" coords="534,360,698,387"/>
+<area shape="rect" id="node20" href="$safemode_8cpp.html#aa7985a8405eaf7b4b8e269dc39be5e30" title="ObserveSafeMode" alt="" coords="551,309,681,336"/>
+<area shape="rect" id="node26" href="$rpcwallet_8cpp.html#a4eb48c19268ebfbfc0e9b6d7904e877f" title="EnsureWalletIsUnlocked" alt="" coords="533,411,699,437"/>
+<area shape="rect" id="node28" href="$class_uni_value.html#a087ea6ccec615333371fa1aaf83ab7df" title="UniValue::get_str" alt="" coords="555,461,677,488"/>
+<area shape="rect" id="node10" href="$rpc_2protocol_8cpp.html#a40b75d3d265c4a2e1d5fe3e129743884" title="JSONRPCError" alt="" coords="807,360,921,387"/>
+<area shape="rect" id="node11" href="$util_8h.html#a96c5fc7111f69f7dcaba992d95d13e03" title="error" alt="" coords="1069,273,1117,300"/>
+<area shape="rect" id="node19" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="1019,400,1166,427"/>
+<area shape="rect" id="node12" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="Send a string to the log output. " alt="" coords="1267,172,1354,199"/>
+<area shape="rect" id="node13" href="$namespacetinyformat.html#a05144619d8b16e2b31b2594ca9c6bf1d" title="Format list of arguments to the stream according to given format string. " alt="" coords="1248,223,1373,249"/>
+<area shape="rect" id="node14" href="$util_8h.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="1231,273,1390,300"/>
+<area shape="rect" id="node15" href="$util_8h.html#af0e69a29ba128b74030ad8a213f2037a" title="FileCommit" alt="" coords="1266,324,1355,351"/>
+<area shape="rect" id="node16" href="$util_8h.html#acb8d6b822bc1bfa609bf43bbac1a0d44" title="TruncateFile" alt="" coords="1263,375,1358,401"/>
+<area shape="rect" id="node17" href="$util_8h.html#a756a5c49a4bb607d16d9842f8f3ede4f" title="this function tries to raise the file descriptor limit to the requested number. " alt="" coords="1228,71,1393,97"/>
+<area shape="rect" id="node18" href="$util_8h.html#a91c763bffc49cf7ed8d45cc44870e55c" title="this function tries to make a particular range of a file allocated (corresponding to disk space) it i..." alt="" coords="1247,121,1375,148"/>
+<area shape="rect" id="node21" href="$warnings_8cpp.html#a6918ffd0d632afc0c0495696bc99aa00" title="Format a string that describes several potential problems detected by the core. " alt="" coords="815,309,913,336"/>
+<area shape="rect" id="node25" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="1005,223,1180,249"/>
+<area shape="rect" id="node23" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="1246,425,1375,452"/>
+<area shape="rect" id="node24" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="1249,476,1372,503"/>
+<area shape="rect" id="node27" href="$class_c_crypto_key_store.html#a52919fa284a3aa10f1b4bd6018b6dbee" title="CCryptoKeyStore::IsLocked" alt="" coords="771,411,957,437"/>
+<area shape="rect" id="node29" href="$class_uni_value.html#a4c9a5fa9114affbf31f6e346c032be12" title="UniValue::getValStr" alt="" coords="795,461,933,488"/>
+<area shape="rect" id="node31" href="$class_c_transaction.html#aec5ff46c8234764878b03aa90d4992cf" title="CTransaction::IsReissueAsset" alt="" coords="515,856,717,883"/>
+<area shape="rect" id="node34" href="$assets_2assets_8cpp.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="532,729,700,756"/>
+<area shape="rect" id="node32" href="$assets_2assets_8cpp.html#ad12e33bdb9506a0d63fde823662df1c4" title="CheckReissueDataTx" alt="" coords="789,957,939,984"/>
+<area shape="rect" id="node33" href="$assets_2assets_8cpp.html#a22e1bac353a45a714a1a063bbd061677" title="Check script and see if it matches the reissue template. " alt="" coords="1018,944,1167,971"/>
+<area shape="rect" id="node35" href="$standard_8cpp.html#a951f7e601746ae076afdf3169ecca2fc" title="Parse a standard scriptPubKey for the destination address. " alt="" coords="799,600,929,627"/>
+<area shape="rect" id="node37" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1253,691,1368,717"/>
+<area shape="rect" id="node41" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1258,636,1363,663"/>
+<area shape="rect" id="node46" href="$base58_8cpp.html#a69b845c325e6bf516251cd3a67fe1df7" title="EncodeDestination" alt="" coords="798,755,930,781"/>
+<area shape="rect" id="node36" href="$standard_8cpp.html#a81899059ee66f695aaf96a07d5e2ebdc" title="Parse a scriptPubKey and identify script type for standard scripts. " alt="" coords="1063,552,1122,579"/>
+<area shape="rect" id="node42" href="$classuint160.html#a66918f25b891415f2a9bbbb1dfdbedbd" title="uint160::uint160" alt="" coords="1253,527,1368,553"/>
+<area shape="rect" id="node43" href="$class_c_pub_key.html#a4fa94293cf8577fd039b9a133f6c7f30" title="CPubKey::IsValid" alt="" coords="1029,603,1156,629"/>
+<area shape="rect" id="node44" href="$class_c_pub_key.html#a2675f7e6f72eff68e7a5227289feb021" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="1032,653,1153,680"/>
+<area shape="rect" id="node45" href="$class_c_script_i_d.html#a116da5a7e94e2abb66011c33705d58e7" title="CScriptID::CScriptID" alt="" coords="1019,451,1166,477"/>
+<area shape="rect" id="node40" href="$classprevector.html#a626f7d206dbc24e5610631809762758b" title="prevector::size" alt="" coords="1453,577,1561,604"/>
+<area shape="rect" id="node38" href="$classprevector_1_1iterator.html#ae9dd2b5e8d96f866e4b05d6b7535f285" title="prevector::iterator\l::iterator" alt="" coords="1445,629,1569,670"/>
+<area shape="rect" id="node39" href="$classprevector.html#a59f1d7bcbc751cfa0faddd7ffa184846" title="prevector::item_ptr" alt="" coords="1441,695,1572,721"/>
+<area shape="rect" id="node47" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="1009,755,1176,781"/>
+<area shape="rect" id="node48" href="$class_c_base58_data.html#a7dc91af403ca02694b3247b15604e220" title="CBase58Data::ToString" alt="" coords="1012,805,1173,832"/>
+</map>

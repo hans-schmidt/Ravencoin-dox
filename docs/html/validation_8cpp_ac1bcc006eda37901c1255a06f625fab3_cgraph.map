@@ -1,0 +1,5 @@
+<map id="IsRestrictedActive" name="IsRestrictedActive">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="250,5,317,32"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#ab399bb32bdd27bf72156da863b23c18f" title="CChainParams::Restricted\lActivationBlock" alt="" coords="194,57,373,98"/>
+<area shape="rect" id="node4" href="$validation_8cpp.html#ad82587b49fc0765c8c7255c3bad6bd16" title="AreRestrictedAssetsDeployed" alt="" coords="184,123,383,149"/>
+</map>

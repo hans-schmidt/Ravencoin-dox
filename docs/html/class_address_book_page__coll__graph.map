@@ -1,0 +1,27 @@
+<map id="AddressBookPage" name="AddressBookPage">
+<area shape="rect" id="node3" href="$class_address_table_model.html" title="Qt model of the address book in the core. " alt="" coords="1612,396,1749,423"/>
+<area shape="rect" id="node5" href="$class_address_table_priv.html" title="AddressTablePriv" alt="" coords="1917,442,2043,468"/>
+<area shape="rect" id="node23" href="$class_wallet_model.html" title="Interface to Raven wallet from Qt view code. " alt="" coords="1933,203,2027,230"/>
+<area shape="rect" id="node25" href="$class_transaction_table_model.html" title="UI model for the transaction table of a wallet. " alt="" coords="2272,342,2429,368"/>
+<area shape="rect" id="node28" href="$class_recent_requests_table_model.html" title="Model for list of recently generated payment requests / raven: URIs. " alt="" coords="2257,136,2444,163"/>
+<area shape="rect" id="node29" href="$class_asset_table_model.html" title="Models assets portion of wallet as table of owned assets. " alt="" coords="2289,12,2412,39"/>
+<area shape="rect" id="node6" href="$class_c_wallet.html" title="A CWallet is an extension of a keystore, which also maintains a set of transactions and balances..." alt="" coords="1417,503,1486,530"/>
+<area shape="rect" id="node26" href="$class_transaction_table_priv.html" title="TransactionTablePriv" alt="" coords="2533,387,2679,414"/>
+<area shape="rect" id="node7" href="$class_c_crypto_key_store.html" title="Keystore which keeps the private keys encrypted. " alt="" coords="1075,359,1201,386"/>
+<area shape="rect" id="node8" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="843,331,961,358"/>
+<area shape="rect" id="node9" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="673,352,760,379"/>
+<area shape="rect" id="node10" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="423,415,541,442"/>
+<area shape="rect" id="node21" href="$class_c_d_b_env.html" title="CDBEnv" alt="" coords="679,415,754,442"/>
+<area shape="rect" id="node13" href="$class_c_validation_interface.html" title="CValidationInterface" alt="" coords="1068,535,1208,562"/>
+<area shape="rect" id="node14" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="1097,586,1179,612"/>
+<area shape="rect" id="node15" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="1095,636,1181,663"/>
+<area shape="rect" id="node16" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash160 of its serialized public key. " alt="" coords="867,636,937,663"/>
+<area shape="rect" id="node17" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="685,636,749,663"/>
+<area shape="rect" id="node18" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="419,636,545,663"/>
+<area shape="rect" id="node19" href="$class_c_wallet_d_b.html" title="Access to the wallet database. " alt="" coords="1094,432,1182,459"/>
+<area shape="rect" id="node20" href="$class_c_d_b.html" title="RAII class that provides access to a Berkeley database. " alt="" coords="877,432,927,459"/>
+<area shape="rect" id="node22" href="$class_c_wallet_d_b_wrapper.html" title="An instance of this class represents one database. " alt="" coords="833,382,971,408"/>
+<area shape="rect" id="node27" href="$class_platform_style.html" title="PlatformStyle" alt="" coords="1929,367,2031,394"/>
+<area shape="rect" id="node30" href="$class_asset_table_priv.html" title="AssetTablePriv" alt="" coords="2551,12,2661,39"/>
+<area shape="rect" id="node31" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Raven client. " alt="" coords="1629,152,1732,179"/>
+</map>

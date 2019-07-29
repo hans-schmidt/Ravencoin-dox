@@ -1,0 +1,34 @@
+<map id="CDBWrapper::NewIterator" name="CDBWrapper::NewIterator">
+<area shape="rect" id="node2" href="$class_c_assets_d_b.html#a2e29c570ab6a40d8bf3146d3a9095bdf" title="CAssetsDB::LoadAssets" alt="" coords="264,5,433,32"/>
+<area shape="rect" id="node3" href="$class_c_message_d_b.html#aab9e6718f3bd096c2751d74c3dcfb046" title="CMessageDB::LoadMessages" alt="" coords="249,56,449,83"/>
+<area shape="rect" id="node5" href="$class_c_message_channel_d_b.html#a38044014b1e29f98171e4a693952851f" title="CMessageChannelDB::\lLoadMyMessageChannels" alt="" coords="261,107,437,149"/>
+<area shape="rect" id="node7" href="$class_c_restricted_d_b.html#aabcebcdaf59b6b4dfd9c84124350145c" title="CRestrictedDB::CheckForAddress\lRootQualifier" alt="" coords="237,173,461,214"/>
+<area shape="rect" id="node21" href="$class_c_coins_view_d_b.html#a86359fc2e09d57c7cd6966bd6569fe05" title="Get a cursor to iterate over the whole state. " alt="" coords="268,239,429,265"/>
+<area shape="rect" id="node22" href="$class_c_block_tree_d_b.html#a9ad390358757d9f2320f4c0ca0142385" title="CBlockTreeDB::ReadAddress\lUnspentIndex" alt="" coords="250,355,447,397"/>
+<area shape="rect" id="node25" href="$class_c_block_tree_d_b.html#a2136d3b3c23b790859918eb9077bc8f9" title="CBlockTreeDB::ReadAddress\lIndex" alt="" coords="250,290,447,331"/>
+<area shape="rect" id="node30" href="$class_c_block_tree_d_b.html#af50da61aa7b96723006663691fdb50c5" title="CBlockTreeDB::ReadTimestamp\lIndex" alt="" coords="241,421,456,462"/>
+<area shape="rect" id="node33" href="$class_c_block_tree_d_b.html#ad7a8a0cab9aa1bf37eeb52e8a44d47f6" title="CBlockTreeDB::LoadBlockIndexGuts" alt="" coords="229,487,468,513"/>
+<area shape="rect" id="node4" href="$rpc_2messages_8cpp.html#a3eab85bfb6184a1aac41de1294d536a0" title="viewallmessages" alt="" coords="567,56,689,83"/>
+<area shape="rect" id="node6" href="$rpc_2messages_8cpp.html#a7d5049b7d1981595ad9aa6b5dcbed792" title="viewallmessagechannels" alt="" coords="545,115,711,141"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#aca574b6303dcc473b92373f54d4798ff" title="Return true if the address has the given qualifier assigned to it. " alt="" coords="516,170,740,211"/>
+<area shape="rect" id="node9" href="$assets_8h.html#a6325029052b91b04adf8166f20a9a19c" title="VerifyQualifierChange" alt="" coords="1059,124,1209,151"/>
+<area shape="rect" id="node14" href="$assets_8h.html#a92ccc0f4b0b9b6cf54306673d504fad4" title="ContextualCheckVerifierString" alt="" coords="788,225,987,252"/>
+<area shape="rect" id="node20" href="$rpc_2assets_8cpp.html#ada2e59c757a6a8f7acffad783b4f1e1a" title="checkaddresstag" alt="" coords="827,175,948,201"/>
+<area shape="rect" id="node10" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="1281,69,1492,96"/>
+<area shape="rect" id="node11" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1540,237,1747,264"/>
+<area shape="rect" id="node13" href="$assets_8h.html#a142e1804ee596170853e243eb37828f1" title="ContextualCheckNullAsset\lTxOut" alt="" coords="1297,121,1477,162"/>
+<area shape="rect" id="node12" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="1592,69,1695,96"/>
+<area shape="rect" id="node15" href="$class_c_asset_transfer.html#a4521bc6493a97fb673728357c6adc248" title="CAssetTransfer::Contextual\lCheckAgainstVerifyString" alt="" coords="1041,394,1227,435"/>
+<area shape="rect" id="node17" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="1281,237,1492,264"/>
+<area shape="rect" id="node18" href="$assets_8h.html#aebcf42b5074b6ac822367822ce49f414" title="ContextualCheckVerifierAsset\lTxOut" alt="" coords="1035,277,1233,318"/>
+<area shape="rect" id="node19" href="$rpc_2assets_8cpp.html#a119170068bd1d77d5fae7f22910ccc17" title="isvalidverifierstring" alt="" coords="1069,225,1199,252"/>
+<area shape="rect" id="node16" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="1284,397,1489,424"/>
+<area shape="rect" id="node23" href="$validation_8h.html#afa4dcf096e631f5e03f302a3f839c967" title="GetAddressUnspent" alt="" coords="558,377,698,404"/>
+<area shape="rect" id="node24" href="$class_c_script_check.html#a1340496c37e521c253606b5957173afd" title="CScriptCheck::GetScriptError" alt="" coords="790,377,985,404"/>
+<area shape="rect" id="node26" href="$class_c_block_tree_d_b.html#a37f8c135b1b6aaf751694f0747913d96" title="CBlockTreeDB::ReadAddress\lIndex" alt="" coords="529,261,727,302"/>
+<area shape="rect" id="node27" href="$validation_8h.html#a4a74aecce43b67fc73af8ce39fd61c72" title="GetAddressIndex" alt="" coords="567,327,689,353"/>
+<area shape="rect" id="node28" href="$misc_8cpp.html#a1ad0d82f6f1b663ac149e605a93bab83" title="getaddressbalance" alt="" coords="822,276,953,303"/>
+<area shape="rect" id="node29" href="$misc_8cpp.html#af86900c2cc61f530ad429da2a2250112" title="getaddresstxids" alt="" coords="830,327,945,353"/>
+<area shape="rect" id="node31" href="$validation_8h.html#a4c6cdf4538a494d1394a44398bb2feea" title="GetTimestampIndex" alt="" coords="558,428,698,455"/>
+<area shape="rect" id="node32" href="$blockchain_8cpp.html#aa2fcd870e6744e4074e671efa1ae8c1f" title="getblockhashes" alt="" coords="831,428,944,455"/>
+</map>

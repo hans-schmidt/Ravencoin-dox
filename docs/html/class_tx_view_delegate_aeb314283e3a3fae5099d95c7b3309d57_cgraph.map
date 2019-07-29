@@ -1,0 +1,8 @@
+<map id="TxViewDelegate::paint" name="TxViewDelegate::paint">
+<area shape="rect" id="node2" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="208,5,409,32"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="225,56,392,83"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#a8be38945b1ea26b68f766eabac8c4a2a" title="GUIUtil::getSubLabelFont" alt="" coords="223,107,395,133"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#a356abbfca5ce1f8ecf3b6e1910fc6219" title="GUIUtil::concatenate" alt="" coords="236,157,381,184"/>
+<area shape="rect" id="node7" href="$namespace_g_u_i_util.html#aae732a04fea25190081120bf0cc773e8" title="GUIUtil::dateTimeStr" alt="" coords="236,208,381,235"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="457,5,633,32"/>
+</map>

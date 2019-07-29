@@ -1,0 +1,4 @@
+<map id="CWallet::CreateTransactionWithReissueAsset" name="CWallet::CreateTransactionWithReissueAsset">
+<area shape="rect" id="node2" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="237,13,448,39"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="496,13,703,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CWallet::GetAccountAddresses" name="CWallet::GetAccountAddresses">
+<area shape="rect" id="node2" href="$class_payment_server.html#a4bde538eb8942bfd41f2872234df0d6b" title="PaymentServer::fetchPaymentACK" alt="" coords="261,5,491,32"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#ab00d84bc574f3a4707fc11d30269a8e1" title="getreceivedbyaccount" alt="" coords="301,56,451,83"/>
+</map>

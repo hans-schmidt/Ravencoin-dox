@@ -1,0 +1,51 @@
+<map id="AssetsDialog::handlePaymentRequest" name="AssetsDialog::handlePaymentRequest">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="252,488,423,515"/>
+<area shape="rect" id="node3" href="$class_send_assets_entry.html#ae073651ca18491279ce9a3cad7cd85e9" title="Return whether the entry is still empty and unedited. " alt="" coords="475,412,649,439"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#a5a77479fb5eafe6e3dba71144aff9797" title="AssetsDialog::addEntry" alt="" coords="482,513,642,540"/>
+<area shape="rect" id="node14" href="$class_assets_dialog.html#a4fc31292e7ef30cf6d886b6c24013040" title="AssetsDialog::updateTabs\lAndLabels" alt="" coords="970,754,1146,795"/>
+<area shape="rect" id="node46" href="$class_send_assets_entry.html#acae5a9a78098c2e7d66880b5984bd3ee" title="SendAssetsEntry::setValue" alt="" coords="471,463,653,489"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#acf37188835ee43e0362db4462bcb3534" title="GetAllMyAssets" alt="" coords="1588,360,1705,387"/>
+<area shape="rect" id="node8" href="$class_wallet_model.html#ab1471d20adbbc7f9367bffdfdbc43490" title="WalletModel::getWallet" alt="" coords="1568,309,1725,336"/>
+<area shape="rect" id="node9" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="1569,411,1725,437"/>
+<area shape="rect" id="node11" href="$class_send_assets_entry.html#a6201ca053ebf69795ee0312472036a2d" title="SendAssetsEntry::setModel" alt="" coords="965,208,1151,235"/>
+<area shape="rect" id="node12" href="$class_send_assets_entry.html#a135f2f2eed17b5611e04a9d55a91fe19" title="SendAssetsEntry::clear" alt="" coords="1567,259,1727,285"/>
+<area shape="rect" id="node13" href="$class_assets_dialog.html#a825711b83beb942f517d7c2e354d250a" title="AssetsDialog::removeEntry" alt="" coords="707,711,889,737"/>
+<area shape="rect" id="node17" href="$class_assets_dialog.html#ac99b7ca264654902abc757ec8dbcbfae" title="AssetsDialog::assetControl\lUpdateLabels" alt="" coords="1264,658,1447,699"/>
+<area shape="rect" id="node41" href="$class_send_assets_entry.html#ae91caa9b134eda6912422aee71c6f423" title="SendAssetsEntry::setFocus\lAssetListBox" alt="" coords="705,477,891,518"/>
+<area shape="rect" id="node42" href="$class_send_assets_entry.html#ad216c4bd9c716152ae485fb81593b75c" title="SendAssetsEntry::IsAsset\lControl" alt="" coords="709,411,887,453"/>
+<area shape="rect" id="node45" href="$class_send_assets_entry.html#a8590645d16b0a94e273141421d1d558b" title="SendAssetsEntry::setCurrent\lIndex" alt="" coords="701,594,895,635"/>
+<area shape="rect" id="node6" href="$group___actions.html#ga162ea1bf42ba17165bd00653852a949b" title="Helper function that calls AvailableCoinsAll, used for transfering assets. " alt="" coords="1817,208,1988,235"/>
+<area shape="rect" id="node7" href="$validation_8cpp.html#a0e99fa19d4750df87e0a17fbed8b0ce8" title="RVN START. " alt="" coords="2441,459,2580,485"/>
+<area shape="rect" id="node10" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="1837,405,1968,432"/>
+<area shape="rect" id="node15" href="$class_assets_dialog.html#a82e7a6e6c132ecf03070c75ad0bf0b8b" title="Set up the tab chain manually, as Qt messes up the tab chain by default in some cases (issue https://..." alt="" coords="1257,772,1453,799"/>
+<area shape="rect" id="node16" href="$class_send_assets_entry.html#aac16f4ad1c1f47de5f94b17ae4402ccd" title="Set up the tab chain manually, as Qt messes up the tab chain by default in some cases (issue https://..." alt="" coords="1553,769,1740,810"/>
+<area shape="rect" id="node18" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="1547,667,1747,693"/>
+<area shape="rect" id="node19" href="$class_assets_dialog.html#ab8586451475fd971e039e47ecf9294c2" title="AssetsDialog::updateAsset\lControlState" alt="" coords="1556,495,1737,537"/>
+<area shape="rect" id="node21" href="$class_send_assets_entry.html#ae123ede2dd7038627d91fc1c7b8d27e1" title="SendAssetsEntry::getValue" alt="" coords="1555,717,1738,744"/>
+<area shape="rect" id="node23" href="$class_asset_control_dialog.html#a92de12c45c6a9be68e3e58d02a7a9b99" title="AssetControlDialog\l::updateLabels" alt="" coords="1579,601,1714,642"/>
+<area shape="rect" id="node20" href="$policy_2fees_8cpp.html#a71cff9731ecdee1cef8bfc2c12dc3842" title="getConfTargetForIndex" alt="" coords="1825,456,1981,483"/>
+<area shape="rect" id="node22" href="$class_payment_request_plus.html#aa3d8c57af7c7bc4ffbc31da32e5a40a6" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="1828,827,1977,869"/>
+<area shape="rect" id="node24" href="$policy_8cpp.html#ab18c1023518f2920e34e05ca324d0ebb" title="IsDust" alt="" coords="1872,608,1933,635"/>
+<area shape="rect" id="node27" href="$class_c_coin_control.html#ac880f024388c29fb5ce5616448698790" title="CCoinControl::ListSelected\lAssets" alt="" coords="1812,659,1993,701"/>
+<area shape="rect" id="node28" href="$class_wallet_model.html#a5237ea4d9724807a05e2944e5ce6f181" title="WalletModel::getOutputs" alt="" coords="1819,725,1986,752"/>
+<area shape="rect" id="node29" href="$class_wallet_model.html#acb24dd4388e6daef526667fb365a57b1" title="WalletModel::isSpent" alt="" coords="1829,557,1976,584"/>
+<area shape="rect" id="node31" href="$class_c_coin_control.html#a9e24b36f8542df7ab1686ae65ac1b032" title="CCoinControl::UnSelectAsset" alt="" coords="1804,776,2001,803"/>
+<area shape="rect" id="node32" href="$assets_2assets_8cpp.html#a682c8333a8fd4337b4b82b5930d37940" title="GetAssetInfoFromScript" alt="" coords="1821,507,1984,533"/>
+<area shape="rect" id="node25" href="$class_c_script.html#ab23f32dfecc865f0d64467a4d8a5e1fc" title="CScript::IsAssetScript" alt="" coords="2233,611,2386,637"/>
+<area shape="rect" id="node26" href="$policy_8cpp.html#a7b1001b4a41a02d9469e3b6985587300" title="GetDustThreshold" alt="" coords="2049,659,2177,685"/>
+<area shape="rect" id="node30" href="$group__map_wallet.html#ga6adcf1c224ed3c3fe4b0b19f6fca75d8" title="Outpoint is spent if any non&#45;conflicted transaction spends it: " alt="" coords="2052,557,2175,584"/>
+<area shape="rect" id="node33" href="$assets_2assets_8cpp.html#a33e039cf8e078d2221df1eb550b7e291" title="GetAssetData" alt="" coords="2061,433,2166,460"/>
+<area shape="rect" id="node34" href="$assets_2assets_8cpp.html#a2fbfdd85314963be71beacc69bf7188b" title="AssetFromScript" alt="" coords="2249,560,2369,587"/>
+<area shape="rect" id="node35" href="$base58_8cpp.html#a8a781e21ad4ecccd9c97c7d890ef7d6f" title="DecodeDestination" alt="" coords="2243,256,2376,283"/>
+<area shape="rect" id="node36" href="$rpc_2assets_8cpp.html#ad4e434d502a68b796fa86a9ed50c5862" title="transfer" alt="" coords="2276,459,2343,485"/>
+<area shape="rect" id="node37" href="$assets_2assets_8cpp.html#a03809f23d0e7ace3a7425f781cece93e" title="Get specific asset type metadata from the given scripts. " alt="" coords="2225,307,2393,333"/>
+<area shape="rect" id="node38" href="$assets_2assets_8cpp.html#aeb621c6bc4f2815a9c8f0aebdf0a397b" title="OwnerAssetFromScript" alt="" coords="2230,357,2389,384"/>
+<area shape="rect" id="node39" href="$rpc_2assets_8cpp.html#ada9eee324855c73e13fbf6d9bd44b77e" title="reissue" alt="" coords="2277,509,2341,536"/>
+<area shape="rect" id="node40" href="$assets_2assets_8cpp.html#a91a2a0aeafcf738b844fc10845daf274" title="ReissueAssetFromScript" alt="" coords="2225,408,2393,435"/>
+<area shape="rect" id="node43" href="$class_send_assets_entry.html#a1235585a9ccb51e70fe5f3ac0ecfeec5" title="SendAssetsEntry::CheckOwnerBox" alt="" coords="943,415,1173,441"/>
+<area shape="rect" id="node44" href="$class_send_assets_entry.html#a078cf67a1a168840e2c61bb3ab824fdd" title="SendAssetsEntry::switchAdministratorList" alt="" coords="1221,411,1489,437"/>
+<area shape="rect" id="node47" href="$class_send_assets_entry.html#aaa1bc4e15d435744a4b8371a7388f89c" title="SendAssetsEntry::onAsset\lSelected" alt="" coords="1265,142,1445,183"/>
+<area shape="rect" id="node48" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="1567,5,1726,32"/>
+<area shape="rect" id="node49" href="$class_c_coin_control.html#a2a44633d7bdf51252d82f050ba640761" title="CCoinControl::HasAssetSelected" alt="" coords="1537,56,1756,83"/>
+<area shape="rect" id="node50" href="$core__io_8h.html#adf3de7349a7c8d2c30da429c92e4c881" title="ValueFromAmountString" alt="" coords="1565,107,1729,133"/>
+</map>

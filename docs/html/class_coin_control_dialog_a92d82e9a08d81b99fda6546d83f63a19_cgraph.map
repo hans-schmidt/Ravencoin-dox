@@ -1,0 +1,11 @@
+<map id="CoinControlDialog::lockCoin" name="CoinControlDialog::lockCoin">
+<area shape="rect" id="node2" href="$uint256_8h.html#a52e679560cc1ebf68f878ed69e38f259" title="uint256S" alt="" coords="253,5,327,32"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#a9bb6c954dc3cf27e25ced65375fa02f0" title="WalletModel::lockCoin" alt="" coords="213,56,367,83"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="189,107,391,133"/>
+<area shape="rect" id="node8" href="$class_coin_control_dialog.html#acedbd41abf3490c556afbebde2ba6b49" title="CoinControlDialog::\lupdateLabelLocked" alt="" coords="222,158,358,199"/>
+<area shape="rect" id="node3" href="$classbase__blob.html#a5ec1f681a2830f4e180fe664c0eb4dd0" title="base_blob::SetHex" alt="" coords="469,5,603,32"/>
+<area shape="rect" id="node5" href="$group___actions.html#gad8843dc88ae40c44b9ef301167b7fbf5" title="CWallet::LockCoin" alt="" coords="470,56,602,83"/>
+<area shape="rect" id="node7" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="448,107,624,133"/>
+<area shape="rect" id="node9" href="$class_wallet_model.html#a367977352d1ef183ec2cb6b508a85bc2" title="WalletModel::listLockedCoins" alt="" coords="439,165,633,192"/>
+<area shape="rect" id="node10" href="$group___actions.html#gabac00de35ce680659ef9943a1a916531" title="CWallet::ListLockedCoins" alt="" coords="681,165,856,192"/>
+</map>

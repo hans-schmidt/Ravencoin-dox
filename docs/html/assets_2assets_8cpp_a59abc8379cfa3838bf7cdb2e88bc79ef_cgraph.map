@@ -1,0 +1,4 @@
+<map id="GetIssueSubAssetBurnAmount" name="GetIssueSubAssetBurnAmount">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="328,5,395,32"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#a706ea9ab180e5fa430bca283ef0c6e6e" title="CChainParams::IssueSubAsset\lBurnAmount" alt="" coords="257,57,465,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="MacDockIconHandler::MacDockIconHandler" name="MacDockIconHandler::MacDockIconHandler">
+<area shape="rect" id="node2" href="$class_mac_dock_icon_handler.html#afd3ef7126d0b6ef02eaf85e5455fe6f4" title="MacDockIconHandler\l::instance" alt="" coords="209,23,357,65"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="433,5,588,32"/>
+<area shape="rect" id="node4" href="$class_raven_g_u_i.html#a992e4d8e9a7a80cd6e8d4b6fb272ffd2" title="Create system tray menu (or setup the dock menu) " alt="" coords="405,56,616,83"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="664,56,843,83"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1364,19,1539,61"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="891,78,1069,119"/>
+<area shape="rect" id="node8" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1117,85,1316,112"/>
+<area shape="rect" id="node9" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1364,85,1539,126"/>
+</map>

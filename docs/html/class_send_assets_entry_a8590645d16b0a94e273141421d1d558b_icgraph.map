@@ -1,0 +1,14 @@
+<map id="SendAssetsEntry::setCurrentIndex" name="SendAssetsEntry::setCurrentIndex">
+<area shape="rect" id="node2" href="$class_assets_dialog.html#a5a77479fb5eafe6e3dba71144aff9797" title="AssetsDialog::addEntry" alt="" coords="247,193,407,219"/>
+<area shape="rect" id="node3" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="1163,37,1349,63"/>
+<area shape="rect" id="node4" href="$class_assets_dialog.html#acee3707f7fffab047f300be52e137cdc" title="AssetsDialog::clear" alt="" coords="478,138,614,165"/>
+<area shape="rect" id="node8" href="$class_assets_dialog.html#a825711b83beb942f517d7c2e354d250a" title="AssetsDialog::removeEntry" alt="" coords="455,193,637,219"/>
+<area shape="rect" id="node9" href="$class_assets_dialog.html#ae0538aa7e5abe73ae5d696af5f3f6738" title="RVN START. " alt="" coords="693,240,876,281"/>
+<area shape="rect" id="node11" href="$class_assets_dialog.html#a0a9c3ab2bc735b9ff5146b7615ebe9d9" title="AssetsDialog::setAddress" alt="" coords="459,294,633,321"/>
+<area shape="rect" id="node12" href="$class_assets_dialog.html#a4af127ef1998327e4de007732e4b0a81" title="AssetsDialog::pasteEntry" alt="" coords="461,345,631,371"/>
+<area shape="rect" id="node5" href="$class_assets_dialog.html#a1070909809e60004a8ae7230f519f0b1" title="AssetsDialog::reject" alt="" coords="715,87,855,114"/>
+<area shape="rect" id="node6" href="$class_assets_dialog.html#a3f19feda56586655269f8e7a2b5d9470" title="AssetsDialog::accept" alt="" coords="711,138,858,165"/>
+<area shape="rect" id="node7" href="$class_assets_dialog.html#a22d1a45433ed5eac4c5ee523c8ceb00b" title="AssetsDialog::focusAsset" alt="" coords="697,189,872,215"/>
+<area shape="rect" id="node10" href="$class_assets_dialog.html#a316ed7dfcd069b3f9f3f255e78f79d4e" title="AssetsDialog::assetControl\lButtonClicked" alt="" coords="932,164,1115,205"/>
+<area shape="rect" id="node13" href="$class_assets_dialog.html#a6ef27cbd6256b7af509e3f10a2e2e89c" title="AssetsDialog::handlePayment\lRequest" alt="" coords="685,337,884,379"/>
+</map>

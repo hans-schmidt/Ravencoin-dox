@@ -1,0 +1,21 @@
+<map id="GetBurnAmount" name="GetBurnAmount">
+<area shape="rect" id="node2" href="$assets_2assets_8cpp.html#a0fbe6233d3525c4ea8217cf12d8e08c8" title="Functions to be used to get access to the current burn amount required for specific asset issuance tr..." alt="" coords="189,125,370,151"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#a59abc8379cfa3838bf7cdb2e88bc79ef" title="GetIssueSubAssetBurnAmount" alt="" coords="177,74,381,101"/>
+<area shape="rect" id="node7" href="$assets_2assets_8cpp.html#a6701acca42f6ae236752d90ad5ed8b80" title="GetIssueMsgChannelAssetBurn\lAmount" alt="" coords="175,176,384,217"/>
+<area shape="rect" id="node9" href="$assets_2assets_8cpp.html#a6afa2b779430376e01544bedfa56403d" title="GetIssueUniqueAssetBurnAmount" alt="" coords="168,242,391,269"/>
+<area shape="rect" id="node11" href="$assets_2assets_8cpp.html#acf982e63feb867ae0a3323b35d3b78e1" title="GetReissueAssetBurnAmount" alt="" coords="181,293,378,319"/>
+<area shape="rect" id="node13" href="$assets_2assets_8cpp.html#adac172a8024c9fdf60c0760017be650b" title="GetIssueQualifierAssetBurn\lAmount" alt="" coords="187,344,371,385"/>
+<area shape="rect" id="node15" href="$assets_2assets_8cpp.html#a3d6afd46599a1991cb50444ef883d1eb" title="GetIssueSubQualifierAsset\lBurnAmount" alt="" coords="189,409,369,451"/>
+<area shape="rect" id="node17" href="$assets_2assets_8cpp.html#a69a6cfe54b552b330459e0e8d4163000" title="GetIssueRestrictedAssetBurn\lAmount" alt="" coords="181,475,377,516"/>
+<area shape="rect" id="node19" href="$assets_2assets_8cpp.html#a49226d81576868f6602c619a3686cca3" title="GetAddNullQualifierTagBurn\lAmount" alt="" coords="186,540,373,581"/>
+<area shape="rect" id="node3" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="517,267,584,294"/>
+<area shape="rect" id="node4" href="$class_c_chain_params.html#aae4440756e450f56a9e12d8f8dbe21e4" title="RVN Start. " alt="" coords="458,71,643,112"/>
+<area shape="rect" id="node6" href="$class_c_chain_params.html#a706ea9ab180e5fa430bca283ef0c6e6e" title="CChainParams::IssueSubAsset\lBurnAmount" alt="" coords="447,5,655,47"/>
+<area shape="rect" id="node8" href="$class_c_chain_params.html#aee970c455776b59debba4e570a108e72" title="CChainParams::IssueMsgChannel\lAssetBurnAmount" alt="" coords="439,136,663,177"/>
+<area shape="rect" id="node10" href="$class_c_chain_params.html#acfa373cb802bd4d21d7d67d6fdb8d929" title="CChainParams::IssueUnique\lAssetBurnAmount" alt="" coords="455,201,647,243"/>
+<area shape="rect" id="node12" href="$class_c_chain_params.html#afb17408a8123bbfd6386dcb05367f97c" title="CChainParams::ReissueAsset\lBurnAmount" alt="" coords="450,319,651,360"/>
+<area shape="rect" id="node14" href="$class_c_chain_params.html#a46cee123e88274ae69a3ba23bf187f75" title="CChainParams::IssueQualifier\lAssetBurnAmount" alt="" coords="451,384,650,425"/>
+<area shape="rect" id="node16" href="$class_c_chain_params.html#a463cc2d67b78ce136ae8f3f20fa0c146" title="CChainParams::IssueSubQualifier\lAssetBurnAmount" alt="" coords="439,449,662,491"/>
+<area shape="rect" id="node18" href="$class_c_chain_params.html#ae784844089bd9a9318abd5586f599665" title="CChainParams::IssueRestricted\lAssetBurnAmount" alt="" coords="445,515,656,556"/>
+<area shape="rect" id="node20" href="$class_c_chain_params.html#a9d3447b1e7791690679b32f9d8b6ab45" title="CChainParams::AddNullQualifier\lTagBurnAmount" alt="" coords="444,580,657,621"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CWallet::CreateWalletFromFile" name="CWallet::CreateWalletFromFile">
+<area shape="rect" id="node2" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="257,5,432,32"/>
+<area shape="rect" id="node3" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="325,56,364,83"/>
+<area shape="rect" id="node6" href="$ui__interface_8cpp.html#a36f8e669221ac80facf023671576ee82" title="Show error message. " alt="" coords="311,107,379,133"/>
+<area shape="rect" id="node7" href="$utiltime_8cpp.html#a139d0fe6387b9e230a9b8bb12d9b43b9" title="GetTimeMillis" alt="" coords="293,157,396,184"/>
+<area shape="rect" id="node8" href="$group___actions.html#ga5d7b244b8ed0cbe24233ee0b6ca3cae0" title="CWallet::LoadWallet" alt="" coords="273,208,416,235"/>
+<area shape="rect" id="node11" href="$ui__interface_8cpp.html#a8a850858f643481684bf1ed56ed74541" title="Show warning message. " alt="" coords="301,259,389,285"/>
+<area shape="rect" id="node12" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="271,309,419,336"/>
+<area shape="rect" id="node4" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="496,31,625,57"/>
+<area shape="rect" id="node5" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="499,81,622,108"/>
+<area shape="rect" id="node9" href="$class_c_wallet_d_b.html#a14f26e53502d1a60dd2b034f830acf03" title="CWalletDB::LoadWallet" alt="" coords="480,208,641,235"/>
+<area shape="rect" id="node10" href="$class_c_d_b.html#adfd2c079df629d5f7cac0ca923ffd698" title="CDB::Read" alt="" coords="689,208,780,235"/>
+</map>

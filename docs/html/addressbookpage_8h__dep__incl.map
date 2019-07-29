@@ -1,0 +1,8 @@
+<map id="src/qt/addressbookpage.h" name="src/qt/addressbookpage.h">
+<area shape="rect" id="node2" href="$addressbookpage_8cpp.html" title="src/qt/addressbookpage.cpp" alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$receivecoinsdialog_8cpp.html" title="src/qt/receivecoinsdialog.cpp" alt="" coords="217,80,407,107"/>
+<area shape="rect" id="node4" href="$sendassetsentry_8cpp.html" title="src/qt/sendassetsentry.cpp" alt="" coords="431,80,611,107"/>
+<area shape="rect" id="node5" href="$sendcoinsentry_8cpp.html" title="src/qt/sendcoinsentry.cpp" alt="" coords="635,80,807,107"/>
+<area shape="rect" id="node6" href="$signverifymessagedialog_8cpp.html" title="src/qt/signverifymessagedialog.cpp" alt="" coords="832,80,1059,107"/>
+<area shape="rect" id="node7" href="$walletview_8cpp.html" title="src/qt/walletview.cpp" alt="" coords="1083,80,1229,107"/>
+</map>

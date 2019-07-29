@@ -1,0 +1,5 @@
+<map id="WalletModel::validateAddress" name="WalletModel::validateAddress">
+<area shape="rect" id="node2" href="$base58_8cpp.html#a32169f8eb6ebcce6412b675f9d23d878" title="IsValidDestinationString" alt="" coords="248,5,411,32"/>
+<area shape="rect" id="node3" href="$class_c_raven_address.html#a3c442b9abc0cbfb0518e9b0c4744427c" title="CRavenAddress::IsValid" alt="" coords="459,5,625,32"/>
+<area shape="rect" id="node4" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="673,5,740,32"/>
+</map>

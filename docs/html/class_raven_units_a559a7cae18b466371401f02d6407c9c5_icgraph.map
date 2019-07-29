@@ -1,0 +1,51 @@
+<map id="RavenUnits::valid" name="RavenUnits::valid">
+<area shape="rect" id="node2" href="$class_raven_units.html#ad41cc41215cd361cdc458aec1cd05786" title="Format as string. " alt="" coords="215,1390,351,1417"/>
+<area shape="rect" id="node44" href="$class_raven_units.html#affaad322be327986fd98a14404c7d81e" title="Parse string to coin amount. " alt="" coords="218,1873,349,1899"/>
+<area shape="rect" id="node48" href="$class_raven_units.html#a37bd7911ba33c9227a90def5edc89a46" title="Gets title for amount column including current display unit if optionsModel reference available */..." alt="" coords="180,1989,387,2031"/>
+<area shape="rect" id="node3" href="$class_asset_control_dialog.html#a35356054e1ff12c3cc49e4b7c505be18" title="AssetControlDialog\l::updateView" alt="" coords="489,165,624,207"/>
+<area shape="rect" id="node9" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="489,417,625,459"/>
+<area shape="rect" id="node13" href="$namespace_g_u_i_util.html#a516c89e2e347c7fd513a3af5ba13578a" title="GUIUtil::formatRavenURI" alt="" coords="470,617,643,643"/>
+<area shape="rect" id="node17" href="$class_amount_spin_box.html#a082bac9de36ad4bb0c0f2d5d42f0acc6" title="AmountSpinBox::fixup" alt="" coords="765,1847,917,1874"/>
+<area shape="rect" id="node18" href="$class_amount_spin_box.html#aca3825a8e5735dd99d3fa9665afb614c" title="AmountSpinBox::setValue" alt="" coords="469,823,644,850"/>
+<area shape="rect" id="node24" href="$class_amount_spin_box.html#a40ee094061b19892825e7b30d3825ded" title="AmountSpinBox::minimumSizeHint" alt="" coords="443,1390,670,1417"/>
+<area shape="rect" id="node25" href="$class_raven_units.html#ad61d958c9c19db002368eec18bf1527c" title="Format as string (with unit) " alt="" coords="463,1339,650,1366"/>
+<area shape="rect" id="node41" href="$class_raven_units.html#a0b719abad5fd65f20afe8835b2109cb0" title="Format as string (with custom name) " alt="" coords="435,1441,679,1467"/>
+<area shape="rect" id="node42" href="$class_recent_requests_table_model.html#ad42929c480fc50cad83114ca5f2cc382" title="RecentRequestsTableModel\l::data" alt="" coords="463,1492,650,1533"/>
+<area shape="rect" id="node43" href="$class_transaction_table_model.html#ae2950fae820547adb84a5ed420429d02" title="TransactionTableModel\l::formatTxAmount" alt="" coords="478,1557,635,1599"/>
+<area shape="rect" id="node4" href="$class_asset_control_dialog.html#a4a1447fea96b2bbc38758ea998cf4085" title="AssetControlDialog\l::setModel" alt="" coords="1027,133,1161,175"/>
+<area shape="rect" id="node5" href="$class_asset_control_dialog.html#a95edb752c6942fd6ccb2012b85cee862" title="AssetControlDialog\l::radioTreeMode" alt="" coords="773,253,908,295"/>
+<area shape="rect" id="node6" href="$class_asset_control_dialog.html#a3e83a2121791ed9747e9f2871f3b27fe" title="AssetControlDialog\l::radioListMode" alt="" coords="773,5,908,47"/>
+<area shape="rect" id="node7" href="$class_asset_control_dialog.html#a23d6eb759e1dbe885b3b2c48e72c65bd" title="AssetControlDialog\l::updateAssetList" alt="" coords="773,71,908,112"/>
+<area shape="rect" id="node8" href="$class_asset_control_dialog.html#ae2b4162c5cfe2f0fe907bc007597feef" title="AssetControlDialog\l::onAssetSelected" alt="" coords="773,136,908,177"/>
+<area shape="rect" id="node10" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="773,384,909,425"/>
+<area shape="rect" id="node11" href="$class_coin_control_dialog.html#a1990d478f3ffba666c358a4f1bd395ec" title="CoinControlDialog::\lradioTreeMode" alt="" coords="773,449,909,491"/>
+<area shape="rect" id="node12" href="$class_coin_control_dialog.html#a775c6d290cb63667a434b09072094533" title="CoinControlDialog::\lradioListMode" alt="" coords="773,319,909,360"/>
+<area shape="rect" id="node14" href="$class_receive_coins_dialog.html#aa3ed79752a859f8aea8e43f5197c798d" title="ReceiveCoinsDialog\l::copyURI" alt="" coords="770,580,911,621"/>
+<area shape="rect" id="node15" href="$class_receive_request_dialog.html#a8e1c0ee2fbacf42b4dc7ea05986c86c9" title="ReceiveRequestDialog\l::update" alt="" coords="1016,791,1172,832"/>
+<area shape="rect" id="node16" href="$class_receive_request_dialog.html#aa1287ed7ecc2a35f3dbf0e9938f4b096" title="ReceiveRequestDialog\l::on_btnCopyURI_clicked" alt="" coords="755,515,927,556"/>
+<area shape="rect" id="node19" href="$class_amount_spin_box.html#a055616d98771e6fcef3ee225d7b09ee9" title="AmountSpinBox::stepBy" alt="" coords="758,899,923,926"/>
+<area shape="rect" id="node20" href="$class_amount_spin_box.html#aef946e84b685f35c02782b50f4cce842" title="AmountSpinBox::setDisplayUnit" alt="" coords="735,697,946,723"/>
+<area shape="rect" id="node21" href="$class_amount_spin_box.html#a79bd0b44f07469dd24b59f1dcbadd3ad" title="AmountSpinBox::setAssetUnit" alt="" coords="741,747,941,774"/>
+<area shape="rect" id="node22" href="$class_raven_amount_field.html#add2bd08f939a6695d1e269efd4a89eee" title="RavenAmountField::setValue" alt="" coords="745,798,937,825"/>
+<area shape="rect" id="node23" href="$class_asset_amount_field.html#a1f214a7b736c568735ce228844e9c916" title="AssetAmountField::setValue" alt="" coords="747,849,935,875"/>
+<area shape="rect" id="node26" href="$class_assets_dialog.html#af3951dea68ad087b42122a8dc1addf79" title="AssetsDialog::setBalance" alt="" coords="754,1315,927,1342"/>
+<area shape="rect" id="node27" href="$class_assets_dialog.html#a58427e9b37bc1ee67c105a610b904b9c" title="AssetsDialog::processSend\lCoinsReturn" alt="" coords="749,1367,933,1408"/>
+<area shape="rect" id="node28" href="$class_assets_dialog.html#a6de99ca11f4ddb9a14b030566d851ca9" title="AssetsDialog::updateFeeMinimized\lLabel" alt="" coords="727,1184,955,1225"/>
+<area shape="rect" id="node29" href="$class_assets_dialog.html#aaab72ec94847a448ae0c3e1f2b81c45d" title="AssetsDialog::updateSmart\lFeeLabel" alt="" coords="1003,1359,1185,1400"/>
+<area shape="rect" id="node30" href="$class_assets_dialog.html#a81d9a3769c5c77db2b9e934ed23d47a8" title="AssetsDialog::updateMinFee\lLabel" alt="" coords="745,1535,936,1576"/>
+<area shape="rect" id="node31" href="$class_create_asset_dialog.html#ad83e1c6c6ea29e74543f4afd80dce1ea" title="Helper Methods. " alt="" coords="771,1600,911,1641"/>
+<area shape="rect" id="node32" href="$class_create_asset_dialog.html#ab0ea60584abb674b5cc1fba988c638dc" title="CreateAssetDialog::\lsetBalance" alt="" coords="771,1665,911,1707"/>
+<area shape="rect" id="node33" href="$class_create_asset_dialog.html#aa37a4311db27c51221f53f80e958a38d" title="CreateAssetDialog::\lupdateSmartFeeLabel" alt="" coords="1019,1544,1169,1585"/>
+<area shape="rect" id="node34" href="$class_create_asset_dialog.html#a54172e6e984d91e890502daa91a36f84" title="CreateAssetDialog::\lupdateFeeMinimizedLabel" alt="" coords="754,1731,927,1772"/>
+<area shape="rect" id="node35" href="$class_create_asset_dialog.html#ae17f13e18301f11d0e3b43d809e159b6" title="CreateAssetDialog::\lupdateMinFeeLabel" alt="" coords="771,1001,911,1043"/>
+<area shape="rect" id="node36" href="$class_overview_page.html#af6c8fa5b40ecb62b17d6506e369105f3" title="OverviewPage::setBalance" alt="" coords="751,1067,931,1094"/>
+<area shape="rect" id="node37" href="$class_payment_server.html#a19092e1d4d7c6eee3ec9d4390d11a092" title="PaymentServer::processPayment\lRequest" alt="" coords="731,1119,950,1160"/>
+<area shape="rect" id="node38" href="$class_raven_g_u_i.html#a30da8eba81ba735251d621c8ff82a61e" title="RavenGUI::showEvent" alt="" coords="762,1797,919,1823"/>
+<area shape="rect" id="node39" href="$class_raven_units.html#a0f39bde6d3acbb9d92bf4589ba06048e" title="Format as HTML string (with unit) " alt="" coords="733,950,948,977"/>
+<area shape="rect" id="node40" href="$class_reissue_asset_dialog.html#aa3cee0d586a1edaa3eeef3cb67b1834b" title="ReissueAssetDialog\l::setBalance" alt="" coords="770,1249,911,1291"/>
+<area shape="rect" id="node45" href="$namespace_g_u_i_util.html#a80ec9b464c28356231274c07af8cc9e4" title="GUIUtil::parseRavenURI" alt="" coords="473,1873,641,1899"/>
+<area shape="rect" id="node46" href="$class_amount_spin_box.html#a487085fe9dc6d6aaa1d2e2a55852f587" title="Parse a string into a number of base monetary units and return validity. " alt="" coords="479,1822,635,1849"/>
+<area shape="rect" id="node47" href="$class_transaction_view.html#ab4b25a73703d7ce5da47af1e60e7e3cf" title="TransactionView::changed\lAmount" alt="" coords="469,1924,645,1965"/>
+<area shape="rect" id="node49" href="$class_transaction_table_model.html#acbb6e7531f507369ad18b656ad7b3f10" title="Updates the column title to &quot;Amount (DisplayUnit)&quot; and emits headerDataChanged() signal for table hea..." alt="" coords="465,1989,649,2031"/>
+<area shape="rect" id="node50" href="$class_transaction_view.html#a5983022ff1e5395f87de3c5728eff8da" title="TransactionView::exportClicked" alt="" coords="453,2055,660,2082"/>
+</map>

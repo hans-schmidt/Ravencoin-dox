@@ -1,0 +1,4 @@
+<map id="AssetAmountField::setValid" name="AssetAmountField::setValid">
+<area shape="rect" id="node2" href="$class_asset_amount_field.html#a86c15307f58489514237cd04aa4077ba" title="Perform input validation, mark field as invalid if entered value is not valid. " alt="" coords="245,5,428,32"/>
+<area shape="rect" id="node3" href="$class_asset_amount_field.html#aa74d3f234069c7fa1041080052322fd9" title="Intercept focus&#45;in event and &#39;,&#39; key presses. " alt="" coords="237,56,436,83"/>
+</map>

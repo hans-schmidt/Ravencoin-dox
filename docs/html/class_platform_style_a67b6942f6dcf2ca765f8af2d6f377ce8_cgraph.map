@@ -1,0 +1,21 @@
+<map id="PlatformStyle::getUseExtraSpacing" name="PlatformStyle::getUseExtraSpacing">
+<area shape="rect" id="node2" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="499,97,666,124"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#aa8b4699f877a3c061332cd82a99e727a" title="PlatformStyle::ToolBarSelected\lTextColor" alt="" coords="238,57,443,98"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#a25cc5c8609d092f6111cadb5efc12444" title="PlatformStyle::ToolBarNot\lSelectedTextColor" alt="" coords="253,122,428,163"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="495,795,671,821"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#a56c6f30a712f908bf5e68094a4bcd018" title="PlatformStyle::MainBackGround\lColor" alt="" coords="236,239,445,281"/>
+<area shape="rect" id="node7" href="$class_platform_style.html#a4cca136480c9a1c5e4163d20b007e7c7" title="PlatformStyle::TopWidget\lBackGroundColor" alt="" coords="255,305,427,346"/>
+<area shape="rect" id="node8" href="$class_platform_style.html#a4e298def69a98d6a39236f24570878bb" title="PlatformStyle::WidgetBack\lGroundColor" alt="" coords="251,370,431,411"/>
+<area shape="rect" id="node9" href="$class_platform_style.html#a9d726bbaf3b99cf536acdc973f4bba78" title="PlatformStyle::SendEntries\lBackGroundColor" alt="" coords="251,435,431,477"/>
+<area shape="rect" id="node10" href="$class_platform_style.html#a04f9709a73990d1c07c7aec4ab54483a" title="PlatformStyle::ShadowColor" alt="" coords="247,501,434,528"/>
+<area shape="rect" id="node11" href="$class_platform_style.html#a3afe6673b3d60f89ca34d1c23690af6c" title="PlatformStyle::LightBlue\lColor" alt="" coords="259,553,422,594"/>
+<area shape="rect" id="node12" href="$class_platform_style.html#a14c98e08414b0b1565bfd7c9e24c0dab" title="PlatformStyle::DarkBlueColor" alt="" coords="243,619,438,645"/>
+<area shape="rect" id="node13" href="$class_platform_style.html#a0eb49eabf09511aaf8f8006964c48c8f" title="PlatformStyle::LightOrange\lColor" alt="" coords="251,670,430,711"/>
+<area shape="rect" id="node14" href="$class_platform_style.html#a7dc4348099a7576c8376a60a437401d0" title="PlatformStyle::DarkOrange\lColor" alt="" coords="493,989,672,1030"/>
+<area shape="rect" id="node15" href="$class_platform_style.html#adecebc4670880700203340d322351f89" title="Colorize an image (given filename) with the icon color. " alt="" coords="253,787,429,829"/>
+<area shape="rect" id="node16" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="240,853,441,880"/>
+<area shape="rect" id="node17" href="$class_platform_style.html#ad69b335b46b2f3d8e50d4f199846114a" title="Set icon with two states on and off. " alt="" coords="253,905,429,946"/>
+<area shape="rect" id="node18" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="245,5,436,32"/>
+<area shape="rect" id="node19" href="$class_platform_style.html#ac42929f849f2c64caf85681596409801" title="Colorize an icon (given filename) with the color dark orange. " alt="" coords="237,1021,444,1048"/>
+<area shape="rect" id="node20" href="$class_platform_style.html#a9336bcaeed5c9210db1550f85f6e22e6" title="PlatformStyle::PlatformStyle" alt="" coords="247,1072,435,1099"/>
+</map>

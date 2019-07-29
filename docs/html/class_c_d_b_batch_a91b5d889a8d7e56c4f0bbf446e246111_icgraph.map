@@ -1,0 +1,30 @@
+<map id="CDBBatch::Write" name="CDBBatch::Write">
+<area shape="rect" id="node2" href="$class_c_d_b_wrapper.html#a6600aa8c2b30880dd7e032ea21f74aed" title="CDBWrapper::Write" alt="" coords="215,541,354,568"/>
+<area shape="rect" id="node25" href="$class_c_block_tree_d_b.html#af5509ed62ce84023882fe243e4cd21ba" title="CBlockTreeDB::WriteBatchSync" alt="" coords="178,592,391,619"/>
+<area shape="rect" id="node26" href="$class_c_block_tree_d_b.html#a0ef294fa034dfd4f81eebb95a6ce4b37" title="CBlockTreeDB::WriteTxIndex" alt="" coords="187,643,383,669"/>
+<area shape="rect" id="node27" href="$class_c_block_tree_d_b.html#ae34ed08cdcdc6d20467fca61acdc5f73" title="CBlockTreeDB::WriteAddress\lIndex" alt="" coords="186,694,383,735"/>
+<area shape="rect" id="node28" href="$class_c_block_tree_d_b.html#ad698a1428e59d14694f3289efe4d81fe" title="CBlockTreeDB::WriteTimestamp\lIndex" alt="" coords="177,759,392,801"/>
+<area shape="rect" id="node29" href="$class_c_block_tree_d_b.html#a8128a9be52c221c984737abbdd7bc7d5" title="CBlockTreeDB::WriteTimestamp\lBlockIndex" alt="" coords="177,825,392,866"/>
+<area shape="rect" id="node3" href="$class_c_assets_d_b.html#a403301d628043f43079101fde8836608" title="CAssetsDB::WriteAssetData" alt="" coords="451,880,644,907"/>
+<area shape="rect" id="node5" href="$class_c_assets_d_b.html#a79dfdf41d219461414e871eb00646957" title="CAssetsDB::WriteAssetAddress\lQuantity" alt="" coords="441,318,654,359"/>
+<area shape="rect" id="node6" href="$class_c_assets_d_b.html#ada25c15b3fabe2a568c1a8d5b9da6990" title="CAssetsDB::WriteAddressAsset\lQuantity" alt="" coords="441,383,654,425"/>
+<area shape="rect" id="node7" href="$class_c_assets_d_b.html#af7d71df21aadf5e72f497fd31d38d1e1" title="CAssetsDB::WriteBlockUndo\lAssetData" alt="" coords="450,187,645,229"/>
+<area shape="rect" id="node8" href="$class_c_assets_d_b.html#a8ef5fefc45bcd96484e94f618f1f116b" title="CAssetsDB::WriteReissued\lMempoolState" alt="" coords="454,253,641,294"/>
+<area shape="rect" id="node9" href="$class_c_message_d_b.html#a4c25e510be6dde740369c313fa712c05" title="CMessageDB::WriteMessage" alt="" coords="449,5,645,32"/>
+<area shape="rect" id="node11" href="$class_c_message_channel_d_b.html#a088eeb3d6e1a166feb33d01ad6f918d3" title="CMessageChannelDB::\lWriteMyMessageChannel" alt="" coords="461,57,633,98"/>
+<area shape="rect" id="node13" href="$class_c_message_d_b.html#a89fc20849161f1b3b97e4a7efa2be75b" title="CMessageDB::WriteFlag" alt="" coords="463,449,631,476"/>
+<area shape="rect" id="node14" href="$class_c_message_channel_d_b.html#a7c0d812e6da78aae97d7bcf20edc43b9" title="CMessageChannelDB::\lWriteUsedAddress" alt="" coords="467,122,627,163"/>
+<area shape="rect" id="node15" href="$class_c_message_channel_d_b.html#afbcb9afa091e73c2e50c1dc801ab7053" title="CMessageChannelDB::\lWriteFlag" alt="" coords="467,566,627,607"/>
+<area shape="rect" id="node16" href="$class_c_restricted_d_b.html#a7001f9df1ed8c0ce8076445d633c11a5" title="CRestrictedDB::WriteVerifier" alt="" coords="452,763,643,789"/>
+<area shape="rect" id="node17" href="$class_c_restricted_d_b.html#a7ae8c51580da7e7a5f65b2914e10cca7" title="CRestrictedDB::WriteAddress\lQualifier" alt="" coords="448,814,647,855"/>
+<area shape="rect" id="node18" href="$class_c_restricted_d_b.html#a659e87626a64c10b8bc519596cecee7b" title="CRestrictedDB::WriteQualifier\lAddress" alt="" coords="448,501,647,542"/>
+<area shape="rect" id="node19" href="$class_c_restricted_d_b.html#abfed92ae6fd83bb3313e23613e0638b1" title="CRestrictedDB::WriteRestricted\lAddress" alt="" coords="442,631,653,673"/>
+<area shape="rect" id="node20" href="$class_c_restricted_d_b.html#af3c0238624ab6fedc5d51ebc718d83f9" title="CRestrictedDB::WriteGlobal\lRestriction" alt="" coords="454,697,641,738"/>
+<area shape="rect" id="node21" href="$class_c_restricted_d_b.html#af51b6ed7b8cdfcd7a26aff6592a35acf" title="CRestrictedDB::WriteFlag" alt="" coords="460,931,635,957"/>
+<area shape="rect" id="node22" href="$class_c_block_tree_d_b.html#a55914903b15bc119d0c4952af8fdf721" title="CBlockTreeDB::WriteReindexing" alt="" coords="440,981,655,1008"/>
+<area shape="rect" id="node24" href="$class_c_block_tree_d_b.html#af2f65b70ac5d8a198d4f29a7e909c08a" title="CBlockTreeDB::WriteFlag" alt="" coords="460,1032,635,1059"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#ae7fae54a79efd6fa5f48bf3e559f11e7" title="Write asset cache data to database. " alt="" coords="703,665,909,706"/>
+<area shape="rect" id="node10" href="$class_c_message_d_b.html#a648aa6b7059d9db2bfffe760f0bd9d85" title="CMessageDB::Flush" alt="" coords="734,5,878,32"/>
+<area shape="rect" id="node12" href="$class_c_message_channel_d_b.html#aa035b7e674df725a4134880b3c4f1bdc" title="CMessageChannelDB::\lFlush" alt="" coords="726,90,886,131"/>
+<area shape="rect" id="node23" href="$init_8cpp.html#a2dd42c68a25e6632cdb9c7b03aed8503" title="ThreadImport" alt="" coords="757,981,855,1008"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CDBEnv::CheckpointLSN" name="CDBEnv::CheckpointLSN">
+<area shape="rect" id="node2" href="$class_c_d_b.html#aeb3bc2ee8657b51f1d844b9f8320929d" title="CDB::Rewrite" alt="" coords="271,35,375,61"/>
+<area shape="rect" id="node5" href="$class_c_d_b.html#a6f15db23c7ad577023ca1bb66fd8cc9b" title="CDB::PeriodicFlush" alt="" coords="253,85,392,112"/>
+<area shape="rect" id="node6" href="$class_c_wallet_d_b_wrapper.html#aae43ddc4f6aa72de2ca771ebd7c9eddb" title="Back up the entire database to a file. " alt="" coords="228,136,417,163"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b_wrapper.html#afa0fb423fa37ea30660c0ae3dbd9d40d" title="Rewrite the entire database on disk, with the exception of key pszSkip if non&#45;zero. " alt="" coords="466,5,657,32"/>
+<area shape="rect" id="node4" href="$class_c_wallet_d_b_wrapper.html#ab8036e4ace0d2937a75c02c1f8bf3a06" title="Create DB handle to real database. " alt="" coords="465,57,657,98"/>
+</map>

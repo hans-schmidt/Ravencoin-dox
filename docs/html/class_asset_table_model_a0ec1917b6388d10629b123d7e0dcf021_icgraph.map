@@ -1,0 +1,5 @@
+<map id="AssetTableModel::index" name="AssetTableModel::index">
+<area shape="rect" id="node2" href="$class_asset_table_model.html#a5b3e5bc2d8312e6ac6f62e84a8b5e404" title="AssetTableModel::checkBalance\lChanged" alt="" coords="216,5,429,47"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="477,5,647,47"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#a36282857c97bcaad796a2b5c7398245c" title="WalletModel::WalletModel" alt="" coords="695,13,869,39"/>
+</map>

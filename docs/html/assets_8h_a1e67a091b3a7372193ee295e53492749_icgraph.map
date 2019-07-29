@@ -1,0 +1,8 @@
+<map id="GetAllMyAssetBalances" name="GetAllMyAssetBalances">
+<area shape="rect" id="node2" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="217,5,424,32"/>
+<area shape="rect" id="node3" href="$class_asset_table_priv.html#a0db8601c63adc35516894a281a3b765b" title="AssetTablePriv::refreshWallet" alt="" coords="223,56,419,83"/>
+<area shape="rect" id="node4" href="$class_asset_table_model.html#a507b91782129f0bf05f8aa1032468af2" title="AssetTableModel::AssetTable\lModel" alt="" coords="480,15,677,57"/>
+<area shape="rect" id="node5" href="$class_asset_table_model.html#a5b3e5bc2d8312e6ac6f62e84a8b5e404" title="AssetTableModel::checkBalance\lChanged" alt="" coords="472,81,685,122"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="733,81,903,122"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#a36282857c97bcaad796a2b5c7398245c" title="WalletModel::WalletModel" alt="" coords="951,88,1125,115"/>
+</map>

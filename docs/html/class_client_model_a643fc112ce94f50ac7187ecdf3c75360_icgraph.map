@@ -1,0 +1,14 @@
+<map id="ClientModel::getPeerTableModel" name="ClientModel::getPeerTableModel">
+<area shape="rect" id="node2" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="500,101,695,128"/>
+<area shape="rect" id="node8" href="$class_r_p_c_console.html#a2487fa6a90cddcbb17ae4bb13ecc5359" title="Handle selection of peer in peers list. " alt="" coords="249,42,432,69"/>
+<area shape="rect" id="node9" href="$class_r_p_c_console.html#ae2d43a386af5a7cd92b4b000f102785d" title="Handle selection caching before update. " alt="" coords="238,94,443,135"/>
+<area shape="rect" id="node10" href="$class_r_p_c_console.html#af952ebc6484c8f7d1262fa0bceed41bf" title="Handle updated peer information. " alt="" coords="229,160,452,186"/>
+<area shape="rect" id="node11" href="$class_r_p_c_console.html#aefc07d23b2d30b9cb51edcdd9b0776a3" title="RPCConsole::showEvent" alt="" coords="255,210,427,237"/>
+<area shape="rect" id="node12" href="$class_r_p_c_console.html#ab274388ac3828e7341e84dd070f7da9a" title="RPCConsole::hideEvent" alt="" coords="258,261,423,288"/>
+<area shape="rect" id="node13" href="$class_r_p_c_console.html#aacaf485583b6342c5e1877e7582f95c5" title="Ban a selected node on the Peers tab. " alt="" coords="235,312,446,338"/>
+<area shape="rect" id="node3" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="743,101,921,128"/>
+<area shape="rect" id="node4" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="1443,64,1617,106"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="969,123,1148,164"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="1196,130,1395,157"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="1443,130,1617,171"/>
+</map>

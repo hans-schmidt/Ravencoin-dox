@@ -1,0 +1,6 @@
+<map id="RavenApplication::stopThread" name="RavenApplication::stopThread">
+<area shape="rect" id="node2" href="$class_raven_application.html#a0d7d260fc6a4f43cba12c598e18e8d0d" title="RavenApplication::\l~RavenApplication" alt="" coords="284,5,416,47"/>
+<area shape="rect" id="node3" href="$class_raven_application.html#aecfdce3a245b959def5dd35e5cfb192e" title="RavenApplication::startThread" alt="" coords="251,71,449,98"/>
+<area shape="rect" id="node4" href="$class_raven_application.html#a63a2032fef875fb81f26c212f69d000d" title="Request core initialization. " alt="" coords="497,31,672,72"/>
+<area shape="rect" id="node5" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="497,96,672,137"/>
+</map>

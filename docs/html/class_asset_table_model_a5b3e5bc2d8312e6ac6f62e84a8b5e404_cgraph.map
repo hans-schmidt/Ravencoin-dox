@@ -1,0 +1,15 @@
+<map id="AssetTableModel::checkBalanceChanged" name="AssetTableModel::checkBalanceChanged">
+<area shape="rect" id="node2" href="$class_asset_table_priv.html#a0db8601c63adc35516894a281a3b765b" title="AssetTablePriv::refreshWallet" alt="" coords="267,81,463,108"/>
+<area shape="rect" id="node7" href="$class_asset_table_model.html#a0ec1917b6388d10629b123d7e0dcf021" title="AssetTableModel::index" alt="" coords="283,157,446,184"/>
+<area shape="rect" id="node14" href="$class_asset_table_priv.html#a64ae3be6cd323360847faa6c5599bd87" title="AssetTablePriv::size" alt="" coords="293,208,436,235"/>
+<area shape="rect" id="node3" href="$validation_8cpp.html#ac18640d1226903c568f1ff1e63b64774" title="GetCurrentAssetCache" alt="" coords="513,5,672,32"/>
+<area shape="rect" id="node4" href="$assets_2assets_8cpp.html#af050fab95c8830e8aae2d3bac3ce3258" title="sets balances with the total quantity of each owned asset " alt="" coords="511,56,675,83"/>
+<area shape="rect" id="node5" href="$assets_2assets_8cpp.html#a0322f60e3b096607eaa0221570e9fd58" title="Check if an asset is an owner. " alt="" coords="515,107,671,133"/>
+<area shape="rect" id="node6" href="$assets_2assets_8cpp.html#aa44077cc80b096517e8e63d9abf9bcfa" title="IsAssetNameValid" alt="" coords="761,107,891,133"/>
+<area shape="rect" id="node8" href="$class_asset_table_model.html#a621ceb15d7b6b5e58bde0a48d84773de" title="AssetTableModel::data" alt="" coords="515,157,671,184"/>
+<area shape="rect" id="node13" href="$class_asset_table_priv.html#ad6df99e498cafad61e64216d49599e34" title="AssetTablePriv::index" alt="" coords="517,208,668,235"/>
+<area shape="rect" id="node9" href="$class_asset_record.html#ac0bdd84ef7f2e516e33f8acfa374d223" title="AssetRecord::formattedQuantity" alt="" coords="1263,212,1473,239"/>
+<area shape="rect" id="node10" href="$class_asset_table_model.html#aa8feb62df9c6d5207bdb9bded4d6261f" title="AssetTableModel::formatTooltip" alt="" coords="723,208,929,235"/>
+<area shape="rect" id="node11" href="$class_asset_table_model.html#aca7a2d4511fe73b194aeab9b94bfd936" title="AssetTableModel::formatAssetName" alt="" coords="977,208,1215,235"/>
+<area shape="rect" id="node12" href="$class_asset_table_model.html#a67c74d8914c049d39ba15d5b0115ae53" title="AssetTableModel::formatAsset\lQuantity" alt="" coords="995,259,1197,301"/>
+</map>

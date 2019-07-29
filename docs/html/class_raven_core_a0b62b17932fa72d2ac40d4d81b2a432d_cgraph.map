@@ -1,0 +1,51 @@
+<map id="RavenCore::shutdown" name="RavenCore::shutdown">
+<area shape="rect" id="node2" href="$init_8cpp.html#ae516465349aa26318144d70d08185b65" title="Interrupt threads. " alt="" coords="265,377,335,404"/>
+<area shape="rect" id="node8" href="$init_8cpp.html#ac5f038c2b480cf9ef5e19e3eba8dbaf9" title="Shutdown is split into 2 parts: Part 1: shut down everything but the main wallet instance (done in Pr..." alt="" coords="260,580,340,607"/>
+<area shape="rect" id="node44" href="$class_raven_core.html#aa9e30d6447d40d2b79c77ecea6cef516" title="Pass fatal exception message to UI thread. " alt="" coords="205,939,395,981"/>
+<area shape="rect" id="node3" href="$httpserver_8cpp.html#a0a02b6576090c9fde2eed21b9aa7dc0c" title="Interrupt HTTP server threads. " alt="" coords="451,403,593,429"/>
+<area shape="rect" id="node4" href="$httprpc_8cpp.html#a44465681e657da4c937c546967f60a32" title="Interrupt HTTP RPC subsystem. " alt="" coords="455,453,589,480"/>
+<area shape="rect" id="node5" href="$server_8cpp.html#a9fb02940fce37b3228c69c74e706e3ae" title="InterruptRPC" alt="" coords="473,251,571,277"/>
+<area shape="rect" id="node6" href="$httprpc_8h.html#aaf0700868c430b2f0fdd719977f4b115" title="Interrupt RPC REST subsystem. " alt="" coords="469,301,575,328"/>
+<area shape="rect" id="node7" href="$torcontrol_8cpp.html#aa3f2e0ce7300bbbedc6da69566e426e6" title="InterruptTorControl" alt="" coords="457,352,587,379"/>
+<area shape="rect" id="node9" href="$init_8cpp.html#affc6ebc50ac5f7be29759e70b65742d0" title="fRequestRestart" alt="" coords="463,555,581,581"/>
+<area shape="rect" id="node10" href="$init_8cpp.html#a5cb3db83cb0ba2e421f651a1ee1f2cfe" title="Preparing steps before shutting down or restarting the wallet. " alt="" coords="459,605,585,632"/>
+<area shape="rect" id="node42" href="$torcontrol_8cpp.html#af056d7647453338e57eca61f23aebb14" title="StopTorControl" alt="" coords="467,656,577,683"/>
+<area shape="rect" id="node43" href="$wallet_2init_8cpp.html#a250ffe3979a862f0eec003d739e0a9d7" title="Close all wallets. " alt="" coords="472,504,572,531"/>
+<area shape="rect" id="node11" href="$util_8cpp.html#a85fc1244e0bd3c91ee7a1c05ed10ebbb" title="RenameThread" alt="" coords="698,576,809,603"/>
+<area shape="rect" id="node12" href="$class_c_tx_mem_pool.html#a3039b67e5eebaa3ff830261c192816f2" title="CTxMemPool::AddTransactions\lUpdated" alt="" coords="649,627,857,669"/>
+<area shape="rect" id="node13" href="$httprpc_8cpp.html#a468267ed2746bd43035a0e294ec5ebd3" title="Stop HTTP RPC subsystem. " alt="" coords="697,693,810,720"/>
+<area shape="rect" id="node16" href="$httprpc_8h.html#a85472e8d58ccbe1aaf2c239ae0d7d185" title="Stop HTTP REST subsystem. " alt="" coords="711,744,796,771"/>
+<area shape="rect" id="node17" href="$server_8cpp.html#a5757a50329a35771e60c8afb470e53be" title="StopRPC" alt="" coords="714,795,793,821"/>
+<area shape="rect" id="node18" href="$httpserver_8cpp.html#ad95d08d62c15b43d52fdba7b7ecaa0aa" title="Stop HTTP server. " alt="" coords="692,845,815,872"/>
+<area shape="rect" id="node20" href="$wallet_2init_8cpp.html#ab651022e0148647d3690f30652801c00" title="Flush all wallets in preparation for shutdown. " alt="" coords="704,896,803,923"/>
+<area shape="rect" id="node21" href="$miner_8cpp.html#a6056a8d27289e4cdcc73bd3b693fd3f8" title="GenerateRavens" alt="" coords="693,56,813,83"/>
+<area shape="rect" id="node24" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="720,323,787,349"/>
+<area shape="rect" id="node25" href="$net_8cpp.html#a93e4e6fbe288b6e882e697918695f88e" title="MapPort" alt="" coords="718,373,789,400"/>
+<area shape="rect" id="node26" href="$validationinterface_8cpp.html#a5e1776de1f87b4d045e9e2a198236b63" title="Unregister a wallet from core. " alt="" coords="658,424,849,451"/>
+<area shape="rect" id="node40" href="$init_8cpp.html#a568c420fe988e9585d2e96158a71e42e" title="fDumpMempoolLater" alt="" coords="682,475,825,501"/>
+<area shape="rect" id="node41" href="$class_args_manager.html#adb5d644d273b3a259f792affcdca8283" title="Return string argument or default value. " alt="" coords="679,525,827,552"/>
+<area shape="rect" id="node14" href="$httpserver_8cpp.html#a42d2567faa003c410a310a9c4e36ebdc" title="Unregister handler for prefix. " alt="" coords="909,765,1072,792"/>
+<area shape="rect" id="node15" href="$server_8cpp.html#a3697278ca4b56a674559305f1d11ad70" title="Unset factory function for timers. " alt="" coords="905,715,1076,741"/>
+<area shape="rect" id="node19" href="$class_work_queue.html#a43e680b6dc9137cc8fbc29dae3347ad5" title="Wait for worker threads to exit. " alt="" coords="916,845,1065,872"/>
+<area shape="rect" id="node22" href="$util_8cpp.html#ae39f49506868759c202b588f7ae2c2d7" title="Return the number of physical cores available on the current system. " alt="" coords="937,56,1044,83"/>
+<area shape="rect" id="node23" href="$utiltime_8cpp.html#a0c5a06b50cd805b1923552114494c029" title="GetTimeMicros" alt="" coords="935,5,1046,32"/>
+<area shape="rect" id="node27" href="$class_c_validation_interface.html#aeb34ef6814685cabc29062ed7be25441" title="Notifies listeners of a block validation result. " alt="" coords="1394,541,1534,582"/>
+<area shape="rect" id="node28" href="$class_c_validation_interface.html#a3473492a52200fb5678c0db596a5093a" title="Tells listeners to broadcast their data. " alt="" coords="1371,606,1557,647"/>
+<area shape="rect" id="node29" href="$class_c_validation_interface.html#a981f5160a2370db0cd616c00d8bd5270" title="Notifies listeners about an inventory item being seen on the network. " alt="" coords="1394,671,1534,713"/>
+<area shape="rect" id="node30" href="$class_c_validation_interface.html#a8684492d9878120ce8c6c760a790f9ea" title="Notifies listeners of the new active block chain on&#45;disk. " alt="" coords="1394,83,1534,125"/>
+<area shape="rect" id="node31" href="$class_c_validation_interface.html#a686fb053045c28ffe2d69a2ee85eea29" title="Notifies listeners of a transaction having been added to mempool. " alt="" coords="1363,149,1565,190"/>
+<area shape="rect" id="node32" href="$class_c_validation_interface.html#a5c8ac00b2b08a57c28e8bbc991f34ed4" title="Notifies listeners of a block being connected. " alt="" coords="1394,214,1534,255"/>
+<area shape="rect" id="node33" href="$class_c_validation_interface.html#a914de3420613e1a2281180f856dca88e" title="Notifies listeners of a block being disconnected. " alt="" coords="1393,279,1535,321"/>
+<area shape="rect" id="node34" href="$class_c_validation_interface.html#a794911828f9350d82bc1941ba82e7463" title="Notifies listeners of updated block chain tip. " alt="" coords="1394,345,1534,386"/>
+<area shape="rect" id="node35" href="$class_c_validation_interface.html#a07bcbde7de90f5cfbc76f185465d4281" title="Notifies listeners that a block which builds directly on our current tip has been received and connec..." alt="" coords="1390,410,1538,451"/>
+<area shape="rect" id="node36" href="$class_c_validation_interface.html#a39109ad09e27c52f733bb7b5bdae6766" title="CValidationInterface\l::BlockFound" alt="" coords="1394,475,1534,517"/>
+<area shape="rect" id="node37" href="$class_c_validation_interface.html#a4ab4636bdcf502afaa3c2756dcf2b567" title="CValidationInterface\l::NewAssetMessage" alt="" coords="919,395,1063,437"/>
+<area shape="rect" id="node38" href="$validationinterface_8h.html#ade8ef59282b5f7521ecfd870a8e3b137" title="Register a wallet to receive updates from core. " alt="" coords="1130,411,1309,437"/>
+<area shape="rect" id="node39" href="$validationinterface_8h.html#a5e1776de1f87b4d045e9e2a198236b63" title="Unregister a wallet from core. " alt="" coords="1124,360,1315,387"/>
+<area shape="rect" id="node45" href="$util_8cpp.html#aaada8c5faa502eb0c33fc01294955db8" title="PrintExceptionContinue" alt="" coords="443,997,601,1024"/>
+<area shape="rect" id="node46" href="$warnings_8cpp.html#a6918ffd0d632afc0c0495696bc99aa00" title="Format a string that describes several potential problems detected by the core. " alt="" coords="473,947,571,973"/>
+<area shape="rect" id="node47" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="Translation function: Call Translate signal on UI interface, which returns a boost::optional result..." alt="" coords="734,997,773,1024"/>
+<area shape="rect" id="node50" href="$class_args_manager.html#af81c6e2a9dcd6b12557a2387fd67b2a6" title="Return boolean argument or default value. " alt="" coords="666,947,841,973"/>
+<area shape="rect" id="node48" href="$util_8h.html#a9ed616020f4ef9b1a261b222bbec78e2" title="SetupEnvironment" alt="" coords="926,972,1055,999"/>
+<area shape="rect" id="node49" href="$util_8h.html#a66791919e137c59061e988d2d87ee9a1" title="SetupNetworking" alt="" coords="929,1023,1052,1049"/>
+</map>

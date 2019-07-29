@@ -1,0 +1,28 @@
+<map id="SendCoinsEntry::SendCoinsEntry" name="SendCoinsEntry::SendCoinsEntry">
+<area shape="rect" id="node2" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="499,5,700,32"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="253,566,436,607"/>
+<area shape="rect" id="node11" href="$class_platform_style.html#a9d726bbaf3b99cf536acdc973f4bba78" title="PlatformStyle::SendEntries\lBackGroundColor" alt="" coords="509,1057,689,1098"/>
+<area shape="rect" id="node22" href="$namespace_g_u_i_util.html#aeb3b902c0536bdb9c2def3d3e465aeba" title="GUIUtil::setupAddressWidget" alt="" coords="247,1165,442,1192"/>
+<area shape="rect" id="node23" href="$namespace_g_u_i_util.html#a8be38945b1ea26b68f766eabac8c4a2a" title="GUIUtil::getSubLabelFont" alt="" coords="513,1123,685,1149"/>
+<area shape="rect" id="node26" href="$class_send_coins_entry.html#aa749b51119d0504f204bbf7c90744e2e" title="SendCoinsEntry::deleteClicked" alt="" coords="243,1216,447,1243"/>
+<area shape="rect" id="node27" href="$namespace_g_u_i_util.html#ae5e1dcf10da1e70457dbfd0634bad52a" title="GUIUtil::getShadowEffect" alt="" coords="257,1267,432,1293"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a76949291f8dfc8b7a34f90cf119ed8e4" title="PlatformStyle::SingleColor" alt="" coords="753,56,929,83"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#ad9c6683d8af86105edcb53970b689afb" title="PlatformStyle::TextColor" alt="" coords="758,199,925,225"/>
+<area shape="rect" id="node6" href="$class_platform_style.html#aa8b4699f877a3c061332cd82a99e727a" title="PlatformStyle::ToolBarSelected\lTextColor" alt="" coords="497,275,702,317"/>
+<area shape="rect" id="node7" href="$class_platform_style.html#a25cc5c8609d092f6111cadb5efc12444" title="PlatformStyle::ToolBarNot\lSelectedTextColor" alt="" coords="512,341,687,382"/>
+<area shape="rect" id="node8" href="$class_platform_style.html#a56c6f30a712f908bf5e68094a4bcd018" title="PlatformStyle::MainBackGround\lColor" alt="" coords="495,406,704,447"/>
+<area shape="rect" id="node9" href="$class_platform_style.html#a4cca136480c9a1c5e4163d20b007e7c7" title="PlatformStyle::TopWidget\lBackGroundColor" alt="" coords="513,471,685,513"/>
+<area shape="rect" id="node10" href="$class_platform_style.html#a4e298def69a98d6a39236f24570878bb" title="PlatformStyle::WidgetBack\lGroundColor" alt="" coords="509,537,689,578"/>
+<area shape="rect" id="node12" href="$class_platform_style.html#a04f9709a73990d1c07c7aec4ab54483a" title="PlatformStyle::ShadowColor" alt="" coords="506,603,693,629"/>
+<area shape="rect" id="node13" href="$class_platform_style.html#a3afe6673b3d60f89ca34d1c23690af6c" title="PlatformStyle::LightBlue\lColor" alt="" coords="518,654,681,695"/>
+<area shape="rect" id="node14" href="$class_platform_style.html#a14c98e08414b0b1565bfd7c9e24c0dab" title="PlatformStyle::DarkBlueColor" alt="" coords="502,720,697,747"/>
+<area shape="rect" id="node15" href="$class_platform_style.html#a0eb49eabf09511aaf8f8006964c48c8f" title="PlatformStyle::LightOrange\lColor" alt="" coords="510,771,689,813"/>
+<area shape="rect" id="node16" href="$class_platform_style.html#a7dc4348099a7576c8376a60a437401d0" title="PlatformStyle::DarkOrange\lColor" alt="" coords="752,855,931,897"/>
+<area shape="rect" id="node17" href="$class_platform_style.html#adecebc4670880700203340d322351f89" title="Colorize an image (given filename) with the icon color. " alt="" coords="511,107,687,149"/>
+<area shape="rect" id="node18" href="$class_platform_style.html#ad69b335b46b2f3d8e50d4f199846114a" title="Set icon with two states on and off. " alt="" coords="511,939,687,981"/>
+<area shape="rect" id="node19" href="$class_platform_style.html#ac3c91893b60a84a98155b7b9603918bd" title="Colorize an icon (given filename) with the text color. " alt="" coords="504,224,695,251"/>
+<area shape="rect" id="node20" href="$class_platform_style.html#ac42929f849f2c64caf85681596409801" title="Colorize an icon (given filename) with the color dark orange. " alt="" coords="496,888,703,915"/>
+<area shape="rect" id="node21" href="$class_platform_style.html#a9336bcaeed5c9210db1550f85f6e22e6" title="PlatformStyle::PlatformStyle" alt="" coords="505,1005,693,1032"/>
+<area shape="rect" id="node24" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="566,1173,633,1200"/>
+<area shape="rect" id="node25" href="$class_q_validated_line_edit.html#af365be1760e17fd1ea6b430fa6005bd2" title="QValidatedLineEdit\l::setCheckValidator" alt="" coords="531,1225,668,1266"/>
+</map>

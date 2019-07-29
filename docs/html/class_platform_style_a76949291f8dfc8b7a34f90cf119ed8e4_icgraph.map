@@ -1,0 +1,45 @@
+<map id="PlatformStyle::SingleColor" name="PlatformStyle::SingleColor">
+<area shape="rect" id="node2" href="$class_platform_style.html#adecebc4670880700203340d322351f89" title="Colorize an image (given filename) with the icon color. " alt="" coords="242,75,418,117"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="487,105,670,146"/>
+<area shape="rect" id="node12" href="$class_platform_style.html#a3f4ff8b7a2054cbd4283e67208523035" title="Colorize an icon (given filename) with the icon color. " alt="" coords="229,583,431,609"/>
+<area shape="rect" id="node7" href="$class_r_p_c_console.html#a8ce64bac6c4420afacee4d2ead446649" title="RPCConsole::clear" alt="" coords="511,53,646,80"/>
+<area shape="rect" id="node4" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="737,162,940,203"/>
+<area shape="rect" id="node5" href="$class_send_coins_entry.html#a6eae20cd564011773931fc724f4d787c" title="SendCoinsEntry::SendCoins\lEntry" alt="" coords="744,245,933,286"/>
+<area shape="rect" id="node6" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="727,383,951,409"/>
+<area shape="rect" id="node8" href="$class_r_p_c_console.html#a91ee472a4d664623e69aa3dfd2f5f3ad" title="RPCConsole::RPCConsole" alt="" coords="1249,81,1433,108"/>
+<area shape="rect" id="node9" href="$class_r_p_c_console.html#a385a3c3b75604e379ce4ed26b697cb36" title="RPCConsole::setFontSize" alt="" coords="750,53,927,80"/>
+<area shape="rect" id="node10" href="$class_r_p_c_console.html#ad120baf8f0d43b56fca2a8e8d4dda50f" title="RPCConsole::fontBigger" alt="" coords="1014,56,1181,83"/>
+<area shape="rect" id="node11" href="$class_r_p_c_console.html#a259454bfa74826c944fec35953f2d328" title="RPCConsole::fontSmaller" alt="" coords="1011,5,1184,32"/>
+<area shape="rect" id="node13" href="$class_address_book_page.html#ac19e97f1283596754cb7e17669397383" title="AddressBookPage::Address\lBookPage" alt="" coords="485,710,672,751"/>
+<area shape="rect" id="node14" href="$class_asset_control_dialog.html#a382655b94d4220e5a57fc14f078c4231" title="AssetControlDialog\l::lockCoin" alt="" coords="1030,710,1165,751"/>
+<area shape="rect" id="node16" href="$class_asset_control_dialog.html#a35356054e1ff12c3cc49e4b7c505be18" title="AssetControlDialog\l::updateView" alt="" coords="511,873,646,914"/>
+<area shape="rect" id="node19" href="$class_assets_dialog.html#a30fbc86bb864b098526e6c6f2f2a6761" title="AssetsDialog::AssetsDialog" alt="" coords="1487,1060,1673,1087"/>
+<area shape="rect" id="node25" href="$class_coin_control_dialog.html#a92d82e9a08d81b99fda6546d83f63a19" title="CoinControlDialog::\llockCoin" alt="" coords="771,1282,907,1323"/>
+<area shape="rect" id="node27" href="$class_coin_control_dialog.html#aadea33050e5c1efd5eae8d2fcfa721f9" title="CoinControlDialog::\lupdateView" alt="" coords="511,1242,647,1283"/>
+<area shape="rect" id="node34" href="$class_send_coins_dialog.html#affacd36b4df87a68e2fe706ef388c0a6" title="SendCoinsDialog::SendCoins\lDialog" alt="" coords="1244,1166,1439,1207"/>
+<area shape="rect" id="node37" href="$class_tx_view_delegate.html#aeb314283e3a3fae5099d95c7b3309d57" title="TxViewDelegate::paint" alt="" coords="501,1308,656,1335"/>
+<area shape="rect" id="node38" href="$class_overview_page.html#ab377237585c9eeabc2eec882cec9a1e2" title="OverviewPage::OverviewPage" alt="" coords="479,221,679,248"/>
+<area shape="rect" id="node39" href="$class_raven_g_u_i.html#a6e65b4f2b8a82b4ab99b77fe9d43a500" title="Create the main UI actions. " alt="" coords="493,557,665,584"/>
+<area shape="rect" id="node41" href="$class_raven_g_u_i.html#a6d7d2d398b230d83e37ea8b22acd4d9a" title="RavenGUI::eventFilter" alt="" coords="502,323,655,349"/>
+<area shape="rect" id="node42" href="$class_receive_coins_dialog.html#af6363e303b255dae972e71b7f730bac1" title="ReceiveCoinsDialog\l::ReceiveCoinsDialog" alt="" coords="504,374,653,415"/>
+<area shape="rect" id="node43" href="$class_sign_verify_message_dialog.html#a83ae6a360e2c8779d0d2895117bfb833" title="SignVerifyMessageDialog\l::SignVerifyMessageDialog" alt="" coords="489,491,669,533"/>
+<area shape="rect" id="node44" href="$class_wallet_view.html#a8c584ab249ed6d5ca68c4f936ad74161" title="WalletView::WalletView" alt="" coords="497,608,660,635"/>
+<area shape="rect" id="node15" href="$class_asset_control_dialog.html#acaafd2a83fa87e3cf4b6748e25a1346a" title="AssetControlDialog\l::AssetControlDialog" alt="" coords="1270,834,1413,875"/>
+<area shape="rect" id="node17" href="$class_asset_control_dialog.html#a4a1447fea96b2bbc38758ea998cf4085" title="AssetControlDialog\l::setModel" alt="" coords="1030,1023,1165,1065"/>
+<area shape="rect" id="node20" href="$class_asset_control_dialog.html#a95edb752c6942fd6ccb2012b85cee862" title="AssetControlDialog\l::radioTreeMode" alt="" coords="1030,893,1165,934"/>
+<area shape="rect" id="node21" href="$class_asset_control_dialog.html#a3e83a2121791ed9747e9f2871f3b27fe" title="AssetControlDialog\l::radioListMode" alt="" coords="1030,775,1165,817"/>
+<area shape="rect" id="node22" href="$class_asset_control_dialog.html#a23d6eb759e1dbe885b3b2c48e72c65bd" title="AssetControlDialog\l::updateAssetList" alt="" coords="771,961,906,1002"/>
+<area shape="rect" id="node24" href="$class_asset_control_dialog.html#ae2b4162c5cfe2f0fe907bc007597feef" title="AssetControlDialog\l::onAssetSelected" alt="" coords="771,843,906,885"/>
+<area shape="rect" id="node18" href="$class_assets_dialog.html#a316ed7dfcd069b3f9f3f255e78f79d4e" title="AssetsDialog::assetControl\lButtonClicked" alt="" coords="1250,1023,1433,1065"/>
+<area shape="rect" id="node23" href="$class_asset_control_dialog.html#a30bbfa2cb3fb3a09b968bb3a5e9e0eec" title="AssetControlDialog\l::viewAdministratorClicked" alt="" coords="1008,958,1187,999"/>
+<area shape="rect" id="node26" href="$class_coin_control_dialog.html#a3cec3ece6aa5eec3e7829e042356a659" title="CoinControlDialog::\lCoinControlDialog" alt="" coords="1029,1387,1165,1429"/>
+<area shape="rect" id="node28" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="771,1217,907,1258"/>
+<area shape="rect" id="node35" href="$class_coin_control_dialog.html#a1990d478f3ffba666c358a4f1bd395ec" title="CoinControlDialog::\lradioTreeMode" alt="" coords="771,1347,907,1389"/>
+<area shape="rect" id="node36" href="$class_coin_control_dialog.html#a775c6d290cb63667a434b09072094533" title="CoinControlDialog::\lradioListMode" alt="" coords="771,1413,907,1454"/>
+<area shape="rect" id="node29" href="$class_create_asset_dialog.html#a48181a6ef7b33bc3cbe27313f7e2a16a" title="CreateAssetDialog::\lcoinControlButtonClicked" alt="" coords="1012,1257,1183,1298"/>
+<area shape="rect" id="node31" href="$class_reissue_asset_dialog.html#aa6ab6d2f84e4c3c305da572e856a1462" title="ReissueAssetDialog\l::coinControlButtonClicked" alt="" coords="1008,1322,1187,1363"/>
+<area shape="rect" id="node33" href="$class_send_coins_dialog.html#a59d757d9e4bea5b380eb480fd79cfb49" title="SendCoinsDialog::coinControl\lButtonClicked" alt="" coords="999,1191,1196,1233"/>
+<area shape="rect" id="node30" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="1271,1257,1411,1298"/>
+<area shape="rect" id="node32" href="$class_reissue_asset_dialog.html#aee7cca850e09ac4cbedb7175feea7038" title="ReissueAssetDialog\l::ReissueAssetDialog" alt="" coords="1267,1322,1416,1363"/>
+<area shape="rect" id="node40" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="761,557,916,584"/>
+</map>

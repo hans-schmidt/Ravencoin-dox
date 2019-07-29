@@ -1,0 +1,6 @@
+<map id="CCoinsViewMemPool::GetCoin" name="CCoinsViewMemPool::GetCoin">
+<area shape="rect" id="node2" href="$blockchain_8cpp.html#a0d3ec9ae23b08828dd7ca646766ca637" title="gettxout" alt="" coords="254,5,323,32"/>
+<area shape="rect" id="node3" href="$validation_8h.html#a6a5f8bb0345ec6edd56c7ff2ee6665db" title="Check if transaction will be BIP 68 final in the next block to be created. " alt="" coords="212,56,365,83"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#acf12e024f4d6d5c0437227bc419c28fb" title="CTxMemPool::removeForReorg" alt="" coords="413,56,620,83"/>
+<area shape="rect" id="node5" href="$validation_8cpp.html#aaa1204b724d7b62f09ef22df4c6a592d" title="UpdateMempoolForReorg" alt="" coords="668,56,839,83"/>
+</map>

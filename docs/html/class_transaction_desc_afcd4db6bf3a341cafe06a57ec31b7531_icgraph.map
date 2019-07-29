@@ -1,0 +1,6 @@
+<map id="TransactionDesc::FormatTxStatus" name="TransactionDesc::FormatTxStatus">
+<area shape="rect" id="node2" href="$class_transaction_desc.html#ab7c9dbb2048aae121dd9d75df86e64f4" title="TransactionDesc::toHTML" alt="" coords="515,13,691,39"/>
+<area shape="rect" id="node4" href="$class_transaction_desc.html#a8d08b3fa41ef42a3048f3c684ed1d90b" title="TransactionDesc::toAssetHTML" alt="" coords="247,38,458,65"/>
+<area shape="rect" id="node5" href="$class_transaction_desc.html#a609692b1f24bc1e990f00fad38bf6932" title="TransactionDesc::TransactionDesc" alt="" coords="239,89,467,115"/>
+<area shape="rect" id="node3" href="$class_transaction_table_priv.html#ab08d44e16bf6dd95b5b83959b3013780" title="TransactionTablePriv\l::describe" alt="" coords="739,5,884,47"/>
+</map>

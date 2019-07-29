@@ -1,0 +1,9 @@
+<map id="GetTxOutAssetTypes" name="GetTxOutAssetTypes">
+<area shape="rect" id="node2" href="$class_c_transaction.html#ad72ef245423cd6fcf0f120fa5a7818f9" title="Call this function after IsNewUniqueAsset. " alt="" coords="212,5,423,47"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#a78e4b3b650fd78ff8261cbf079155045" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="216,71,419,98"/>
+<area shape="rect" id="node4" href="$class_c_transaction.html#a4bfea24a0a7f7513f00519f40759ffb7" title="To be called on CTransactions where IsNewAsset returns true. " alt="" coords="220,123,415,164"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="210,188,425,229"/>
+<area shape="rect" id="node6" href="$class_c_transaction.html#abe9b6d2505c2c03227f6a9b84c0f82fe" title="To be called on CTransactions where IsNewRestrictedAsset returns true. " alt="" coords="203,253,432,295"/>
+<area shape="rect" id="node7" href="$class_c_transaction.html#ac1ed9ac185d1ec2d9adad8f306a1a396" title="To be called on CTransactions where IsReissueAsset returns true. " alt="" coords="222,319,413,360"/>
+<area shape="rect" id="node8" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="214,385,421,411"/>
+</map>

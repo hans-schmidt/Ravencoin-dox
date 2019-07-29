@@ -1,0 +1,5 @@
+<map id="AssetTableModel::formatTooltip" name="AssetTableModel::formatTooltip">
+<area shape="rect" id="node2" href="$class_asset_table_model.html#aca7a2d4511fe73b194aeab9b94bfd936" title="AssetTableModel::formatAssetName" alt="" coords="260,5,497,32"/>
+<area shape="rect" id="node3" href="$class_asset_table_model.html#a67c74d8914c049d39ba15d5b0115ae53" title="AssetTableModel::formatAsset\lQuantity" alt="" coords="277,57,480,98"/>
+<area shape="rect" id="node4" href="$class_asset_record.html#ac0bdd84ef7f2e516e33f8acfa374d223" title="AssetRecord::formattedQuantity" alt="" coords="545,64,756,91"/>
+</map>

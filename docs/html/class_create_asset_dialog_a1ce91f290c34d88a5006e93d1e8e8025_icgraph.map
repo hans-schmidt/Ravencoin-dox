@@ -1,0 +1,9 @@
+<map id="CreateAssetDialog::GetSpecialCharacter" name="CreateAssetDialog::GetSpecialCharacter">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#afe8c4424e900a322a391a036185052cc" title="CreateAssetDialog::\lonNameChanged" alt="" coords="203,5,343,47"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#a0798fb7d7daa16c4d49001170c4a4d37" title="CreateAssetDialog::\lonAssetTypeActivated" alt="" coords="196,136,351,177"/>
+<area shape="rect" id="node8" href="$class_create_asset_dialog.html#a5c1bf9f08f3530f062f225ad5c06fee1" title="CreateAssetDialog::\lonAssetListActivated" alt="" coords="200,71,347,112"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="399,71,539,112"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#a093dbb5a197e9fbe2bab3e7529f65340" title="CreateAssetDialog::\lselectTypeName" alt="" coords="399,136,539,177"/>
+<area shape="rect" id="node6" href="$class_create_asset_dialog.html#a9900289907248e0b67e838f4a2db2f6e" title="CreateAssetDialog::\lfocusSubAsset" alt="" coords="587,103,727,144"/>
+<area shape="rect" id="node7" href="$class_create_asset_dialog.html#abbaaae0c6a41b5888e86f17c2e1e4ac2" title="CreateAssetDialog::\lfocusUniqueAsset" alt="" coords="587,168,727,209"/>
+</map>

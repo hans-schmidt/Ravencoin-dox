@@ -1,0 +1,27 @@
+<map id="ser_writedata8" name="ser_writedata8">
+<area shape="rect" id="node2" href="$struct_c_address_unspent_key.html#ae1c4de8cfdcd76047b6552d11f9ae496" title="CAddressUnspentKey\l::Serialize" alt="" coords="172,62,324,103"/>
+<area shape="rect" id="node3" href="$struct_c_address_index_key.html#a4f734ba54187683fbb5290cc8d948c50" title="CAddressIndexKey::Serialize" alt="" coords="401,10,594,37"/>
+<area shape="rect" id="node4" href="$struct_c_address_index_iterator_asset_key.html#a78357617b1b8a1b977560694985b0ac6" title="CAddressIndexIteratorAsset\lKey::Serialize" alt="" coords="404,62,591,103"/>
+<area shape="rect" id="node5" href="$struct_c_address_index_iterator_height_key.html#aa81fe1a741bd4abc19033318fd71183e" title="CAddressIndexIteratorHeight\lKey::Serialize" alt="" coords="402,127,593,168"/>
+<area shape="rect" id="node6" href="$struct_c_address_index_iterator_key.html#af8938ff45ac48d1d14e04ad9eb47eb9f" title="CAddressIndexIteratorKey\l::Serialize" alt="" coords="160,230,336,271"/>
+<area shape="rect" id="node7" href="$serialize_8h.html#a4d807cadf9c9de8c09c7f87412daf808" title="Serialize" alt="" coords="212,472,284,498"/>
+<area shape="rect" id="node25" href="$serialize_8h.html#a02cf7f551f8876dcd142e7c6c8a27e3b" title="WriteCompactSize" alt="" coords="182,522,314,549"/>
+<area shape="rect" id="node26" href="$serialize_8h.html#af2cf364ed9c068fd7092f0207a756c22" title="WriteVarInt" alt="" coords="204,573,292,600"/>
+<area shape="rect" id="node8" href="$struct_c_block_asset_undo.html#a5794d503b48a085170c384cc2ad6953a" title="CBlockAssetUndo::SerializationOp" alt="" coords="384,649,611,676"/>
+<area shape="rect" id="node9" href="$assettypes_8h.html#a859197bdbf37821c24b52f3433e9caa3" title="ReadWriteAssetHash" alt="" coords="423,700,572,726"/>
+<area shape="rect" id="node11" href="$class_c_asset_transfer.html#aec0e05b65f8e975a1b5aa3691419ad8e" title="CAssetTransfer::SerializationOp" alt="" coords="659,750,869,777"/>
+<area shape="rect" id="node13" href="$class_c_message.html#a95ce3a4d8dd77a361145e7dcbac9e61d" title="CMessage::SerializationOp" alt="" coords="407,801,588,828"/>
+<area shape="rect" id="node14" href="$class_c_hash_writer.html#a6551aed7315be5ba750680df18562f3a" title="CHashWriter::operator\&lt;\&lt;" alt="" coords="413,852,582,878"/>
+<area shape="rect" id="node15" href="$serialize_8h.html#a5748d9d17982b234b10a4b9e6f8e9f53" title="WrapVarInt" alt="" coords="453,902,541,929"/>
+<area shape="rect" id="node16" href="$serialize_8h.html#a6724f283710e869aa8caabba08bfd2af" title="Serialize_impl" alt="" coords="446,193,549,220"/>
+<area shape="rect" id="node17" href="$serialize_8h.html#aa2b7d9cb5647ec7cedf17e1c68653e02" title="pair " alt="" coords="461,244,533,270"/>
+<area shape="rect" id="node18" href="$serialize_8h.html#a099cfa6c7d7293fade4b7f3f385073fc" title="SerReadWrite" alt="" coords="445,294,549,321"/>
+<area shape="rect" id="node19" href="$class_c_size_computer.html#a03a29c76f82dca1559e7922b35bebd0d" title="CSizeComputer::operator\&lt;\&lt;" alt="" coords="404,345,591,372"/>
+<area shape="rect" id="node20" href="$serialize_8h.html#a406845b154307932e72130fe64334fbe" title="SerializeMany" alt="" coords="445,396,549,422"/>
+<area shape="rect" id="node21" href="$class_override_stream.html#a959347a477ffbcf25741b88f4646aa16" title="OverrideStream::operator\&lt;\&lt;" alt="" coords="405,446,589,473"/>
+<area shape="rect" id="node22" href="$class_c_vector_writer.html#a6c272556159a2c5f69b0882f67724845" title="CVectorWriter::operator\&lt;\&lt;" alt="" coords="409,497,585,524"/>
+<area shape="rect" id="node23" href="$class_c_data_stream.html#af47c6d4051064a226f529ee4d7c13ad7" title="CDataStream::operator\&lt;\&lt;" alt="" coords="411,548,584,574"/>
+<area shape="rect" id="node24" href="$class_c_auto_file.html#a8e194596d1f8f64059247724b25df82c" title="CAutoFile::operator\&lt;\&lt;" alt="" coords="422,598,573,625"/>
+<area shape="rect" id="node10" href="$class_c_new_asset.html#a1425451c7a7d9c0fd1e562f4e7770c73" title="CNewAsset::SerializationOp" alt="" coords="669,700,859,726"/>
+<area shape="rect" id="node12" href="$class_c_reissue_asset.html#a7de592e70b300413f2e5bb34488a8715" title="CReissueAsset::SerializationOp" alt="" coords="659,649,869,676"/>
+</map>

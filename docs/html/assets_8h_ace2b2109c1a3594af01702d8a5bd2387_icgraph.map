@@ -1,0 +1,11 @@
+<map id="IsScriptNewQualifierAsset" name="IsScriptNewQualifierAsset">
+<area shape="rect" id="node2" href="$assets_8h.html#a8a351ca76c72c36f9779f6b66ee574d7" title="QualifierAssetFromScript" alt="" coords="243,99,411,126"/>
+<area shape="rect" id="node4" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="735,103,941,130"/>
+<area shape="rect" id="node10" href="$class_c_transaction.html#a2150029b261bcae600fba72a616040b9" title="Make sure to call VerifyNewQualifierAsset if this call returns true. " alt="" coords="229,150,424,192"/>
+<area shape="rect" id="node3" href="$assets_8h.html#a7067ccf651efe7337751d3e2c0dff435" title="QualifierAssetFromTransaction" alt="" coords="478,154,681,180"/>
+<area shape="rect" id="node9" href="$class_c_transaction.html#a22691ba6691b5a88610543d3495da04e" title="To be called on CTransactions where IsNewQualifierAsset returns true. " alt="" coords="472,37,687,78"/>
+<area shape="rect" id="node5" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="799,179,877,206"/>
+<area shape="rect" id="node6" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="989,154,1169,180"/>
+<area shape="rect" id="node7" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="1030,204,1129,231"/>
+<area shape="rect" id="node8" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="1217,204,1316,231"/>
+</map>

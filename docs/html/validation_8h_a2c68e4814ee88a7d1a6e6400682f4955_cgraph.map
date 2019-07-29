@@ -1,0 +1,5 @@
+<map id="IsMessagingActive" name="IsMessagingActive">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Return the currently selected parameters. " alt="" coords="273,5,340,32"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#a1c8ac7ede82bf6835ea4e896cd989336" title="CChainParams::MessagingActivation\lBlock" alt="" coords="187,57,427,98"/>
+<area shape="rect" id="node4" href="$validation_8cpp.html#a149d069990401daec0d9fef9f81c1c74" title="AreMessagingDeployed" alt="" coords="227,123,387,149"/>
+</map>

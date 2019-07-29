@@ -1,0 +1,4 @@
+<map id="CWallet::DummySignTx" name="CWallet::DummySignTx">
+<area shape="rect" id="node2" href="$sign_8cpp.html#a9165c4de76bf0fe48c641cc8779d4355" title="Produce a script signature using a generic signature creator. " alt="" coords="221,5,346,32"/>
+<area shape="rect" id="node3" href="$sign_8cpp.html#a035cafdfcfe42244cb911390ba14a9a7" title="UpdateTransaction" alt="" coords="217,56,349,83"/>
+</map>

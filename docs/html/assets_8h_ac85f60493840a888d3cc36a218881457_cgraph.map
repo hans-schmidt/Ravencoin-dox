@@ -1,0 +1,8 @@
+<map id="SendAssetTransaction" name="SendAssetTransaction">
+<area shape="rect" id="node2" href="$group___actions.html#ga1aefbf0f18f0f6dc3247bc413934f56b" title="RVN END. " alt="" coords="208,31,399,57"/>
+<area shape="rect" id="node5" href="$class_c_validation_state.html#a8fa9612cb40c3c8592f7cd29b5931ccd" title="CValidationState::GetReject\lReason" alt="" coords="210,82,397,123"/>
+<area shape="rect" id="node6" href="$class_c_merkle_tx.html#a20142f81e7ff0242db646e63e0a973b3" title="CMerkleTx::GetHash" alt="" coords="230,148,377,175"/>
+<area shape="rect" id="node7" href="$classbase__blob.html#ad7263503f949fb3c6c520ebb1f28e378" title="base_blob::GetHex" alt="" coords="236,199,371,225"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga493d06f41ca9571f2a42c8581a3952d8" title="CReserveKey::KeepKey" alt="" coords="447,5,612,32"/>
+<area shape="rect" id="node4" href="$class_c_wallet_tx.html#ab0ee7347584bff886dc24b9f63ff023c" title="CWalletTx::BindWallet" alt="" coords="452,56,607,83"/>
+</map>

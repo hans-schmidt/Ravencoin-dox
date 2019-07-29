@@ -1,0 +1,8 @@
+<map id="PlatformStyle::MainBackGroundColor" name="PlatformStyle::MainBackGroundColor">
+<area shape="rect" id="node2" href="$class_platform_style.html#a67b6942f6dcf2ca765f8af2d6f377ce8" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="263,84,445,125"/>
+<area shape="rect" id="node6" href="$class_raven_g_u_i.html#a4bc013871d7f7d6639b4493a3292b258" title="Create the toolbars. " alt="" coords="264,162,444,189"/>
+<area shape="rect" id="node3" href="$class_send_assets_entry.html#adceb9d1df4a80a3c8948ffc1352e4f02" title="SendAssetsEntry::SendAssets\lEntry" alt="" coords="504,5,707,47"/>
+<area shape="rect" id="node4" href="$class_send_coins_entry.html#a6eae20cd564011773931fc724f4d787c" title="SendCoinsEntry::SendCoins\lEntry" alt="" coords="511,71,700,112"/>
+<area shape="rect" id="node5" href="$class_transaction_view.html#a6bad80e62c684ad1e77250510c9323aa" title="TransactionView::TransactionView" alt="" coords="493,137,717,163"/>
+<area shape="rect" id="node7" href="$class_raven_g_u_i.html#af82cbe028fc29d0ea71074eced806071" title="RavenGUI::RavenGUI" alt="" coords="528,187,683,214"/>
+</map>

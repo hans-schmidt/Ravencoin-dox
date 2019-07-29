@@ -1,0 +1,12 @@
+<map id="CReserveKey::KeepKey" name="CReserveKey::KeepKey">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#a3ba9ef66d33d66c86661f062d6e7d421" title="getrawchangeaddress" alt="" coords="239,31,389,57"/>
+<area shape="rect" id="node3" href="$group___actions.html#ga15a558d8fa0db299f38ed1e45a60aaaf" title="Insert additional inputs into the transaction by calling CreateTransaction();. " alt="" coords="227,81,401,108"/>
+<area shape="rect" id="node4" href="$group___actions.html#ga1aefbf0f18f0f6dc3247bc413934f56b" title="RVN END. " alt="" coords="219,132,409,159"/>
+<area shape="rect" id="node5" href="$assets_8h.html#ac85f60493840a888d3cc36a218881457" title="Send any type of asset transaction to the network. " alt="" coords="462,81,617,108"/>
+<area shape="rect" id="node10" href="$class_wallet_model.html#a53443aca544c824550f21e5f87e4ec39" title="WalletModel::sendCoins" alt="" coords="457,132,621,159"/>
+<area shape="rect" id="node11" href="$class_list_coins_testing_setup.html#a8ce37c5d8d073c901b91153f83c47ee8" title="ListCoinsTestingSetup\l::AddTx" alt="" coords="462,183,617,225"/>
+<area shape="rect" id="node6" href="$rpc_2assets_8cpp.html#a27b33a27533950c7953c056f0a1d9852" title="issueunique" alt="" coords="727,5,818,32"/>
+<area shape="rect" id="node7" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="669,56,876,83"/>
+<area shape="rect" id="node8" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="721,107,824,133"/>
+<area shape="rect" id="node9" href="$class_wallet_model.html#a1c12ea47660aeb523c9f3a414b0d0ce9" title="WalletModel::sendAssets" alt="" coords="687,157,858,184"/>
+</map>

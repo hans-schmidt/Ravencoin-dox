@@ -1,0 +1,10 @@
+<map id="InitError" name="InitError">
+<area shape="rect" id="node2" href="$init_8cpp.html#a878797b40fb8eb0d7f330a41d7742d11" title="Sanity checks Ensure that Raven is running in a usable environment with all necessary library support..." alt="" coords="166,5,281,32"/>
+<area shape="rect" id="node3" href="$init_8h.html#a9a36b6e6dd92e2126a5c955b16553ba5" title="Initialize raven core: Basic context setup. " alt="" coords="158,56,289,83"/>
+<area shape="rect" id="node7" href="$init_8h.html#a267bb31fa79be7173fe5d2d8ce471145" title="Raven core main initialization. " alt="" coords="178,107,269,133"/>
+<area shape="rect" id="node9" href="$class_c_wallet.html#a7f16b3133c87937edcf29b467568d8ad" title="CWallet::CreateWalletFromFile" alt="" coords="121,157,325,184"/>
+<area shape="rect" id="node4" href="$class_raven_core.html#a7fb311e7bfbf3d59765c63d074e63c96" title="Basic initialization, before starting initialization/shutdown thread. " alt="" coords="373,31,545,57"/>
+<area shape="rect" id="node5" href="$ravend_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="428,81,491,108"/>
+<area shape="rect" id="node6" href="$ravend_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="593,81,644,108"/>
+<area shape="rect" id="node8" href="$class_raven_core.html#ad8824da7414b72f26061a1e914d66b59" title="RavenCore::initialize" alt="" coords="388,132,531,159"/>
+</map>

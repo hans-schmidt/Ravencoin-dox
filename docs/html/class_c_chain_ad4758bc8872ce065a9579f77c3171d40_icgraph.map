@@ -1,0 +1,51 @@
+<map id="CChain::Height" name="CChain::Height">
+<area shape="rect" id="node2" href="$class_c_chain.html#adb9ec01329511e869bba95e3c143da71" title="Find the last common block between this chain and a block index entry. " alt="" coords="202,5,327,32"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#aec8812106a8f22a37c1b81b202e8c897" title="listsinceblock" alt="" coords="484,56,585,83"/>
+<area shape="rect" id="node4" href="$class_client_model.html#a9af729ddd1220f928d8cb3ef29f06f26" title="ClientModel::getNumBlocks" alt="" coords="172,1152,357,1179"/>
+<area shape="rect" id="node9" href="$class_transaction_record.html#a9b643dd885a790ae511705a1446556be" title="Update status from core wallet tx. " alt="" coords="745,267,885,309"/>
+<area shape="rect" id="node13" href="$class_transaction_record.html#a5dd21151d6182f96c0bf42e874a62338" title="Return whether a status update is needed. " alt="" coords="742,151,887,193"/>
+<area shape="rect" id="node14" href="$class_wallet_model.html#a51469b2d95cfd4bc0a14ee456fca7b95" title="WalletModel::pollBalance\lChanged" alt="" coords="180,1203,349,1245"/>
+<area shape="rect" id="node16" href="$blockchain_8cpp.html#acfa526ca2da4676b0e8d8ce1d3235dd0" title="getblockcount" alt="" coords="213,1269,316,1296"/>
+<area shape="rect" id="node17" href="$blockchain_8cpp.html#a5a5c513f66f688445d8f24ae430ca37d" title="getblockhash" alt="" coords="215,1320,314,1347"/>
+<area shape="rect" id="node18" href="$mining_8cpp.html#a5f6e044d7c2d84b3beb3a356b02e025b" title="Return average network hashes per second based on the last &#39;lookup&#39; blocks, or from the last difficul..." alt="" coords="194,1371,335,1397"/>
+<area shape="rect" id="node20" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="209,1421,321,1448"/>
+<area shape="rect" id="node23" href="$rawtransaction_8cpp.html#a5a24f6a684227d1d0387bf434ee7d063" title="TxToJSON" alt="" coords="221,1472,309,1499"/>
+<area shape="rect" id="node25" href="$validation_8h.html#af43d57aa8b46a53839777e8b670c9d66" title="Find the last common block between the parameter chain and a locator. " alt="" coords="188,1523,341,1549"/>
+<area shape="rect" id="node26" href="$validation_8h.html#a6cb9692522ea533161204264849df858" title="Transaction validation functions. " alt="" coords="213,427,316,453"/>
+<area shape="rect" id="node37" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="191,1573,338,1600"/>
+<area shape="rect" id="node38" href="$validation_8h.html#a2e51de180124822c526ac8f82777fa32" title="When there are blocks in the active chain with missing data, rewind the chainstate and remove them fr..." alt="" coords="199,1624,330,1651"/>
+<area shape="rect" id="node40" href="$group__map_wallet.html#ga009ea6afd94f2c5d560ae063883628b5" title="CWallet::MarkConflicted" alt="" coords="452,1168,617,1195"/>
+<area shape="rect" id="node41" href="$group___actions.html#gabb894f8914f0bf49d43a41daacb518ef" title="CWallet::CreateTransactionAll" alt="" coords="165,1675,364,1701"/>
+<area shape="rect" id="node42" href="$class_c_wallet.html#ac6523d1c43d6b4424090c1a7710c9760" title="CWallet::GetKeyBirthTimes" alt="" coords="173,1725,357,1752"/>
+<area shape="rect" id="node44" href="$class_c_merkle_tx.html#a0600dfab890747c0d4d1cfeb09a0b8c2" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="170,774,359,815"/>
+<area shape="rect" id="node5" href="$class_raven_g_u_i.html#a174a3e75c334c5930d3261a2955c3725" title="Set the client model. " alt="" coords="725,1244,904,1271"/>
+<area shape="rect" id="node8" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="437,1269,632,1296"/>
+<area shape="rect" id="node6" href="$class_raven_application.html#a60123f611cc210870fa67974cb2c804c" title="Request core shutdown. " alt="" coords="974,1269,1149,1310"/>
+<area shape="rect" id="node7" href="$class_raven_application.html#a1a3dcf33ba44507984b2a04e7ebf1542" title="RavenApplication::initialize\lResult" alt="" coords="972,1203,1151,1245"/>
+<area shape="rect" id="node10" href="$class_transaction_table_priv.html#ac692aa6aa7820e80accc971c70e0fae5" title="TransactionTablePriv\l::index" alt="" coords="989,210,1134,251"/>
+<area shape="rect" id="node11" href="$class_transaction_table_model.html#af3a9a49314f80268a77a704f7f028905" title="TransactionTableModel\l::index" alt="" coords="1229,181,1387,222"/>
+<area shape="rect" id="node12" href="$class_transaction_view.html#abe5793b86a4ea6f80a6d822ee878e646" title="TransactionView::contextualMenu" alt="" coords="1199,247,1417,273"/>
+<area shape="rect" id="node15" href="$class_wallet_model.html#a36282857c97bcaad796a2b5c7398245c" title="WalletModel::WalletModel" alt="" coords="447,1320,622,1347"/>
+<area shape="rect" id="node19" href="$mining_8cpp.html#a6f67f7971af006b31c86a032b63812a4" title="getnetworkhashps" alt="" coords="471,1371,599,1397"/>
+<area shape="rect" id="node21" href="$mining_8cpp.html#a16cf276c50111f451fdbd5dfbe3c8a6b" title="generatetoaddress" alt="" coords="470,1472,599,1499"/>
+<area shape="rect" id="node22" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="499,1421,571,1448"/>
+<area shape="rect" id="node24" href="$rawtransaction_8cpp.html#a62dc16375e4d300e642339f1605da3c9" title="getrawtransaction" alt="" coords="472,1523,597,1549"/>
+<area shape="rect" id="node27" href="$class_transaction_desc.html#afcd4db6bf3a341cafe06a57ec31b7531" title="TransactionDesc::FormatTx\lStatus" alt="" coords="442,209,627,250"/>
+<area shape="rect" id="node28" href="$class_c_tx_mem_pool.html#acf12e024f4d6d5c0437227bc419c28fb" title="CTxMemPool::removeForReorg" alt="" coords="431,325,638,352"/>
+<area shape="rect" id="node29" href="$rpcwallet_8cpp.html#a797ec5ebe2780073014606ef9f78cd4b" title="getreceivedbyaddress" alt="" coords="460,477,609,504"/>
+<area shape="rect" id="node30" href="$rpcwallet_8cpp.html#ab00d84bc574f3a4707fc11d30269a8e1" title="getreceivedbyaccount" alt="" coords="460,528,609,555"/>
+<area shape="rect" id="node31" href="$rpcwallet_8cpp.html#ae5af8884ac356c023c84fca170e79ad6" title="ListReceived" alt="" coords="485,579,584,605"/>
+<area shape="rect" id="node32" href="$group__map_wallet.html#ga71efb0d5b5def8ae00a1d74b8741bfcb" title="CWalletTx::IsTrusted" alt="" coords="461,376,608,403"/>
+<area shape="rect" id="node36" href="$group___actions.html#gabc196bc3ad4c11a5f643c0fcd77b68a4" title="CWallet::GetLegacyBalance" alt="" coords="441,427,628,453"/>
+<area shape="rect" id="node33" href="$group___actions.html#ga6e6e1497535d499242c2f2a76d1cbe63" title="CWallet::GetUnconfirmedBalance" alt="" coords="705,579,924,605"/>
+<area shape="rect" id="node34" href="$group___actions.html#gab0c110f14f0429f9de594b2293837621" title="CWallet::GetUnconfirmedWatch\lOnlyBalance" alt="" coords="709,706,920,747"/>
+<area shape="rect" id="node35" href="$group___actions.html#gadf2b4ac337ddb271555985cec82e43e6" title="CWallet::GetAddressBalances" alt="" coords="715,912,915,939"/>
+<area shape="rect" id="node39" href="$class_c_script_check.html#a1340496c37e521c253606b5957173afd" title="CScriptCheck::GetScriptError" alt="" coords="437,1624,632,1651"/>
+<area shape="rect" id="node43" href="$wallet__tests_8cpp.html#a73ce3a42e0b56b2e4516e55871d8590e" title="dumpwallet" alt="" coords="491,1725,579,1752"/>
+<area shape="rect" id="node45" href="$class_c_fee_bumper.html#aa35e522f4d08f765930432ed62a2dc20" title="CFeeBumper::precondition\lChecks" alt="" coords="446,1102,623,1143"/>
+<area shape="rect" id="node46" href="$rpcwallet_8cpp.html#a7050d2b7e907f8148f13878e8dcea550" title="WalletTxToJSON" alt="" coords="472,680,597,707"/>
+<area shape="rect" id="node47" href="$rpcwallet_8cpp.html#a9e5eb84bdfa03fa36ac4f51ff52b74ae" title="listaccounts" alt="" coords="489,731,581,757"/>
+<area shape="rect" id="node48" href="$group__map_wallet.html#gac4430bbdacf1a1b11f2f7010eef016c9" title="Return whether transaction can be abandoned. " alt="" coords="442,833,627,874"/>
+<area shape="rect" id="node49" href="$group__map_wallet.html#ga9a4633bfb89da7a4afa04356a74b7970" title="CWallet::AbandonTransaction" alt="" coords="437,899,633,925"/>
+<area shape="rect" id="node50" href="$group__map_wallet.html#ga796c23450c8482e10e0c75ae5c1fa8ed" title="CWallet::ReacceptWalletTransactions" alt="" coords="412,949,657,976"/>
+</map>

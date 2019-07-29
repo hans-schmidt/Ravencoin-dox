@@ -1,0 +1,14 @@
+<map id="CRestrictedDB::ReadVerifier" name="CRestrictedDB::ReadVerifier">
+<area shape="rect" id="node2" href="$class_c_assets_cache.html#a9bd45ef0ba992d817cfd8896056d0dc5" title="Returns true if the Asset Verifier String was found for an asset_name, if fSkipTempCache is true..." alt="" coords="244,115,459,156"/>
+<area shape="rect" id="node3" href="$class_c_asset_transfer.html#a4521bc6493a97fb673728357c6adc248" title="CAssetTransfer::Contextual\lCheckAgainstVerifyString" alt="" coords="519,5,705,47"/>
+<area shape="rect" id="node6" href="$assets_8h.html#a308b81e915e5e2f01178335ddda43fa5" title="Create a reissue asset transaction. " alt="" coords="765,66,976,93"/>
+<area shape="rect" id="node7" href="$assets_8h.html#a3b8277e86d0dac08410f6a4c59cb13e7" title="Create a transfer asset transaction. " alt="" coords="507,122,717,149"/>
+<area shape="rect" id="node9" href="$rpc_2assets_8cpp.html#adaad4e580eaa0bf4584c8d0fbe4fc36c" title="getverifierstring" alt="" coords="557,173,667,199"/>
+<area shape="rect" id="node10" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="573,223,651,250"/>
+<area shape="rect" id="node4" href="$assets_8h.html#ab47103ea6eb52475e02fb83b89bc43d0" title="ContextualCheckTransferAsset" alt="" coords="768,14,973,41"/>
+<area shape="rect" id="node5" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="1024,66,1231,93"/>
+<area shape="rect" id="node8" href="$rpc_2messages_8cpp.html#afbf85f977e967b7e42be145fb402b9fd" title="sendmessage" alt="" coords="819,167,922,194"/>
+<area shape="rect" id="node11" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="781,222,961,249"/>
+<area shape="rect" id="node12" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="821,273,920,299"/>
+<area shape="rect" id="node13" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="1078,273,1177,299"/>
+</map>

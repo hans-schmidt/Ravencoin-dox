@@ -1,0 +1,19 @@
+<map id="CKey::size" name="CKey::size">
+<area shape="rect" id="node2" href="$class_c_raven_secret.html#a9e28a7dea8650427bb1635a98551685f" title="CRavenSecret::SetKey" alt="" coords="933,5,1092,32"/>
+<area shape="rect" id="node3" href="$class_c_key.html#a41c700c4a732672e4b7cc60d811dbf41" title="CKey::end" alt="" coords="195,88,279,115"/>
+<area shape="rect" id="node18" href="$group__map_wallet.html#ga0e01145a626d8bf29c62bacaa0fbb960" title="CWallet::DeriveNewChildKey" alt="" coords="140,139,335,165"/>
+<area shape="rect" id="node4" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="445,64,546,91"/>
+<area shape="rect" id="node7" href="$class_c_crypto_key_store.html#a4a2d6d44d1c5e844cf0166d286f5eb18" title="Add a key to the store. " alt="" coords="383,117,608,144"/>
+<area shape="rect" id="node17" href="$class_c_crypto_key_store.html#a8c0f6b63fb04193df16243c4459b7c61" title="will encrypt previously unencrypted keys " alt="" coords="391,168,599,195"/>
+<area shape="rect" id="node5" href="$class_c_key.html#a96b017433a65335775cf3807d73f85ce" title="Check whether the public key corresponding to this private key is (to be) compressed. " alt="" coords="689,64,837,91"/>
+<area shape="rect" id="node6" href="$class_transaction_signature_creator.html#a9cb1b4bd531ab19a1257abd9b639b7c8" title="Create a singular (non&#45;script) signature. " alt="" coords="919,57,1107,98"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#gacc1f62c9141576557cb98551cf78dc67" title="CWallet::AddKeyPubKeyWithDB" alt="" coords="656,121,871,148"/>
+<area shape="rect" id="node14" href="$class_c_wallet.html#a439bab81d7989f91a4f0909960516eea" title="Adds a key to the store, without saving it to disk (used by LoadWallet) " alt="" coords="699,172,827,199"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#gac5f2eb553d4a59b1ff7fadacb7e981d8" title="Adds a key to the store, and saves it to disk. " alt="" coords="928,123,1097,149"/>
+<area shape="rect" id="node10" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="1206,72,1306,99"/>
+<area shape="rect" id="node12" href="$rpcdump_8cpp.html#a0ccf80d09e7c16fb3035c4b81bf4a4d8" title="ProcessImport" alt="" coords="1203,123,1309,149"/>
+<area shape="rect" id="node11" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1405,72,1528,99"/>
+<area shape="rect" id="node13" href="$wallet__tests_8cpp.html#af0e3c9469f1d8f368d3d5f38e5580367" title="importmulti" alt="" coords="1423,123,1510,149"/>
+<area shape="rect" id="node15" href="$walletdb_8cpp.html#aebac4c34dd06c6ce4249ed71914401fb" title="ReadKeyValue" alt="" coords="958,177,1067,204"/>
+<area shape="rect" id="node16" href="$class_c_wallet_d_b.html#a5b0ec9c8643c62d62ebffd55cf5b09c8" title="CWalletDB::RecoverKeysOnly\lFilter" alt="" coords="1155,174,1357,215"/>
+</map>

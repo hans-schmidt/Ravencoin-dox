@@ -1,0 +1,10 @@
+<map id="COutPoint::ToString" name="COutPoint::ToString">
+<area shape="rect" id="node2" href="$class_c_assets_cache.html#a9131143a9f6b7e9181bc94d2d7b4d957" title="Cache only validation functions. " alt="" coords="197,5,400,32"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#ad9ccb571fa3a311828efcee46c13bd65" title="Spend a coin. " alt="" coords="459,29,664,56"/>
+<area shape="rect" id="node6" href="$class_c_assets_cache.html#a0c43a3a5962805c6358b90dda2abda4e" title="CAssetsCache::UndoAssetCoin" alt="" coords="193,107,404,133"/>
+<area shape="rect" id="node7" href="$class_c_message.html#a7701a0522a9a5d914a787235f7ba95a1" title="CMessage::ToString" alt="" coords="227,157,370,184"/>
+<area shape="rect" id="node4" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="719,29,817,56"/>
+<area shape="rect" id="node5" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="865,29,964,56"/>
+<area shape="rect" id="node8" href="$class_c_message_d_b.html#a648aa6b7059d9db2bfffe760f0bd9d85" title="CMessageDB::Flush" alt="" coords="489,103,633,129"/>
+<area shape="rect" id="node9" href="$class_c_z_m_q_publish_new_asset_message_notifier.html#a377fbf5333b33c86f657e20f794018c1" title="CZMQPublishNewAssetMessage\lNotifier::NotifyMessage" alt="" coords="452,154,671,195"/>
+</map>

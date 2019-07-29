@@ -1,0 +1,6 @@
+<map id="ProcessNewBlock" name="ProcessNewBlock">
+<area shape="rect" id="node2" href="$mining_8h.html#a4910d289954727eb7c4c24a6b3c50c55" title="Generate blocks (mine) " alt="" coords="184,31,296,57"/>
+<area shape="rect" id="node5" href="$mining_8cpp.html#ade0e9e6230c6a02802d6c9d33c1e69c4" title="submitblock" alt="" coords="194,81,286,108"/>
+<area shape="rect" id="node3" href="$mining_8cpp.html#a16cf276c50111f451fdbd5dfbe3c8a6b" title="generatetoaddress" alt="" coords="344,5,473,32"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a236a42206aa464fbb10bae6e6243092b" title="generate" alt="" coords="373,56,445,83"/>
+</map>

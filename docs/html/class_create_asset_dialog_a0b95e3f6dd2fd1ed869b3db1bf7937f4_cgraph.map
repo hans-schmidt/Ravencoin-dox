@@ -1,0 +1,5 @@
+<map id="CreateAssetDialog::onClearButtonClicked" name="CreateAssetDialog::onClearButtonClicked">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#a55115517d1a8dbc8c33a4ac9798ed762" title="CreateAssetDialog::\lclear" alt="" coords="203,39,343,80"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#a0a9efcbea039147ee3d5a13f205f3636" title="CreateAssetDialog::\lhideMessage" alt="" coords="391,5,531,47"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#ac86e59d06648856407d3dff4922c9086" title="CreateAssetDialog::\ldisableCreateButton" alt="" coords="391,71,531,112"/>
+</map>

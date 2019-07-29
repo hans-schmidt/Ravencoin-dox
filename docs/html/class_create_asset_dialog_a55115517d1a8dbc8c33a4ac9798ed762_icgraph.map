@@ -1,0 +1,7 @@
+<map id="CreateAssetDialog::clear" name="CreateAssetDialog::clear">
+<area shape="rect" id="node2" href="$class_create_asset_dialog.html#a0b95e3f6dd2fd1ed869b3db1bf7937f4" title="CreateAssetDialog::\lonClearButtonClicked" alt="" coords="193,5,343,47"/>
+<area shape="rect" id="node4" href="$class_create_asset_dialog.html#a093dbb5a197e9fbe2bab3e7529f65340" title="CreateAssetDialog::\lselectTypeName" alt="" coords="198,71,338,112"/>
+<area shape="rect" id="node3" href="$class_create_asset_dialog.html#a9700ac1a4c4659f6716fbdeff8260ff5" title="CreateAssetDialog::\lCreateAssetDialog" alt="" coords="391,5,531,47"/>
+<area shape="rect" id="node5" href="$class_create_asset_dialog.html#a9900289907248e0b67e838f4a2db2f6e" title="CreateAssetDialog::\lfocusSubAsset" alt="" coords="391,71,531,112"/>
+<area shape="rect" id="node6" href="$class_create_asset_dialog.html#abbaaae0c6a41b5888e86f17c2e1e4ac2" title="CreateAssetDialog::\lfocusUniqueAsset" alt="" coords="391,136,531,177"/>
+</map>

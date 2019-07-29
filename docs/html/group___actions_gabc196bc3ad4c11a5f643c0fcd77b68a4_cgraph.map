@@ -1,0 +1,19 @@
+<map id="CWallet::GetLegacyBalance" name="CWallet::GetLegacyBalance">
+<area shape="rect" id="node2" href="$class_c_merkle_tx.html#a0600dfab890747c0d4d1cfeb09a0b8c2" title="Return depth of transaction in blockchain: &lt;0 : conflicts with a transaction this deep in the blockch..." alt="" coords="254,49,443,90"/>
+<area shape="rect" id="node5" href="$validation_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="Transaction validation functions. " alt="" coords="297,136,400,163"/>
+<area shape="rect" id="node13" href="$class_c_merkle_tx.html#a69ebd437f7b44169659c3527fe73b6ab" title="CMerkleTx::GetBlocksToMaturity" alt="" coords="240,187,457,213"/>
+<area shape="rect" id="node14" href="$group__map_wallet.html#ga7757c17a323e5f6f75c92acb398d3568" title="filter decides which addresses will count towards the debit " alt="" coords="277,237,421,264"/>
+<area shape="rect" id="node15" href="$ismine_8cpp.html#a60a6865dd5664b8e9878a5380ca3e359" title="IsMine" alt="" coords="318,312,379,339"/>
+<area shape="rect" id="node16" href="$class_c_wallet_d_b.html#af924f6275a873e048699e6ef0bf66346" title="CWalletDB::GetAccountCredit\lDebit" alt="" coords="249,363,449,405"/>
+<area shape="rect" id="node3" href="$class_c_chain.html#af1786dc229c215dea7f727c11df2c8dc" title="Efficiently check whether a block is present in this chain. " alt="" coords="554,5,681,32"/>
+<area shape="rect" id="node4" href="$class_c_chain.html#ad4758bc8872ce065a9579f77c3171d40" title="Return the maximal height in the chain. " alt="" coords="561,56,673,83"/>
+<area shape="rect" id="node6" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="571,107,663,133"/>
+<area shape="rect" id="node7" href="$class_c_block_index.html#aa9bd0ab02cf8b9c866618cee3a5a0583" title="CBlockIndex::GetMedianTimePast" alt="" coords="505,157,729,184"/>
+<area shape="rect" id="node9" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="556,208,679,235"/>
+<area shape="rect" id="node12" href="$tx__verify_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="Check if transaction is final and can be included in a block with the specified height and time..." alt="" coords="579,259,655,285"/>
+<area shape="rect" id="node8" href="$class_c_block_index.html#a9fe0d4463c07c466f66252e8eec25f5c" title="CBlockIndex::GetBlockTime" alt="" coords="777,157,965,184"/>
+<area shape="rect" id="node10" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTimeMicros() and GetTimeMillis() both return the system time, but in different units..." alt="" coords="835,208,907,235"/>
+<area shape="rect" id="node11" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="&quot;Never go to sea with two chronometers; take one or three.&quot; Our three time sources are: ..." alt="" coords="817,259,925,285"/>
+<area shape="rect" id="node17" href="$class_c_wallet_d_b.html#a51555c82291fe16081880110541e207f" title="CWalletDB::ListAccountCredit\lDebit" alt="" coords="517,363,717,405"/>
+<area shape="rect" id="node18" href="$class_c_d_b.html#a5ea1cb8e2f2e9ad357d5e37619eabed2" title="CDB::GetCursor" alt="" coords="812,371,931,397"/>
+</map>

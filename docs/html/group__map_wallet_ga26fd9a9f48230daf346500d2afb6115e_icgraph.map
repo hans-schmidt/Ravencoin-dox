@@ -1,0 +1,11 @@
+<map id="CWallet::MarkDirty" name="CWallet::MarkDirty">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="346,5,446,32"/>
+<area shape="rect" id="node4" href="$rpcdump_8cpp.html#ab05aad539141493439212c3052c1bcc2" title="ImportScript" alt="" coords="195,107,288,133"/>
+<area shape="rect" id="node9" href="$rpcdump_8cpp.html#a0ccf80d09e7c16fb3035c4b81bf4a4d8" title="ProcessImport" alt="" coords="188,183,295,209"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="649,81,772,108"/>
+<area shape="rect" id="node5" href="$rpcdump_8cpp.html#a8a2b851d3a0b2951b027e64cf5856e03" title="ImportAddress" alt="" coords="343,107,449,133"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#aba44e0021b6111a1f0a8c54bbff34130" title="importaddress" alt="" coords="497,56,601,83"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a1e79cb342ad4f0bf7b02a2b1e18af7ff" title="importpubkey" alt="" coords="499,157,599,184"/>
+<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#a9df6d8c784683e22309cb2627d21b1f2" title="abortrescan" alt="" coords="504,107,595,133"/>
+<area shape="rect" id="node10" href="$wallet__tests_8cpp.html#af0e3c9469f1d8f368d3d5f38e5580367" title="importmulti" alt="" coords="353,208,439,235"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="CPubKey::begin" name="CPubKey::begin">
+<area shape="rect" id="node2" href="$class_c_key.html#aa1085c59603a62db6ec776300f250337" title="Compute the public key from a private key. " alt="" coords="190,339,321,365"/>
+<area shape="rect" id="node3" href="$class_c_key.html#ae79008cec2eb799a2efd37e010996acf" title="Derive BIP32 child key. " alt="" coords="447,35,548,61"/>
+<area shape="rect" id="node28" href="$class_c_pub_key.html#ac28722f47ab8a613bf9982608d13aa1f" title="Derive BIP32 child pubkey. " alt="" coords="193,440,317,467"/>
+<area shape="rect" id="node29" href="$standard_8h.html#a918dcaa16c3228c31ca9878bed066c65" title="Generate a P2PK script for the given pubkey. " alt="" coords="171,752,340,779"/>
+<area shape="rect" id="node36" href="$class_c_wallet_d_b.html#a7ebef5e0c7f604aa2159ba96d527e3a2" title="CWalletDB::WriteKey" alt="" coords="180,592,331,619"/>
+<area shape="rect" id="node4" href="$class_c_key.html#a96b017433a65335775cf3807d73f85ce" title="Check whether the public key corresponding to this private key is (to be) compressed. " alt="" coords="681,35,829,61"/>
+<area shape="rect" id="node7" href="$key_8h.html#a55cc40f04bf887c1000667caccb0684a" title="Check that required EC support is available at runtime. " alt="" coords="422,389,573,416"/>
+<area shape="rect" id="node10" href="$class_c_key_store.html#a0b4ca43724cfcc6e2ea70c0baa192750" title="CKeyStore::AddKey" alt="" coords="427,440,567,467"/>
+<area shape="rect" id="node13" href="$class_c_basic_key_store.html#a9c437c32a05f9977bc5fabe6a976a4bc" title="CBasicKeyStore::GetPubKey" alt="" coords="400,339,595,365"/>
+<area shape="rect" id="node19" href="$class_c_crypto_key_store.html#a8c0f6b63fb04193df16243c4459b7c61" title="will encrypt previously unencrypted keys " alt="" coords="393,541,601,568"/>
+<area shape="rect" id="node20" href="$rpcwallet_8cpp.html#a2f46e2bb304dda9a197b5a68db6106f7" title="importprivkey" alt="" coords="950,617,1050,644"/>
+<area shape="rect" id="node22" href="$wallet__tests_8cpp.html#a8c64ef6e0ced69002923098229448758" title="importwallet" alt="" coords="451,85,543,112"/>
+<area shape="rect" id="node23" href="$rpcdump_8cpp.html#a0ccf80d09e7c16fb3035c4b81bf4a4d8" title="ProcessImport" alt="" coords="947,668,1053,695"/>
+<area shape="rect" id="node25" href="$group__map_wallet.html#gac0cc4cfc56a39f38926fb3d0f5bb3773" title="keystore implementation Generate a new key " alt="" coords="407,136,587,163"/>
+<area shape="rect" id="node26" href="$group__map_wallet.html#ga0e01145a626d8bf29c62bacaa0fbb960" title="CWallet::DeriveNewChildKey" alt="" coords="400,187,595,213"/>
+<area shape="rect" id="node27" href="$group__map_wallet.html#gaf72003c77abf215cc1576ab6c50125f7" title="CWallet::DeriveNewSeed" alt="" coords="411,237,583,264"/>
+<area shape="rect" id="node5" href="$class_c_raven_secret.html#a9e28a7dea8650427bb1635a98551685f" title="CRavenSecret::SetKey" alt="" coords="921,5,1079,32"/>
+<area shape="rect" id="node6" href="$class_transaction_signature_creator.html#a9cb1b4bd531ab19a1257abd9b639b7c8" title="Create a singular (non&#45;script) signature. " alt="" coords="906,57,1094,98"/>
+<area shape="rect" id="node8" href="$init_8cpp.html#a878797b40fb8eb0d7f330a41d7742d11" title="Sanity checks Ensure that Raven is running in a usable environment with all necessary library support..." alt="" coords="697,389,812,416"/>
+<area shape="rect" id="node9" href="$struct_c_ext_key.html#aff923572d1c4e4708790cb0ecc922a24" title="CExtKey::Unserialize" alt="" coords="681,339,829,365"/>
+<area shape="rect" id="node11" href="$class_c_key_store.html#a9bfaef2bcd6effc467a96043f44044a0" title="CKeyStore::~CKeyStore" alt="" coords="671,440,838,467"/>
+<area shape="rect" id="node12" href="$rawtransaction_8cpp.html#a5b2abfea4548c97e780cfae39f9ac11b" title="signrawtransaction" alt="" coords="689,491,820,517"/>
+<area shape="rect" id="node14" href="$class_c_crypto_key_store.html#af57d6ee7c31e1d9673e811a32aaa5ebc" title="CCryptoKeyStore::GetPubKey" alt="" coords="655,288,855,315"/>
+<area shape="rect" id="node15" href="$class_wallet_model.html#abe0b4462654768f301d1f758f7907ca2" title="WalletModel::getPubKey" alt="" coords="917,313,1083,340"/>
+<area shape="rect" id="node16" href="$rpcwallet_8cpp.html#a1690e528ea9f2db9375e34d0eb55e1b5" title="Used by addmultisigaddress / createmultisig: " alt="" coords="903,263,1097,289"/>
+<area shape="rect" id="node17" href="$misc_8cpp.html#a06cf46754b31a639f71af1530ce32a0a" title="createmultisig" alt="" coords="1161,237,1264,264"/>
+<area shape="rect" id="node18" href="$rpcwallet_8cpp.html#a35279acfa0bfaf424d5137da424eb8db" title="addmultisigaddress" alt="" coords="1145,288,1280,315"/>
+<area shape="rect" id="node21" href="$rpcwallet_8cpp.html#a151535abf7394b299deb8d0a333de70b" title="rescanblockchain" alt="" coords="1151,617,1274,644"/>
+<area shape="rect" id="node24" href="$wallet__tests_8cpp.html#af0e3c9469f1d8f368d3d5f38e5580367" title="importmulti" alt="" coords="1169,668,1256,695"/>
+<area shape="rect" id="node30" href="$rpcwallet_8cpp.html#a1e79cb342ad4f0bf7b02a2b1e18af7ff" title="importpubkey" alt="" coords="950,777,1050,804"/>
+<area shape="rect" id="node31" href="$wallet__tests_8cpp.html#a18f5413234b045359bb13823303fd222" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="388,811,607,837"/>
+<area shape="rect" id="node32" href="$class_list_coins_testing_setup.html#adadca010ddbfc563e99928862ade6027" title="ListCoinsTestingSetup\l::ListCoinsTestingSetup" alt="" coords="416,913,579,954"/>
+<area shape="rect" id="node33" href="$class_list_coins_testing_setup.html#a8ce37c5d8d073c901b91153f83c47ee8" title="ListCoinsTestingSetup\l::AddTx" alt="" coords="420,745,575,786"/>
+<area shape="rect" id="node34" href="$group__map_wallet.html#gacc1f62c9141576557cb98551cf78dc67" title="CWallet::AddKeyPubKeyWithDB" alt="" coords="390,643,605,669"/>
+<area shape="rect" id="node35" href="$group__map_wallet.html#gac5f2eb553d4a59b1ff7fadacb7e981d8" title="Adds a key to the store, and saves it to disk. " alt="" coords="670,643,839,669"/>
+</map>

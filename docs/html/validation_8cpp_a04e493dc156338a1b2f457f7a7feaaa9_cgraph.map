@@ -1,0 +1,4 @@
+<map id="PreciousBlock" name="PreciousBlock">
+<area shape="rect" id="node2" href="$class_c_chain.html#a578545bde95163bee37b1be28e7b2755" title="Returns the index entry for the tip of this chain, or nullptr if none. " alt="" coords="187,5,279,32"/>
+<area shape="rect" id="node3" href="$class_c_block_index.html#ad8b5a6560e7c0d4222066e2922178683" title="Check whether this block index entry is valid up to the passed validity level. " alt="" coords="160,56,305,83"/>
+</map>

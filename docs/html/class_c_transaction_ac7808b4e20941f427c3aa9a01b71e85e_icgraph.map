@@ -1,0 +1,8 @@
+<map id="CTransaction::IsNewUniqueAsset" name="CTransaction::IsNewUniqueAsset">
+<area shape="rect" id="node2" href="$assets_8h.html#a9ebc1469030d7a4c538238c553b40145" title="UniqueAssetFromTransaction" alt="" coords="240,5,435,32"/>
+<area shape="rect" id="node4" href="$coins_8h.html#a1f92a68675031d50db78224a057be854" title="Utility function to add all of a transaction&#39;s outputs to a cache. " alt="" coords="298,56,377,83"/>
+<area shape="rect" id="node3" href="$class_c_assets_cache.html#a117ef717832c597298ad096e2dbc3299" title="CAssetsCache::CacheToString" alt="" coords="483,5,689,32"/>
+<area shape="rect" id="node5" href="$class_c_coins_view_cache.html#a4533d27d1d8d744080545f7cea5b8e7c" title="Get a cursor to iterate over the whole state. " alt="" coords="496,56,676,83"/>
+<area shape="rect" id="node6" href="$validation_8h.html#a91b5ac61688f4e264fa71d1caf138340" title="UpdateCoins" alt="" coords="537,107,635,133"/>
+<area shape="rect" id="node7" href="$validation_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="Apply the effects of this transaction on the UTXO set represented by view. " alt="" coords="737,107,836,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RavenGUI::showModalOverlay" name="RavenGUI::showModalOverlay">
+<area shape="rect" id="node2" href="$class_modal_overlay.html#a98ae2c2df14fa371e5f444099f6ad75e" title="ModalOverlay::isLayerVisible" alt="" coords="258,5,449,32"/>
+<area shape="rect" id="node3" href="$class_modal_overlay.html#a417f7a13143484ec7813f23a81691a0c" title="ModalOverlay::toggleVisibility" alt="" coords="256,56,451,83"/>
+<area shape="rect" id="node4" href="$class_modal_overlay.html#a0144e7dbb1a7701743d7b3393e52f12c" title="ModalOverlay::showHide" alt="" coords="499,56,667,83"/>
+</map>
